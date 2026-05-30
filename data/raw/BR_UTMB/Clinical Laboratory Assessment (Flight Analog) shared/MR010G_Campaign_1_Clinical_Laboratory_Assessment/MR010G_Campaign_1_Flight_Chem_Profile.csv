@@ -1,0 +1,13 @@
+﻿ID,Subject,Date,Panel,Test_Phase,BR_Day,Glucose mg/dL,Blood urea nitrogen (BUN) mg/dL,Uric Acid mg/dL,Creatinine mg/dL,Total bilirubin mg/dL,Aspartate aminotransferase (AST) U/L,Alanine aminotransferase (ALT) U/L,Alkaline phosphatase (ALP) U/L,Creatine kinase U/L,Lactate dehydrogenase (LDH) U/L,Glutamyl transferase U/L,Sodium mmol/L,Potassium mmol/L,Chloride mmol/L,Phosphorous mg/dL,Calcium mg/dL,Magnesium mg/dL,Carbon dioxide mmol/L,Total protein g/dL
+1,C1G0001,8/30/2004,L-45/30 Long Duration Panel ,PRE_TEST,10,92,14,5.3,0.9,0.8,20,20,46,128,116,29,140,4.6,108,3.6,9.4,2.3,29.6,6.4  (L)
+2,C1G0001,10/6/2004,L-45/30 Long Duration Panel ,IN_TEST,28,81,14,5,0.9,0.7,28,44,52,66,107,20,139,4.1,107,4.1,9.5,2.4,24.3  (L),6.2  (L)
+3,C1G0001,11/8/2004,L-45/30 Long Duration Panel ,POST_TEST,0,73  (L),14,5.3,0.9,1.1,29,50  (H),63,55,124,27,140,4.1,104,4.1,9.6,2.3,29.2,6.8
+4,C1G0001,11/15/2004,L-45/30 Long Duration Panel ,POST_TEST,7,84B,11,5.2,0.9,0.6,26,32,54,815A  (H),177  (H),26,138,4,101  (L),4,9.7,2.3,27.9,6.8
+5,C1G0002,8/30/2004,L-45/30 Long Duration Panel ,PRE_TEST,10,138A  (H),13,6.5,1.1,0.6,23,35,84,140,95,23,143,4.2,108,3.4,9.2,2,32.2A  (H),7.4
+6,C1G0002,10/6/2004,L-45/30 Long Duration Panel ,IN_TEST,28,118  (H),15,7.6,1.1,0.7,23,34,84,56,85  (L),26,141,4.2,106,4,9.3,2.2,28.8,7.2
+7,C1G0002,11/8/2004,L-45/30 Long Duration Panel ,POST_TEST,0,114  (H),14,7.4,1,0.8,27,33,86,63,117,27,140,4.7,105,3.9,9,2.1,29,6.7
+8,C1G0002,11/15/2004,L-45/30 Long Duration Panel ,POST_TEST,7,120B  (H),12,7.2,0.9,0.4,33,38,62,483  (H),110,24,136  (L),4.1,103,3.9,8.9  (L),1.9,23.7  (L),6.6
+9,C1G0003,8/30/2004,L-45/30 Long Duration Panel ,PRE_TEST,10,95,12,6,1.2,0.6,19,22,46,100,127,10,142,4.9,105,4,9.6,2,34.9A  (H),7.2
+10,C1G0003,10/6/2004,L-45/30 Long Duration Panel ,IN_TEST,28,87,12,5.8,1.1,0.9,16,20,58,65,91  (L),13,141,4.5,106,4,9.7,2,29.3,7.2
+11,C1G0003,11/8/2004,L-45/30 Long Duration Panel ,POST_TEST,0,81,14,5.9,1.1,1,17,25,71,66,96,16,139,4.7,103,4.4  (H),9.9,2.1,27.9,7.5
+12,C1G0003,11/15/2004,L-45/30 Long Duration Panel ,POST_TEST,7,89B,10,5.4,1.1,0.9,13,15,55,107,128,14,139,3.8,101  (L),4.6  (H),9.8,2.1,27.4,7.5

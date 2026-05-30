@@ -1,0 +1,357 @@
+ID,Campaign,Subject,Test_Phase,BR_Day,Date,Test,Group,Parameter Name,Units,Normal_Range,Measured_Value
+1,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Hematology coulter,White blood cell count,thou/mm3,3.2 - 9.2,4.3
+2,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Hematology coulter,Red blood cell count,mil/mm3,"Male: 4.32 - 5.67;
+Female: 3.78 - 5.03",4.4
+3,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Hematology coulter,Hemoglobin,g/dL,"Male: 13.5 - 17.0;
+Female: 11.6 - 15.2",14.1
+4,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Hematology coulter,Hematocrit,%,"Male: 40.1 - 50.0;
+Female: 33.5 - 44.9",41
+5,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Hematology coulter,MCV,fL,83 - 98,93
+6,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Hematology coulter,MCH,pg,27 - 34,32
+7,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Hematology coulter,MCHC,g/dL,32 - 35,34
+8,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Hematology coulter,Platelet count,thou/mm3,154 - 361,165
+9,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Hematology coulter,RDW,%,10.9 - 13.3,12
+10,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Differential panel,Basophils,relative %,0 - 1,NA
+11,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Differential panel,Eosinophils,relative %,0 - 6,1
+12,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Differential panel,Neutrophils,relative %,43 - 72,51
+13,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Differential panel,Lymphocytes,relative %,17 - 43,41
+14,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Differential panel,Monocytes,relative %,5-12,7
+15,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Differential panel,Reticulocyte count,%,0.6 - 2.3,1.5
+16,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Urinalysis,pH,no units,4.4 - 7.9,6.5
+17,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Urinalysis,Specific gravity,no units,1.009 - 1.031,1.01
+18,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Urinalysis,Color,no units,Yellow,Yellow
+19,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Urinalysis,Appearance,no units,Clear,Clear
+20,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Urinalysis,Protein,mg/dL,Negative,Negative
+21,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Urinalysis,Glucose,mg/dL,Negative,Negative
+22,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Urinalysis,Ketone,mg/dL,Negative,Negative
+23,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Urinalysis,Blood,no units,Negative,Negative
+24,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Urinalysis,Bilirubin,no units,Negative,Negative
+25,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Urinalysis,Urobilinogen,no units,0 - 1,Normal
+26,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Urinalysis,Nitrite,no units,Negative,Negative
+27,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Urinalysis,Leukocyte esterase,no units,Negative,2+
+28,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Urinalysis,WBC,cells/hpf,0 - 5,3-5
+29,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Urinalysis,RBC,cells/hpf,0 - 1,0-2
+30,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Urinalysis,Epithelial cells,no units,0 - 3,NA
+31,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Urinalysis,Mucus,no units,Few,NA
+32,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Urinalysis,Bacteria,no units,Negative,NA
+33,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Urinalysis,Crystals,no units,Do Not Report,NA
+34,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Urinalysis,Crystals comment,no units,Do Not Report,NA
+35,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Glucose,mg/dL,74 - 99,79 A
+36,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Blood urea nitrogen (BUN),mg/dL,6-21,10
+37,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Uric Acid,mg/dL,"Male:  3.9 - 8.1;
+Female:  2.6 - 6.1",3.4
+38,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Creatinine,mg/dL,"Male:  0.8 - 1.3;
+Female:  0.6 - 1.3",0.8
+39,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Total bilirubin,mg/dL,0.3 - 1.4,0.9
+40,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Aspartate aminotransferase (AST),U/L,11-37,12
+41,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Alanine aminotransferase (ALT),U/L,4-45,7
+42,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Alkaline phosphatase (ALP),U/L,"Male:  34 - 92;
+Female:  25 - 92",60
+43,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Creatine kinase,U/L,"Male: 20 - 267;
+Female: 20 - 144",46
+44,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Lactate dehydrogenase (LDH),U/L,93 - 173,108
+45,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Glutamyl transferase,U/L,5-49,9
+46,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Sodium,mmol/L,137 - 144,138
+47,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Potassium,mmol/L,3.7 - 5.2,4.2
+48,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Chloride,mmol/L,102 - 111,106
+49,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Phosphorous,mg/dL,2.4 - 4.1,3.8
+50,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Calcium,mg/dL,9.0 - 10.2,8.8  (L)
+51,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Magnesium,mg/dL,1.9 - 2.5,1.8  (L)
+52,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Carbon dioxide,mmol/L,25.0 - 32.0,23.6  (L)
+53,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Total protein,g/dL,6.5 - 8.0,6.9
+54,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,i-STAT Ionized Calcium PCBA,Ionized calcium,mmol/L,None reported,1.24
+55,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,i-STAT Ionized Calcium PCBA,pH,no units,None reported,7.34
+56,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,i-STAT Ionized Calcium PCBA,Ionized calcium at 7.40,mmol/L,1.19 - 1.34,1.21
+57,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Iron profile,Iron,ug/dL,"Male:  65 - 170;
+Female: 50 - 170",137
+58,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Iron profile,Total iron binding capacity (TIBC),ug/dL,"Male: 234 - 436;
+Female:  234 - 436",361
+59,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Iron profile,Transferrin,mg/dL,"Male: 186 - 320;
+Female:  186 - 320",254
+60,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Iron profile,Transferrin saturation,%,"Male: 20 - 50;
+Female: 15 - 50",38
+61,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Iron profile,Ferritin,ng/mL,"Male: 20 - 250;
+Female: 10 - 120",28
+62,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Thyroid profile,Thyroid stimulating hormone (hTSH III),uIU/mL,0.40 - 4.00,1.92
+63,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Thyroid profile,Thyroxine (Free T4),ng/cL,0.8 - 1.8,1.21
+64,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Other,C-reactive protein,mg/dL,"<1.0 Lowest tertile;
+1.0 - 3.0 Middle tertile;
+3.1 - 10.0 Highest tertile;
+>10.0 Very high",0.7
+65,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Other,Albumin,g/dL,3.7 - 4.9,4.5
+66,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Other,"Alkaline phosphatase, bone specific (BSAP) B, D",U/L,"Male 25 years and older: 15.0 - 41.3;
+Female (premenopausal): 11.6 - 26.9;
+Female (postmenopausal): 14.2 - 42.7",22.8
+67,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Other,Osteocalcin B,ng/mL,"Male: 1.1 - 10.8;
+Female: 0.7 - 6.4",3.4
+68,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Other,"N-Telopeptide, urine B",nM BCE/mM creatinine,"Male: 21 - 83;
+Female (premenopausal) 17 - 94;
+Female (postmenopausal) 26 - 124",35
+69,C3A,5788,PRE_TEST,10,2/28/2005,L-45/30 Long Duration Panel,Other,"Creatinine, urine B",mg/dL,None reported,44
+70,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Hematology coulter,White blood cell count,thou/mm3,3.2 - 9.2,4
+71,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Hematology coulter,Red blood cell count,mil/mm3,"Male: 4.32 - 5.67;
+Female: 3.78 - 5.03",3.64  (L)
+72,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Hematology coulter,Hemoglobin,g/dL,"Male: 13.5 - 17.0;
+Female: 11.6 - 15.2",11.9
+73,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Hematology coulter,Hematocrit,%,"Male: 40.1 - 50.0;
+Female: 33.5 - 44.9",34.4
+74,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Hematology coulter,MCV,fL,83 - 98,95
+75,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Hematology coulter,MCH,pg,27 - 34,33
+76,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Hematology coulter,MCHC,g/dL,32 - 35,35
+77,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Hematology coulter,Platelet count,thou/mm3,154 - 361,151 (L)
+78,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Hematology coulter,RDW,%,10.9 - 13.3,12.2
+79,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Differential panel,Basophils,relative %,0 - 1,1
+80,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Differential panel,Eosinophils,relative %,0 - 6,1
+81,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Differential panel,Neutrophils,relative %,43 - 72,56
+82,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Differential panel,Lymphocytes,relative %,17 - 43,35
+83,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Differential panel,Monocytes,relative %,5-12,7
+84,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Differential panel,Reticulocyte count,%,0.6 - 2.3,2.1
+85,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Urinalysis,pH,no units,4.4 - 7.9,6
+86,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Urinalysis,Specific gravity,no units,1.009 - 1.031,1.02
+87,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Urinalysis,Color,no units,Yellow,Yellow
+88,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Urinalysis,Appearance,no units,Clear,Clear
+89,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Urinalysis,Protein,mg/dL,Negative,Negative
+90,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Urinalysis,Glucose,mg/dL,Negative,Negative
+91,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Urinalysis,Ketone,mg/dL,Negative,Negative
+92,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Urinalysis,Blood,no units,Negative,Negative
+93,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Urinalysis,Bilirubin,no units,Negative,Negative
+94,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Urinalysis,Urobilinogen,no units,0 - 1,Normal
+95,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Urinalysis,Nitrite,no units,Negative,Negative
+96,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Urinalysis,Leukocyte esterase,no units,Negative,Negative
+97,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Urinalysis,WBC,cells/hpf,0 - 5,NA
+98,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Urinalysis,RBC,cells/hpf,0 - 1,NA
+99,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Urinalysis,Epithelial cells,no units,0 - 3,NA
+100,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Urinalysis,Mucus,no units,Few,NA
+101,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Urinalysis,Bacteria,no units,Negative,NA
+102,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Urinalysis,Crystals,no units,Do Not Report,NA
+103,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Urinalysis,Crystals comment,no units,Do Not Report,NA
+104,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Glucose,mg/dL,74 - 99,88 A
+105,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Blood urea nitrogen (BUN),mg/dL,6-21,12
+106,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Uric Acid,mg/dL,"Male:  3.9 - 8.1;
+Female:  2.6 - 6.1",4
+107,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Creatinine,mg/dL,"Male:  0.8 - 1.3;
+Female:  0.6 - 1.3",0.6
+108,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Total bilirubin,mg/dL,0.3 - 1.4,0.5
+109,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Aspartate aminotransferase (AST),U/L,11-37,18
+110,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Alanine aminotransferase (ALT),U/L,4-45,10
+111,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Alkaline phosphatase (ALP),U/L,"Male:  34 - 92;
+Female:  25 - 92",58
+112,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Creatine kinase,U/L,"Male: 20 - 267;
+Female: 20 - 144",43
+113,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Lactate dehydrogenase (LDH),U/L,93 - 173,158
+114,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Glutamyl transferase,U/L,5-49,7
+115,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Sodium,mmol/L,137 - 144,141
+116,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Potassium,mmol/L,3.7 - 5.2,4.2
+117,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Chloride,mmol/L,102 - 111,108
+118,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Phosphorous,mg/dL,2.4 - 4.1,4.8  (H)
+119,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Calcium,mg/dL,9.0 - 10.2,8.9  (L)
+120,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Magnesium,mg/dL,1.9 - 2.5,1.7  (L)
+121,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Carbon dioxide,mmol/L,25.0 - 32.0,21.8  (L)
+122,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Total protein,g/dL,6.5 - 8.0,6.1  (L)
+123,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,i-STAT Ionized Calcium PCBA,Ionized calcium,mmol/L,None reported,1.18
+124,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,i-STAT Ionized Calcium PCBA,pH,no units,None reported,7.39
+125,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,i-STAT Ionized Calcium PCBA,Ionized calcium at 7.40,mmol/L,1.19 - 1.34,1.18  (L)
+126,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Iron profile,Iron,ug/dL,"Male:  65 - 170;
+Female: 50 - 170",69
+127,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Iron profile,Total iron binding capacity (TIBC),ug/dL,"Male: 234 - 436;
+Female:  234 - 436",290
+128,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Iron profile,Transferrin,mg/dL,"Male: 186 - 320;
+Female:  186 - 320",214
+129,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Iron profile,Transferrin saturation,%,"Male: 20 - 50;
+Female: 15 - 50",24
+130,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Iron profile,Ferritin,ng/mL,"Male: 20 - 250;
+Female: 10 - 120",24
+131,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Thyroid profile,Thyroid stimulating hormone (hTSH III),uIU/mL,0.40 - 4.00,2.47
+132,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Thyroid profile,Thyroxine (Free T4),ng/cL,0.8 - 1.8,1.09
+133,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Other,C-reactive protein,mg/dL,"<1.0 Lowest tertile;
+1.0 - 3.0 Middle tertile;
+3.1 - 10.0 Highest tertile;
+>10.0 Very high",0.78
+134,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Other,Albumin,g/dL,3.7 - 4.9,4.1
+135,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Other,"Alkaline phosphatase, bone specific (BSAP) B, D",U/L,"Male 25 years and older: 15.0 - 41.3;
+Female (premenopausal): 11.6 - 26.9;
+Female (postmenopausal): 14.2 - 42.7",13.2
+136,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Other,Osteocalcin B,ng/mL,"Male: 1.1 - 10.8;
+Female: 0.7 - 6.4",1.8
+137,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Other,"N-Telopeptide, urine B",nM BCE/mM creatinine,"Male: 21 - 83;
+Female (premenopausal) 17 - 94;
+Female (postmenopausal) 26 - 124",55
+138,C3A,5788,IN_TEST,29,4/7/2005,L-45/30 Long Duration Panel,Other,"Creatinine, urine B",mg/dL,None reported,27
+139,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Hematology coulter,White blood cell count,thou/mm3,3.2 - 9.2,3.9
+140,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Hematology coulter,Red blood cell count,mil/mm3,"Male: 4.32 - 5.67;
+Female: 3.78 - 5.03",3.64  (L)
+141,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Hematology coulter,Hemoglobin,g/dL,"Male: 13.5 - 17.0;
+Female: 11.6 - 15.2",11.9
+142,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Hematology coulter,Hematocrit,%,"Male: 40.1 - 50.0;
+Female: 33.5 - 44.9",34.4
+143,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Hematology coulter,MCV,fL,83 - 98,95
+144,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Hematology coulter,MCH,pg,27 - 34,33
+145,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Hematology coulter,MCHC,g/dL,32 - 35,34
+146,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Hematology coulter,Platelet count,thou/mm3,154 - 361,162
+147,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Hematology coulter,RDW,%,10.9 - 13.3,12.5
+148,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Differential panel,Basophils,relative %,0 - 1,NA
+149,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Differential panel,Eosinophils,relative %,0 - 6,1
+150,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Differential panel,Neutrophils,relative %,43 - 72,51
+151,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Differential panel,Lymphocytes,relative %,17 - 43,40
+152,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Differential panel,Monocytes,relative %,5-12,8
+153,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Differential panel,Reticulocyte count,%,0.6 - 2.3,1.2
+154,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Urinalysis,pH,no units,4.4 - 7.9,5.5
+155,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Urinalysis,Specific gravity,no units,1.009 - 1.031,1.02
+156,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Urinalysis,Color,no units,Yellow,Yellow
+157,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Urinalysis,Appearance,no units,Clear,Clear
+158,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Urinalysis,Protein,mg/dL,Negative,Negative
+159,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Urinalysis,Glucose,mg/dL,Negative,Negative
+160,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Urinalysis,Ketone,mg/dL,Negative,Negative
+161,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Urinalysis,Blood,no units,Negative,Negative
+162,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Urinalysis,Bilirubin,no units,Negative,Negative
+163,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Urinalysis,Urobilinogen,no units,0 - 1,Normal
+164,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Urinalysis,Nitrite,no units,Negative,Negative
+165,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Urinalysis,Leukocyte esterase,no units,Negative,1+
+166,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Urinalysis,WBC,cells/hpf,0 - 5,3-5
+167,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Urinalysis,RBC,cells/hpf,0 - 1,0-2
+168,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Urinalysis,Epithelial cells,no units,0 - 3,3-5
+169,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Urinalysis,Mucus,no units,Few,Occasional
+170,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Urinalysis,Bacteria,no units,Negative,Occasional
+171,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Urinalysis,Crystals,no units,Do Not Report,Calcium  Oxalate
+172,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Urinalysis,Crystals comment,no units,Do Not Report,Light to moderate calcium oxalate crystals.
+173,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Glucose,mg/dL,74 - 99,69 A  (L)
+174,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Blood urea nitrogen (BUN),mg/dL,6-21,12
+175,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Uric Acid,mg/dL,"Male:  3.9 - 8.1;
+Female:  2.6 - 6.1",3.8
+176,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Creatinine,mg/dL,"Male:  0.8 - 1.3;
+Female:  0.6 - 1.3",0.6
+177,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Total bilirubin,mg/dL,0.3 - 1.4,0.5
+178,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Aspartate aminotransferase (AST),U/L,11-37,13
+179,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Alanine aminotransferase (ALT),U/L,4-45,10
+180,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Alkaline phosphatase (ALP),U/L,"Male:  34 - 92;
+Female:  25 - 92",65
+181,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Creatine kinase,U/L,"Male: 20 - 267;
+Female: 20 - 144",53
+182,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Lactate dehydrogenase (LDH),U/L,93 - 173,108
+183,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Glutamyl transferase,U/L,5-49,8
+184,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Sodium,mmol/L,137 - 144,138
+185,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Potassium,mmol/L,3.7 - 5.2,3.7
+186,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Chloride,mmol/L,102 - 111,105
+187,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Phosphorous,mg/dL,2.4 - 4.1,3.8
+188,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Calcium,mg/dL,9.0 - 10.2,8.6  (L)
+189,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Magnesium,mg/dL,1.9 - 2.5,1.7  (L)
+190,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Carbon dioxide,mmol/L,25.0 - 32.0,23.0  (L)
+191,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Total protein,g/dL,6.5 - 8.0,6.0  (L)
+192,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,i-STAT Ionized Calcium PCBA,Ionized calcium,mmol/L,None reported,1.25
+193,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,i-STAT Ionized Calcium PCBA,pH,no units,None reported,7.38
+194,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,i-STAT Ionized Calcium PCBA,Ionized calcium at 7.40,mmol/L,1.19 - 1.34,1.24
+195,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Iron profile,Iron,ug/dL,"Male:  65 - 170;
+Female: 50 - 170",72
+196,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Iron profile,Total iron binding capacity (TIBC),ug/dL,"Male: 234 - 436;
+Female:  234 - 436",257
+197,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Iron profile,Transferrin,mg/dL,"Male: 186 - 320;
+Female:  186 - 320",202
+198,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Iron profile,Transferrin saturation,%,"Male: 20 - 50;
+Female: 15 - 50",28
+199,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Iron profile,Ferritin,ng/mL,"Male: 20 - 250;
+Female: 10 - 120",17
+200,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Thyroid profile,Thyroid stimulating hormone (hTSH III),uIU/mL,0.40 - 4.00,2.45
+201,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Thyroid profile,Thyroxine (Free T4),ng/cL,0.8 - 1.8,1.06
+202,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Other,C-reactive protein,mg/dL,"<1.0 Lowest tertile;
+1.0 - 3.0 Middle tertile;
+3.1 - 10.0 Highest tertile;
+>10.0 Very high",0.91
+203,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Other,Albumin,g/dL,3.7 - 4.9,4
+204,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Other,"Alkaline phosphatase, bone specific (BSAP) B, D",U/L,"Male 25 years and older: 15.0 - 41.3;
+Female (premenopausal): 11.6 - 26.9;
+Female (postmenopausal): 14.2 - 42.7",13.8
+205,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Other,Osteocalcin B,ng/mL,"Male: 1.1 - 10.8;
+Female: 0.7 - 6.4",2.5
+206,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Other,"N-Telopeptide, urine B",nM BCE/mM creatinine,"Male: 21 - 83;
+Female (premenopausal) 17 - 94;
+Female (postmenopausal) 26 - 124",61
+207,C3A,5788,IN_TEST,61,5/9/2005,L-45/30 Long Duration Panel,Other,"Creatinine, urine B",mg/dL,None reported,72
+208,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Hematology coulter,White blood cell count,thou/mm3,3.2 - 9.2,4
+209,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Hematology coulter,Red blood cell count,mil/mm3,"Male: 4.32 - 5.67;
+Female: 3.78 - 5.03",3.68  (L)
+210,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Hematology coulter,Hemoglobin,g/dL,"Male: 13.5 - 17.0;
+Female: 11.6 - 15.2",12.4
+211,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Hematology coulter,Hematocrit,%,"Male: 40.1 - 50.0;
+Female: 33.5 - 44.9",35.9
+212,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Hematology coulter,MCV,fL,83 - 98,98
+213,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Hematology coulter,MCH,pg,27 - 34,34
+214,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Hematology coulter,MCHC,g/dL,32 - 35,34
+215,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Hematology coulter,Platelet count,thou/mm3,154 - 361,166
+216,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Hematology coulter,RDW,%,10.9 - 13.3,12.1
+217,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Differential panel,Basophils,relative %,0 - 1,NA
+218,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Differential panel,Eosinophils,relative %,0 - 6,1
+219,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Differential panel,Neutrophils,relative %,43 - 72,58
+220,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Differential panel,Lymphocytes,relative %,17 - 43,33
+221,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Differential panel,Monocytes,relative %,5-12,8
+222,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Differential panel,Reticulocyte count,%,0.6 - 2.3,2.1
+223,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Urinalysis,pH,no units,4.4 - 7.9,5.5
+224,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Urinalysis,Specific gravity,no units,1.009 - 1.031,1.025
+225,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Urinalysis,Color,no units,Yellow,Yellow
+226,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Urinalysis,Appearance,no units,Clear,Clear
+227,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Urinalysis,Protein,mg/dL,Negative,Negative
+228,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Urinalysis,Glucose,mg/dL,Negative,Negative
+229,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Urinalysis,Ketone,mg/dL,Negative,Negative
+230,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Urinalysis,Blood,no units,Negative,Negative
+231,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Urinalysis,Bilirubin,no units,Negative,Negative
+232,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Urinalysis,Urobilinogen,no units,0 - 1,Normal
+233,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Urinalysis,Nitrite,no units,Negative,Negative
+234,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Urinalysis,Leukocyte esterase,no units,Negative,Negative
+235,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Urinalysis,WBC,cells/hpf,0 - 5,NA
+236,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Urinalysis,RBC,cells/hpf,0 - 1,NA
+237,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Urinalysis,Epithelial cells,no units,0 - 3,NA
+238,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Urinalysis,Mucus,no units,Few,NA
+239,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Urinalysis,Bacteria,no units,Negative,NA
+240,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Urinalysis,Crystals,no units,Do Not Report,NA
+241,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Urinalysis,Crystals comment,no units,Do Not Report,NA
+242,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Glucose,mg/dL,71 - 99*,77
+243,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Blood urea nitrogen (BUN),mg/dL,7 - 22*,9
+244,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Uric Acid,mg/dL,"Male:  3.9 - 8.1;
+Female:  2.4 - 8.0*",3.9
+245,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Creatinine,mg/dL,"Male:  0.8 - 1.3;
+Female:  0.6 - 1.3",0.6
+246,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Total bilirubin,mg/dL,0.2 - 1.4*,0.5
+247,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Aspartate aminotransferase (AST),U/L,8 - 35*,15
+248,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Alanine aminotransferase (ALT),U/L,2 - 42*,10
+249,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Alkaline phosphatase (ALP),U/L,"Male:  34 - 92;
+Female:  30 - 90*",67
+250,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Creatine kinase,U/L,"Male: 20 - 267;
+Female: 20 - 144",43
+251,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Lactate dehydrogenase (LDH),U/L,97 - 195*,152
+252,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Glutamyl transferase,U/L,2 - 47*,8
+253,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Sodium,mmol/L,135 - 144*,140
+254,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Potassium,mmol/L,3.7 - 5.2,4
+255,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Chloride,mmol/L,98 - 108*,107
+256,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Phosphorous,mg/dL,2.3 - 4.2*,3.8
+257,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Calcium,mg/dL,8.7 - 10.0*,8.7
+258,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Magnesium,mg/dL,1.7 - 2.2*,1.8
+259,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Carbon dioxide,mmol/L,22.0 - 32.0*,24.9
+260,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Chemistry profile for flight,Total protein,g/dL,6.3 - 8.0*,6.4
+261,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,i-STAT Ionized Calcium PCBA,Ionized calcium,mmol/L,None reported,1.22
+262,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,i-STAT Ionized Calcium PCBA,pH,no units,None reported,7.4
+263,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,i-STAT Ionized Calcium PCBA,Ionized calcium at 7.40,mmol/L,1.19 - 1.34,1.22
+264,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Iron profile,Iron,ug/dL,"Male:  65 - 170;
+Female: 50 - 170",NA
+265,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Iron profile,Total iron binding capacity (TIBC),ug/dL,"Male: 234 - 436;
+Female:  234 - 436",NA
+266,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Iron profile,Transferrin,mg/dL,"Male: 186 - 320;
+Female:  186 - 320",221 C
+267,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Iron profile,Transferrin saturation,%,"Male: 20 - 50;
+Female: 15 - 50",NA
+268,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Iron profile,Ferritin,ng/mL,"Male: 20 - 250;
+Female: 10 - 120",13
+269,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Thyroid profile,Thyroid stimulating hormone (hTSH III),uIU/mL,0.40 - 4.00,2
+270,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Thyroid profile,Thyroxine (Free T4),ng/cL,0.8 - 1.8,1.14
+271,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Other,C-reactive protein,mg/dL,"<1.0 Lowest tertile;
+1.0 - 3.0 Middle tertile;
+3.1 - 10.0 Highest tertile;
+>10.0 Very high",1.02
+272,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Other,Albumin,g/dL,3.7 - 4.9,NA
+273,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Other,"Alkaline phosphatase, bone specific (BSAP) B, D",ug/L,"Male 25 years and older: 6.5 - 20.1;*
+Female (premenopausal): 4.5 - 16.9;*
+Female (postmenopausal): 7.0 - 22.4*",15.1
+274,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Other,Osteocalcin B,ng/mL,"Male: 1.1 - 10.8;
+Female: 0.7 - 6.4",2.5
+275,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Other,"N-Telopeptide, urine B",nM BCE/mM creatinine,"Male: 21 - 83;
+Female (premenopausal) 17 - 94;
+Female (postmenopausal) 26 - 124",47
+276,C3A,5788,POST_TEST,0,6/8/2005,L-45/30 Long Duration Panel,Other,"Creatinine, urine B",mg/dL,None reported,69

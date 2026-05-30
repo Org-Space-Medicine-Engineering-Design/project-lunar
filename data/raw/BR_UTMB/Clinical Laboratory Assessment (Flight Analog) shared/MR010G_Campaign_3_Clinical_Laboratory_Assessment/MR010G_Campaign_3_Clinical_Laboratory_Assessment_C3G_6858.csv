@@ -1,0 +1,449 @@
+ID,Campaign,Subject,Test_Phase,BR_Day,Date,Test,Group,ParameterName,Units,Normal_Range,Measured_Value
+1,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Hematology coulter,White blood cell count,thou/mm3,"Male: 3.7 - 10.0;
+Female: 3.4 - 10.6",6.5
+2,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Hematology coulter,Red blood cell count,mil/mm3,"Male: 4.18 - 5.66;
+Female: 3.70 - 5.12",4.37
+3,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Hematology coulter,Hemoglobin,g/dL,"Male: 12.6 - 17.0;
+Female: 11.0 - 15.3",13.6
+4,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Hematology coulter,Hematocrit,%,"Male: 38.3 - 51.1;
+Female: 33.9 - 46.0",39.9
+5,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Hematology coulter,MCV,fL,"Male: 82.1 - 98.8;
+Female: 80.3 - 100.2",91.5
+6,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Hematology coulter,MCH,pg,"Male: 26.9 - 33.4;
+Female: 24.2 - 33.4",31.3
+7,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Hematology coulter,MCHC,g/dL,"Male: 32.2 - 35.2;
+Female: 31.5 - 35.0",34.2
+8,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Hematology coulter,Platelet count,thou/mm3,"Male: 165 - 390;
+Female: 184 - 452",250
+9,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Hematology coulter,RDW,%,"Male: 12.5 - 15.5;
+Female: 12.5 - 16.0",13.2
+10,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Differential panel,Basophils,relative %,0.0 - 1.0,0.3
+11,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Differential panel,Eosinophils,relative %,0.0 - 6.0,3
+12,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Differential panel,Neutrophils,relative %,43.0 - 72.0,43.7
+13,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Differential panel,Lymphocytes,relative %,17.0 - 43.0,45.4 (H)
+14,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Differential panel,Monocytes,relative %,5.0 - 12.0,7.6
+15,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Differential panel,Reticulocyte count,%,0.6 - 2.3,2.1
+16,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Urinalysis,pH,no units,5.0 - 8.0,6.5
+17,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Urinalysis,Specific gravity,no units,1.009 - 1.031,1.02
+18,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Urinalysis,Color,no units,Yellow,Yellow
+19,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Urinalysis,Appearance,no units,Clear,Clear
+20,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Urinalysis,Protein,mg/dl,Negative,Negative
+21,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Urinalysis,Glucose,mg/dl,Negative,Negative
+22,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Urinalysis,Ketone,mg/dl,Negative,Negative
+23,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Urinalysis,Blood,no units,Negative,Negative
+24,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Urinalysis,Bilirubin,no units,Negative,Negative
+25,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Urinalysis,Urobilinogen,E.U./dl,0.2 - 1.0,0.2
+26,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Urinalysis,Nitrite,no units,Negative,Negative
+27,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Urinalysis,Leukocyte esterase,no units,Negative,Negative
+28,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Urinalysis,WBC - Microscopic,cells/hpf,None seen,NA
+29,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Urinalysis,RBC - Microscopic,cells/hpf,None seen,NA
+30,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Urinalysis,Epithelial cells,cells/hpf,0-2,NA
+31,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Urinalysis,Crystals,cells/hpf,None seen,NA
+32,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Glucose,mg/dL,71 - 99,82
+33,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Blood urea nitrogen (BUN),mg/dL,7-22,13
+34,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Uric Acid,mg/dL,2.4 - 8.0,5.1
+35,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Creatinine,mg/dL,0.60 - 1.30,0.76
+36,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Total bilirubin,mg/dL,0.2 - 1.4,0.7
+37,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Aspartate aminotransferase (AST),U/L,8-35,13
+38,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,"Alanine
+aminotransferase (ALT)",U/L,2-42,10
+39,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Alkaline phosphatase (ALP),U/L,30 - 90,24 (L)
+40,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Creatine kinase,U/L,30 - 223,214
+41,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,"Lactate 
+dehydrogenase (LDH)",U/L,97 - 195,138
+42,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Glutamyl transferase,U/L,2-47,5
+43,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Sodium,mmol/L,135 - 144,137
+44,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Potassium,mmol/L,"Male: 3.8 - 5.3;
+Female: 3.7 - 5.4",4.3
+45,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Chloride,mmol/L,98 - 108,106
+46,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Phosphorous,mg/dL,2.3 - 4.2,3.7
+47,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Calcium,mg/dL,8.7 - 10.0,9.1
+48,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Magnesium,mg/dL,1.7 - 2.2,2
+49,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Carbon dioxide,mmol/L,22.0 - 32.0,24.1
+50,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Total protein,g/dL,6.3 - 8.0,6.8
+51,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Lipid Profile,Cholesterol,mg/dL,125 - 199,128
+52,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Lipid Profile,Triglyceride,mg/dL,"Male: 40 - 149;
+Female: 35 - 149",85
+53,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Lipid Profile,HDL Cholesterol,mg/dL,"Male: 40 - 70;
+Female: 40 - 80",55
+54,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Lipid Profile,Chol/HDL Ratio,no units,2.0 - 5.0,2.3
+55,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Lipid Profile,LDL (Cholesterol) Quantitative,mg/dL,60 - 99,60
+56,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Lipid Profile,VLDL Cholesterol,mg/dL,0 - 30,14
+57,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Lipid Profile,Glomerular Filtration Rate E,ml/min/1.73 m2,>60,>60
+58,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Iron profile,Iron,ug/dL,52 - 183,68
+59,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Iron profile,Total iron binding capacity (TIBC),ug/dL,250 - 450,324
+60,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Iron profile,Transferrin,mg/dL,200 - 315,269
+61,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Iron profile,Transferrin saturation,%,"Male: 20 - 50;
+Female: 15 - 50",21
+62,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Iron profile,Ferritin,ng/mL,"Male: 20 - 250;
+Female: 10 - 120",16
+63,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Thyroid profile,Thyroid stimulating hormone (hTSH III),uIU/mL,0.40 - 4.00,1.69
+64,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Thyroid profile,Thyroxine (Free T4),ng/dL,0.80 - 1.80,0.88
+65,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Other,C-reactive protein,mg/L,"<1.0 Lowest tertile;
+1.0 - 3.0 Middle tertile;
+3.1 - 10.0 Highest tertile;
+>10.0 Very high",1.22 (H)
+66,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Other,Albumin,g/dL,3.7 - 4.9,4.1
+67,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Other,"Alkaline phosphatase, bone specific (BSAP) A, B",ug/L,"Male 25 years and older: 6.5 - 20.1;
+Female (premenopausal) 4.5 - 16.9;
+Female (postmenopausal): 7.0 - 22.4",6
+68,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Other,"Osteocalcin A, C",ng/mL,11.0 - 50.0,14
+69,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Other,"N-Telopeptide, urine A, D",nM BCE/mM creatinine,"Male: 21 - 83;
+Female (premenopausal) 17 - 94;
+Female (postmenopausal) 26 - 124",20
+70,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,Other,"Creatinine, urine A",mg/dL,None reported,142
+71,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,SPE Panel,Total protein,G/DL,6.4 - 7.9,6.8
+72,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,SPE Panel,"Albumin, SPE",G/DL,3.40 - 4.40,3.85
+73,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,SPE Panel,Alpha 1,G/DL,0.10 - 0.33,0.23
+74,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,SPE Panel,Alpha 2,G/DL,0.52 - 0.99,0.49 (L)
+75,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,SPE Panel,Beta,G/DL,0.78 - 1.37,1.02
+76,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,SPE Panel,Gamma,G/DL,0.68 - 1.77,1.24
+77,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,SPE Panel,SPE Interpretation,no units,No range,No apparent monoclonal protein on Serum Electrophoresis.
+78,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,SPE Panel,Albumin %,%,No range,56.3
+79,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,SPE Panel,Alpha 1%,%,No range,3.4
+80,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,SPE Panel,Alpha 2%,%,No range,7.2
+81,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,SPE Panel,Beta %,%,No range,14.9
+82,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,SPE Panel,Gamma %,%,No range,18.2
+83,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,i-STAT Profile,i-STAT Sodium,mmol/L,138 - 146,139
+84,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,i-STAT Profile,I-STAT Potassium,mmol/L,3.50 - 4.90,3.9
+85,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,i-STAT Profile,i-STAT Ionized calcium,mmol/L,1.12 - 1.32,1.23
+86,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,i-STAT Profile,i-STAT ph,no units,7.310 - 7.410,NA
+87,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,i-STAT Profile,i-STAT Glucose,mg/dl,70 - 105,86
+88,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,i-STAT Profile,i-STAT Hematocrit,%PCV,38 - 51,40
+89,C3G,6858,PRE_TEST,14,5/12/2009,MR016L and L45/30 Combined Report,i-STAT Profile,"i-STAT Hemoglobin, calculated",g/dl,12.0 - 17.0,13.6
+90,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Hematology coulter,White blood cell count,thou/mm3,"Male: 3.7 - 10.0;
+Female: 3.4 - 10.6",6.5
+91,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Hematology coulter,Red blood cell count,mil/mm3,"Male: 4.18 - 5.66;
+Female: 3.70 - 5.12",4.37
+92,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Hematology coulter,Hemoglobin,g/dL,"Male: 12.6 - 17.0;
+Female: 11.0 - 15.3",13.6
+93,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Hematology coulter,Hematocrit,%,"Male: 38.3 - 51.1;
+Female: 33.9 - 46.0",39.9
+94,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Hematology coulter,MCV,fL,"Male: 82.1 - 98.8;
+Female: 80.3 - 100.2",91.5
+95,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Hematology coulter,MCH,pg,"Male: 26.9 - 33.4;
+Female: 24.2 - 33.4",31.3
+96,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Hematology coulter,MCHC,g/dL,"Male: 32.2 - 35.2;
+Female: 31.5 - 35.0",34.2
+97,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Hematology coulter,Platelet count,thou/mm3,"Male: 165 - 390;
+Female: 184 - 452",250
+98,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Hematology coulter,RDW,%,"Male: 12.5 - 15.5;
+Female: 12.5 - 16.0",13.2
+99,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Differential panel,Basophils,relative %,0.0 - 1.0,0.3
+100,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Differential panel,Eosinophils,relative %,0.0 - 6.0,3
+101,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Differential panel,Neutrophils,relative %,43.0 - 72.0,43.7
+102,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Differential panel,Lymphocytes,relative %,17.0 - 43.0,45.4 (H)
+103,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Differential panel,Monocytes,relative %,5.0 - 12.0,7.6
+104,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Differential panel,Reticulocyte count,%,0.6 - 2.3,2.1
+105,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Urinalysis,pH,no units,5.0 - 8.0,6.5
+106,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Urinalysis,Specific gravity,no units,1.009 - 1.031,1.02
+107,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Urinalysis,Color,no units,Yellow,Yellow
+108,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Urinalysis,Appearance,no units,Clear,Clear
+109,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Urinalysis,Protein,mg/dl,Negative,Negative
+110,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Urinalysis,Glucose,mg/dl,Negative,Negative
+111,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Urinalysis,Ketone,mg/dl,Negative,Negative
+112,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Urinalysis,Blood,no units,Negative,Negative
+113,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Urinalysis,Bilirubin,no units,Negative,Negative
+114,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Urinalysis,Urobilinogen,E.U./dl,0.2 - 1.0,0.2
+115,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Urinalysis,Nitrite,no units,Negative,Negative
+116,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Urinalysis,Leukocyte esterase,no units,Negative,Negative
+117,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Urinalysis,WBC - Microscopic,cells/hpf,None seen,NA
+118,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Urinalysis,RBC - Microscopic,cells/hpf,None seen,NA
+119,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Urinalysis,Epithelial cells,cells/hpf,0-2,NA
+120,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Urinalysis,Crystals,cells/hpf,None seen,NA
+121,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Glucose,mg/dL,71 - 99,82
+122,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Blood urea nitrogen (BUN),mg/dL,7-22,13
+123,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Uric Acid,mg/dL,2.4 - 8.0,5.1
+124,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Creatinine,mg/dL,0.60 - 1.30,0.76
+125,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Total bilirubin,mg/dL,0.2 - 1.4,0.7
+126,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Aspartate aminotransferase (AST),U/L,8-35,13
+127,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,"Alanine
+aminotransferase (ALT)",U/L,2-42,10
+128,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Alkaline phosphatase (ALP),U/L,30 - 90,24 (L)
+129,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Creatine kinase,U/L,30 - 223,214
+130,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,"Lactate 
+dehydrogenase (LDH)",U/L,97 - 195,138
+131,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Glutamyl transferase,U/L,2-47,5
+132,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Sodium,mmol/L,135 - 144,137
+133,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Potassium,mmol/L,"Male: 3.8 - 5.3;
+Female: 3.7 - 5.4",4.3
+134,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Chloride,mmol/L,98 - 108,106
+135,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Phosphorous,mg/dL,2.3 - 4.2,3.7
+136,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Calcium,mg/dL,8.7 - 10.0,9.1
+137,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Magnesium,mg/dL,1.7 - 2.2,2
+138,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Carbon dioxide,mmol/L,22.0 - 32.0,24.1
+139,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Total protein,g/dL,6.3 - 8.0,6.8
+140,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Lipid Profile,Cholesterol,mg/dL,125 - 199,128
+141,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Lipid Profile,Triglyceride,mg/dL,"Male: 40 - 149;
+Female: 35 - 149",85
+142,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Lipid Profile,HDL Cholesterol,mg/dL,"Male: 40 - 70;
+Female: 40 - 80",55
+143,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Lipid Profile,Chol/HDL Ratio,no units,2.0 - 5.0,2.3
+144,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Lipid Profile,LDL (Cholesterol) Quantitative,mg/dL,60 - 99,60
+145,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Lipid Profile,VLDL Cholesterol,mg/dL,0 - 30,14
+146,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Lipid Profile,Glomerular Filtration Rate E,ml/min/1.73 m2,>60,>60
+147,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Iron profile,Iron,ug/dL,52 - 183,68
+148,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Iron profile,Total iron binding capacity (TIBC),ug/dL,250 - 450,324
+149,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Iron profile,Transferrin,mg/dL,200 - 315,269
+150,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Iron profile,Transferrin saturation,%,"Male: 20 - 50;
+Female: 15 - 50",21
+151,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Iron profile,Ferritin,ng/mL,"Male: 20 - 250;
+Female: 10 - 120",16
+152,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Thyroid profile,Thyroid stimulating hormone (hTSH III),uIU/mL,0.40 - 4.00,1.69
+153,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Thyroid profile,Thyroxine (Free T4),ng/dL,0.80 - 1.80,0.88
+154,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Other,C-reactive protein,mg/L,"<1.0 Lowest tertile;
+1.0 - 3.0 Middle tertile;
+3.1 - 10.0 Highest tertile;
+>10.0 Very high",1.22 (H)
+155,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Other,Albumin,g/dL,3.7 - 4.9,4.1
+156,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Other,"Alkaline phosphatase, bone specific (BSAP) A, B",ug/L,"Male 25 years and older: 6.5 - 20.1;
+Female (premenopausal) 4.5 - 16.9;
+Female (postmenopausal): 7.0 - 22.4",6
+157,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Other,"Osteocalcin A, C",ng/mL,11.0 - 50.0,14
+158,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Other,"N-Telopeptide, urine A, D",nM BCE/mM creatinine,"Male: 21 - 83;
+Female (premenopausal) 17 - 94;
+Female (postmenopausal) 26 - 124",20
+159,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,Other,"Creatinine, urine A",mg/dL,None reported,142
+160,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,SPE Panel,Total protein,G/DL,6.4 - 7.9,6.8
+161,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,SPE Panel,"Albumin, SPE",G/DL,3.40 - 4.40,3.85
+162,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,SPE Panel,Alpha 1,G/DL,0.10 - 0.33,0.23
+163,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,SPE Panel,Alpha 2,G/DL,0.52 - 0.99,0.49 (L)
+164,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,SPE Panel,Beta,G/DL,0.78 - 1.37,1.02
+165,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,SPE Panel,Gamma,G/DL,0.68 - 1.77,1.24
+166,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,SPE Panel,SPE Interpretation,no units,No range,No apparent monoclonal protein on Serum Electrophoresis.
+167,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,SPE Panel,Albumin %,%,No range,56.3
+168,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,SPE Panel,Alpha 1%,%,No range,3.4
+169,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,SPE Panel,Alpha 2%,%,No range,7.2
+170,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,SPE Panel,Beta %,%,No range,14.9
+171,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,SPE Panel,Gamma %,%,No range,18.2
+172,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,i-STAT Profile,i-STAT Sodium,mmol/L,138 - 146,139
+173,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,i-STAT Profile,I-STAT Potassium,mmol/L,3.50 - 4.90,3.9
+174,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,i-STAT Profile,i-STAT Ionized calcium,mmol/L,1.12 - 1.32,1.23
+175,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,i-STAT Profile,i-STAT ph,no units,7.310 - 7.410,NA
+176,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,i-STAT Profile,i-STAT Glucose,mg/dl,70 - 105,86
+177,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,i-STAT Profile,i-STAT Hematocrit,%PCV,38 - 51,40
+178,C3G,6858,IN_TEST,28,6/22/2009,MR016L and L45/30 Combined Report,i-STAT Profile,"i-STAT Hemoglobin, calculated",g/dl,12.0 - 17.0,13.6
+179,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Hematology coulter,White blood cell count,thou/mm3,"Male: 3.7 - 10.0;
+Female: 3.4 - 10.6",6.9
+180,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Hematology coulter,Red blood cell count,mil/mm3,"Male: 4.18 - 5.66;
+Female: 3.70 - 5.12",4.39
+181,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Hematology coulter,Hemoglobin,g/dL,"Male: 12.6 - 17.0;
+Female: 11.0 - 15.3",13.6
+182,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Hematology coulter,Hematocrit,%,"Male: 38.3 - 51.1;
+Female: 33.9 - 46.0",39.3
+183,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Hematology coulter,MCV,fL,"Male: 82.1 - 98.8;
+Female: 80.3 - 100.2",89.4
+184,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Hematology coulter,MCH,pg,"Male: 26.9 - 33.4;
+Female: 24.2 - 33.4",31
+185,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Hematology coulter,MCHC,g/dL,"Male: 32.2 - 35.2;
+Female: 31.5 - 35.0",34.6
+186,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Hematology coulter,Platelet count,thou/mm3,"Male: 165 - 390;
+Female: 184 - 452",289
+187,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Hematology coulter,RDW,%,"Male: 12.5 - 15.5;
+Female: 12.5 - 16.0",13.1
+188,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Differential panel,Basophils,relative %,0.0 - 1.0,0.3
+189,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Differential panel,Eosinophils,relative %,0.0 - 6.0,1.6
+190,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Differential panel,Neutrophils,relative %,43.0 - 72.0,53.9
+191,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Differential panel,Lymphocytes,relative %,17.0 - 43.0,37.3
+192,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Differential panel,Monocytes,relative %,5.0 - 12.0,6.9
+193,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Differential panel,Reticulocyte count,%,0.6 - 2.3,1.5
+194,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Urinalysis,pH,no units,5.0 - 8.0,5.5
+195,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Urinalysis,Specific gravity,no units,1.009 - 1.031,1.01
+196,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Urinalysis,Color,no units,Yellow,Lt. Yellow
+197,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Urinalysis,Appearance,no units,Clear,Clear
+198,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Urinalysis,Protein,mg/dl,Negative,Negative
+199,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Urinalysis,Glucose,mg/dl,Negative,Negative
+200,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Urinalysis,Ketone,mg/dl,Negative,Negative
+201,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Urinalysis,Blood,no units,Negative,Negative
+202,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Urinalysis,Bilirubin,no units,Negative,Negative
+203,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Urinalysis,Urobilinogen,E.U./dl,0.2 - 1.0,0.2
+204,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Urinalysis,Nitrite,no units,Negative,Negative
+205,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Urinalysis,Leukocyte esterase,no units,Negative,Negative
+206,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Urinalysis,WBC - Microscopic,cells/hpf,None seen,NA
+207,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Urinalysis,RBC - Microscopic,cells/hpf,None seen,NA
+208,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Urinalysis,Epithelial cells,cells/hpf,0-2,NA
+209,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Urinalysis,Crystals,cells/hpf,None seen,NA
+210,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Glucose,mg/dL,71 - 99,84
+211,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Blood urea nitrogen (BUN),mg/dL,7-22,10
+212,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Uric Acid,mg/dL,2.4 - 8.0,4.5
+213,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Creatinine,mg/dL,0.60 - 1.30,0.66
+214,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Total bilirubin,mg/dL,0.2 - 1.4,0.7
+215,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Aspartate aminotransferase (AST),U/L,8-35,15
+216,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,"Alanine
+aminotransferase (ALT)",U/L,2-42,14
+217,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Alkaline phosphatase (ALP),U/L,30 - 90,35
+218,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Creatine kinase,U/L,30 - 223,151
+219,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,"Lactate 
+dehydrogenase (LDH)",U/L,97 - 195,131
+220,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Glutamyl transferase,U/L,2-47,6
+221,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Sodium,mmol/L,135 - 144,138
+222,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Potassium,mmol/L,"Male: 3.8 - 5.3;
+Female: 3.7 - 5.4",4.2
+223,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Chloride,mmol/L,98 - 108,103
+224,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Phosphorous,mg/dL,2.3 - 4.2,4.1
+225,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Calcium,mg/dL,8.7 - 10.0,9.4
+226,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Magnesium,mg/dL,1.7 - 2.2,1.9
+227,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Carbon dioxide,mmol/L,22.0 - 32.0,22.7
+228,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Total protein,g/dL,6.3 - 8.0,6.8
+229,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Lipid Profile,Cholesterol,mg/dL,125 - 199,176
+230,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Lipid Profile,Triglyceride,mg/dL,"Male: 40 - 149;
+Female: 35 - 149",88
+231,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Lipid Profile,HDL Cholesterol,mg/dL,"Male: 40 - 70;
+Female: 40 - 80",58
+232,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Lipid Profile,Chol/HDL Ratio,no units,2.0 - 5.0,3
+233,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Lipid Profile,LDL (Cholesterol) Quantitative,mg/dL,60 - 99,100 (H)
+234,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Lipid Profile,VLDL Cholesterol,mg/dL,0 - 30,18
+235,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Lipid Profile,Glomerular Filtration Rate E,ml/min/1.73 m2,>60,>60
+236,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Iron profile,Iron,ug/dL,52 - 183,69
+237,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Iron profile,Total iron binding capacity (TIBC),ug/dL,250 - 450,268
+238,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Iron profile,Transferrin,mg/dL,200 - 315,218
+239,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Iron profile,Transferrin saturation,%,"Male: 20 - 50;
+Female: 15 - 50",26
+240,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Iron profile,Ferritin,ng/mL,"Male: 20 - 250;
+Female: 10 - 120",19
+241,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Thyroid profile,Thyroid stimulating hormone (hTSH III),uIU/mL,0.40 - 4.00,1.62
+242,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Thyroid profile,Thyroxine (Free T4),ng/dL,0.80 - 1.80,0.96
+243,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Other,C-reactive protein,mg/L,"<1.0 Lowest tertile;
+1.0 - 3.0 Middle tertile;
+3.1 - 10.0 Highest tertile;
+>10.0 Very high",0.57
+244,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Other,Albumin,g/dL,3.7 - 4.9,4.3
+245,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Other,"Alkaline phosphatase, bone specific (BSAP) A, B",ug/L,"Male 25 years and older: 6.5 - 20.1;
+Female (premenopausal) 4.5 - 16.9;
+Female (postmenopausal): 7.0 - 22.4",7.5
+246,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Other,"Osteocalcin A, C",ng/mL,11.0 - 50.0,19
+247,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Other,"N-Telopeptide, urine A, D",nM BCE/mM creatinine,"Male: 21 - 83;
+Female (premenopausal) 17 - 94;
+Female (postmenopausal) 26 - 124",36
+248,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,Other,"Creatinine, urine A",mg/dL,None reported,218
+249,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,SPE Panel,Total protein,G/DL,6.4 - 7.9,6.8
+250,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,SPE Panel,"Albumin, SPE",G/DL,3.40 - 4.40,3.82
+251,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,SPE Panel,Alpha 1,G/DL,0.10 - 0.33,0.19
+252,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,SPE Panel,Alpha 2,G/DL,0.52 - 0.99,0.43 (L)
+253,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,SPE Panel,Beta,G/DL,0.78 - 1.37,1.04
+254,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,SPE Panel,Gamma,G/DL,0.68 - 1.77,1.29
+255,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,SPE Panel,SPE Interpretation,no units,No range,No apparent monoclonal protein on Serum Electrophoresis.
+256,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,SPE Panel,Albumin %,%,No range,56.4
+257,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,SPE Panel,Alpha 1%,%,No range,2.9
+258,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,SPE Panel,Alpha 2%,%,No range,6.3
+259,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,SPE Panel,Beta %,%,No range,15.3
+260,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,SPE Panel,Gamma %,%,No range,19.1
+261,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,i-STAT Profile,i-STAT Sodium,mmol/L,138 - 146,140
+262,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,i-STAT Profile,I-STAT Potassium,mmol/L,3.50 - 4.90,3.8
+263,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,i-STAT Profile,i-STAT Ionized calcium,mmol/L,1.12 - 1.32,1.28
+264,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,i-STAT Profile,i-STAT ph,no units,7.310 - 7.410,NA
+265,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,i-STAT Profile,i-STAT Glucose,mg/dl,70 - 105,87
+266,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,i-STAT Profile,i-STAT Hematocrit,%PCV,38 - 51,40
+267,C3G,6858,POST_TEST,0,7/25/2009,MR016L and L45/30 Combined Report,i-STAT Profile,"i-STAT Hemoglobin, calculated",g/dl,12.0 - 17.0,13.6
+268,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Hematology coulter,White blood cell count,thou/mm3,"Male: 3.7 - 10.0;
+Female: 3.4 - 10.6",7.4
+269,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Hematology coulter,Red blood cell count,mil/mm3,"Male: 4.18 - 5.66;
+Female: 3.70 - 5.12",3.82
+270,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Hematology coulter,Hemoglobin,g/dL,"Male: 12.6 - 17.0;
+Female: 11.0 - 15.3",12.1
+271,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Hematology coulter,Hematocrit,%,"Male: 38.3 - 51.1;
+Female: 33.9 - 46.0",34.9
+272,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Hematology coulter,MCV,fL,"Male: 82.1 - 98.8;
+Female: 80.3 - 100.2",91.5
+273,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Hematology coulter,MCH,pg,"Male: 26.9 - 33.4;
+Female: 24.2 - 33.4",31.6
+274,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Hematology coulter,MCHC,g/dL,"Male: 32.2 - 35.2;
+Female: 31.5 - 35.0",34.5
+275,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Hematology coulter,Platelet count,thou/mm3,"Male: 165 - 390;
+Female: 184 - 452",282
+276,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Hematology coulter,RDW,%,"Male: 12.5 - 15.5;
+Female: 12.5 - 16.0",13.9
+277,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Differential panel,Basophils,relative %,0.0 - 1.0,0.2
+278,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Differential panel,Eosinophils,relative %,0.0 - 6.0,1.7
+279,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Differential panel,Neutrophils,relative %,43.0 - 72.0,54.4
+280,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Differential panel,Lymphocytes,relative %,17.0 - 43.0,35.6
+281,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Differential panel,Monocytes,relative %,5.0 - 12.0,8.1
+282,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Differential panel,Reticulocyte count,%,0.6 - 2.3,2.5 (H)
+283,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Urinalysis,pH,no units,5.0 - 8.0,7
+284,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Urinalysis,Specific gravity,no units,1.009 - 1.031,1.01
+285,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Urinalysis,Color,no units,Yellow,Yellow
+286,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Urinalysis,Appearance,no units,Clear,Clear
+287,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Urinalysis,Protein,mg/dl,Negative,Negative
+288,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Urinalysis,Glucose,mg/dl,Negative,Negative
+289,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Urinalysis,Ketone,mg/dl,Negative,Negative
+290,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Urinalysis,Blood,no units,Negative,Negative
+291,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Urinalysis,Bilirubin,no units,Negative,Negative
+292,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Urinalysis,Urobilinogen,E.U./dl,0.2 - 1.0,0.2
+293,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Urinalysis,Nitrite,no units,Negative,Negative
+294,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Urinalysis,Leukocyte esterase,no units,Negative,Negative
+295,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Urinalysis,WBC - Microscopic,cells/hpf,None seen,NA
+296,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Urinalysis,RBC - Microscopic,cells/hpf,None seen,NA
+297,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Urinalysis,Epithelial cells,cells/hpf,0-2,NA
+298,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Urinalysis,Crystals,cells/hpf,None seen,NA
+299,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Glucose,mg/dL,71 - 99,85
+300,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Blood urea nitrogen (BUN),mg/dL,7-22,9
+301,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Uric Acid,mg/dL,2.4 - 8.0,5.3
+302,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Creatinine,mg/dL,0.60 - 1.30,0.68
+303,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Total bilirubin,mg/dL,0.2 - 1.4,1
+304,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Aspartate aminotransferase (AST),U/L,8-35,18
+305,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,"Alanine
+aminotransferase (ALT)",U/L,2-42,15
+306,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Alkaline phosphatase (ALP),U/L,30 - 90,35
+307,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Creatine kinase,U/L,30 - 223,218
+308,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,"Lactate 
+dehydrogenase (LDH)",U/L,97 - 195,179
+309,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Glutamyl transferase,U/L,2-47,5
+310,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Sodium,mmol/L,135 - 144,140
+311,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Potassium,mmol/L,"Male: 3.8 - 5.3;
+Female: 3.7 - 5.4",3.9
+312,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Chloride,mmol/L,98 - 108,104
+313,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Phosphorous,mg/dL,2.3 - 4.2,4.2
+314,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Calcium,mg/dL,8.7 - 10.0,9.3
+315,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Magnesium,mg/dL,1.7 - 2.2,2.1
+316,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Carbon dioxide,mmol/L,22.0 - 32.0,26
+317,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Chemistry profile for flight,Total protein,g/dL,6.3 - 8.0,6.7
+318,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Lipid Profile,Cholesterol,mg/dL,125 - 199,155
+319,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Lipid Profile,Triglyceride,mg/dL,"Male: 40 - 149;
+Female: 35 - 149",60
+320,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Lipid Profile,HDL Cholesterol,mg/dL,"Male: 40 - 70;
+Female: 40 - 80",59
+321,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Lipid Profile,Chol/HDL Ratio,no units,2.0 - 5.0,2.6
+322,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Lipid Profile,LDL (Cholesterol) Quantitative,mg/dL,60 - 99,83
+323,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Lipid Profile,VLDL Cholesterol,mg/dL,0 - 30,13
+324,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Lipid Profile,Glomerular Filtration Rate E,ml/min/1.73 m2,>60,>60
+325,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Iron profile,Iron,ug/dL,52 - 183,65
+326,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Iron profile,Total iron binding capacity (TIBC),ug/dL,250 - 450,252
+327,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Iron profile,Transferrin,mg/dL,200 - 315,217
+328,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Iron profile,Transferrin saturation,%,"Male: 20 - 50;
+Female: 15 - 50",26
+329,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Iron profile,Ferritin,ng/mL,"Male: 20 - 250;
+Female: 10 - 120",19
+330,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Thyroid profile,Thyroid stimulating hormone (hTSH III),uIU/mL,0.40 - 4.00,1.7
+331,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Thyroid profile,Thyroxine (Free T4),ng/dL,0.80 - 1.80,0.95
+332,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Other,C-reactive protein,mg/L,"<1.0 Lowest tertile;
+1.0 - 3.0 Middle tertile;
+3.1 - 10.0 Highest tertile;
+>10.0 Very high",3.06 (H)
+333,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Other,Albumin,g/dL,3.7 - 4.9,4.3
+334,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Other,"Alkaline phosphatase, bone specific (BSAP) A, B",ug/L,"Male 25 years and older: 6.5 - 20.1;
+Female (premenopausal) 4.5 - 16.9;
+Female (postmenopausal): 7.0 - 22.4",8.2
+335,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Other,"Osteocalcin A, C",ng/mL,11.0 - 50.0,16
+336,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Other,"N-Telopeptide, urine A, D",nM BCE/mM creatinine,"Male: 21 - 83;
+Female (premenopausal) 17 - 94;
+Female (postmenopausal) 26 - 124",32
+337,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,Other,"Creatinine, urine A",mg/dL,None reported,194
+338,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,SPE Panel,Total protein,G/DL,6.4 - 7.9,6.7
+339,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,SPE Panel,"Albumin, SPE",G/DL,3.40 - 4.40,3.85
+340,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,SPE Panel,Alpha 1,G/DL,0.10 - 0.33,0.22
+341,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,SPE Panel,Alpha 2,G/DL,0.52 - 0.99,0.46 (L)
+342,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,SPE Panel,Beta,G/DL,0.78 - 1.37,0.96
+343,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,SPE Panel,Gamma,G/DL,0.68 - 1.77,1.19
+344,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,SPE Panel,SPE Interpretation,no units,No range,No apparent monoclonal protein on Serum Electrophoresis.
+345,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,SPE Panel,Albumin %,%,No range,57.6
+346,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,SPE Panel,Alpha 1%,%,No range,3.3
+347,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,SPE Panel,Alpha 2%,%,No range,6.8
+348,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,SPE Panel,Beta %,%,No range,14.4
+349,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,SPE Panel,Gamma %,%,No range,17.8
+350,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,i-STAT Profile,i-STAT Sodium,mmol/L,138 - 146,140
+351,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,i-STAT Profile,I-STAT Potassium,mmol/L,3.50 - 4.90,3.7
+352,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,i-STAT Profile,i-STAT Ionized calcium,mmol/L,1.12 - 1.32,1.2
+353,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,i-STAT Profile,i-STAT ph,no units,7.310 - 7.410,NA
+354,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,i-STAT Profile,i-STAT Glucose,mg/dl,70 - 105,84
+355,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,i-STAT Profile,i-STAT Hematocrit,%PCV,38 - 51,34 (L)
+356,C3G,6858,POST_TEST,5,7/30/2009,MR016L and L45/30 Combined Report,i-STAT Profile,"i-STAT Hemoglobin, calculated",g/dl,12.0 - 17.0,11.6 (L)
