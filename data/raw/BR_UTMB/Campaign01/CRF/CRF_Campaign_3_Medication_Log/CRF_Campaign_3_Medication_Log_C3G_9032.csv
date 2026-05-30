@@ -1,0 +1,350 @@
+﻿ID,Campaign,Record,Subject,Date,Time_Administered,Test_Phase,BR_Day,Route,Medication,Quantity,Related_to_Test,Test,Initial_Pain_Score,OutCome_Pain_Score,Comments
+1,C3G,36681,9032,4/7/2009,11:47,PRE_TEST,7,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Platts (Gender Differences),0,0,NA
+2,C3G,36809,9032,4/9/2009,8:24,PRE_TEST,5,IV-intravenous,Normal Saline Dose: 0.9 Duration: 12 cc/hr for 26 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,"Frequency 12cc /hr for 80 minutes. Given by M. Willig, RN."
+3,C3G,36811,9032,4/9/2009,9:50,PRE_TEST,5,IV-intravenous,Ketorolac Dose: 12.5 mcq/0.1 ml Duration: 6 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,"Given by M. Willig, RN."
+4,C3G,36810,9032,4/9/2009,9:50,PRE_TEST,5,IV-intravenous,Normal Saline Dose: 0.9 Duration: 6 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,"Frequency 6cc/hr for 10 minutes. Given by M. Willig, RN."
+5,C3G,36813,9032,4/9/2009,10:19,PRE_TEST,5,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Frequency 3cc/hr for 20 minutes. Given by M. Willig, RN."
+6,C3G,36812,9032,4/9/2009,10:19,PRE_TEST,5,IV-intravenous,Normal Saline Dose: 0.9 Duration: 3 cc/hr for 20 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,"Frequency 3cc/hr for 20 minutes. Given by M. Willig, RN."
+7,C3G,36814,9032,4/9/2009,10:19,PRE_TEST,5,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Frequency 6cc/hr for 20 minutes. Given by M. Willig, RN."
+8,C3G,36817,9032,4/9/2009,10:42,PRE_TEST,5,IV-intravenous,Isoproterenol Dose: 200 ng/0.1ml Duration: 3 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,"Frequency 3cc/hr for 10 minutes. Given by M. Willig, RN."
+9,C3G,36816,9032,4/9/2009,10:42,PRE_TEST,5,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Frequency 3cc/hr for 10 minutes. Given by M. Willig, RN."
+10,C3G,36815,9032,4/9/2009,10:42,PRE_TEST,5,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Frequency 6cc/hr for 10 minutes. Given by M. Willig, RN."
+11,C3G,36820,9032,4/9/2009,10:54,PRE_TEST,5,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Frequency 3cc/hr for 10 minutes. Given by M. Willig, RN."
+12,C3G,36819,9032,4/9/2009,10:54,PRE_TEST,5,IV-intravenous,Normal Saline Dose: 0.9 Duration: 3 cc/hr for 20 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,Frequency 3cc/hr for 10 minutes. Given by M. Willig.
+13,C3G,36818,9032,4/9/2009,10:54,PRE_TEST,5,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Frequency 6cc/hr for 10 minutes. Given by M. Willig, RN."
+14,C3G,36823,9032,4/9/2009,11:10,PRE_TEST,5,IV-intravenous,Acetylcholine Dose: 0.1 nmol / 0.05ml Duration: 3 cc/hr for 6 minutes (3 cc/hr for 6 minutes),NA,Yes,Dr. Platts (Gender Differences),0,0,"Given by M. Willig, RN."
+15,C3G,36822,9032,4/9/2009,11:10,PRE_TEST,5,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Frequency 3cc/hr for 6 minutes. Given by M. Willig, RN."
+16,C3G,36821,9032,4/9/2009,11:10,PRE_TEST,5,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Frequency 6cc/hr for 6 minutes. Given by M. Willig, RN."
+17,C3G,36826,9032,4/9/2009,11:19,PRE_TEST,5,IV-intravenous,Acetylcholine Dose: 0.316 nmol / 0.05ml Duration: 3 cc/hr for 6 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,"Given by M. Willig, RN."
+18,C3G,36825,9032,4/9/2009,11:19,PRE_TEST,5,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Frequency 3cc/hr for 6 minutes. Given by M. Willig, RN."
+19,C3G,36824,9032,4/9/2009,11:19,PRE_TEST,5,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Frequency 6cc/hr for 6 minutes. Given by M. Willig, RN."
+20,C3G,36829,9032,4/9/2009,11:28,PRE_TEST,5,IV-intravenous,Acetylcholine Dose: 1.0 nmol / 0.05 ml Duration: 3 cc/hr for 6 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,"Given by M. Willig, RN."
+21,C3G,36828,9032,4/9/2009,11:28,PRE_TEST,5,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Frequency 3cc/hr for 6 minutes. Given by M. Willig, RN."
+22,C3G,36827,9032,4/9/2009,11:28,PRE_TEST,5,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Frequency 6cc/hr for 6 minutes. Given by M. Willig, RN."
+23,C3G,36832,9032,4/9/2009,11:30,PRE_TEST,5,IV-intravenous,Acetylcholine Dose: 0.1 nmol / 0.05ml Duration: 3 cc/hr for 6 minutes (3 cc/hr for 6 minutes),NA,Yes,Dr. Platts (Gender Differences),0,0,"Given by M. Willig, RN."
+24,C3G,36831,9032,4/9/2009,11:30,PRE_TEST,5,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Frequency 3cc/hr for 10 minutes. Given by M. Willig, RN."
+25,C3G,36833,9032,4/9/2009,11:30,PRE_TEST,5,IV-intravenous,LNMMA Dose: 50 mcg / 0.05ml Duration: 3cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,"Given by M. Willig, RN."
+26,C3G,36830,9032,4/9/2009,11:30,PRE_TEST,5,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Frequency 3cc/hr for 10 minutes. Given by M. Willig, RN."
+27,C3G,36835,9032,4/9/2009,11:53,PRE_TEST,5,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Frequency 3cc/hr for 10 minutes. Given by M. Willig, RN."
+28,C3G,36834,9032,4/9/2009,11:53,PRE_TEST,5,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Frequency 6cc/hr for 10 minutes. Given by M Willig, RN."
+29,C3G,36871,9032,4/10/2009,8:28,PRE_TEST,4,IV-intravenous,Normal Saline Dose: 0.9 Duration: 12 cc/hr for 26 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+30,C3G,36873,9032,4/10/2009,9:04,PRE_TEST,4,IV-intravenous,Ketorolac Dose: 12.5 mcq/0.1 ml Duration: 6 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+31,C3G,36872,9032,4/10/2009,9:04,PRE_TEST,4,IV-intravenous,Normal Saline Dose: 0.9 Duration: 6 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+32,C3G,36881,9032,4/10/2009,9:20,PRE_TEST,4,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,Medication infused from 09:20 to 10:07.
+33,C3G,36880,9032,4/10/2009,9:20,PRE_TEST,4,IV-intravenous,Normal Saline Dose: 0.9 Duration: 3 cc/hr for 20 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,IV fluids infused from 09:20 to 10:07.
+34,C3G,36882,9032,4/10/2009,9:20,PRE_TEST,4,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,Medication infused from 09:20 to 10:07.
+35,C3G,36884,9032,4/10/2009,10:07,PRE_TEST,4,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,Infusion began at 10:07 and ended at 11:28.
+36,C3G,36883,9032,4/10/2009,10:07,PRE_TEST,4,IV-intravenous,Normal Saline at 9 cc/hr.,NA,Yes,Dr. Platts (Gender Differences),0,0,IV fluids infused from 10:07 to 11:28.
+37,C3G,36886,9032,4/10/2009,11:31,PRE_TEST,4,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,Infusion ended at 12:03.
+38,C3G,36885,9032,4/10/2009,11:31,PRE_TEST,4,IV-intravenous,Normal Saline Dose: 0.9 Duration: 3 cc/hr for 20 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,IV fluids infusion ended at 12:03.
+39,C3G,36887,9032,4/10/2009,11:31,PRE_TEST,4,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,Infusion ended at 12:03.
+40,C3G,36918,9032,4/11/2009,8:35,PRE_TEST,3,IV-intravenous,Normal Saline Dose: 0.9 Duration: 6 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,Infusion for 10 minutes.
+41,C3G,36919,9032,4/11/2009,8:47,PRE_TEST,3,IV-intravenous,Phenylephrine Dose: 0.4 mcg Duration: 6cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+42,C3G,36920,9032,4/11/2009,8:58,PRE_TEST,3,IV-intravenous,Phenylephrine Dose: 0.8 mcg Duration: 12cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+43,C3G,36921,9032,4/11/2009,9:10,PRE_TEST,3,IV-intravenous,Phenylephrine Dose: 1.6 mcg Duration: 24cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+44,C3G,36922,9032,4/11/2009,9:42,PRE_TEST,3,IV-intravenous,Normal Saline Dose: 0.9 Duration: 6 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,IV fluids infusion started at 09:42 to 09:46. Occlusion alarm sounded. Second 10 minutes of normal saline started at 09:47.
+45,C3G,36923,9032,4/11/2009,9:59,PRE_TEST,3,IV-intravenous,Sodium Nitroprusside Dose: 0.4 mcg Duration: 6 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+46,C3G,36924,9032,4/11/2009,10:10,PRE_TEST,3,IV-intravenous,Sodium Nitroprusside Dose: 0.8 mcg Duration: 12 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+47,C3G,36925,9032,4/11/2009,10:22,PRE_TEST,3,IV-intravenous,Sodium Nitroprusside Dose: 1.2 mcg Duration: 18cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+48,C3G,37056,9032,4/13/2009,13:34,PRE_TEST,1,IV-intravenous,Normal Saline Dose: 0.9 Duration: 12 cc/hr for 26 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,For 26 minutes.
+49,C3G,37057,9032,4/13/2009,14:12,PRE_TEST,1,IV-intravenous,Ketorolac Dose: 12.5 mcq/0.1 ml Duration: 6 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+50,C3G,37057,9032,4/13/2009,14:12,PRE_TEST,1,IV-intravenous,Normal Saline Dose: 0.9 Duration: 6 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+51,C3G,37058,9032,4/13/2009,14:27,PRE_TEST,1,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+52,C3G,37058,9032,4/13/2009,14:27,PRE_TEST,1,IV-intravenous,Normal Saline Dose: 0.9 Duration: 3 cc/hr for 20 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+53,C3G,37058,9032,4/13/2009,14:27,PRE_TEST,1,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+54,C3G,37059,9032,4/13/2009,14:59,PRE_TEST,1,IV-intravenous,Isoproterenol Dose: 200 ng/0.1ml Duration: 3 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+55,C3G,37059,9032,4/13/2009,14:59,PRE_TEST,1,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+56,C3G,37059,9032,4/13/2009,14:59,PRE_TEST,1,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+57,C3G,37060,9032,4/13/2009,15:12,PRE_TEST,1,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,Normal saline for 52 minutes and Ketorolac for 52 minutes.
+58,C3G,37060,9032,4/13/2009,15:12,PRE_TEST,1,IV-intravenous,Normal Saline Dose: 0.9 Duration: 3 cc/hr for 20 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,Normal saline for 52 minutes and Ketorolac for 52 minutes.
+59,C3G,37060,9032,4/13/2009,15:12,PRE_TEST,1,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,Normal saline for 52 minutes and Ketorolac for 52 minutes.
+60,C3G,37061,9032,4/13/2009,16:10,PRE_TEST,1,IV-intravenous,Acetylcholine Dose: 0.1 nmol / 0.05ml Duration: 3 cc/hr for 6 minutes (3 cc/hr for 6 minutes),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+61,C3G,37061,9032,4/13/2009,16:10,PRE_TEST,1,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+62,C3G,37061,9032,4/13/2009,16:10,PRE_TEST,1,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+63,C3G,37062,9032,4/13/2009,16:18,PRE_TEST,1,IV-intravenous,Acetylcholine Dose: 0.316 nmol / 0.05ml Duration: 3 cc/hr for 6 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+64,C3G,37062,9032,4/13/2009,16:18,PRE_TEST,1,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+65,C3G,37062,9032,4/13/2009,16:18,PRE_TEST,1,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+66,C3G,37063,9032,4/13/2009,16:27,PRE_TEST,1,IV-intravenous,Acetylcholine Dose: 1.0 nmol / 0.05 ml Duration: 3 cc/hr for 6 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+67,C3G,37063,9032,4/13/2009,16:27,PRE_TEST,1,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+68,C3G,37063,9032,4/13/2009,16:27,PRE_TEST,1,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+69,C3G,37064,9032,4/13/2009,16:36,PRE_TEST,1,IV-intravenous,Acetylcholine Dose: 3.16 nmol/0.05 ml Duration: 3 cc/hr for 6 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+70,C3G,37064,9032,4/13/2009,16:36,PRE_TEST,1,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+71,C3G,37064,9032,4/13/2009,16:36,PRE_TEST,1,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+72,C3G,37065,9032,4/13/2009,16:46,PRE_TEST,1,IV-intravenous,Acetylcholine Dose: 0.316 nmol / 0.05ml Duration: 3 cc/hr for 6 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+73,C3G,37065,9032,4/13/2009,16:46,PRE_TEST,1,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+74,C3G,37065,9032,4/13/2009,16:46,PRE_TEST,1,IV-intravenous,LNMMA Dose: 50 mcg / 0.05ml Duration: 3cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+75,C3G,37065,9032,4/13/2009,16:46,PRE_TEST,1,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+76,C3G,37066,9032,4/13/2009,16:59,PRE_TEST,1,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+77,C3G,37066,9032,4/13/2009,16:59,PRE_TEST,1,IV-intravenous,Nitroglycerin Dose: 16 pmol /0.1 ml Duration: 6 cc/hr for 10 minutes (6 cc/hr for 10 minutes),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+78,C3G,37066,9032,4/13/2009,16:59,PRE_TEST,1,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+79,C3G,37092,9032,4/14/2009,7:35,IN_TEST,1,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+80,C3G,37122,9032,4/14/2009,17:35,IN_TEST,1,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+81,C3G,37150,9032,4/15/2009,7:15,IN_TEST,2,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+82,C3G,37189,9032,4/15/2009,17:00,IN_TEST,2,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+83,C3G,37211,9032,4/16/2009,7:00,IN_TEST,3,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+84,C3G,37224,9032,4/16/2009,9:50,IN_TEST,3,PO-by mouth,Lactulose 10g/15ml,1,No,NA,0,0,"Subject with medium sized, hard bowel movement."
+85,C3G,37245,9032,4/16/2009,17:00,IN_TEST,3,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+86,C3G,37266,9032,4/17/2009,7:30,IN_TEST,4,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+87,C3G,37312,9032,4/17/2009,17:30,IN_TEST,4,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+88,C3G,37389,9032,4/18/2009,7:20,IN_TEST,5,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,"Per protocol, Vitamin D, 800 IU, ordered."
+89,C3G,37390,9032,4/18/2009,17:15,IN_TEST,5,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+90,C3G,37416,9032,4/19/2009,7:21,IN_TEST,6,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+91,C3G,37449,9032,4/19/2009,17:17,IN_TEST,6,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+92,C3G,37470,9032,4/20/2009,7:00,IN_TEST,7,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+93,C3G,37481,9032,4/20/2009,13:29,IN_TEST,7,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Platts (Gender Differences),0,0,NA
+94,C3G,37492,9032,4/20/2009,17:00,IN_TEST,7,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+95,C3G,37518,9032,4/20/2009,20:08,IN_TEST,7,PO-by mouth,Acetaminophen 325mg,2,Yes,Dr. Platts (Gender Differences),3,0,"At 20:08, subject complained of a headache rated 3 on 0-10 pain scale. Headache described as a dull ache which was becoming worse. Schedule checked, subject allowed to have medication. Per physician's order, subject given Tylenol, 650 mg. At 21:11, subject denies headache at this time stating the medication worked."
+96,C3G,37533,9032,4/21/2009,7:15,IN_TEST,8,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+97,C3G,37577,9032,4/21/2009,18:03,IN_TEST,8,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+98,C3G,37616,9032,4/22/2009,7:30,IN_TEST,9,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+99,C3G,37675,9032,4/22/2009,17:19,IN_TEST,9,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+100,C3G,37710,9032,4/23/2009,7:02,IN_TEST,10,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+101,C3G,37751,9032,4/23/2009,17:15,IN_TEST,10,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+102,C3G,37791,9032,4/24/2009,7:15,IN_TEST,11,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+103,C3G,37824,9032,4/24/2009,17:16,IN_TEST,11,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+104,C3G,37909,9032,4/25/2009,7:19,IN_TEST,12,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+105,C3G,37910,9032,4/25/2009,17:19,IN_TEST,12,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+106,C3G,37911,9032,4/26/2009,7:20,IN_TEST,13,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+107,C3G,37912,9032,4/26/2009,17:15,IN_TEST,13,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+108,C3G,37870,9032,4/27/2009,7:15,IN_TEST,14,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+109,C3G,37995,9032,4/27/2009,17:10,IN_TEST,14,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+110,C3G,38025,9032,4/28/2009,7:05,IN_TEST,15,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,"Per protocol, subject given Vitamin D, 800 IU, with breakfast."
+111,C3G,38069,9032,4/28/2009,17:00,IN_TEST,15,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+112,C3G,38100,9032,4/29/2009,7:00,IN_TEST,16,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+113,C3G,38477,9032,4/29/2009,17:00,IN_TEST,16,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+114,C3G,38188,9032,4/30/2009,7:40,IN_TEST,17,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+115,C3G,38232,9032,4/30/2009,17:00,IN_TEST,17,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+116,C3G,38266,9032,5/1/2009,7:00,IN_TEST,18,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+117,C3G,38299,9032,5/1/2009,17:00,IN_TEST,18,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+118,C3G,38332,9032,5/2/2009,7:18,IN_TEST,19,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,"Per protocol, given Vitamin D, 800 IU."
+119,C3G,38373,9032,5/2/2009,17:11,IN_TEST,19,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+120,C3G,38401,9032,5/3/2009,7:10,IN_TEST,20,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+121,C3G,38428,9032,5/3/2009,17:12,IN_TEST,20,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+122,C3G,38472,9032,5/4/2009,7:01,IN_TEST,21,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+123,C3G,38489,9032,5/4/2009,10:32,IN_TEST,21,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Platts (Gender Differences),0,0,"Given by M. Willig RN, Cardiovascular team nurse."
+124,C3G,38520,9032,5/4/2009,17:00,IN_TEST,21,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+125,C3G,38533,9032,5/4/2009,20:35,IN_TEST,21,PO-by mouth,Acetaminophen 325mg,2,No,NA,2,0,NA
+126,C3G,38556,9032,5/5/2009,7:00,IN_TEST,22,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+127,C3G,38598,9032,5/5/2009,17:00,IN_TEST,22,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+128,C3G,38633,9032,5/6/2009,7:00,IN_TEST,23,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+129,C3G,38669,9032,5/6/2009,17:05,IN_TEST,23,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+130,C3G,38708,9032,5/7/2009,7:00,IN_TEST,24,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+131,C3G,38745,9032,5/7/2009,17:05,IN_TEST,24,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+132,C3G,38796,9032,5/8/2009,7:00,IN_TEST,25,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+133,C3G,38836,9032,5/8/2009,17:10,IN_TEST,25,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+134,C3G,38874,9032,5/9/2009,7:05,IN_TEST,26,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,"Per order, Vitamin D, 800 IU, given with breakfast."
+135,C3G,38882,9032,5/9/2009,8:32,IN_TEST,26,IV-intravenous,Normal Saline Dose: 0.9 Duration: 12 cc/hr for 26 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+136,C3G,38884,9032,5/9/2009,9:15,IN_TEST,26,IV-intravenous,Ketorolac Dose: 12.5 mcq/0.1 ml Duration: 6 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+137,C3G,38883,9032,5/9/2009,9:15,IN_TEST,26,IV-intravenous,Normal Saline Dose: 0.9 Duration: 6 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+138,C3G,38886,9032,5/9/2009,9:30,IN_TEST,26,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+139,C3G,38885,9032,5/9/2009,9:30,IN_TEST,26,IV-intravenous,Normal Saline Dose: 0.9 Duration: 3 cc/hr for 20 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+140,C3G,38887,9032,5/9/2009,9:30,IN_TEST,26,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+141,C3G,38918,9032,5/9/2009,9:54,IN_TEST,26,IV-intravenous,Isoproterenol Dose: 200 ng/0.1ml Duration: 3 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+142,C3G,38890,9032,5/9/2009,9:54,IN_TEST,26,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+143,C3G,38889,9032,5/9/2009,9:54,IN_TEST,26,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+144,C3G,38921,9032,5/9/2009,10:08,IN_TEST,26,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+145,C3G,38920,9032,5/9/2009,10:08,IN_TEST,26,IV-intravenous,Normal Saline Dose: 0.9 Duration: 3 cc/hr for 20 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+146,C3G,38919,9032,5/9/2009,10:08,IN_TEST,26,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+147,C3G,38924,9032,5/9/2009,10:21,IN_TEST,26,IV-intravenous,Acetylcholine Dose: 0.1 nmol / 0.05ml Duration: 3 cc/hr for 6 minutes (3 cc/hr for 6 minutes),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+148,C3G,38923,9032,5/9/2009,10:21,IN_TEST,26,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+149,C3G,38922,9032,5/9/2009,10:21,IN_TEST,26,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+150,C3G,38927,9032,5/9/2009,10:30,IN_TEST,26,IV-intravenous,Acetylcholine Dose: 0.316 nmol / 0.05ml Duration: 3 cc/hr for 6 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+151,C3G,38925,9032,5/9/2009,10:30,IN_TEST,26,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+152,C3G,38926,9032,5/9/2009,10:31,IN_TEST,26,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+153,C3G,38930,9032,5/9/2009,10:40,IN_TEST,26,IV-intravenous,Acetylcholine Dose: 1.0 nmol / 0.05 ml Duration: 3 cc/hr for 6 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+154,C3G,38929,9032,5/9/2009,10:40,IN_TEST,26,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+155,C3G,38928,9032,5/9/2009,10:40,IN_TEST,26,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+156,C3G,38934,9032,5/9/2009,10:49,IN_TEST,26,IV-intravenous,Acetylcholine Dose: 3.16 nmol/0.05 ml Duration: 3 cc/hr for 6 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+157,C3G,38934,9032,5/9/2009,10:49,IN_TEST,26,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+158,C3G,38932,9032,5/9/2009,10:49,IN_TEST,26,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+159,C3G,38935,9032,5/9/2009,10:59,IN_TEST,26,IV-intravenous,Acetylcholine Dose: 0.316 nmol / 0.05ml Duration: 3 cc/hr for 6 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+160,C3G,38935,9032,5/9/2009,10:59,IN_TEST,26,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+161,C3G,38935,9032,5/9/2009,10:59,IN_TEST,26,IV-intravenous,LNMMA Dose: 50 mcg / 0.05ml Duration: 3cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+162,C3G,38935,9032,5/9/2009,10:59,IN_TEST,26,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+163,C3G,38948,9032,5/9/2009,17:13,IN_TEST,26,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+164,C3G,38967,9032,5/10/2009,7:00,IN_TEST,27,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,"Per physician (MD) order, Vitamin D, 800 IU, given with breakfast."
+165,C3G,38983,9032,5/10/2009,8:28,IN_TEST,27,IV-intravenous,Normal Saline Dose: 0.9 Duration: 12 cc/hr for 26 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+166,C3G,38984,9032,5/10/2009,9:05,IN_TEST,27,IV-intravenous,Ketorolac Dose: 12.5 mcq/0.1 ml Duration: 6 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+167,C3G,38984,9032,5/10/2009,9:05,IN_TEST,27,IV-intravenous,Normal Saline Dose: 0.9 Duration: 6 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+168,C3G,38985,9032,5/10/2009,9:20,IN_TEST,27,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+169,C3G,38985,9032,5/10/2009,9:20,IN_TEST,27,IV-intravenous,Normal Saline Dose: 0.9 Duration: 3 cc/hr for 20 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+170,C3G,38985,9032,5/10/2009,9:20,IN_TEST,27,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+171,C3G,38986,9032,5/10/2009,9:44,IN_TEST,27,IV-intravenous,Isoproterenol Dose: 200 ng/0.1ml Duration: 3 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+172,C3G,38986,9032,5/10/2009,9:44,IN_TEST,27,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+173,C3G,38986,9032,5/10/2009,9:44,IN_TEST,27,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+174,C3G,38987,9032,5/10/2009,9:58,IN_TEST,27,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+175,C3G,38987,9032,5/10/2009,9:58,IN_TEST,27,IV-intravenous,Normal Saline Dose: 0.9 Duration: 3 cc/hr for 20 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+176,C3G,38987,9032,5/10/2009,9:58,IN_TEST,27,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+177,C3G,38988,9032,5/10/2009,10:53,IN_TEST,27,IV-intravenous,Acetylcholine Dose: 0.1 nmol / 0.05ml Duration: 3 cc/hr for 6 minutes (3 cc/hr for 6 minutes),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+178,C3G,38988,9032,5/10/2009,10:53,IN_TEST,27,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+179,C3G,38988,9032,5/10/2009,10:53,IN_TEST,27,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+180,C3G,38989,9032,5/10/2009,11:03,IN_TEST,27,IV-intravenous,Acetylcholine Dose: 0.316 nmol / 0.05ml Duration: 3 cc/hr for 6 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+181,C3G,38989,9032,5/10/2009,11:03,IN_TEST,27,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+182,C3G,38989,9032,5/10/2009,11:03,IN_TEST,27,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+183,C3G,38990,9032,5/10/2009,11:13,IN_TEST,27,IV-intravenous,Acetylcholine Dose: 1.0 nmol / 0.05 ml Duration: 3 cc/hr for 6 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+184,C3G,38990,9032,5/10/2009,11:13,IN_TEST,27,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+185,C3G,38990,9032,5/10/2009,11:13,IN_TEST,27,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+186,C3G,38991,9032,5/10/2009,11:20,IN_TEST,27,IV-intravenous,Acetylcholine Dose: 0.316 nmol / 0.05ml Duration: 3 cc/hr for 6 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+187,C3G,38991,9032,5/10/2009,11:20,IN_TEST,27,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+188,C3G,38991,9032,5/10/2009,11:20,IN_TEST,27,IV-intravenous,LNMMA Dose: 50 mcg / 0.05ml Duration: 3cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+189,C3G,38991,9032,5/10/2009,11:20,IN_TEST,27,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+190,C3G,38992,9032,5/10/2009,11:39,IN_TEST,27,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+191,C3G,38992,9032,5/10/2009,11:39,IN_TEST,27,IV-intravenous,Nitroglycerin Dose: 16 pmol /0.1 ml Duration: 6 cc/hr for 10 minutes (6 cc/hr for 10 minutes),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+192,C3G,38992,9032,5/10/2009,11:39,IN_TEST,27,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+193,C3G,39008,9032,5/10/2009,17:11,IN_TEST,27,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+194,C3G,39054,9032,5/11/2009,7:10,IN_TEST,28,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,"Per physician (MD) order, Vitamin D, 800 IU, given with breakfast."
+195,C3G,39071,9032,5/11/2009,8:33,IN_TEST,28,IV-intravenous,Normal Saline Dose: 0.9 Duration: 6 cc/hr for 10 minutes (for 20 minutes),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+196,C3G,39072,9032,5/11/2009,9:04,IN_TEST,28,IV-intravenous,Phenylephrine Dose: 0.4 mcg Duration: 6cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+197,C3G,39073,9032,5/11/2009,9:15,IN_TEST,28,IV-intravenous,Phenylephrine Dose: 0.8 mcg Duration: 12cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+198,C3G,39074,9032,5/11/2009,9:26,IN_TEST,28,IV-intravenous,Phenylephrine Dose: 1.6 mcg Duration: 24cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+199,C3G,39076,9032,5/11/2009,10:11,IN_TEST,28,IV-intravenous,Sodium Nitroprusside Dose: 0.4 mcg Duration: 6 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+200,C3G,39077,9032,5/11/2009,10:23,IN_TEST,28,IV-intravenous,Sodium Nitroprusside Dose: 0.8 mcg Duration: 12 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+201,C3G,39075,9032,5/11/2009,10:57,IN_TEST,28,IV-intravenous,Normal Saline Dose: 0.9 Duration: 6 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+202,C3G,39078,9032,5/11/2009,10:57,IN_TEST,28,IV-intravenous,Sodium Nitroprusside Dose: 1.2 mcg Duration: 18cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+203,C3G,39125,9032,5/11/2009,17:00,IN_TEST,28,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+204,C3G,39189,9032,5/12/2009,7:15,IN_TEST,29,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+205,C3G,39256,9032,5/12/2009,17:00,IN_TEST,29,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+206,C3G,39297,9032,5/13/2009,7:05,IN_TEST,30,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+207,C3G,39347,9032,5/13/2009,17:45,IN_TEST,30,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+208,C3G,39387,9032,5/14/2009,7:00,IN_TEST,31,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+209,C3G,39432,9032,5/14/2009,14:38,IN_TEST,31,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Platts (Gender Differences),0,0,NA
+210,C3G,39848,9032,5/14/2009,18:00,IN_TEST,31,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+211,C3G,39480,9032,5/15/2009,7:20,IN_TEST,32,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+212,C3G,39556,9032,5/15/2009,17:15,IN_TEST,32,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+213,C3G,39623,9032,5/16/2009,7:21,IN_TEST,33,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+214,C3G,39670,9032,5/16/2009,17:22,IN_TEST,33,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+215,C3G,39732,9032,5/17/2009,7:45,IN_TEST,34,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+216,C3G,39785,9032,5/17/2009,17:30,IN_TEST,34,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+217,C3G,39833,9032,5/18/2009,7:35,IN_TEST,35,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,"Per physician order and protocol, Vitamin D, 800 IU by mouth (po)."
+218,C3G,39871,9032,5/18/2009,17:29,IN_TEST,35,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+219,C3G,39901,9032,5/19/2009,7:15,IN_TEST,36,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+220,C3G,39949,9032,5/19/2009,17:21,IN_TEST,36,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+221,C3G,39997,9032,5/20/2009,7:12,IN_TEST,37,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,"Per physician (MD) order, Vitamin D, 800 IU, given with breakfast."
+222,C3G,40040,9032,5/20/2009,17:20,IN_TEST,37,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+223,C3G,40097,9032,5/21/2009,7:10,IN_TEST,38,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+224,C3G,40144,9032,5/21/2009,17:21,IN_TEST,38,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+225,C3G,40182,9032,5/22/2009,7:20,IN_TEST,39,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+226,C3G,40222,9032,5/22/2009,17:40,IN_TEST,39,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+227,C3G,40292,9032,5/23/2009,7:20,IN_TEST,40,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,"Per physician (MD) order, Vitamin D, 800 IU, given with breakfast."
+228,C3G,40337,9032,5/23/2009,17:38,IN_TEST,40,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+229,C3G,40419,9032,5/24/2009,7:22,IN_TEST,41,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,"Entered by R.L. Peek, RN."
+230,C3G,40420,9032,5/24/2009,17:15,IN_TEST,41,PO-by mouth,Colace 100mg,2,No,NA,0,0,"Entered by R.L. Peek, RN."
+231,C3G,40455,9032,5/25/2009,7:02,IN_TEST,42,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,"Per physician (MD) order, Vitamin D, 800 IU, given with breakfast."
+232,C3G,40501,9032,5/25/2009,11:35,IN_TEST,42,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Platts (Gender Differences),0,0,NA
+233,C3G,40500,9032,5/25/2009,17:15,IN_TEST,42,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+234,C3G,40542,9032,5/26/2009,7:03,IN_TEST,43,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,Vitamin D given with breakfast.
+235,C3G,40579,9032,5/26/2009,17:05,IN_TEST,43,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+236,C3G,40610,9032,5/27/2009,7:00,IN_TEST,44,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+237,C3G,40647,9032,5/27/2009,17:05,IN_TEST,44,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+238,C3G,40693,9032,5/28/2009,7:20,IN_TEST,45,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+239,C3G,40735,9032,5/28/2009,17:15,IN_TEST,45,PO-by mouth,Colace 100mg,2,No,NA,0,0,"Given by R.L. Peek, RN."
+240,C3G,40767,9032,5/29/2009,7:02,IN_TEST,46,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,"Per doctor's (MD) order, Vitamin D, 800 IU, given with breakfast."
+241,C3G,40810,9032,5/29/2009,17:03,IN_TEST,46,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+242,C3G,40856,9032,5/30/2009,7:30,IN_TEST,47,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,Given with breakfast.
+243,C3G,40894,9032,5/30/2009,17:35,IN_TEST,47,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+244,C3G,40928,9032,5/31/2009,7:30,IN_TEST,48,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+245,C3G,40947,9032,5/31/2009,17:40,IN_TEST,48,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+246,C3G,41024,9032,6/1/2009,7:19,IN_TEST,49,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,"Per protocol, Vitamin D, 800 IU, by mouth (po)."
+247,C3G,41025,9032,6/1/2009,17:16,IN_TEST,49,PO-by mouth,Colace 100mg,2,No,NA,0,0,"Per physician order, Colace, 200 mg, by mouth (po)."
+248,C3G,41071,9032,6/2/2009,7:45,IN_TEST,50,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+249,C3G,41090,9032,6/2/2009,13:50,IN_TEST,50,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Platts (Gender Differences),0,0,NA
+250,C3G,41098,9032,6/2/2009,17:55,IN_TEST,50,PO-by mouth,Acetaminophen 325mg,2,Yes,Dr. Platts (Gender Differences),5,1,"At 18:55, subject voices headache now rated 1 on a 0-10 pain scale."
+251,C3G,41097,9032,6/2/2009,17:55,IN_TEST,50,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+252,C3G,41152,9032,6/3/2009,7:45,IN_TEST,51,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+253,C3G,41192,9032,6/3/2009,17:54,IN_TEST,51,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+254,C3G,41235,9032,6/4/2009,7:45,IN_TEST,52,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+255,C3G,41270,9032,6/4/2009,17:37,IN_TEST,52,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+256,C3G,41291,9032,6/5/2009,7:00,IN_TEST,53,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+257,C3G,41333,9032,6/5/2009,17:30,IN_TEST,53,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+258,C3G,41358,9032,6/6/2009,7:00,IN_TEST,54,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,"Per physician (MD) order, Vitamin D, 800 IU, given with breakfast."
+259,C3G,41376,9032,6/6/2009,8:30,IN_TEST,54,IV-intravenous,Normal Saline Dose: 0.9 Duration: 12 cc/hr for 26 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,"Per Dorsal Hand Vein testing flow sheet, for 32 minutes. Entered by Veronica Honc, RN."
+260,C3G,41377,9032,6/6/2009,9:05,IN_TEST,54,IV-intravenous,Ketorolac Dose: 12.5 mcq/0.1 ml Duration: 6 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,"Entered by Veronica Honc, RN."
+261,C3G,41377,9032,6/6/2009,9:05,IN_TEST,54,IV-intravenous,Normal Saline Dose: 0.9 Duration: 6 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,"Entered by Veronica Honc, RN."
+262,C3G,41378,9032,6/6/2009,9:21,IN_TEST,54,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Entered by Veronica Honc, RN."
+263,C3G,41378,9032,6/6/2009,9:21,IN_TEST,54,IV-intravenous,Normal Saline Dose: 0.9 Duration: 3 cc/hr for 20 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,"Entered by Veronica Honc, RN."
+264,C3G,41378,9032,6/6/2009,9:21,IN_TEST,54,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Entered by Veronica Honc, RN."
+265,C3G,41379,9032,6/6/2009,10:20,IN_TEST,54,IV-intravenous,Isoproterenol Dose: 200 ng/0.1ml Duration: 3 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,"Entered by Veronica Honc, RN."
+266,C3G,41379,9032,6/6/2009,10:20,IN_TEST,54,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Entered by Veronica Honc, RN."
+267,C3G,41379,9032,6/6/2009,10:20,IN_TEST,54,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Entered by Veronica Honc, RN."
+268,C3G,41380,9032,6/6/2009,10:35,IN_TEST,54,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Entered by Veronica Honc, RN."
+269,C3G,41380,9032,6/6/2009,10:35,IN_TEST,54,IV-intravenous,Normal Saline Dose: 0.9 Duration: 3 cc/hr for 20 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,"Entered by Veronica Honc, RN."
+270,C3G,41380,9032,6/6/2009,10:35,IN_TEST,54,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Entered by Veronica Honc, RN."
+271,C3G,41381,9032,6/6/2009,10:48,IN_TEST,54,IV-intravenous,Acetylcholine Dose: 0.1 nmol / 0.05ml Duration: 3 cc/hr for 6 minutes (3 cc/hr for 6 minutes),NA,Yes,Dr. Platts (Gender Differences),0,0,"Entered by Veronica Honc, RN."
+272,C3G,41381,9032,6/6/2009,10:48,IN_TEST,54,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Entered by Veronica Honc, RN."
+273,C3G,41381,9032,6/6/2009,10:48,IN_TEST,54,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Entered by Veronica Honc, RN."
+274,C3G,41382,9032,6/6/2009,10:59,IN_TEST,54,IV-intravenous,Acetylcholine Dose: 0.316 nmol / 0.05ml Duration: 3 cc/hr for 6 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,"Entered by Veronica Honc, RN."
+275,C3G,41382,9032,6/6/2009,10:59,IN_TEST,54,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Entered by Veronica Honc, RN."
+276,C3G,41382,9032,6/6/2009,10:59,IN_TEST,54,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Entered by Veronica Honc, RN."
+277,C3G,41383,9032,6/6/2009,11:10,IN_TEST,54,IV-intravenous,Acetylcholine Dose: 0.1 nmol / 0.05ml Duration: 3 cc/hr for 6 minutes (3 cc/hr for 6 minutes),NA,Yes,Dr. Platts (Gender Differences),0,0,"Entered by Veronica Honc, RN."
+278,C3G,41383,9032,6/6/2009,11:10,IN_TEST,54,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Entered by Veronica Honc, RN."
+279,C3G,41383,9032,6/6/2009,11:10,IN_TEST,54,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,"Entered by Veronica Honc, RN."
+280,C3G,41585,9032,6/6/2009,17:00,IN_TEST,54,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+281,C3G,41430,9032,6/7/2009,7:05,IN_TEST,55,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,"Per protocol order, Vitamin D, 800 IU, given with breakfast."
+282,C3G,41442,9032,6/7/2009,8:33,IN_TEST,55,IV-intravenous,Normal Saline Dose: 0.9 Duration: 12 cc/hr for 26 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,Infusing for 36 minutes.
+283,C3G,41443,9032,6/7/2009,9:15,IN_TEST,55,IV-intravenous,Ketorolac Dose: 12.5 mcq/0.1 ml Duration: 6 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+284,C3G,41443,9032,6/7/2009,9:15,IN_TEST,55,IV-intravenous,Normal Saline Dose: 0.9 Duration: 6 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+285,C3G,41444,9032,6/7/2009,9:31,IN_TEST,55,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr) (for 20 minutes),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+286,C3G,41444,9032,6/7/2009,9:31,IN_TEST,55,IV-intravenous,Normal Saline Dose: 0.9 Duration: 3 cc/hr for 20 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+287,C3G,41444,9032,6/7/2009,9:31,IN_TEST,55,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr) (for 20 minutes),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+288,C3G,41445,9032,6/7/2009,9:55,IN_TEST,55,IV-intravenous,Isoproterenol Dose: 200 ng/0.1ml Duration: 3 cc/hr for 10 minutes (infusion over 10 minutes),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+289,C3G,41445,9032,6/7/2009,9:55,IN_TEST,55,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr) (infusion over 10 minutes),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+290,C3G,41445,9032,6/7/2009,9:55,IN_TEST,55,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr) (infusion over 10 minutes),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+291,C3G,41446,9032,6/7/2009,10:13,IN_TEST,55,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr) (infusing for 30 minutes),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+292,C3G,41446,9032,6/7/2009,10:13,IN_TEST,55,IV-intravenous,Normal Saline Dose: 0.9 Duration: 3 cc/hr for 20 minutes (infusing for 30 minutes),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+293,C3G,41446,9032,6/7/2009,10:13,IN_TEST,55,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr) (infusing for 30 minutes),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+294,C3G,41447,9032,6/7/2009,10:43,IN_TEST,55,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,Ketorolac 3.0mcg/0.1ml infused for 10 minutes. Strength documented on this list of medications. Duration documented here.
+295,C3G,41447,9032,6/7/2009,10:43,IN_TEST,55,IV-intravenous,Normal Saline 9cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,Ketorolac 3.0mcg/0.1ml infused for 10 minutes. Strength documented on this list of medications. Duration documented here.
+296,C3G,41448,9032,6/7/2009,10:55,IN_TEST,55,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,Simultaneously.
+297,C3G,41448,9032,6/7/2009,10:55,IN_TEST,55,IV-intravenous,Normal Saline Dose: 0.9 Duration: 3 cc/hr for 20 minutes (for 10 minutes),NA,Yes,Dr. Platts (Gender Differences),0,0,Simultaneously.
+298,C3G,41448,9032,6/7/2009,10:55,IN_TEST,55,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr) (for 10 minutes),NA,Yes,Dr. Platts (Gender Differences),0,0,Simultaneously.
+299,C3G,41449,9032,6/7/2009,11:26,IN_TEST,55,IV-intravenous,Normal Saline Dose: 0.9 Duration: 12 cc/hr for 26 minutes (infusion for 16 minutes),NA,No,Dr. Platts (Gender Differences),0,0,NA
+300,C3G,41584,9032,6/7/2009,17:00,IN_TEST,55,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+301,C3G,41499,9032,6/8/2009,7:10,IN_TEST,56,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+302,C3G,41515,9032,6/8/2009,8:38,IN_TEST,56,IV-intravenous,Normal Saline Dose: 0.9 Duration: 6 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+303,C3G,41512,9032,6/8/2009,8:56,IN_TEST,56,IV-intravenous,Phenylephrine Dose: 0.4 mcg Duration: 6cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+304,C3G,41513,9032,6/8/2009,9:08,IN_TEST,56,IV-intravenous,Phenylephrine Dose: 0.8 mcg Duration: 12cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+305,C3G,41514,9032,6/8/2009,9:18,IN_TEST,56,IV-intravenous,Phenylephrine Dose: 1.6 mcg Duration: 24cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+306,C3G,41519,9032,6/8/2009,9:49,IN_TEST,56,IV-intravenous,Normal Saline Dose: 0.9 Duration: 6 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+307,C3G,41516,9032,6/8/2009,10:02,IN_TEST,56,IV-intravenous,Sodium Nitroprusside Dose: 0.4 mcg Duration: 6 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+308,C3G,41517,9032,6/8/2009,10:13,IN_TEST,56,IV-intravenous,Sodium Nitroprusside Dose: 0.8 mcg Duration: 12 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+309,C3G,41518,9032,6/8/2009,10:24,IN_TEST,56,IV-intravenous,Sodium Nitroprusside Dose: 1.2 mcg Duration: 18cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+310,C3G,41538,9032,6/8/2009,17:00,IN_TEST,56,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+311,C3G,41561,9032,6/9/2009,7:00,IN_TEST,57,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+312,C3G,41600,9032,6/9/2009,17:05,IN_TEST,57,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+313,C3G,41630,9032,6/10/2009,6:00,IN_TEST,58,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+314,C3G,41645,9032,6/10/2009,8:27,IN_TEST,58,IV-intravenous,Normal Saline Dose: 0.9 Duration: 12 cc/hr for 26 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+315,C3G,41646,9032,6/10/2009,9:04,IN_TEST,58,IV-intravenous,Ketorolac Dose: 12.5 mcq/0.1 ml Duration: 6 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+316,C3G,41646,9032,6/10/2009,9:04,IN_TEST,58,IV-intravenous,Normal Saline Dose: 0.9 Duration: 6 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+317,C3G,41647,9032,6/10/2009,9:19,IN_TEST,58,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+318,C3G,41647,9032,6/10/2009,9:19,IN_TEST,58,IV-intravenous,Normal Saline Dose: 0.9 Duration: 3 cc/hr for 20 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+319,C3G,41647,9032,6/10/2009,9:19,IN_TEST,58,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+320,C3G,41648,9032,6/10/2009,10:03,IN_TEST,58,IV-intravenous,Isoproterenol Dose: 200 ng/0.1ml Duration: 3 cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+321,C3G,41648,9032,6/10/2009,10:03,IN_TEST,58,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+322,C3G,41648,9032,6/10/2009,10:03,IN_TEST,58,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+323,C3G,41649,9032,6/10/2009,10:15,IN_TEST,58,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+324,C3G,41649,9032,6/10/2009,10:15,IN_TEST,58,IV-intravenous,Normal Saline Dose: 0.9 Duration: 3 cc/hr for 20 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+325,C3G,41649,9032,6/10/2009,10:15,IN_TEST,58,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+326,C3G,41650,9032,6/10/2009,10:29,IN_TEST,58,IV-intravenous,Acetylcholine Dose: 0.1 nmol / 0.05ml Duration: 3 cc/hr for 6 minutes (3 cc/hr for 6 minutes),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+327,C3G,41650,9032,6/10/2009,10:29,IN_TEST,58,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+328,C3G,41650,9032,6/10/2009,10:29,IN_TEST,58,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+329,C3G,41652,9032,6/10/2009,10:38,IN_TEST,58,IV-intravenous,Acetylcholine Dose: 0.316 nmol / 0.05ml Duration: 3 cc/hr for 6 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+330,C3G,41652,9032,6/10/2009,10:38,IN_TEST,58,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+331,C3G,41652,9032,6/10/2009,10:38,IN_TEST,58,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+332,C3G,41653,9032,6/10/2009,10:47,IN_TEST,58,IV-intravenous,Acetylcholine Dose: 1.0 nmol / 0.05 ml Duration: 3 cc/hr for 6 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+333,C3G,41653,9032,6/10/2009,10:47,IN_TEST,58,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+334,C3G,41653,9032,6/10/2009,10:47,IN_TEST,58,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+335,C3G,41654,9032,6/10/2009,10:56,IN_TEST,58,IV-intravenous,Acetylcholine Dose: 3.16 nmol/0.05 ml Duration: 3 cc/hr for 6 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+336,C3G,41654,9032,6/10/2009,10:56,IN_TEST,58,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+337,C3G,41654,9032,6/10/2009,10:56,IN_TEST,58,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+338,C3G,41656,9032,6/10/2009,11:06,IN_TEST,58,IV-intravenous,Acetylcholine Dose: 0.1 nmol / 0.05ml Duration: 3 cc/hr for 6 minutes (3 cc/hr for 6 minutes),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+339,C3G,41656,9032,6/10/2009,11:06,IN_TEST,58,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+340,C3G,41656,9032,6/10/2009,11:06,IN_TEST,58,IV-intravenous,LNMMA Dose: 50 mcg / 0.05ml Duration: 3cc/hr for 10 minutes,NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+341,C3G,41656,9032,6/10/2009,11:06,IN_TEST,58,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+342,C3G,41657,9032,6/10/2009,11:21,IN_TEST,58,IV-intravenous,Ketorolac Dose: 3.0 mcq/ 0.1 ml Duration: 3 cc/hr for 10 minutes (3 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+343,C3G,41657,9032,6/10/2009,11:21,IN_TEST,58,IV-intravenous,Nitroglycerin Dose: 16 pmol /0.1 ml Duration: 6 cc/hr for 10 minutes (6 cc/hr for 10 minutes),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+344,C3G,41657,9032,6/10/2009,11:21,IN_TEST,58,IV-intravenous,Phenylephrine Dose: 3160ng / 0.1ml Duration: 6 cc/hr for 6 minutes (6 cc/hr),NA,Yes,Dr. Platts (Gender Differences),0,0,NA
+345,C3G,41678,9032,6/10/2009,17:30,IN_TEST,58,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+346,C3G,41705,9032,6/11/2009,7:20,IN_TEST,59,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+347,C3G,41735,9032,6/11/2009,17:15,IN_TEST,59,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+348,C3G,41755,9032,6/12/2009,7:01,IN_TEST,60,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+349,C3G,41782,9032,6/12/2009,17:05,IN_TEST,60,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA

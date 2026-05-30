@@ -1,0 +1,325 @@
+﻿ID,Campaign,Record,Subject,Date,Time_Administered,Test_Phase,BR_Day,Route,Medication,Quantity,Related_to_Test,Test,Initial_Pain_Score,OutCome_Pain_Score,Comments
+1,C3G,44325,5814,8/28/2009,6:30,PRE_TEST,12,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach.
+2,C3G,44331,5814,8/28/2009,15:35,PRE_TEST,12,Nasal,Oxymetazoline Nasal Spray,1,No,NA,0,0,For complaints of congestion. One spray in each nostril.
+3,C3G,44338,5814,8/29/2009,6:05,PRE_TEST,11,Nasal,Oxymetazoline Nasal Spray,2,No,NA,0,0,Subject took two sprays per nostril.
+4,C3G,44340,5814,8/29/2009,6:45,PRE_TEST,11,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+5,C3G,44348,5814,8/30/2009,6:30,PRE_TEST,10,Nasal,Oxymetazoline Nasal Spray,2,No,NA,0,0,Two sprays per nostril for nasal congestion.
+6,C3G,44350,5814,8/30/2009,6:45,PRE_TEST,10,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+7,C3G,44359,5814,8/31/2009,6:30,PRE_TEST,9,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Iron given by Dora Kuntz, RN."
+8,C3G,44371,5814,9/1/2009,6:30,PRE_TEST,8,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach.
+9,C3G,44381,5814,9/2/2009,6:55,PRE_TEST,7,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+10,C3G,44389,5814,9/3/2009,6:35,PRE_TEST,6,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Per physician (MD) order, given on an empty stomach mixed with orange juice through a straw."
+11,C3G,44397,5814,9/4/2009,6:15,PRE_TEST,5,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+12,C3G,44399,5814,9/4/2009,12:26,PRE_TEST,5,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Platts (Gender Differences),0,0,NA
+13,C3G,44407,5814,9/5/2009,6:30,PRE_TEST,4,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach.
+14,C3G,44416,5814,9/6/2009,6:20,PRE_TEST,3,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+15,C3G,44426,5814,9/7/2009,6:30,PRE_TEST,2,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.
+16,C3G,44434,5814,9/8/2009,6:30,PRE_TEST,1,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+17,C3G,44442,5814,9/9/2009,6:45,IN_TEST,1,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+18,C3G,44448,5814,9/9/2009,17:04,IN_TEST,1,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+19,C3G,44449,5814,9/9/2009,17:04,IN_TEST,1,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+20,C3G,44454,5814,9/10/2009,6:30,IN_TEST,2,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.
+21,C3G,44463,5814,9/10/2009,17:15,IN_TEST,2,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+22,C3G,44464,5814,9/10/2009,17:15,IN_TEST,2,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+23,C3G,44467,5814,9/11/2009,6:33,IN_TEST,3,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+24,C3G,44474,5814,9/11/2009,17:00,IN_TEST,3,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+25,C3G,44475,5814,9/11/2009,17:00,IN_TEST,3,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+26,C3G,44480,5814,9/12/2009,6:30,IN_TEST,4,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+27,C3G,44485,5814,9/12/2009,16:59,IN_TEST,4,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+28,C3G,44486,5814,9/12/2009,16:59,IN_TEST,4,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+29,C3G,44492,5814,9/13/2009,6:30,IN_TEST,5,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+30,C3G,44503,5814,9/13/2009,17:00,IN_TEST,5,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+31,C3G,44504,5814,9/13/2009,17:00,IN_TEST,5,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+32,C3G,44510,5814,9/14/2009,6:20,IN_TEST,6,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Iron given by Dora Kuntz, RN."
+33,C3G,44517,5814,9/14/2009,17:00,IN_TEST,6,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+34,C3G,44518,5814,9/14/2009,17:00,IN_TEST,6,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+35,C3G,44524,5814,9/15/2009,6:30,IN_TEST,7,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+36,C3G,44527,5814,9/15/2009,10:21,IN_TEST,7,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Platts (Gender Differences),0,0,NA
+37,C3G,44532,5814,9/15/2009,17:03,IN_TEST,7,PO-by mouth,Colace 100mg,2,No,NA,0,0,"Dosage increased today to 200 mg by D. Ware, MD."
+38,C3G,44533,5814,9/15/2009,17:03,IN_TEST,7,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+39,C3G,44540,5814,9/16/2009,6:30,IN_TEST,8,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+40,C3G,44548,5814,9/16/2009,17:02,IN_TEST,8,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+41,C3G,44549,5814,9/16/2009,17:02,IN_TEST,8,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+42,C3G,44561,5814,9/17/2009,6:33,IN_TEST,9,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+43,C3G,44562,5814,9/17/2009,17:00,IN_TEST,9,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+44,C3G,44563,5814,9/17/2009,17:00,IN_TEST,9,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+45,C3G,44568,5814,9/18/2009,6:20,IN_TEST,10,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Per physician (MD) order, given on an empty stomach in orange juice through a straw."
+46,C3G,44573,5814,9/18/2009,17:00,IN_TEST,10,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+47,C3G,44574,5814,9/18/2009,17:00,IN_TEST,10,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+48,C3G,44579,5814,9/19/2009,6:15,IN_TEST,11,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach.
+49,C3G,44580,5814,9/19/2009,6:30,IN_TEST,11,Nasal,Oxymetazoline Nasal Spray,1,No,NA,0,0,To each nostril for complaints of nasal congestion.
+50,C3G,44591,5814,9/19/2009,17:15,IN_TEST,11,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+51,C3G,44592,5814,9/19/2009,17:15,IN_TEST,11,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+52,C3G,44597,5814,9/20/2009,6:30,IN_TEST,12,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+53,C3G,44603,5814,9/20/2009,17:00,IN_TEST,12,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+54,C3G,44604,5814,9/20/2009,17:00,IN_TEST,12,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+55,C3G,44610,5814,9/21/2009,6:35,IN_TEST,13,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+56,C3G,44617,5814,9/21/2009,17:15,IN_TEST,13,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+57,C3G,44618,5814,9/21/2009,17:15,IN_TEST,13,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+58,C3G,44624,5814,9/22/2009,6:30,IN_TEST,14,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Given on an empty stomach, in orange juice through a straw after subject urinated."
+59,C3G,44633,5814,9/22/2009,17:02,IN_TEST,14,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+60,C3G,44634,5814,9/22/2009,17:02,IN_TEST,14,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+61,C3G,44638,5814,9/23/2009,6:20,IN_TEST,15,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Taken on an empty stomach through a straw in orange juice. Taken after urinating.
+62,C3G,44645,5814,9/23/2009,17:07,IN_TEST,15,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+63,C3G,44646,5814,9/23/2009,17:07,IN_TEST,15,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+64,C3G,44657,5814,9/24/2009,17:00,IN_TEST,16,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+65,C3G,44658,5814,9/24/2009,17:00,IN_TEST,16,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+66,C3G,44660,5814,9/24/2009,6:25,IN_TEST,16,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+67,C3G,44663,5814,9/25/2009,6:25,IN_TEST,17,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+68,C3G,44668,5814,9/25/2009,17:02,IN_TEST,17,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+69,C3G,44669,5814,9/25/2009,17:02,IN_TEST,17,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+70,C3G,44676,5814,9/26/2009,6:30,IN_TEST,18,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Given on empty stomach, through a straw, in orange juice. Given after urinating."
+71,C3G,44682,5814,9/26/2009,17:02,IN_TEST,18,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+72,C3G,44683,5814,9/26/2009,17:02,IN_TEST,18,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+73,C3G,44690,5814,9/27/2009,6:35,IN_TEST,19,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+74,C3G,44697,5814,9/27/2009,17:02,IN_TEST,19,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+75,C3G,44698,5814,9/27/2009,17:02,IN_TEST,19,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+76,C3G,44704,5814,9/28/2009,6:18,IN_TEST,20,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+77,C3G,44712,5814,9/28/2009,17:00,IN_TEST,20,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+78,C3G,44713,5814,9/28/2009,17:00,IN_TEST,20,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+79,C3G,44720,5814,9/29/2009,6:30,IN_TEST,21,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+80,C3G,44722,5814,9/29/2009,11:35,IN_TEST,21,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Platts (Gender Differences),0,0,NA
+81,C3G,44731,5814,9/29/2009,17:05,IN_TEST,21,PO-by mouth,Colace 100mg,2,No,NA,0,0,This medication WAS given at 17:05 not at 17:20!!! Please note this with fixits!! 17:05 was the correct time according to the nursing chart.
+82,C3G,44732,5814,9/29/2009,17:05,IN_TEST,21,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+83,C3G,44738,5814,9/30/2009,6:30,IN_TEST,22,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+84,C3G,44742,5814,9/30/2009,11:20,IN_TEST,22,Nasal,Oxymetazoline Nasal Spray,1,No,NA,0,0,One spray in each nostril for complaints of nasal/head congestion.
+85,C3G,44746,5814,9/30/2009,17:20,IN_TEST,22,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+86,C3G,44747,5814,9/30/2009,17:20,IN_TEST,22,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+87,C3G,44750,5814,9/30/2009,17:39,IN_TEST,22,PO-by mouth,650mg,NA,No,NA,4,0,"Subject given liquid Tylenol, 650 mg, by mouth for sinus congestion."
+88,C3G,44751,5814,9/30/2009,19:15,IN_TEST,22,Topical,Aquaphor Lotion,1,No,NA,0,0,"Subject applying to raw, red skin on nose from nasal drainage."
+89,C3G,44754,5814,9/30/2009,20:15,IN_TEST,22,Nasal,Oxymetazoline Nasal Spray,1,No,NA,0,0,For nasal drip/head congestion. See symptom log.
+90,C3G,44757,5814,10/1/2009,6:15,IN_TEST,23,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given to subject on an empty stomach in orange juice through a straw. Given after subject urinated.
+91,C3G,44762,5814,10/1/2009,12:29,IN_TEST,23,Nasal,Oxymetazoline Nasal Spray,1,No,NA,0,0,One spray to each nostril.
+92,C3G,44765,5814,10/1/2009,14:18,IN_TEST,23,Topical,Aquaphor Lotion,1,No,NA,0,0,Given to prevent pain from chapping. Applied to nose due to nasal congestion and use of Kleenex.
+93,C3G,44767,5814,10/1/2009,17:08,IN_TEST,23,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+94,C3G,44768,5814,10/1/2009,17:10,IN_TEST,23,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+95,C3G,44773,5814,10/1/2009,18:46,IN_TEST,23,PO-by mouth,Tylenol 650mg,NA,No,NA,0,0,"Per subject request, given for nasal congestion."
+96,C3G,44772,5814,10/2/2009,6:40,IN_TEST,24,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Given before breakfast, in orange juice, through a straw. Given after urinating."
+97,C3G,44782,5814,10/2/2009,16:45,IN_TEST,24,Nasal,Oxymetazoline Nasal Spray,1,No,NA,0,0,One spray each nostril.
+98,C3G,44784,5814,10/2/2009,17:00,IN_TEST,24,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+99,C3G,44785,5814,10/2/2009,17:00,IN_TEST,24,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+100,C3G,44789,5814,10/3/2009,6:20,IN_TEST,25,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach.
+101,C3G,44797,5814,10/3/2009,17:00,IN_TEST,25,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+102,C3G,44798,5814,10/3/2009,17:00,IN_TEST,25,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+103,C3G,44801,5814,10/4/2009,6:36,IN_TEST,26,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+104,C3G,44807,5814,10/4/2009,17:02,IN_TEST,26,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+105,C3G,44808,5814,10/4/2009,17:02,IN_TEST,26,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+106,C3G,44812,5814,10/5/2009,6:20,IN_TEST,27,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach.
+107,C3G,44819,5814,10/5/2009,17:00,IN_TEST,27,PO-by mouth,Colace 100mg,2,No,NA,0,0,No issue.
+108,C3G,44820,5814,10/5/2009,17:00,IN_TEST,27,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,No issue.
+109,C3G,44830,5814,10/6/2009,7:00,IN_TEST,28,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+110,C3G,44851,5814,10/6/2009,17:00,IN_TEST,28,PO-by mouth,Colace 100mg,2,No,NA,0,0,No issues.
+111,C3G,44852,5814,10/6/2009,17:00,IN_TEST,28,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,No issues.
+112,C3G,44861,5814,10/7/2009,6:40,IN_TEST,29,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given before breakfast in orange juice with a straw. Given after urinating.
+113,C3G,44873,5814,10/7/2009,17:09,IN_TEST,29,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+114,C3G,44874,5814,10/7/2009,17:09,IN_TEST,29,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+115,C3G,44887,5814,10/8/2009,6:43,IN_TEST,30,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with straw on an empty stomach before breakfast.
+116,C3G,44905,5814,10/8/2009,17:00,IN_TEST,30,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+117,C3G,44906,5814,10/8/2009,17:00,IN_TEST,30,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+118,C3G,44920,5814,10/9/2009,6:25,IN_TEST,31,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.
+119,C3G,44926,5814,10/9/2009,11:03,IN_TEST,31,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Platts (Gender Differences),1,0,NA
+120,C3G,44934,5814,10/9/2009,17:15,IN_TEST,31,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+121,C3G,44935,5814,10/9/2009,17:15,IN_TEST,31,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+122,C3G,44948,5814,10/10/2009,6:35,IN_TEST,32,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+123,C3G,44951,5814,10/10/2009,7:10,IN_TEST,32,Nasal,Oxymetazoline Nasal Spray,1,No,NA,0,0,One spray to each nostril.
+124,C3G,44961,5814,10/10/2009,17:20,IN_TEST,32,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+125,C3G,44962,5814,10/10/2009,17:20,IN_TEST,32,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+126,C3G,44967,5814,10/10/2009,19:50,IN_TEST,32,Nasal,Oxymetazoline Nasal Spray,1,No,NA,0,0,NA
+127,C3G,44980,5814,10/11/2009,6:40,IN_TEST,33,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+128,C3G,44983,5814,10/11/2009,10:20,IN_TEST,33,PO-by mouth,Tylenol 650mg,NA,No,NA,1,0,Will re-evaluate at later time.
+129,C3G,44994,5814,10/11/2009,15:55,IN_TEST,33,Topical,Menthol 0.25% & Camphor 0.25% in Eucerin,NA,No,NA,1,0,Subject's nasal congestion worsening. Coordinator on Duty contacted Project Science Team for approval.
+130,C3G,44998,5814,10/11/2009,17:00,IN_TEST,33,PO-by mouth,Colace 100mg,2,No,NA,0,0,No issues.
+131,C3G,44999,5814,10/11/2009,17:00,IN_TEST,33,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,No issues.
+132,C3G,45009,5814,10/11/2009,21:30,IN_TEST,33,Topical,Menthol 0.25% and camphor 0.25% in Eucerin base.,NA,No,NA,0,0,Given for nasal congestion.
+133,C3G,45017,5814,10/12/2009,7:10,IN_TEST,34,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice on an empty stomach through a straw.
+134,C3G,45022,5814,10/12/2009,7:48,IN_TEST,34,Topical,1,NA,No,NA,0,0,0.25% menthol and 0.25% camphor in Eucerin as a base applied topically to reduce nasal congestion.
+135,C3G,45030,5814,10/12/2009,17:02,IN_TEST,34,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+136,C3G,45031,5814,10/12/2009,17:02,IN_TEST,34,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+137,C3G,45036,5814,10/12/2009,18:00,IN_TEST,34,Topical,1,NA,No,NA,0,0,0.25% menthol and 0.25% camphor in Eucerin applied topically to nose and upper chest to reduce congestion and improve ability to breath.
+138,C3G,45039,5814,10/12/2009,21:15,IN_TEST,34,Topical,Mentol 0.25 Camphor 0.25 in Eucerin,NA,No,NA,0,0,NA
+139,C3G,45046,5814,10/13/2009,6:20,IN_TEST,35,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.
+140,C3G,45072,5814,10/13/2009,17:00,IN_TEST,35,PO-by mouth,Colace 100mg,2,No,NA,0,0,"As per orders, given with dinner."
+141,C3G,45073,5814,10/13/2009,17:00,IN_TEST,35,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+142,C3G,45081,5814,10/14/2009,6:50,IN_TEST,36,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.
+143,C3G,45085,5814,10/14/2009,7:15,IN_TEST,36,Topical,Eucerin,NA,No,NA,0,0,Eucerin with menthol 0.25% plus 0.25% camphor.
+144,C3G,45097,5814,10/14/2009,17:15,IN_TEST,36,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+145,C3G,45098,5814,10/14/2009,17:15,IN_TEST,36,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+146,C3G,45119,5814,10/15/2009,6:40,IN_TEST,37,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.
+147,C3G,45142,5814,10/15/2009,17:16,IN_TEST,37,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+148,C3G,45143,5814,10/15/2009,17:16,IN_TEST,37,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+149,C3G,45158,5814,10/16/2009,6:30,IN_TEST,38,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Iron given on empty stomach after urinating. Given in orange juice thru a straw.
+150,C3G,45172,5814,10/16/2009,17:15,IN_TEST,38,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+151,C3G,45173,5814,10/16/2009,17:15,IN_TEST,38,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+152,C3G,45184,5814,10/16/2009,21:00,IN_TEST,38,Topical,menthol 0.25% camphor 0.25% in Eucerin,NA,No,NA,0,0,Requested for nasal congestion.
+153,C3G,45192,5814,10/17/2009,6:35,IN_TEST,39,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+154,C3G,45212,5814,10/17/2009,15:00,IN_TEST,39,Nasal,1,NA,No,NA,0,0,"Sodium chloride 0.9% nasal spray, 5 mL, to each nostril."
+155,C3G,45219,5814,10/17/2009,17:20,IN_TEST,39,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+156,C3G,45220,5814,10/17/2009,17:20,IN_TEST,39,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+157,C3G,45223,5814,10/17/2009,20:00,IN_TEST,39,Nasal,Sodium Chloride Nasal Spray,NA,No,NA,0,0,NA
+158,C3G,45231,5814,10/18/2009,6:25,IN_TEST,40,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Given before breakfast, in orange juice, with a straw, on an empty stomach."
+159,C3G,45243,5814,10/18/2009,10:00,IN_TEST,40,Nasal,1,NA,No,NA,0,0,"Sodium Chloride 0.9% Nasal Spray, 5 mL to each nostril"
+160,C3G,45244,5814,10/18/2009,15:00,IN_TEST,40,Nasal,1,NA,No,NA,0,0,"Sodium Chloride 0.9% nasal spray, 5 mL to each nostril"
+161,C3G,45249,5814,10/18/2009,17:18,IN_TEST,40,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+162,C3G,45250,5814,10/18/2009,17:18,IN_TEST,40,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+163,C3G,45265,5814,10/18/2009,20:55,IN_TEST,40,Nasal,Sodium Chloride 0.9% Syringe,NA,No,NA,0,0,"Administered sodium chloride 0.9% syringe, 5 mL, to each nostril for compliant of nasal congestion."
+164,C3G,45278,5814,10/19/2009,6:40,IN_TEST,41,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Given before breakfast, in orange juice, with a straw, on an empty stomach."
+165,C3G,45291,5814,10/19/2009,10:15,IN_TEST,41,Nasal,Normal saline,1,No,NA,0,0,Five mL per each nostril.
+166,C3G,45307,5814,10/19/2009,17:15,IN_TEST,41,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+167,C3G,45308,5814,10/19/2009,17:15,IN_TEST,41,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+168,C3G,45313,5814,10/19/2009,20:30,IN_TEST,41,Nasal,Normal Saline,1,No,NA,0,0,"Per physician (MD) order, normal saline, 0.9%, 5 mL per nostril, given at this time."
+169,C3G,45330,5814,10/20/2009,6:35,IN_TEST,42,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+170,C3G,45339,5814,10/20/2009,9:30,IN_TEST,42,Nasal,1,NA,No,NA,0,0,"Normal saline, 0.9%, 5 cc flush per nostril."
+171,C3G,45350,5814,10/20/2009,15:45,IN_TEST,42,Nasal,1,NA,No,NA,0,0,"Normal saline, 0.9%, 5 cc to each nostril."
+172,C3G,45357,5814,10/20/2009,17:16,IN_TEST,42,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+173,C3G,45358,5814,10/20/2009,17:16,IN_TEST,42,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+174,C3G,45374,5814,10/20/2009,21:00,IN_TEST,42,Nasal,0.9% normal saline 5cc to each nostril.,NA,No,NA,0,0,NA
+175,C3G,45386,5814,10/21/2009,6:30,IN_TEST,43,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Given on empty stomach, in orange juice and through a straw."
+176,C3G,45397,5814,10/21/2009,9:00,IN_TEST,43,Nasal,Normal Saline nose,1,No,NA,0,0,"Subject given normal saline, 5 cc, to each nostril for ""stuffiness."""
+177,C3G,45414,5814,10/21/2009,17:25,IN_TEST,43,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+178,C3G,45415,5814,10/21/2009,17:25,IN_TEST,43,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+179,C3G,45422,5814,10/21/2009,15:30,IN_TEST,43,Nasal,Normal Saline nose drops,1,No,NA,0,0,"For nasal stuffiness, 5 cc, to each nostril."
+180,C3G,45440,5814,10/21/2009,21:35,IN_TEST,43,Nasal,Saline,1,No,NA,0,0,Saline wash with 10 cc syringe.
+181,C3G,45436,5814,10/22/2009,6:40,IN_TEST,44,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+182,C3G,45450,5814,10/22/2009,9:35,IN_TEST,44,Nasal,Normal Saline,1,No,NA,0,0,"Normal saline, 5 cc, to each nostril for rinsing which subject reports clears nose up for several hours. After putting in nose, the solution is allowed to run back out of nose."
+183,C3G,45461,5814,10/22/2009,16:25,IN_TEST,44,Nasal,Normal Saline,1,No,NA,0,0,"Normal saline, 5 cc, to each nostril for rinsing which subject reports clears nose up for several hours. After putting in nose, the solution is allowed to run back out of nose."
+184,C3G,45466,5814,10/22/2009,17:15,IN_TEST,44,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+185,C3G,45467,5814,10/22/2009,17:15,IN_TEST,44,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+186,C3G,45469,5814,10/22/2009,21:22,IN_TEST,44,PO-by mouth,10 ml saline syringe,1,No,NA,0,0,NA
+187,C3G,45478,5814,10/23/2009,6:50,IN_TEST,45,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+188,C3G,45486,5814,10/23/2009,9:45,IN_TEST,45,Nasal,Normal Saline,1,No,NA,0,0,5 cc to each nostril.
+189,C3G,45486,5814,10/23/2009,9:45,IN_TEST,45,Nasal,0.90%,1,No,NA,0,0,5 cc to each nostril.
+190,C3G,45495,5814,10/23/2009,15:20,IN_TEST,45,Nasal,Normal Saline,1,No,NA,0,0,5 cc to each nostril.
+191,C3G,45495,5814,10/23/2009,15:20,IN_TEST,45,Nasal,0.90%,1,No,NA,0,0,5 cc to each nostril.
+192,C3G,45499,5814,10/23/2009,17:05,IN_TEST,45,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+193,C3G,45500,5814,10/23/2009,17:05,IN_TEST,45,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+194,C3G,45513,5814,10/24/2009,7:00,IN_TEST,46,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+195,C3G,45517,5814,10/24/2009,9:40,IN_TEST,46,Nasal,Normal Saline,1,No,NA,0,0,5cc instilled in each nare.
+196,C3G,45519,5814,10/24/2009,14:45,IN_TEST,46,Nasal,Normal Saline,1,No,NA,0,0,5 cc per nostril.
+197,C3G,45529,5814,10/24/2009,17:07,IN_TEST,46,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+198,C3G,45531,5814,10/24/2009,17:07,IN_TEST,46,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+199,C3G,45535,5814,10/24/2009,17:45,IN_TEST,46,PO-by mouth,Tylenol,1,No,NA,5,0,NA
+200,C3G,45535,5814,10/24/2009,17:45,IN_TEST,46,PO-by mouth,650 mg,1,No,NA,5,0,NA
+201,C3G,45535,5814,10/24/2009,17:45,IN_TEST,46,PO-by mouth,elixir,1,No,NA,5,0,NA
+202,C3G,45539,5814,10/24/2009,19:20,IN_TEST,46,Topical,menthol 0.25% + camphor 0.25% in Eucerin,1,No,NA,0,0,Applied topically to nose for nasal congestion.
+203,C3G,45541,5814,10/24/2009,20:37,IN_TEST,46,Nasal,Normal Saline,1,No,NA,0,0,"Normal saline, 0.9%, to each nare for nasal congestion."
+204,C3G,45541,5814,10/24/2009,20:37,IN_TEST,46,Nasal,0.90%,1,No,NA,0,0,"Normal saline, 0.9%, to each nare for nasal congestion."
+205,C3G,45541,5814,10/24/2009,20:37,IN_TEST,46,Nasal,10 mL,1,No,NA,0,0,"Normal saline, 0.9%, to each nare for nasal congestion."
+206,C3G,45554,5814,10/25/2009,6:40,IN_TEST,47,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Per physician (MD) order, given on empty stomach, mixed in orange juice and given through a straw."
+207,C3G,45558,5814,10/25/2009,8:30,IN_TEST,47,Nasal,Normal Saline,1,No,NA,0,0,5 cc per nostril.
+208,C3G,45558,5814,10/25/2009,8:30,IN_TEST,47,Nasal,0.90%,1,No,NA,0,0,5 cc per nostril.
+209,C3G,45570,5814,10/25/2009,16:00,IN_TEST,47,Nasal,Normal Saline,1,No,NA,0,0,5 cc instilled into each nostril and normal saline drained by subject after instilling.
+210,C3G,45570,5814,10/25/2009,16:00,IN_TEST,47,Nasal,0.90%,1,No,NA,0,0,5 cc instilled into each nostril and normal saline drained by subject after instilling.
+211,C3G,45572,5814,10/25/2009,16:38,IN_TEST,47,Topical,menthol 0.25% + camphor 0.25% in Eucerin,1,No,NA,0,0,Dollop applied to skin on nose and under nose.
+212,C3G,45573,5814,10/25/2009,17:05,IN_TEST,47,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+213,C3G,45574,5814,10/25/2009,17:05,IN_TEST,47,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+214,C3G,45582,5814,10/25/2009,20:40,IN_TEST,47,Nasal,Normal Saline,1,No,NA,0,0,"Normal saline, 9%, 5 mL, to each nare for complaints of nasal congestion."
+215,C3G,45582,5814,10/25/2009,20:40,IN_TEST,47,Nasal,0.90%,1,No,NA,0,0,"Normal saline, 9%, 5 mL, to each nare for complaints of nasal congestion."
+216,C3G,45582,5814,10/25/2009,20:40,IN_TEST,47,Nasal,10 mL,1,No,NA,0,0,"Normal saline, 9%, 5 mL, to each nare for complaints of nasal congestion."
+217,C3G,45593,5814,10/26/2009,6:30,IN_TEST,48,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+218,C3G,45596,5814,10/26/2009,9:30,IN_TEST,48,Nasal,Normal Saline,10,No,NA,0,0,5 cc per nostril.
+219,C3G,45596,5814,10/26/2009,9:30,IN_TEST,48,Nasal,0.90%,10,No,NA,0,0,5 cc per nostril.
+220,C3G,45602,5814,10/26/2009,15:00,IN_TEST,48,Nasal,Normal Saline,10,No,NA,0,0,5 cc given for each nostril.
+221,C3G,45602,5814,10/26/2009,15:00,IN_TEST,48,Nasal,0.90%,10,No,NA,0,0,5 cc given for each nostril.
+222,C3G,45611,5814,10/26/2009,17:10,IN_TEST,48,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+223,C3G,45612,5814,10/26/2009,17:10,IN_TEST,48,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+224,C3G,45619,5814,10/26/2009,19:05,IN_TEST,48,PO-by mouth,Normal Saline,1,No,NA,0,0,5 ml per nostril.
+225,C3G,45619,5814,10/26/2009,19:05,IN_TEST,48,PO-by mouth,0.90%,1,No,NA,0,0,5 ml per nostril.
+226,C3G,45628,5814,10/27/2009,6:35,IN_TEST,49,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+227,C3G,45633,5814,10/27/2009,10:10,IN_TEST,49,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Platts (Gender Differences),0,0,NA
+228,C3G,45635,5814,10/27/2009,12:15,IN_TEST,49,Nasal,Normal Saline,10,No,NA,0,0,Subject used 5 cc per nostril.
+229,C3G,45635,5814,10/27/2009,12:15,IN_TEST,49,Nasal,0.90%,10,No,NA,0,0,Subject used 5 cc per nostril.
+230,C3G,45652,5814,10/27/2009,17:00,IN_TEST,49,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+231,C3G,45653,5814,10/27/2009,17:00,IN_TEST,49,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+232,C3G,45660,5814,10/27/2009,20:15,IN_TEST,49,Nasal,Normal Saline,1,No,NA,0,0,"Administered normal saline, 0.9%, syringe, 10 ml, 5 ml each nostril, for complaints of nasal congestion."
+233,C3G,45660,5814,10/27/2009,20:15,IN_TEST,49,Nasal,0.90%,1,No,NA,0,0,"Administered normal saline, 0.9%, syringe, 10 ml, 5 ml each nostril, for complaints of nasal congestion."
+234,C3G,45660,5814,10/27/2009,20:15,IN_TEST,49,Nasal,Syringe,1,No,NA,0,0,"Administered normal saline, 0.9%, syringe, 10 ml, 5 ml each nostril, for complaints of nasal congestion."
+235,C3G,45669,5814,10/28/2009,6:45,IN_TEST,50,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+236,C3G,45678,5814,10/28/2009,9:25,IN_TEST,50,Nasal,Normal Saline,1,No,NA,0,0,"Normal saline flush, 5 cc, to each nostril."
+237,C3G,45678,5814,10/28/2009,9:25,IN_TEST,50,Nasal,0.90%,1,No,NA,0,0,"Normal saline flush, 5 cc, to each nostril."
+238,C3G,45680,5814,10/28/2009,11:35,IN_TEST,50,Topical,0.25% menthol + 0.25% camphor in Eucerin cream,1,No,NA,0,0,Applied under nose and top of nose.
+239,C3G,45701,5814,10/28/2009,17:15,IN_TEST,50,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+240,C3G,45702,5814,10/28/2009,17:15,IN_TEST,50,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+241,C3G,45705,5814,10/28/2009,21:30,IN_TEST,50,Nasal,Normal Saline,1,No,NA,0,0,"Normal saline flush, 5 mL, to each nostril."
+242,C3G,45714,5814,10/29/2009,6:50,IN_TEST,51,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+243,C3G,45732,5814,10/29/2009,17:09,IN_TEST,51,Nasal,Normal Saline,10,No,NA,0,0,Routine for congestion.
+244,C3G,45732,5814,10/29/2009,17:09,IN_TEST,51,Nasal,0.90%,10,No,NA,0,0,Routine for congestion.
+245,C3G,45733,5814,10/29/2009,17:15,IN_TEST,51,PO-by mouth,Colace 100mg,2,No,NA,0,0,No issues.
+246,C3G,45734,5814,10/29/2009,17:15,IN_TEST,51,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,No issues.
+247,C3G,45758,5814,10/30/2009,6:25,IN_TEST,52,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+248,C3G,45764,5814,10/30/2009,9:30,IN_TEST,52,Nasal,Normal Saline,10,No,NA,0,0,5 cc per nostril.
+249,C3G,45782,5814,10/30/2009,17:15,IN_TEST,52,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+250,C3G,45783,5814,10/30/2009,17:15,IN_TEST,52,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+251,C3G,45807,5814,10/31/2009,6:40,IN_TEST,53,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Given before breakfast, in orange juice, with a straw, on an empty stomach."
+252,C3G,45817,5814,10/31/2009,10:55,IN_TEST,53,Nasal,Normal Saline,10,No,NA,0,0,5 cc per nostril.
+253,C3G,45833,5814,10/31/2009,17:00,IN_TEST,53,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+254,C3G,45834,5814,10/31/2009,17:00,IN_TEST,53,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+255,C3G,45861,5814,11/1/2009,6:40,IN_TEST,54,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+256,C3G,45869,5814,11/1/2009,9:30,IN_TEST,54,Nasal,Normal Saline,10,No,NA,0,0,"10 cc given, 5 cc for each nostril."
+257,C3G,45869,5814,11/1/2009,9:30,IN_TEST,54,Nasal,0.90%,10,No,NA,0,0,"10 cc given, 5 cc for each nostril."
+258,C3G,45890,5814,11/1/2009,17:30,IN_TEST,54,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+259,C3G,45891,5814,11/1/2009,17:30,IN_TEST,54,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+260,C3G,45899,5814,11/1/2009,21:25,IN_TEST,54,Nasal,Normal Saline Syringe,1,No,NA,0,0,"Administered normal saline, 0.9% syringe, 10 mL. 5 mL to each nostril for complaint of nasal congestion."
+261,C3G,45913,5814,11/2/2009,6:45,IN_TEST,55,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+262,C3G,45914,5814,11/2/2009,9:20,IN_TEST,55,Nasal,Normal Saline,1,No,NA,0,0,5 cc each nostril.
+263,C3G,45914,5814,11/2/2009,9:20,IN_TEST,55,Nasal,0.90%,1,No,NA,0,0,5 cc each nostril.
+264,C3G,45914,5814,11/2/2009,9:20,IN_TEST,55,Nasal,flush,1,No,NA,0,0,5 cc each nostril.
+265,C3G,45933,5814,11/2/2009,15:07,IN_TEST,55,Nasal,Normal Saline,1,No,NA,0,0,5 cc flush each nostril.
+266,C3G,45933,5814,11/2/2009,15:07,IN_TEST,55,Nasal,0.90%,1,No,NA,0,0,5 cc flush each nostril.
+267,C3G,45939,5814,11/2/2009,17:15,IN_TEST,55,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+268,C3G,45941,5814,11/2/2009,17:25,IN_TEST,55,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+269,C3G,45949,5814,11/2/2009,21:00,IN_TEST,55,Nasal,Normal Saline,1,No,NA,0,0,"Per physician (MD) order, 5 ml per nostril for nasal congestion."
+270,C3G,45949,5814,11/2/2009,21:00,IN_TEST,55,Nasal,0.90%,1,No,NA,0,0,"Per physician (MD) order, 5 ml per nostril for nasal congestion."
+271,C3G,45964,5814,11/3/2009,6:30,IN_TEST,56,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Per physician (MD) order, given before breakfast, in orange juice, through a straw."
+272,C3G,45998,5814,11/3/2009,18:00,IN_TEST,56,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+273,C3G,45999,5814,11/3/2009,18:00,IN_TEST,56,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+274,C3G,46001,5814,11/3/2009,21:05,IN_TEST,56,Nasal,Normal Saline,1,No,NA,0,0,"Per physician (MD) order, given 5 mL per nostril."
+275,C3G,46001,5814,11/3/2009,21:05,IN_TEST,56,Nasal,0.90%,1,No,NA,0,0,"Per physician (MD) order, given 5 mL per nostril."
+276,C3G,46003,5814,11/3/2009,10:30,IN_TEST,56,Nasal,Normal Saline,1,No,NA,0,0,For nasal congestion. 5 mL per nostril.
+277,C3G,46003,5814,11/3/2009,10:30,IN_TEST,56,Nasal,0.90%,1,No,NA,0,0,For nasal congestion. 5 mL per nostril.
+278,C3G,46017,5814,11/4/2009,6:50,IN_TEST,57,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Given before breakfast, in orange, through a straw."
+279,C3G,46024,5814,11/4/2009,9:20,IN_TEST,57,Nasal,Normal Saline,10,No,NA,0,0,"Normal saline, 5 cc, each nostril."
+280,C3G,46046,5814,11/4/2009,17:35,IN_TEST,57,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+281,C3G,46047,5814,11/4/2009,17:35,IN_TEST,57,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+282,C3G,46055,5814,11/4/2009,21:05,IN_TEST,57,Nasal,Normal Saline,1,No,NA,0,0,5 cc given in each nostril. Given by S. Sparks RN.
+283,C3G,46055,5814,11/4/2009,21:05,IN_TEST,57,Nasal,0.90%,1,No,NA,0,0,5 cc given in each nostril. Given by S. Sparks RN.
+284,C3G,46073,5814,11/5/2009,6:38,IN_TEST,58,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+285,C3G,46083,5814,11/5/2009,10:20,IN_TEST,58,Nasal,Normal Saline,10,No,NA,0,0,"For nasal congestion. Normal saline, 5 cc, in each nostril."
+286,C3G,46100,5814,11/5/2009,17:05,IN_TEST,58,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+287,C3G,46101,5814,11/5/2009,17:05,IN_TEST,58,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+288,C3G,46114,5814,11/5/2009,21:05,IN_TEST,58,Nasal,Normal Saline,1,No,NA,0,0,"Administered normal saline, 0.9%, syringe, 10 mL, 5 mL each nostril, for symptoms of nasal congestion. Effectiveness noted."
+289,C3G,46114,5814,11/5/2009,21:05,IN_TEST,58,Nasal,0.90%,1,No,NA,0,0,"Administered normal saline, 0.9%, syringe, 10 mL, 5 mL each nostril, for symptoms of nasal congestion. Effectiveness noted."
+290,C3G,46114,5814,11/5/2009,21:05,IN_TEST,58,Nasal,syringe,1,No,NA,0,0,"Administered normal saline, 0.9%, syringe, 10 mL, 5 mL each nostril, for symptoms of nasal congestion. Effectiveness noted."
+291,C3G,46114,5814,11/5/2009,21:05,IN_TEST,58,Nasal,10 mL,1,No,NA,0,0,"Administered normal saline, 0.9%, syringe, 10 mL, 5 mL each nostril, for symptoms of nasal congestion. Effectiveness noted."
+292,C3G,46130,5814,11/6/2009,6:45,IN_TEST,59,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Given before breakfast, in orange juice, with a straw, on an empty stomach."
+293,C3G,46165,5814,11/6/2009,17:31,IN_TEST,59,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+294,C3G,46166,5814,11/6/2009,17:31,IN_TEST,59,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+295,C3G,46198,5814,11/7/2009,6:40,IN_TEST,60,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Given to subject, in orange juice, through a straw. Given after urinating."
+296,C3G,46204,5814,11/7/2009,9:35,IN_TEST,60,Nasal,Normal Saline,1,No,NA,0,0,NA
+297,C3G,46204,5814,11/7/2009,9:35,IN_TEST,60,Nasal,0.90%,1,No,NA,0,0,NA
+298,C3G,46231,5814,11/7/2009,17:05,IN_TEST,60,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+299,C3G,46232,5814,11/7/2009,17:05,IN_TEST,60,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA
+300,C3G,46258,5814,11/8/2009,6:47,POST_TEST,0,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Per physician (MD) order, given before breakfast, in orange juice, through a straw."
+301,C3G,46302,5814,11/8/2009,11:15,POST_TEST,0,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Platts (Gender Differences),0,0,NA
+302,C3G,46320,5814,11/9/2009,6:45,POST_TEST,1,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+303,C3G,46366,5814,11/10/2009,6:45,POST_TEST,2,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+304,C3G,46430,5814,11/11/2009,6:25,POST_TEST,3,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+305,C3G,46448,5814,11/11/2009,11:22,POST_TEST,3,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Platts (Gender Differences),0,0,NA
+306,C3G,46503,5814,11/12/2009,6:45,POST_TEST,4,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Given before breakfast, in orange juice, through a straw. Given after subject urinated."
+307,C3G,46567,5814,11/13/2009,6:37,POST_TEST,5,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Per physician (MD) order, mixed in orange juice and given through a straw."
+308,C3G,46636,5814,11/14/2009,6:50,POST_TEST,6,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+309,C3G,46669,5814,11/14/2009,17:08,POST_TEST,6,Topical,Hydrocortisone Cream,1,No,NA,0,0,"Applied to both affected sites on right knee and left shin and given after receiving okay from Eric, Coordinator on Duty."
+310,C3G,46669,5814,11/14/2009,17:08,POST_TEST,6,Topical,1%,1,No,NA,0,0,"Applied to both affected sites on right knee and left shin and given after receiving okay from Eric, Coordinator on Duty."
+311,C3G,46687,5814,11/14/2009,20:05,POST_TEST,6,Topical,Hydrocortisone Cream,2,No,NA,0,0,Applied to affected areas left and right lower legs.
+312,C3G,46689,5814,11/14/2009,21:15,POST_TEST,6,PO-by mouth,Diphenhydramine hcl,1,No,NA,0,0,NA
+313,C3G,46689,5814,11/14/2009,21:15,POST_TEST,6,PO-by mouth,25 mg.,1,No,NA,0,0,NA
+314,C3G,46702,5814,11/15/2009,6:32,POST_TEST,7,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+315,C3G,46713,5814,11/15/2009,9:00,POST_TEST,7,Topical,Hydrocortisone Cream,1,No,NA,0,0,Applied to right knee and left shin where the areas are red and itching.
+316,C3G,46746,5814,11/15/2009,17:45,POST_TEST,7,Topical,Hydrocortisone Cream,1,No,NA,0,0,Applied to areas on right knee and left shin.
+317,C3G,46746,5814,11/15/2009,17:45,POST_TEST,7,Topical,1%,1,No,NA,0,0,Applied to areas on right knee and left shin.
+318,C3G,46770,5814,11/16/2009,6:50,POST_TEST,8,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+319,C3G,46771,5814,11/16/2009,8:15,POST_TEST,8,Topical,Hydrocortisone Cream,1,No,NA,0,0,NA
+320,C3G,46835,5814,11/17/2009,6:45,POST_TEST,9,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+321,C3G,46894,5814,11/18/2009,6:35,POST_TEST,10,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+322,C3G,46975,5814,11/19/2009,6:35,POST_TEST,11,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+323,C3G,47051,5814,11/20/2009,7:00,POST_TEST,12,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA
+324,C3G,47127,5814,11/21/2009,6:35,POST_TEST,13,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Given before breakfast, in orange juice, with a straw, on an empty stomach."

@@ -1,0 +1,271 @@
+﻿Record,Subject,Date,Test_Phase,BR_Day,Meal,Comments,Meal_Time_Start,Meal_Time_Finish,Duration_minutes,Meal_Completed,Related_to_Test,Test,Issues_Reported,Issue_Reported_Number
+44322,5814,8/27/2009,PRE_TEST,13,Dinner,NA,17:00,17:17,17,Yes,NA,NA,No,NA
+44326,5814,8/28/2009,PRE_TEST,12,Breakfast test,Cycle Ergometer pre-test breakfast of light complex carbohydrates.,7:00,7:12,12,Yes,No,NA,No,NA
+44327,5814,8/28/2009,PRE_TEST,12,Breakfast test,Served remaining meal.,10:26,10:29,3,Yes,No,NA,No,NA
+44329,5814,8/28/2009,PRE_TEST,12,Lunch,NA,11:29,11:39,10,Yes,NA,NA,No,NA
+44333,5814,8/28/2009,PRE_TEST,12,Dinner,NA,16:59,17:11,12,Yes,NA,NA,No,NA
+44341,5814,8/29/2009,PRE_TEST,11,Breakfast,NA,7:00,7:12,12,Yes,NA,NA,No,NA
+44342,5814,8/29/2009,PRE_TEST,11,Lunch,NA,11:38,11:55,17,Yes,NA,NA,No,NA
+44343,5814,8/29/2009,PRE_TEST,11,Dinner,NA,17:02,17:17,15,Yes,NA,NA,No,NA
+44351,5814,8/30/2009,PRE_TEST,10,Breakfast,NA,6:58,7:04,6,Yes,NA,NA,No,NA
+44352,5814,8/30/2009,PRE_TEST,10,Lunch,NA,12:00,12:10,10,Yes,NA,NA,No,NA
+44354,5814,8/30/2009,PRE_TEST,10,Dinner,NA,17:01,17:20,19,Yes,NA,NA,No,NA
+44360,5814,8/31/2009,PRE_TEST,9,Breakfast,NA,6:59,7:12,13,Yes,NA,NA,No,NA
+44363,5814,8/31/2009,PRE_TEST,9,Lunch,NA,12:01,12:20,19,Yes,NA,NA,No,NA
+44365,5814,8/31/2009,PRE_TEST,9,Dinner,NA,17:01,17:06,5,Yes,NA,NA,No,NA
+44372,5814,9/1/2009,PRE_TEST,8,Breakfast,NA,7:05,7:15,10,Yes,NA,NA,No,NA
+44376,5814,9/1/2009,PRE_TEST,8,Lunch,NA,11:58,12:11,13,Yes,NA,NA,No,NA
+44377,5814,9/1/2009,PRE_TEST,8,Dinner,NA,17:01,17:12,11,Yes,NA,NA,No,NA
+44382,5814,9/2/2009,PRE_TEST,7,Breakfast,NA,7:02,7:05,3,Yes,NA,NA,No,NA
+44384,5814,9/2/2009,PRE_TEST,7,Lunch,NA,12:01,12:09,8,Yes,NA,NA,No,NA
+44385,5814,9/2/2009,PRE_TEST,7,Dinner,NA,17:00,17:08,8,Yes,NA,NA,No,NA
+44390,5814,9/3/2009,PRE_TEST,6,Breakfast,Subject did not consume all of the peanut butter. Subject requested it be served with lunch.,7:00,7:18,18,No,NA,NA,No,NA
+44392,5814,9/3/2009,PRE_TEST,6,Lunch,Subject consumed all peanut butter left from breakfast.,12:02,12:18,16,Yes,NA,NA,No,NA
+44393,5814,9/3/2009,PRE_TEST,6,Dinner,NA,17:00,17:16,16,Yes,NA,NA,No,NA
+44398,5814,9/4/2009,PRE_TEST,5,Breakfast test,Vascular Function pre-test breakfast of light complex carbohydrates. Subject did not consume all of the syrup. Will serve with carrots at lunch.,6:29,6:33,4,No,No,NA,No,NA
+44402,5814,9/4/2009,PRE_TEST,5,Breakfast test,Remaining breakfast.,13:06,13:09,3,Yes,No,NA,No,NA
+44403,5814,9/4/2009,PRE_TEST,5,Lunch,Serve remaining syrup with carrots. Subject consumed all.,13:12,13:28,16,Yes,NA,NA,No,NA
+44404,5814,9/4/2009,PRE_TEST,5,Dinner,NA,17:05,17:20,15,Yes,NA,NA,No,NA
+44410,5814,9/5/2009,PRE_TEST,4,Breakfast,NA,6:59,7:04,5,Yes,NA,NA,No,NA
+44411,5814,9/5/2009,PRE_TEST,4,Lunch,NA,11:58,12:15,17,Yes,NA,NA,No,NA
+44412,5814,9/5/2009,PRE_TEST,4,Dinner,NA,17:02,17:14,12,Yes,NA,NA,No,NA
+44419,5814,9/6/2009,PRE_TEST,3,Breakfast test,Subject served breakfast of light complex carbohydrates.,6:58,7:09,11,Yes,No,NA,No,NA
+44420,5814,9/6/2009,PRE_TEST,3,Breakfast test,Served remaining meal after the test.,11:56,11:59,3,Yes,No,NA,No,NA
+44421,5814,9/6/2009,PRE_TEST,3,Lunch,NA,12:13,12:25,12,Yes,NA,NA,No,NA
+44423,5814,9/6/2009,PRE_TEST,3,Dinner,NA,17:01,17:27,26,Yes,NA,NA,No,NA
+44427,5814,9/7/2009,PRE_TEST,2,Breakfast,NA,7:01,7:31,30,Yes,NA,NA,No,NA
+44429,5814,9/7/2009,PRE_TEST,2,Lunch,NA,12:27,12:53,26,Yes,NA,NA,No,NA
+44430,5814,9/7/2009,PRE_TEST,2,Dinner,NA,17:02,17:19,17,Yes,NA,NA,No,NA
+44435,5814,9/8/2009,PRE_TEST,1,Breakfast,NA,7:03,7:18,15,Yes,NA,NA,No,NA
+44437,5814,9/8/2009,PRE_TEST,1,Lunch,NA,11:02,11:10,8,Yes,NA,NA,No,NA
+44438,5814,9/8/2009,PRE_TEST,1,Dinner,NA,16:59,17:12,13,Yes,NA,NA,No,NA
+44443,5814,9/9/2009,IN_TEST,1,Breakfast,NA,7:00,7:07,7,Yes,NA,NA,No,NA
+44445,5814,9/9/2009,IN_TEST,1,Lunch,NA,11:59,12:13,14,Yes,NA,NA,No,NA
+44451,5814,9/9/2009,IN_TEST,1,Dinner,NA,17:03,17:19,16,Yes,NA,NA,No,NA
+44455,5814,9/10/2009,IN_TEST,2,Breakfast,NA,7:03,7:16,13,Yes,NA,NA,No,NA
+44458,5814,9/10/2009,IN_TEST,2,Lunch,NA,12:00,12:17,17,Yes,NA,NA,No,NA
+44461,5814,9/10/2009,IN_TEST,2,Dinner,NA,17:00,17:20,20,Yes,NA,NA,No,NA
+44469,5814,9/11/2009,IN_TEST,3,Breakfast test,Plasma Volume pre-test breakfast light complex carbohydrates.,7:03,7:22,19,Yes,No,NA,No,NA
+44470,5814,9/11/2009,IN_TEST,3,Breakfast test,Plasma Volume remaining meal.,8:56,9:00,4,Yes,No,NA,No,NA
+44472,5814,9/11/2009,IN_TEST,3,Lunch,NA,11:56,12:13,17,Yes,NA,NA,No,NA
+44476,5814,9/11/2009,IN_TEST,3,Dinner,NA,16:58,17:23,25,Yes,NA,NA,No,NA
+44482,5814,9/12/2009,IN_TEST,4,Breakfast,NA,7:05,7:35,30,Yes,NA,NA,No,NA
+44483,5814,9/12/2009,IN_TEST,4,Lunch,NA,12:00,12:27,27,Yes,NA,NA,No,NA
+44489,5814,9/12/2009,IN_TEST,4,Dinner,NA,16:57,17:05,8,Yes,NA,NA,No,NA
+44494,5814,9/13/2009,IN_TEST,5,Breakfast,NA,7:02,7:28,26,Yes,NA,NA,No,NA
+44495,5814,9/13/2009,IN_TEST,5,Lunch,NA,11:56,12:26,30,Yes,NA,NA,No,NA
+44505,5814,9/13/2009,IN_TEST,5,Dinner,NA,17:01,17:08,7,Yes,NA,NA,No,NA
+44511,5814,9/14/2009,IN_TEST,6,Breakfast,Peanut butter was not finished. Remaining peanut butter was moved to finish at lunch.,7:00,7:27,27,No,NA,NA,No,NA
+44519,5814,9/14/2009,IN_TEST,6,Lunch,Peanut butter was finished at lunch.,11:59,12:26,27,Yes,NA,NA,No,NA
+44520,5814,9/14/2009,IN_TEST,6,Dinner,NA,17:00,17:25,25,Yes,NA,NA,No,NA
+44525,5814,9/15/2009,IN_TEST,7,Breakfast test,Vascular Function pre-test breakfast of light complex carbohydrates. Subject did not consume all of the syrup. Will serve remaining syrup with carrots at lunch.,7:02,7:21,19,No,No,NA,No,NA
+44529,5814,9/15/2009,IN_TEST,7,Breakfast test,Served subject remaining breakfast after testing.,10:48,10:51,3,Yes,No,NA,No,NA
+44530,5814,9/15/2009,IN_TEST,7,Lunch,Served syrup that subject didn't finish for breakfast with carrots. Subject consumed all of it.,11:59,12:27,28,Yes,NA,NA,No,NA
+44556,5814,9/15/2009,IN_TEST,7,Dinner,NA,16:59,17:29,30,Yes,NA,NA,No,NA
+44542,5814,9/16/2009,IN_TEST,8,Breakfast,NA,7:02,7:22,20,Yes,NA,NA,No,NA
+44550,5814,9/16/2009,IN_TEST,8,Lunch,NA,12:04,12:29,25,Yes,NA,NA,No,NA
+44551,5814,9/16/2009,IN_TEST,8,Dinner,NA,16:58,17:28,30,Yes,NA,NA,No,NA
+44555,5814,9/17/2009,IN_TEST,9,Breakfast,Subject did not consume all of the syrup. Subject requested it be served with lunch.,7:02,7:26,24,No,NA,NA,No,NA
+44559,5814,9/17/2009,IN_TEST,9,Lunch,Remaining syrup was consumed and finished at lunch.,11:58,12:25,27,Yes,NA,NA,No,NA
+44564,5814,9/17/2009,IN_TEST,9,Dinner,NA,17:03,17:28,25,Yes,NA,NA,No,NA
+44569,5814,9/18/2009,IN_TEST,10,Breakfast,NA,7:04,7:31,27,Yes,NA,NA,No,NA
+44571,5814,9/18/2009,IN_TEST,10,Lunch,NA,11:58,12:28,30,Yes,NA,NA,No,NA
+44576,5814,9/18/2009,IN_TEST,10,Dinner,NA,17:02,17:25,23,Yes,NA,NA,No,NA
+44585,5814,9/19/2009,IN_TEST,11,Breakfast,"Subject did not consume 12.06 gm turkey sausage, 15 gm jelly, 5 gm butter, and 44.41 gm English muffin.",7:02,7:31,29,No,NA,NA,No,NA
+44589,5814,9/19/2009,IN_TEST,11,Lunch,NA,12:03,12:28,25,Yes,NA,NA,No,NA
+44593,5814,9/19/2009,IN_TEST,11,Dinner,NA,16:58,17:27,29,Yes,NA,NA,No,NA
+44598,5814,9/20/2009,IN_TEST,12,Breakfast,NA,7:01,7:27,26,Yes,NA,NA,No,NA
+44601,5814,9/20/2009,IN_TEST,12,Lunch,NA,11:59,12:28,29,Yes,NA,NA,No,NA
+44606,5814,9/20/2009,IN_TEST,12,Dinner,NA,16:59,17:22,23,Yes,NA,NA,No,NA
+44613,5814,9/21/2009,IN_TEST,13,Breakfast,NA,7:00,7:27,27,Yes,NA,NA,No,NA
+44614,5814,9/21/2009,IN_TEST,13,Lunch,NA,12:02,12:20,18,Yes,NA,NA,No,NA
+44619,5814,9/21/2009,IN_TEST,13,Dinner,NA,17:05,17:28,23,Yes,NA,NA,No,NA
+44625,5814,9/22/2009,IN_TEST,14,Breakfast,NA,7:03,7:29,26,Yes,NA,NA,No,NA
+44631,5814,9/22/2009,IN_TEST,14,Lunch,NA,11:57,12:20,23,Yes,NA,NA,No,NA
+44632,5814,9/22/2009,IN_TEST,14,Dinner,NA,16:58,17:26,28,Yes,NA,NA,No,NA
+44639,5814,9/23/2009,IN_TEST,15,Breakfast,NA,7:02,7:28,26,Yes,NA,NA,No,NA
+44647,5814,9/23/2009,IN_TEST,15,Lunch,NA,11:59,12:15,16,Yes,NA,NA,No,NA
+44648,5814,9/23/2009,IN_TEST,15,Dinner,NA,17:03,17:24,21,Yes,NA,NA,No,NA
+44652,5814,9/24/2009,IN_TEST,16,Breakfast,NA,7:01,7:16,15,Yes,NA,NA,No,NA
+44654,5814,9/24/2009,IN_TEST,16,Lunch,NA,12:05,12:20,15,Yes,NA,NA,No,NA
+44659,5814,9/24/2009,IN_TEST,16,Dinner,NA,17:00,17:08,8,Yes,NA,NA,No,NA
+44665,5814,9/25/2009,IN_TEST,17,Breakfast,Subject did not consume all of the peanut butter. Will serve remaining peanut butter with lunch and/or dinner.,6:59,7:27,28,No,NA,NA,No,NA
+44671,5814,9/25/2009,IN_TEST,17,Lunch,Subject finished remaining peanut butter at lunch.,12:00,12:13,13,Yes,NA,NA,No,NA
+44672,5814,9/25/2009,IN_TEST,17,Dinner,NA,17:01,17:28,27,Yes,NA,NA,No,NA
+44678,5814,9/26/2009,IN_TEST,18,Breakfast,NA,7:00,7:25,25,Yes,NA,NA,No,NA
+44679,5814,9/26/2009,IN_TEST,18,Lunch,NA,12:01,12:27,26,Yes,NA,NA,No,NA
+44684,5814,9/26/2009,IN_TEST,18,Dinner,NA,17:00,17:21,21,Yes,NA,NA,No,NA
+44694,5814,9/27/2009,IN_TEST,19,Breakfast,NA,6:59,7:05,6,Yes,NA,NA,No,NA
+44699,5814,9/27/2009,IN_TEST,19,Lunch,NA,11:58,12:18,20,Yes,NA,NA,No,NA
+44700,5814,9/27/2009,IN_TEST,19,Dinner,NA,16:59,17:21,22,Yes,NA,NA,No,NA
+44706,5814,9/28/2009,IN_TEST,20,Breakfast,Subject did not consume all of syrup at breakfast. Subject will finish remaining syrup at lunch.,7:00,7:29,29,No,NA,NA,No,NA
+44707,5814,9/28/2009,IN_TEST,20,Lunch,Subject consumed remaining syrup at lunch.,12:01,12:27,26,Yes,NA,NA,No,NA
+44715,5814,9/28/2009,IN_TEST,20,Dinner,Subject finished entire dinner in 36 minutes. Subject said they were full.,17:00,17:36,36,Yes,NA,NA,Yes,44716
+44724,5814,9/29/2009,IN_TEST,21,Breakfast test,Subject was served a light complex carbohydrate breakfast prior to cardiovascular test.,7:01,7:19,18,Yes,No,NA,No,NA
+44725,5814,9/29/2009,IN_TEST,21,Breakfast test,Subject finished remaining breakfast after cardiovascular test.,12:16,12:20,4,Yes,No,NA,No,NA
+44726,5814,9/29/2009,IN_TEST,21,Lunch,Subject did not consume jello at lunch. Subject said would finish jello with dinner.,12:31,13:00,29,No,NA,NA,No,NA
+44733,5814,9/29/2009,IN_TEST,21,Dinner,Subject finished remaining jello from lunch.,17:05,17:28,23,Yes,NA,NA,No,NA
+44739,5814,9/30/2009,IN_TEST,22,Breakfast,NA,7:10,7:29,19,Yes,NA,NA,No,NA
+44743,5814,9/30/2009,IN_TEST,22,Lunch,NA,12:00,12:12,12,Yes,NA,NA,No,NA
+44749,5814,9/30/2009,IN_TEST,22,Dinner,NA,16:59,17:25,26,Yes,NA,NA,No,NA
+44759,5814,10/1/2009,IN_TEST,23,Breakfast,NA,7:04,7:18,14,Yes,NA,NA,No,NA
+44761,5814,10/1/2009,IN_TEST,23,Lunch,NA,12:00,12:20,20,Yes,NA,NA,No,NA
+44769,5814,10/1/2009,IN_TEST,23,Dinner,NA,17:00,17:17,17,Yes,NA,NA,No,NA
+44776,5814,10/2/2009,IN_TEST,24,Breakfast,NA,7:01,7:22,21,Yes,NA,NA,No,NA
+44779,5814,10/2/2009,IN_TEST,24,Lunch,NA,12:00,12:23,23,Yes,NA,NA,No,NA
+44786,5814,10/2/2009,IN_TEST,24,Dinner,NA,17:00,17:19,19,Yes,NA,NA,No,NA
+44790,5814,10/3/2009,IN_TEST,25,Breakfast,NA,7:06,7:24,18,Yes,NA,NA,No,NA
+44792,5814,10/3/2009,IN_TEST,25,Lunch,NA,11:59,12:15,16,Yes,NA,NA,No,NA
+44796,5814,10/3/2009,IN_TEST,25,Dinner,NA,17:02,17:24,22,Yes,NA,NA,No,NA
+44804,5814,10/4/2009,IN_TEST,26,Breakfast,NA,7:04,7:25,21,Yes,NA,NA,No,NA
+44805,5814,10/4/2009,IN_TEST,26,Lunch,NA,12:00,12:27,27,Yes,NA,NA,No,NA
+44809,5814,10/4/2009,IN_TEST,26,Dinner,NA,17:00,17:21,21,Yes,NA,NA,No,NA
+44813,5814,10/5/2009,IN_TEST,27,Breakfast,Subject did not finish syrup. Will finish remaining at lunch.,7:03,7:10,7,No,NA,NA,No,NA
+44817,5814,10/5/2009,IN_TEST,27,Lunch,Subject finished remaining syrup from breakfast.,12:00,12:14,14,Yes,NA,NA,No,NA
+44821,5814,10/5/2009,IN_TEST,27,Dinner,NA,16:59,17:09,10,Yes,NA,NA,No,NA
+44832,5814,10/6/2009,IN_TEST,28,Breakfast,Subject did not consume all of the peanut butter. Will serve with lunch.,7:13,7:39,26,No,NA,NA,No,NA
+44842,5814,10/6/2009,IN_TEST,28,Lunch,Subject did not consume remaining peanut butter from breakfast. Will serve the peanut butter again with dinner.,12:01,12:23,22,No,NA,NA,No,NA
+44854,5814,10/6/2009,IN_TEST,28,Dinner,Subject consumed remaining peanut butter.,16:59,17:25,26,Yes,NA,NA,No,NA
+44863,5814,10/7/2009,IN_TEST,29,Breakfast,Subject did not consume all of the syrup. Will serve remaining syrup with lunch.,7:10,7:20,10,No,NA,NA,No,NA
+44870,5814,10/7/2009,IN_TEST,29,Lunch,Subject consumed remaining syrup from breakfast.,12:03,12:24,21,Yes,NA,NA,No,NA
+44875,5814,10/7/2009,IN_TEST,29,Dinner,NA,17:05,17:24,19,Yes,NA,NA,No,NA
+44890,5814,10/8/2009,IN_TEST,30,Breakfast,NA,7:02,7:12,10,Yes,NA,NA,No,NA
+44901,5814,10/8/2009,IN_TEST,30,Lunch,NA,11:58,12:27,29,Yes,NA,NA,No,NA
+44908,5814,10/8/2009,IN_TEST,30,Dinner,NA,17:03,17:27,24,Yes,NA,NA,No,NA
+44922,5814,10/9/2009,IN_TEST,31,Breakfast test,Cardiovascular testing pre-test breakfast of light complex carbohydrates.,7:02,7:10,8,Yes,No,NA,No,NA
+44931,5814,10/9/2009,IN_TEST,31,Breakfast test,Served remaining meal. Subject did not finish the pancake syrup. Subject requested serving at dinner.,11:35,11:49,14,No,No,NA,No,NA
+44932,5814,10/9/2009,IN_TEST,31,Lunch,NA,11:49,12:10,21,Yes,NA,NA,No,NA
+44936,5814,10/9/2009,IN_TEST,31,Dinner,The subject consumed the remaining pancake syrup.,17:00,17:25,25,Yes,NA,NA,No,NA
+44955,5814,10/10/2009,IN_TEST,32,Breakfast,NA,7:10,7:27,17,Yes,NA,NA,No,NA
+44956,5814,10/10/2009,IN_TEST,32,Lunch,NA,11:59,12:30,31,Yes,NA,NA,No,NA
+44957,5814,10/10/2009,IN_TEST,32,Dinner,NA,17:04,17:19,15,Yes,NA,NA,No,NA
+44988,5814,10/11/2009,IN_TEST,33,Breakfast,NA,7:01,7:15,14,Yes,NA,NA,No,NA
+44989,5814,10/11/2009,IN_TEST,33,Lunch,NA,11:58,12:09,11,Yes,NA,NA,No,NA
+45001,5814,10/11/2009,IN_TEST,33,Dinner,NA,16:55,17:13,18,Yes,NA,NA,No,NA
+45019,5814,10/12/2009,IN_TEST,34,Breakfast,NA,7:26,7:35,9,Yes,NA,NA,No,NA
+45034,5814,10/12/2009,IN_TEST,34,Lunch,NA,12:01,12:19,18,Yes,NA,NA,No,NA
+45035,5814,10/12/2009,IN_TEST,34,Dinner,NA,17:02,17:23,21,Yes,NA,NA,No,NA
+45049,5814,10/13/2009,IN_TEST,35,Breakfast,NA,7:06,7:22,16,Yes,NA,NA,No,NA
+45061,5814,10/13/2009,IN_TEST,35,Lunch,NA,12:02,12:26,24,Yes,NA,NA,No,NA
+45062,5814,10/13/2009,IN_TEST,35,Dinner,NA,17:07,17:25,18,Yes,NA,NA,No,NA
+45087,5814,10/14/2009,IN_TEST,36,Breakfast,NA,7:16,7:31,15,Yes,NA,NA,No,NA
+45099,5814,10/14/2009,IN_TEST,36,Lunch,NA,12:15,12:30,15,Yes,NA,NA,No,NA
+45100,5814,10/14/2009,IN_TEST,36,Dinner,NA,17:17,17:36,19,Yes,NA,NA,No,NA
+45124,5814,10/15/2009,IN_TEST,37,Breakfast,NA,7:27,7:44,17,Yes,NA,NA,No,NA
+45125,5814,10/15/2009,IN_TEST,37,Lunch,NA,12:14,12:30,16,Yes,NA,NA,No,NA
+45139,5814,10/15/2009,IN_TEST,37,Dinner,NA,17:15,17:28,13,Yes,NA,NA,No,NA
+45161,5814,10/16/2009,IN_TEST,38,Breakfast,Subject did not consume all of the syrup. Will serve at lunch.,7:17,7:23,6,No,NA,NA,No,NA
+45179,5814,10/16/2009,IN_TEST,38,Lunch,Subject consumed remaining syrup at lunch.,12:18,12:29,11,Yes,NA,NA,No,NA
+45180,5814,10/16/2009,IN_TEST,38,Dinner,NA,17:15,17:32,17,Yes,NA,NA,No,NA
+45206,5814,10/17/2009,IN_TEST,39,Breakfast,NA,7:21,7:45,24,Yes,NA,NA,No,NA
+45207,5814,10/17/2009,IN_TEST,39,Lunch,NA,12:15,12:27,12,Yes,NA,NA,No,NA
+45214,5814,10/17/2009,IN_TEST,39,Dinner,NA,17:17,17:34,17,Yes,NA,NA,No,NA
+45259,5814,10/18/2009,IN_TEST,40,Breakfast,NA,7:12,7:21,9,Yes,NA,NA,No,NA
+45260,5814,10/18/2009,IN_TEST,40,Lunch,NA,12:13,12:22,9,Yes,NA,NA,No,NA
+45261,5814,10/18/2009,IN_TEST,40,Dinner,NA,17:16,17:41,25,Yes,NA,NA,No,NA
+45282,5814,10/19/2009,IN_TEST,41,Breakfast,NA,7:20,7:32,12,Yes,NA,NA,No,NA
+45294,5814,10/19/2009,IN_TEST,41,Lunch,NA,12:19,12:38,19,Yes,NA,NA,No,NA
+45310,5814,10/19/2009,IN_TEST,41,Dinner,NA,17:16,17:42,26,Yes,NA,NA,No,NA
+45335,5814,10/20/2009,IN_TEST,42,Breakfast,Subject did not consume all of the syrup. Will serve with lunch.,7:28,7:54,26,No,NA,NA,No,NA
+45364,5814,10/20/2009,IN_TEST,42,Lunch,"Subject did not consume all of syrup, will finish at dinner.",12:00,12:30,30,No,NA,NA,No,NA
+45365,5814,10/20/2009,IN_TEST,42,Dinner,Subject consumed all of syrup at dinner.,17:13,17:42,29,Yes,NA,NA,No,NA
+45390,5814,10/21/2009,IN_TEST,43,Breakfast,NA,7:14,7:40,26,Yes,NA,NA,No,NA
+45416,5814,10/21/2009,IN_TEST,43,Lunch,The subject did not finish the pizza and the jello. Subject requested serving at dinner.,12:19,12:47,28,No,NA,NA,No,NA
+45419,5814,10/21/2009,IN_TEST,43,Dinner,The subject consumed the jello. The subject did not consume 9.34 g pizza out of 170 g.,17:11,17:34,23,No,NA,NA,Yes,45420
+45444,5814,10/22/2009,IN_TEST,44,Breakfast,NA,7:20,7:43,23,Yes,NA,NA,No,NA
+45458,5814,10/22/2009,IN_TEST,44,Lunch,NA,12:13,12:36,23,Yes,NA,NA,No,NA
+45465,5814,10/22/2009,IN_TEST,44,Dinner,NA,17:10,17:35,25,Yes,NA,NA,No,NA
+45480,5814,10/23/2009,IN_TEST,45,Breakfast,NA,7:02,7:17,15,Yes,NA,NA,No,NA
+45490,5814,10/23/2009,IN_TEST,45,Lunch,NA,12:02,12:19,17,Yes,NA,NA,No,NA
+45501,5814,10/23/2009,IN_TEST,45,Dinner,NA,17:00,17:16,16,Yes,NA,NA,No,NA
+45524,5814,10/24/2009,IN_TEST,46,Breakfast,NA,7:06,7:27,21,Yes,NA,NA,No,NA
+45525,5814,10/24/2009,IN_TEST,46,Lunch,NA,11:57,12:11,14,Yes,NA,NA,No,NA
+45533,5814,10/24/2009,IN_TEST,46,Dinner,NA,16:58,17:19,21,Yes,NA,NA,No,NA
+45561,5814,10/25/2009,IN_TEST,47,Breakfast,NA,7:02,7:25,23,Yes,NA,NA,No,NA
+45562,5814,10/25/2009,IN_TEST,47,Lunch,NA,12:03,12:18,15,Yes,NA,NA,No,NA
+45576,5814,10/25/2009,IN_TEST,47,Dinner,NA,17:03,17:18,15,Yes,NA,NA,No,NA
+45607,5814,10/26/2009,IN_TEST,48,Breakfast,NA,6:59,7:22,23,Yes,NA,NA,No,NA
+45608,5814,10/26/2009,IN_TEST,48,Lunch,NA,11:56,12:09,13,Yes,NA,NA,No,NA
+45615,5814,10/26/2009,IN_TEST,48,Dinner,NA,17:00,17:17,17,Yes,NA,NA,No,NA
+45632,5814,10/27/2009,IN_TEST,49,Breakfast test,Cardiovascular testing pre-test breakfast of light complex carbohydrates. Subject did not consume all of the syrup. Will serve at lunch.,7:00,7:06,6,No,No,NA,No,NA
+45637,5814,10/27/2009,IN_TEST,49,Breakfast test,Cardiovascular testing remaining meal.,10:25,10:28,3,Yes,No,NA,No,NA
+45638,5814,10/27/2009,IN_TEST,49,Lunch,Subject consumed remaining syrup from breakfast.,12:00,12:12,12,Yes,NA,NA,No,NA
+45656,5814,10/27/2009,IN_TEST,49,Dinner,NA,16:55,17:06,11,Yes,NA,NA,No,NA
+45671,5814,10/28/2009,IN_TEST,50,Breakfast,Subject did not consume the peanut butter. Will serve at lunch.,7:19,7:49,30,No,NA,NA,No,NA
+45699,5814,10/28/2009,IN_TEST,50,Lunch,"Subject had remaining peanut butter, 6.53 g, left and will consume the rest for dinner.",12:16,12:32,16,No,NA,NA,No,NA
+45700,5814,10/28/2009,IN_TEST,50,Dinner,Subject consumed remaining peanut butter.,17:12,17:28,16,Yes,NA,NA,No,NA
+45715,5814,10/29/2009,IN_TEST,51,Breakfast,NA,7:34,7:47,13,Yes,NA,NA,No,NA
+45720,5814,10/29/2009,IN_TEST,51,Lunch,NA,12:32,12:50,18,Yes,NA,NA,No,NA
+45739,5814,10/29/2009,IN_TEST,51,Dinner,NA,17:15,17:32,17,Yes,NA,NA,No,NA
+45762,5814,10/30/2009,IN_TEST,52,Breakfast,NA,7:15,7:30,15,Yes,NA,NA,No,NA
+45772,5814,10/30/2009,IN_TEST,52,Lunch,NA,12:18,12:42,24,Yes,NA,NA,No,NA
+45791,5814,10/30/2009,IN_TEST,52,Dinner,NA,17:15,17:32,17,Yes,NA,NA,No,NA
+45813,5814,10/31/2009,IN_TEST,53,Breakfast,NA,7:05,7:29,24,Yes,NA,NA,No,NA
+45822,5814,10/31/2009,IN_TEST,53,Lunch,NA,12:05,12:21,16,Yes,NA,NA,No,NA
+45840,5814,10/31/2009,IN_TEST,53,Dinner,NA,17:00,17:24,24,Yes,NA,NA,No,NA
+45862,5814,11/1/2009,IN_TEST,54,Breakfast,NA,7:37,8:00,23,Yes,NA,NA,No,NA
+45875,5814,11/1/2009,IN_TEST,54,Lunch,Subject did not consume the jello. Will serve at dinner. Subject returned 12.04g of sausage from pizza. Subject said will consume at dinner.,12:26,13:00,34,No,NA,NA,No,NA
+45895,5814,11/1/2009,IN_TEST,54,Dinner,Subject consumed the jello from lunch at dinner. Subject did not consume 7.82g of 12.04g pork sausage returned at lunch.,17:27,17:48,21,No,NA,NA,Yes,45896
+45919,5814,11/2/2009,IN_TEST,55,Breakfast,NA,7:18,7:36,18,Yes,NA,NA,No,NA
+45924,5814,11/2/2009,IN_TEST,55,Lunch,NA,12:17,12:27,10,Yes,NA,NA,No,NA
+45946,5814,11/2/2009,IN_TEST,55,Dinner,NA,17:14,17:29,15,Yes,NA,NA,No,NA
+45967,5814,11/3/2009,IN_TEST,56,Breakfast,NA,7:28,7:43,15,Yes,NA,NA,No,NA
+45985,5814,11/3/2009,IN_TEST,56,Lunch,NA,12:28,12:46,18,Yes,NA,NA,No,NA
+46000,5814,11/3/2009,IN_TEST,56,Dinner,NA,17:58,18:22,24,Yes,NA,NA,No,NA
+46037,5814,11/4/2009,IN_TEST,57,Breakfast,NA,7:30,7:50,20,Yes,NA,NA,No,NA
+46038,5814,11/4/2009,IN_TEST,57,Lunch,NA,12:28,12:52,24,Yes,NA,NA,No,NA
+46052,5814,11/4/2009,IN_TEST,57,Dinner,NA,17:34,18:00,26,Yes,NA,NA,No,NA
+46078,5814,11/5/2009,IN_TEST,58,Breakfast,NA,7:30,7:54,24,Yes,NA,NA,No,NA
+46094,5814,11/5/2009,IN_TEST,58,Lunch,NA,12:30,12:48,18,Yes,NA,NA,No,NA
+46104,5814,11/5/2009,IN_TEST,58,Dinner,NA,16:59,17:28,29,Yes,NA,NA,No,NA
+46143,5814,11/6/2009,IN_TEST,59,Breakfast,NA,7:33,7:53,20,Yes,NA,NA,No,NA
+46161,5814,11/6/2009,IN_TEST,59,Lunch,NA,12:28,12:52,24,Yes,NA,NA,No,NA
+46175,5814,11/6/2009,IN_TEST,59,Dinner,NA,17:26,17:54,28,Yes,NA,NA,No,NA
+46222,5814,11/7/2009,IN_TEST,60,Breakfast,NA,6:58,7:10,12,Yes,NA,NA,No,NA
+46223,5814,11/7/2009,IN_TEST,60,Lunch,NA,11:54,12:08,14,Yes,NA,NA,No,NA
+46229,5814,11/7/2009,IN_TEST,60,Dinner,NA,16:54,17:08,14,Yes,NA,NA,No,NA
+46263,5814,11/8/2009,POST_TEST,0,Breakfast test,Cardiovascular test day.,6:50,7:03,13,Yes,Yes,Cardiovascular Testing (Integrated),No,NA
+46275,5814,11/8/2009,POST_TEST,0,Breakfast test,Served remaining meal.,11:53,12:04,11,Yes,Yes,Cardiovascular Testing (Integrated),No,NA
+46281,5814,11/8/2009,POST_TEST,0,Lunch test,Cardiovascular test day.,13:13,13:21,8,Yes,Yes,Cardiac Function/Echo (BRSMCF),No,NA
+46282,5814,11/8/2009,POST_TEST,0,Lunch test,Served remaining meal.,15:02,15:14,12,Yes,Yes,Cardiac Function/Echo (BRSMCF),No,NA
+46299,5814,11/8/2009,POST_TEST,0,Dinner,NA,17:33,17:53,20,Yes,NA,NA,No,NA
+46323,5814,11/9/2009,POST_TEST,1,Breakfast,Subject did not consume all of the syrup. Will serve at lunch.,6:58,7:12,14,No,NA,NA,No,NA
+46337,5814,11/9/2009,POST_TEST,1,Lunch,Subject consumed remaining syrup.,12:02,12:18,16,Yes,NA,NA,No,NA
+46361,5814,11/9/2009,POST_TEST,1,Dinner,NA,16:57,17:10,13,Yes,NA,NA,No,NA
+46381,5814,11/10/2009,POST_TEST,2,Breakfast,NA,7:30,7:39,9,Yes,NA,NA,No,NA
+46391,5814,11/10/2009,POST_TEST,2,Lunch,NA,11:51,12:13,22,Yes,NA,NA,No,NA
+46411,5814,11/10/2009,POST_TEST,2,Dinner,NA,17:22,17:37,15,Yes,NA,NA,No,NA
+46439,5814,11/11/2009,POST_TEST,3,Breakfast test,Cardiovascular test breakfast of light complex carbohydrates.,6:32,6:42,10,Yes,Yes,Cardiovascular Testing (Integrated),No,NA
+46460,5814,11/11/2009,POST_TEST,3,Breakfast test,Remaining meal. Subject did not consume all of the syrup. Will serve with lunch.,11:50,12:02,12,No,Yes,Cardiovascular Testing (Integrated),No,NA
+46461,5814,11/11/2009,POST_TEST,3,Lunch,Subject did not consume remaining syrup. Subject did not consume all of the bun for the sloppy joe. Will serve remaining syrup and bun with dinner.,12:30,12:47,17,No,NA,NA,No,NA
+46485,5814,11/11/2009,POST_TEST,3,Dinner,Subject finished entire dinner plus 8.41g of 30g of syrup from breakfast and 41.29g of 48g of whole wheat bun from lunch. Subject took 38 minutes to finish.,17:57,18:35,38,Yes,NA,NA,Yes,46486
+46511,5814,11/12/2009,POST_TEST,4,Breakfast,NA,7:00,7:22,22,Yes,NA,NA,No,NA
+46515,5814,11/12/2009,POST_TEST,4,Lunch,9.14g sausage returned from pizza (170.18g total pizza). Subject stated they do not eat pork.,12:01,12:27,26,No,NA,NA,Yes,46516
+46540,5814,11/12/2009,POST_TEST,4,Dinner,NA,17:01,17:11,10,Yes,NA,NA,No,NA
+46570,5814,11/13/2009,POST_TEST,5,Breakfast,Subject scraped butter (1.14g of 6g butter) from the English muffin. Will serve with lunch.,7:04,7:18,14,No,NA,NA,No,NA
+46578,5814,11/13/2009,POST_TEST,5,Lunch,Subject consumed butter left from breakfast.,11:57,12:07,10,Yes,NA,NA,No,NA
+46599,5814,11/13/2009,POST_TEST,5,Dinner,NA,16:55,17:10,15,Yes,NA,NA,No,NA
+46639,5814,11/14/2009,POST_TEST,6,Breakfast,NA,6:59,7:16,17,Yes,NA,NA,No,NA
+46657,5814,11/14/2009,POST_TEST,6,Lunch,NA,12:00,12:14,14,Yes,NA,NA,No,NA
+46680,5814,11/14/2009,POST_TEST,6,Dinner,NA,16:56,17:16,20,Yes,NA,NA,No,NA
+46706,5814,11/15/2009,POST_TEST,7,Breakfast,NA,7:22,7:37,15,Yes,NA,NA,No,NA
+46721,5814,11/15/2009,POST_TEST,7,Lunch,NA,12:13,12:28,15,Yes,NA,NA,No,NA
+46747,5814,11/15/2009,POST_TEST,7,Dinner,NA,17:11,17:30,19,Yes,NA,NA,No,NA
+46784,5814,11/16/2009,POST_TEST,8,Breakfast,NA,7:12,7:35,23,Yes,NA,NA,No,NA
+46797,5814,11/16/2009,POST_TEST,8,Lunch,NA,12:18,12:30,12,Yes,NA,NA,No,NA
+46809,5814,11/16/2009,POST_TEST,8,Dinner,NA,17:17,17:36,19,Yes,NA,NA,No,NA
+46841,5814,11/17/2009,POST_TEST,9,Breakfast,NA,7:13,7:25,12,Yes,NA,NA,No,NA
+46875,5814,11/17/2009,POST_TEST,9,Lunch,NA,12:12,12:22,10,Yes,NA,NA,No,NA
+46876,5814,11/17/2009,POST_TEST,9,Dinner,NA,17:14,17:29,15,Yes,NA,NA,No,NA
+46901,5814,11/18/2009,POST_TEST,10,Breakfast,Subject did not consume all of the syrup. Will serve at lunch.,7:28,7:32,4,No,NA,NA,No,NA
+46922,5814,11/18/2009,POST_TEST,10,Lunch,Subject consumed all remaining syrup from breakfast.,12:28,12:40,12,Yes,NA,NA,No,NA
+46952,5814,11/18/2009,POST_TEST,10,Dinner,NA,17:29,17:37,8,Yes,NA,NA,No,NA
+46979,5814,11/19/2009,POST_TEST,11,Breakfast test,Light complex carbohydrate meal.,7:29,7:45,16,Yes,Yes,MR080G Cycle Ergometry,No,NA
+47021,5814,11/19/2009,POST_TEST,11,Breakfast test,Subject ate remaining meal after test.,11:24,11:31,7,Yes,Yes,MR080G Cycle Ergometry,No,NA
+47022,5814,11/19/2009,POST_TEST,11,Lunch,NA,12:26,12:43,17,Yes,NA,NA,No,NA
+47023,5814,11/19/2009,POST_TEST,11,Dinner,NA,17:30,17:43,13,Yes,NA,NA,No,NA
+47054,5814,11/20/2009,POST_TEST,12,Breakfast test,Light complex carbohydrate meal. Subject did not consume all of the syrup. Will serve at lunch.,7:48,7:52,4,No,Yes,Cardiac Function/Echo (BRSMCF),No,NA
+47072,5814,11/20/2009,POST_TEST,12,Breakfast test,Cardiovascular test remaining meal. Subject consumed syrup at remaining breakfast.,9:59,10:05,6,Yes,Yes,Cardiac Function/Echo (BRSMCF),No,NA
+47073,5814,11/20/2009,POST_TEST,12,Lunch,NA,11:59,12:09,10,Yes,NA,NA,No,NA
+47107,5814,11/20/2009,POST_TEST,12,Dinner,NA,17:04,17:23,19,Yes,NA,NA,No,NA
+47136,5814,11/21/2009,POST_TEST,13,Breakfast,Subject nominally discharged after breakfast.,7:03,7:07,4,Yes,NA,NA,No,NA

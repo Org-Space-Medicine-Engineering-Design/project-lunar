@@ -1,0 +1,31 @@
+ID,Subject,Date,Test_Phase,BR_Day,Protocol Deviation Type,Protocol Deviation Description,Action Taken,Reported By,Signature,Signature Date,Date Deviation Reported,Remedy
+1,C1G0002,8/31/2004,PRE_TEST,9,Food intake,Violation of nutritional constraint. Subject was given a brownie with dinner.,Subject remains on study but data analysis will be modified.,Study staff,Jeffrey Bridgeford,8/31/2004,8/31/2004,Not reported
+2,C1G0002,9/9/2004,IN_TEST,1,Fluid intake,Daily water goal 2276 gm.  Total fluid intake 2023 gm.  Short 253 gm.,Coordinator notified,Research nurse,"J.E. Langan MSN, RN",9/17/2004,9/17/2004,Not reported
+3,C1G0002,9/10/2004,IN_TEST,2,Fluid intake,400 gm H2O short of daily water goal.,Not reported,Not reported,Not reported,Not reported,9/17/2004,Not reported
+4,C1G0002,9/11/2004,IN_TEST,3,Other: spilled H2O,Approximately 13:00 subject spilled approximately 1/2 of water from a Styrofoam cup.  I gave subject approximately 1/2 cup of H2O to replace it.  (Could not weigh amount since subject had started cleaning it up with tissue.)  After massage was complete subject was given 195 gms (approximately 1/2 cup of additional H2O.),Other: Beeped Wallace @ 14:30,Research nurse,Kathy Gainer RN,9/11/2004,9/11/2004,Not reported
+5,C1G0002,9/11/2004,IN_TEST,3,Fluid intake,266 gm H2O short of daily water goal.,Coordinator notified,Research nurse,"J.E. Langan MSN, RN",9/17/2004,9/17/2004,Not reported
+6,C1G0002,9/12/2004,IN_TEST,4,Fluid intake,2 gm H2O short of daily water goal.,Coordinator notified,Research nurse,"J.E. Langan MSN, RN",9/17/2004,9/17/2004,Not reported
+7,C1G0002,9/13/2004,IN_TEST,5,Fluid intake,169 gm H2O short of daily water goal.,Coordinator notified,Research nurse,"J.E. Langan MSN, RN",9/17/2004,9/17/2004,Not reported
+8,C1G0002,9/14/2004,IN_TEST,6,Fluid intake,80 gm H2O short of daily water goal.,Coordinator notified,Research nurse,"J.E. Langan MSN, RN",9/17/2004,9/17/2004,Not reported
+9,C1G0002,9/17/2004,IN_TEST,9,Fluid intake,1088 gm H2O short of daily water goal.,Coordinator notified,Research nurse,"J.E. Langan MSN, RN",9/17/2004,9/17/2004,Not reported
+10,C1G0002,9/23/2004,IN_TEST,15,Fluid intake,H2O goal 2226 gm.  H2O intake 2133 gm.  93 gm short.,Coordinator notified,Research nurse,"J.E. Langan MSN, RN",9/24/2004,9/24/2004,Not reported
+11,C1G0002,9/28/2004,IN_TEST,20,Fluid intake,Subject short 200 g H2O.,Coordinator notified,Research nurse,"J.E. Langan MSN, RN",10/12/2004,10/12/2004,Not reported
+12,C1G0002,10/1/2004,IN_TEST,23,Fluid intake,Did not meet water requirement needed 2004 cc - had 2157 - 47 cc short.,Coordinator notified,Research nurse,Linda Acuna RN,10/2/2004,10/2/2004,Not reported
+13,C1G0002,10/8/2004,IN_TEST,30,Fluid intake,H2O intake requirements not met.  Discussed with subject and will work with subject to remind subject of where subject is at on subject's intake periodically during the day.,Not reported,Not reported,R.L. Peck RN,10/15/2004,10/15/2004,Not reported
+14,C1G0002,10/12/2004,IN_TEST,34,Fluid intake,H2O requirement not met.,Not reported,Not reported,R.L. Peck RN,10/15/2004,10/15/2004,Not reported
+15,C1G0002,10/13/2004,IN_TEST,35,Fluid intake,H2O intake requirements not met.,Not reported,Not reported,R.L. Peck RN,10/15/2004,10/15/2004,Not reported
+16,C1G0002,10/14/2004,IN_TEST,36,Fluid intake,H2O intake requirements not met.,Not reported,Not reported,R.L. Peck RN,10/15/2004,10/15/2004,Not reported
+17,C1G0002,10/18/2004,IN_TEST,40,Fluid intake,Shortage on H2O goal 673 ml.,Coordinator notified.,Research nurse,C. Vining RN,10/19/2004,10/19/2004,Not reported
+18,C1G0002,10/20/2004,IN_TEST,42,Fluid intake,Water quota short 15 cc.,Not reported,Research nurse,Linda Acuna RN,10/21/2004,10/21/2004,Not reported
+19,C1G0002,10/26/2004,IN_TEST,48,Fluid intake,Did not meet water quota for 10-26-2004.,Coordinator notified,Research nurse,Dana Brazil,10/26/2004,10/27/2004,Not reported
+20,C1G0002,11/3/2004,IN_TEST,56,Fluid intake,Did not meet H2O goal by 210 gm.,Coordinator notified,Research nurse,C. Vining RN,11/4/2004,11/4/2004,Not reported
+21,C1G0002,11/3/2004,IN_TEST,56,Other: nurse error,At 18:30 urine processed for weight & specific gravity.  Nurse then incorporated urine into 24-hour pool without getting required aliquot for testing.,Coordinator notified.  Nurse manager notified.,Research nurse,"J.E. Langan MSN, RN",11/13/2004,11/13/2004,Not reported
+22,C1G0002,11/3/2004,IN_TEST,56,Other: urine collection,"11/03/04 - 06:10 urine data listed as missing.  Data is NOT missing, it is recorded on urine sheet of 11/02/04.  The 06:10 urine closed out the 11/02/04 24-hour collection and opened the 11/03/04 urine collection.  Urine was aliquoted correctly & data was recorded correctly.",Coordinator notified.  Nurse manager notified.,Research nurse,"J.E. Langan MSN, RN",11/13/2004,11/13/2004,Not reported
+23,C1G0002,11/6/2004,IN_TEST,59,Fluid intake,Short 181 on H2O.,Coordinator notified,Research nurse,C. Vining RN,11/7/2004,11/7/2004,Not reported
+24,C1G0002,11/12/2004,POST_TEST,4,Fluid intake,Did not obtain H2O goal (-669).,Coordinator notified,Research nurse,C. Vining RN,11/13/2004,11/13/2004,Not reported
+25,C1G0002,11/13/2004,POST_TEST,5,Fluid intake,Did not meet H2O goal.,Coordinator notified,Research nurse,C. Vining RN,11/14/2004,11/14/2004,Not reported
+26,C1G0002,11/14/2004,POST_TEST,6,Fluid intake,Did not meet H2O goal.,Coordinator notified,Research nurse,C. Vining RN,11/15/2004,11/15/2004,Not reported
+27,C1G0002,11/15/2004,POST_TEST,7,Fluid intake,Did not meet water quota for 11/15/04 short x 413 gm.,Coordinator notified,Research nurse,Millicent Jones RN,11/16/2004,11/16/2004,Not reported
+28,C1G0002,11/16/2004,POST_TEST,8,Fluid intake,Did not meet water quota shortage of 101 gm.,Coordinator notified,Research nurse,Millicent Jones RN,11/17/2004,11/17/2004,Not reported
+29,C1G0002,11/17/2004,POST_TEST,9,Fluid intake,Subject did not meet daily water requirements.  Was short by 945 cc's.,Coordinator notified,Research nurse,Hyacinth Lynch,11/18/2004,11/18/2004,Not reported
+30,C1G0002,11/20/2004,POST_TEST,12,Fluid intake,Fluid intake below study minimum.,Not reported,Not reported,Not reported,Not reported,11/21/2004,Not reported

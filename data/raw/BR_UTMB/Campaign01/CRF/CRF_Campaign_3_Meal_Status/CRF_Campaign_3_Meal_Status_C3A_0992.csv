@@ -1,0 +1,346 @@
+﻿ID,Subject,Test Date,Test Phase,BR_Day,Meal,Meal time,Meal completed
+1,992,2/20/2005,PRE_TEST,11,Breakfast,9:15,"No, didn't eat everything  - small amt left - sent tray back to kitchen"
+2,992,2/21/2005,PRE_TEST ,10,Breakfast,10:25,"Yes, meal served after OGTT completed"
+3,992,2/22/2005,PRE_TEST,9,Breakfast,7:50,"Yes, special test diet (lactulose/acetaminophen test)"
+4,992,2/23/2005,PRE_TEST ,8,Breakfast,7:05,Yes
+5,992,2/24/2005,PRE_TEST ,7,Breakfast,7:10,Yes
+6,992,2/25/2005,PRE_TEST ,6,Breakfast,7:20,Yes
+7,992,2/26/2005,PRE_TEST ,5,Breakfast,7:15,"No, 3/4 of 1/2 English muffin left - returned to kitchen.  Pt wants to save for dinner."
+8,992,2/27/2005,PRE_TEST ,4,Breakfast,7:30,Yes
+9,992,2/28/2005,PRE_TEST ,3,Breakfast,7:00,Yes
+10,992,3/1/2005,PRE_TEST ,2,Breakfast,7:00,Yes
+11,992,3/2/2005,PRE_TEST ,1,Breakfast,7:30,Yes
+12,992,3/3/2005,IN_TEST,1,Breakfast,10:15,"Yes, breakfast served after testing was completed."
+13,992,3/4/2005,IN_TEST,2,Breakfast,7:35,"No, didn't eat 103g of granola/milk.  Dietician notified."
+14,992,3/5/2005,IN_TEST,3,Breakfast,7:25,NA
+15,992,3/6/2005,IN_TEST,4,Breakfast,9:05,Yes
+16,992,3/7/2005,IN_TEST,5,Breakfast,7:30,Yes
+17,992,3/8/2005,IN_TEST,6,Breakfast,7:45,Yes
+18,992,3/9/2005,IN_TEST,7,Breakfast,7:42,Yes
+19,992,3/10/2005,IN_TEST,8,Breakfast,8:15,Yes
+20,992,3/11/2005,IN_TEST,9,Breakfast,7:49,Yes
+21,992,3/12/2005,IN_TEST,10,Breakfast,8:05,NA
+22,992,3/13/2005,IN_TEST,11,Breakfast,7:20,Yes
+23,992,3/14/2005,IN_TEST,12,Breakfast,8:00,"No, rest returned to kitchen.  Pt did not like granola."
+24,992,3/15/2005,IN_TEST,13,Breakfast,10:40,"Yes, meal served after testing complete."
+25,992,3/16/2005,IN_TEST,14,Breakfast,10:28,"Yes, subject only had 10 minutes between test to eat."
+26,992,3/17/2005,IN_TEST,15,Breakfast,8:10,"Yes, did not eat all at meal, returned to kitchen."
+27,992,3/18/2005,IN_TEST,16,Breakfast,8:00,Yes
+28,992,3/19/2005,IN_TEST,17,Breakfast,8:06,"No, refused strawberries in breakfast."
+29,992,3/20/2005,IN_TEST,18,Breakfast,8:03,"Yes, everything eaten and drank."
+30,992,3/21/2005,IN_TEST,19,Breakfast,8:00,Yes
+31,992,3/22/2005,IN_TEST,20,Breakfast,8:30,NA
+32,992,3/23/2005,IN_TEST,21,Breakfast,7:02,"Yes, 1/2 of breakfast served at 7:02, will receive other half after testing."
+33,992,3/24/2005,IN_TEST,22,Breakfast,8:17,"No, subject did not eat cereal, said there was not enough milk, 3/4 of cereal completely dry, said would speak with dietitian."
+34,992,3/25/2005,IN_TEST,23,Breakfast,8:01,Yes
+35,992,3/26/2005,IN_TEST,24,Breakfast,8:10,Yes
+36,992,3/27/2005,IN_TEST,25,Breakfast,8:15,Yes
+37,992,3/28/2005,IN_TEST,26,Breakfast,8:05,"Yes, subject loves bacon."
+38,992,3/29/2005,IN_TEST,27,Breakfast,7:00,"Yes, 0700 1/2 complex carbs; 1133 other half ate all."
+39,992,3/30/2005,IN_TEST,28,Breakfast,7:15,"No, ate 76.24 g of milk and cereal."
+40,992,3/31/2005,IN_TEST,29,Breakfast,10:14,Yes
+41,992,4/1/2005,IN_TEST,30,Breakfast,10:17,Yes
+42,992,4/2/2005,IN_TEST,31,Breakfast,7:25,50% percent of breakfast completed at 7:25 am.  Other 50% at 11:45 am.
+43,992,4/3/2005,IN_TEST,32,Breakfast,8:35,Yes
+44,992,4/4/2005,IN_TEST,33,Breakfast,8:03,Yes
+45,992,4/5/2005,IN_TEST,34,Breakfast,8:00,Yes
+46,992,4/6/2005,IN_TEST,35,Breakfast,8:17,Yes
+47,992,4/7/2005,IN_TEST,36,Breakfast,8:00,Yes
+48,992,4/8/2005,IN_TEST,37,Breakfast,8:02,Yes
+49,992,4/9/2005,IN_TEST,38,Breakfast,8:00,Yes
+50,992,4/10/2005,IN_TEST,39,Breakfast,NA,Yes
+51,992,4/11/2005,IN_TEST,40,Breakfast,8:00,Yes
+52,992,4/12/2005,IN_TEST,41,Breakfast,8:07,Yes
+53,992,4/13/2005,IN_TEST,42,Breakfast,8:00,Yes
+54,992,4/14/2005,IN_TEST,43,Breakfast,8:10,Yes
+55,992,4/15/2005,IN_TEST,44,Breakfast,8:00,Yes
+56,992,4/16/2005,IN_TEST,45,Breakfast,7:57,Yes
+57,992,4/17/2005,IN_TEST,46,Breakfast,8:00,Yes
+58,992,4/18/2005,IN_TEST,47,Breakfast,8:02,Yes
+59,992,4/19/2005,IN_TEST,48,Breakfast,8:00,Yes
+60,992,4/20/2005,IN_TEST,49,Breakfast,7:00,"Yes, 1/2 at 0700 and 2nd half at 1030."
+61,992,4/21/2005,IN_TEST,50,Breakfast,7:06,"Yes, received first half at 7:06 and second half at 12:30."
+62,992,4/22/2005,IN_TEST,51,Breakfast,7:30,"No, c/o the bananas ""they are too brown""."
+63,992,4/23/2005,IN_TEST,52,Breakfast,8:00,Yes
+64,992,4/24/2005,IN_TEST,53,Breakfast,8:30,Yes
+65,992,4/25/2005,IN_TEST,54,Breakfast,8:00,Yes
+66,992,4/26/2005,IN_TEST,55,Breakfast,8:00,Yes
+67,992,4/27/2005,IN_TEST,56,Breakfast,7:59,Yes
+68,992,4/28/2005,IN_TEST,57,Breakfast,8:00,Yes
+69,992,4/29/2005,IN_TEST,58,Breakfast,11:00,Yes
+70,992,4/30/2005,IN_TEST,59,Breakfast,9:42,Yes
+71,992,5/1/2005,IN_TEST,60,Breakfast,12:25,Yes
+72,992,5/2/2005,IN_TEST,61,Breakfast,7:59,"Yes, half of breakfast served at 7:59 and second half given at 11:20."
+73,992,5/3/2005,IN_TEST,62,Breakfast,8:00,Yes
+74,992,5/4/2005,IN_TEST,63,Breakfast,8:00,Yes
+75,992,5/5/2005,IN_TEST,64,Breakfast,7:57,"No, while cutting waffle, small piece fell on floor, put on tray et returned to kitchen to be weighted."
+76,992,5/6/2005,IN_TEST,65,Breakfast,8:00,Yes
+77,992,5/7/2005,IN_TEST,66,Breakfast,8:00,Yes
+78,992,5/8/2005,IN_TEST,67,Breakfast,8:00,Yes
+79,992,5/9/2005,IN_TEST,68,Breakfast,8:00,Yes
+80,992,5/10/2005,IN_TEST,69,Breakfast,8:00,Yes
+81,992,5/11/2005,IN_TEST,70,Breakfast,8:00,Yes
+82,992,5/12/2005,IN_TEST,71,Breakfast,8:00,Yes
+83,992,5/13/2005,IN_TEST,72,Breakfast,8:00,Yes
+84,992,5/14/2005,IN_TEST,73,Breakfast,8:00,Yes
+85,992,5/15/2005,IN_TEST,74,Breakfast,8:00,Yes
+86,992,5/16/2005,IN_TEST,75,Breakfast,7:00,Yes
+87,992,5/17/2005,IN_TEST,76,Breakfast,8:10,Yes
+88,992,5/18/2005,IN_TEST,77,Breakfast,8:00,Yes
+89,992,5/19/2005,IN_TEST,78,Breakfast,7:40,Yes
+90,992,5/20/2005,IN_TEST,79,Breakfast,8:00,Yes
+91,992,5/21/2005,IN_TEST,80,Breakfast,7:00,"Yes, light breakfast; 1235 other half of breakfast"
+92,992,5/22/2005,IN_TEST,81,Breakfast,7:10,"Yes, light breakfast; 1115 rest of breakfast"
+93,992,5/23/2005,IN_TEST,82,Breakfast,7:00,"Yes, light complex breakfast"
+94,992,5/24/2005,IN_TEST,83,Breakfast,8:05,Yes
+95,992,5/25/2005,IN_TEST,84,Breakfast,8:00,Yes
+96,992,5/26/2005,IN_TEST,85,Breakfast,8:00,Yes
+97,992,5/27/2005,IN_TEST,86,Breakfast,8:03,Yes
+98,992,5/28/2005,IN_TEST,87,Breakfast,8:36,Yes
+99,992,5/29/2005,IN_TEST,88,Breakfast,8:00,Yes
+100,992,5/30/2005,IN_TEST,89,Breakfast,9:52,Yes
+101,992,5/31/2005,IN_TEST,90,Breakfast,7:02,"Yes, split breakfast.  1342 2nd breakfast"
+102,992,6/1/2005,POST_TEST,0,Breakfast,7:15,Yes
+103,992,6/2/2005,POST_TEST,1,Breakfast,7:00,"NA, ate yogurt & fruit cocktail  at mid-morning"
+104,992,6/3/2005,POST_TEST,2,Breakfast,7:00,Yes
+105,992,6/4/2005,POST_TEST,3,Breakfast,7:00,Yes
+106,992,6/5/2005,POST_TEST,4,Breakfast,8:00,Yes
+107,992,6/6/2005,POST_TEST,5,Breakfast,7:00,Yes
+108,992,6/7/2005,POST_TEST,6,Breakfast,8:00,Yes
+109,992,6/8/2005,POST_TEST,7,Breakfast,8:05,Yes
+110,992,6/9/2005,POST_TEST,8,Breakfast,9:10,Yes
+111,992,6/10/2005,POST_TEST,9,Breakfast,8:43,Yes
+112,992,6/11/2005,POST_TEST,10,Breakfast,7:40,Yes
+113,992,6/12/2005,POST_TEST,11,Breakfast,8:00,Yes
+114,992,6/13/2005,POST_TEST,12,Breakfast,10:00,Yes
+115,992,6/14/2005,POST_TEST,13,Breakfast,7:38,Yes
+116,992,2/20/2005,PRE_TEST,11,Lunch,13:30,"No, subject did not eat everything, small amount left - returned to kitchen"
+117,992,2/21/2005,PRE_TEST ,10,Lunch,13:00,Yes
+118,992,2/22/2005,PRE_TEST,9,Lunch,14:05,"Yes, meal served after test completed"
+119,992,2/23/2005,PRE_TEST ,8,Lunch,12:20,Yes
+120,992,2/24/2005,PRE_TEST ,7,Lunch,13:30,Yes
+121,992,2/25/2005,PRE_TEST ,6,Lunch,12:00,Yes
+122,992,2/26/2005,PRE_TEST ,5,Lunch,12:00,"Yes, First 1/2 at 1200.  Second half at 1700.  Lunch divided into 2 different times for testing purposes."
+123,992,2/27/2005,PRE_TEST ,4,Lunch,12:00,"Yes, split lunch due to testing.  1/2 at 1200.  1/2 at 1500."
+124,992,2/28/2005,PRE_TEST ,3,Lunch,15:30,Yes
+125,992,3/1/2005,PRE_TEST ,2,Lunch,12:00,"No, requests cookie et orange to be saved for dinner - returned to kitchen."
+126,992,3/2/2005,PRE_TEST ,1,Lunch,11:15,"Yes, light lunch before test."
+127,992,3/3/2005,IN_TEST,1,Lunch,12:00,Yes
+128,992,3/4/2005,IN_TEST,2,Lunch,12:10,Yes
+129,992,3/5/2005,IN_TEST,3,Lunch,11:51,Yes
+130,992,3/6/2005,IN_TEST,4,Lunch,12:12,Yes
+131,992,3/7/2005,IN_TEST,5,Lunch,12:20,Yes
+132,992,3/8/2005,IN_TEST,6,Lunch,12:00,Yes
+133,992,3/9/2005,IN_TEST,7,Lunch,12:15,Yes
+134,992,3/10/2005,IN_TEST,8,Lunch,12:00,Yes
+135,992,3/11/2005,IN_TEST,9,Lunch,12:05,Yes
+136,992,3/12/2005,IN_TEST,10,Lunch,13:10,Yes
+137,992,3/13/2005,IN_TEST,11,Lunch,11:55,Yes
+138,992,3/14/2005,IN_TEST,12,Lunch,11:55,Yes
+139,992,3/15/2005,IN_TEST,13,Lunch,13:40,Yes
+140,992,3/16/2005,IN_TEST,14,Lunch,13:05,Yes
+141,992,3/17/2005,IN_TEST,15,Lunch,12:05,Yes
+142,992,3/18/2005,IN_TEST,16,Lunch,12:30,Yes
+143,992,3/19/2005,IN_TEST,17,Lunch,12:00,Yes
+144,992,3/20/2005,IN_TEST,18,Lunch,12:26,Yes
+145,992,3/21/2005,IN_TEST,19,Lunch,11:59,"Yes, subject really likes those French bread pizza's."
+146,992,3/22/2005,IN_TEST,20,Lunch,13:00,Yes
+147,992,3/23/2005,IN_TEST,21,Lunch,12:03,"Yes, 2nd half of breakfast was served with lunch."
+148,992,3/24/2005,IN_TEST,22,Lunch,12:05,Yes
+149,992,3/25/2005,IN_TEST,23,Lunch,12:05,Yes
+150,992,3/26/2005,IN_TEST,24,Lunch,12:35,Yes
+151,992,3/27/2005,IN_TEST,25,Lunch,12:15,Yes
+152,992,3/28/2005,IN_TEST,26,Lunch,11:15,"Yes, 1/2 of lunch was served due to testing."
+153,992,3/29/2005,IN_TEST,27,Lunch,11:45,Yes
+154,992,3/30/2005,IN_TEST,28,Lunch,16:30,Yes
+155,992,3/31/2005,IN_TEST,29,Lunch,12:15,Yes
+156,992,4/1/2005,IN_TEST,30,Lunch,13:10,Yes
+157,992,4/2/2005,IN_TEST,31,Lunch,13:43,Yes
+158,992,4/3/2005,IN_TEST,32,Lunch,12:00,"No, decided to save pretzels from lunch for later."
+159,992,4/4/2005,IN_TEST,33,Lunch,12:47,"No, did not finish corn because patient stated ""there was a hair in corn""."
+160,992,4/5/2005,IN_TEST,34,Lunch,12:10,"No, dropped one bite of pie; otherwise, ate all of lunch."
+161,992,4/6/2005,IN_TEST,35,Lunch,12:00,Yes
+162,992,4/7/2005,IN_TEST,36,Lunch,12:09,Yes
+163,992,4/8/2005,IN_TEST,37,Lunch,12:10,Yes
+164,992,4/9/2005,IN_TEST,38,Lunch,12:00,Yes
+165,992,4/10/2005,IN_TEST,39,Lunch,NA,Yes
+166,992,4/11/2005,IN_TEST,40,Lunch,11:20,Yes
+167,992,4/12/2005,IN_TEST,41,Lunch,11:50,Yes
+168,992,4/13/2005,IN_TEST,42,Lunch,12:00,Yes
+169,992,4/14/2005,IN_TEST,43,Lunch,12:00,Yes
+170,992,4/15/2005,IN_TEST,44,Lunch,12:00,Yes
+171,992,4/16/2005,IN_TEST,45,Lunch,12:00,Yes
+172,992,4/17/2005,IN_TEST,46,Lunch,12:00,Yes
+173,992,4/18/2005,IN_TEST,47,Lunch,11:59,Yes
+174,992,4/19/2005,IN_TEST,48,Lunch,12:00,Yes
+175,992,4/20/2005,IN_TEST,49,Lunch,12:00,Yes
+176,992,4/21/2005,IN_TEST,50,Lunch,14:53,Yes
+177,992,4/22/2005,IN_TEST,51,Lunch,10:35,Yes
+178,992,4/23/2005,IN_TEST,52,Lunch,17:30,Yes
+179,992,4/24/2005,IN_TEST,53,Lunch,12:08,Yes
+180,992,4/25/2005,IN_TEST,54,Lunch,12:30,Yes
+181,992,4/26/2005,IN_TEST,55,Lunch,12:30,Yes
+182,992,4/27/2005,IN_TEST,56,Lunch,12:03,"No, mandarin oranges & (2) cookies will be put on dinner tray - subject spoke to dietary staff."
+183,992,4/28/2005,IN_TEST,57,Lunch,12:00,Yes
+184,992,4/29/2005,IN_TEST,58,Lunch,14:05,Yes
+185,992,4/30/2005,IN_TEST,59,Lunch,12:41,Yes
+186,992,5/1/2005,IN_TEST,60,Lunch,14:00,"No, Pt had a bowl of fruit cocktail left, voices ""full"".  Returned to kitchen to be added to dinner meal."
+187,992,5/2/2005,IN_TEST,61,Lunch,13:21,Yes
+188,992,5/3/2005,IN_TEST,62,Lunch,12:30,Yes
+189,992,5/4/2005,IN_TEST,63,Lunch,12:10,Yes
+190,992,5/5/2005,IN_TEST,64,Lunch,12:15,"No, Patient ate everything but pie.  Patient wants to save pie for afternoon snack."
+191,992,5/6/2005,IN_TEST,65,Lunch,12:15,Yes
+192,992,5/7/2005,IN_TEST,66,Lunch,12:00,Yes
+193,992,5/8/2005,IN_TEST,67,Lunch,12:05,Yes
+194,992,5/9/2005,IN_TEST,68,Lunch,11:10,Yes
+195,992,5/10/2005,IN_TEST,69,Lunch,12:05,Yes
+196,992,5/11/2005,IN_TEST,70,Lunch,12:00,Yes
+197,992,5/12/2005,IN_TEST,71,Lunch,12:00,Yes
+198,992,5/13/2005,IN_TEST,72,Lunch,12:00,Yes
+199,992,5/14/2005,IN_TEST,73,Lunch,11:59,Yes
+200,992,5/15/2005,IN_TEST,74,Lunch,12:15,Yes
+201,992,5/16/2005,IN_TEST,75,Lunch,12:00,Yes
+202,992,5/17/2005,IN_TEST,76,Lunch,12:00,Yes
+203,992,5/18/2005,IN_TEST,77,Lunch,12:00,Yes
+204,992,5/19/2005,IN_TEST,78,Lunch,11:55,Yes
+205,992,5/20/2005,IN_TEST,79,Lunch,12:00,Yes
+206,992,5/21/2005,IN_TEST,80,Lunch,14:10,Yes
+207,992,5/22/2005,IN_TEST,81,Lunch,13:30,Yes
+208,992,5/23/2005,IN_TEST,82,Lunch,12:50,Yes
+209,992,5/24/2005,IN_TEST,83,Lunch,12:05,Yes
+210,992,5/25/2005,IN_TEST,84,Lunch,12:00,NA
+211,992,5/26/2005,IN_TEST,85,Lunch,13:00,"No, kept orange slices et raisins at bedside to try et eat as a snack."
+212,992,5/27/2005,IN_TEST,86,Lunch,12:00,Yes
+213,992,5/28/2005,IN_TEST,87,Lunch,12:02,Yes
+214,992,5/29/2005,IN_TEST,88,Lunch,12:00,Yes
+215,992,5/30/2005,IN_TEST,89,Lunch,12:10,Yes
+216,992,5/31/2005,IN_TEST,90,Lunch,13:42,Yes
+217,992,6/1/2005,POST_TEST,0,Lunch,11:30,"Yes, half of lunch"
+218,992,6/2/2005,POST_TEST,1,Lunch,11:15,"NA, ate 1 whole sandwich save ice cream & cookies for later at 1540 ice cream at dinner"
+219,992,6/3/2005,POST_TEST,2,Lunch,12:55,Yes
+220,992,6/4/2005,POST_TEST,3,Lunch,11:00,Yes
+221,992,6/5/2005,POST_TEST,4,Lunch,12:00,Yes
+222,992,6/6/2005,POST_TEST,5,Lunch,12:10,Yes
+223,992,6/7/2005,POST_TEST,6,Lunch,12:25,Yes
+224,992,6/8/2005,POST_TEST,7,Lunch,12:00,Yes
+225,992,6/9/2005,POST_TEST,8,Lunch,12:00,Yes
+226,992,6/10/2005,POST_TEST,9,Lunch,12:00,Yes
+227,992,6/11/2005,POST_TEST,10,Lunch,12:00,Yes
+228,992,6/12/2005,POST_TEST,11,Lunch,11:15,"No, cookies held until dinner."
+229,992,6/13/2005,POST_TEST,12,Lunch,13:16,Yes
+230,992,6/14/2005,POST_TEST,13,Lunch,11:54,"No, 32.1g of 37g tortilla consumed.  0g of 131g apple pie consumed.  Subject said will take it with subject!"
+231,992,2/20/2005,PRE_TEST,11,Dinner,19:00,"No, pt. ate all of the noodles/sauce/chicken bites, apple sauce and juice.  Only had 1/2 roll left uneaten.  Sent back to kitchen."
+232,992,2/21/2005,PRE_TEST ,10,Dinner,19:35,Yes
+233,992,2/22/2005,PRE_TEST,9,Dinner,17:30,Yes
+234,992,2/23/2005,PRE_TEST ,8,Dinner,18:08,Yes
+235,992,2/24/2005,PRE_TEST ,7,Dinner,18:00,Yes
+236,992,2/25/2005,PRE_TEST ,6,Dinner,18:30,Yes
+237,992,2/26/2005,PRE_TEST ,5,Dinner,19:45,Yes
+238,992,2/27/2005,PRE_TEST ,4,Dinner,18:00,NA
+239,992,2/28/2005,PRE_TEST ,3,Dinner,19:30,Yes
+240,992,3/1/2005,PRE_TEST ,2,Dinner,21:00,Yes
+241,992,3/2/2005,PRE_TEST ,1,Dinner,NA,NA
+242,992,3/3/2005,IN_TEST,1,Dinner,18:00,Yes
+243,992,3/4/2005,IN_TEST,2,Dinner,18:20,Yes
+244,992,3/5/2005,IN_TEST,3,Dinner,18:10,Yes
+245,992,3/6/2005,IN_TEST,4,Dinner,18:15,Yes
+246,992,3/7/2005,IN_TEST,5,Dinner,17:45,Yes
+247,992,3/8/2005,IN_TEST,6,Dinner,17:40,"No, ate all food except sm amount mustard sauce used for dipping chicken nuggets in - returned to kitchen."
+248,992,3/9/2005,IN_TEST,7,Dinner,18:37,Yes
+249,992,3/10/2005,IN_TEST,8,Dinner,18:15,Yes
+250,992,3/11/2005,IN_TEST,9,Dinner,17:42,Yes
+251,992,3/12/2005,IN_TEST,10,Dinner,18:33,"No, saving peaches & pound cake for snack."
+252,992,3/13/2005,IN_TEST,11,Dinner,19:18,Yes
+253,992,3/14/2005,IN_TEST,12,Dinner,19:20,Yes
+254,992,3/15/2005,IN_TEST,13,Dinner,18:30,Yes
+255,992,3/16/2005,IN_TEST,14,Dinner,18:15,Yes
+256,992,3/17/2005,IN_TEST,15,Dinner,18:30,Yes
+257,992,3/18/2005,IN_TEST,16,Dinner,18:25,Yes
+258,992,3/19/2005,IN_TEST,17,Dinner,18:30,Yes
+259,992,3/20/2005,IN_TEST,18,Dinner,18:30,Yes
+260,992,3/21/2005,IN_TEST,19,Dinner,18:16,Yes
+261,992,3/22/2005,IN_TEST,20,Dinner,18:30,Yes
+262,992,3/23/2005,IN_TEST,21,Dinner,18:35,Yes
+263,992,3/24/2005,IN_TEST,22,Dinner,18:15,Yes
+264,992,3/25/2005,IN_TEST,23,Dinner,18:30,Yes
+265,992,3/26/2005,IN_TEST,24,Dinner,19:20,Yes
+266,992,3/27/2005,IN_TEST,25,Dinner,18:30,Yes
+267,992,3/28/2005,IN_TEST,26,Dinner,18:30,Yes
+268,992,3/29/2005,IN_TEST,27,Dinner,NA,NA
+269,992,3/30/2005,IN_TEST,28,Dinner,19:35,Yes
+270,992,3/31/2005,IN_TEST,29,Dinner,19:36,"Yes, subject has eaten all of dinner, will have dessert before 10:00 pm due to testing."
+271,992,4/1/2005,IN_TEST,30,Dinner,18:30,Yes
+272,992,4/2/2005,IN_TEST,31,Dinner,19:25,Yes
+273,992,4/3/2005,IN_TEST,32,Dinner,18:30,"Yes, ate pretzels from lunch."
+274,992,4/4/2005,IN_TEST,33,Dinner,18:51,Yes
+275,992,4/5/2005,IN_TEST,34,Dinner,18:30,"Yes, she received her bite of pie."
+276,992,4/6/2005,IN_TEST,35,Dinner,18:30,Yes
+277,992,4/7/2005,IN_TEST,36,Dinner,NA,NA
+278,992,4/8/2005,IN_TEST,37,Dinner,18:30,Yes
+279,992,4/9/2005,IN_TEST,38,Dinner,19:20,Yes
+280,992,4/10/2005,IN_TEST,39,Dinner,19:20,Yes
+281,992,4/11/2005,IN_TEST,40,Dinner,18:30,Yes
+282,992,4/12/2005,IN_TEST,41,Dinner,18:37,Yes
+283,992,4/13/2005,IN_TEST,42,Dinner,18:35,Yes
+284,992,4/14/2005,IN_TEST,43,Dinner,18:30,Yes
+285,992,4/15/2005,IN_TEST,44,Dinner,18:30,Yes
+286,992,4/16/2005,IN_TEST,45,Dinner,18:45,Yes
+287,992,4/17/2005,IN_TEST,46,Dinner,18:28,Yes
+288,992,4/18/2005,IN_TEST,47,Dinner,18:33,Yes
+289,992,4/19/2005,IN_TEST,48,Dinner,18:30,Yes
+290,992,4/20/2005,IN_TEST,49,Dinner,18:30,Yes
+291,992,4/21/2005,IN_TEST,50,Dinner,18:26,Yes
+292,992,4/22/2005,IN_TEST,51,Dinner,18:40,Yes
+293,992,4/23/2005,IN_TEST,52,Dinner,20:25,Yes
+294,992,4/24/2005,IN_TEST,53,Dinner,18:30,Yes
+295,992,4/25/2005,IN_TEST,54,Dinner,18:30,Yes
+296,992,4/26/2005,IN_TEST,55,Dinner,18:30,Yes
+297,992,4/27/2005,IN_TEST,56,Dinner,18:30,"No, subject will eat the mandarin oranges for a snack (nighttime) per subject  & 2 cookies  2020 -  subject ate the oranges & cookies now."
+298,992,4/28/2005,IN_TEST,57,Dinner,18:35,Yes
+299,992,4/29/2005,IN_TEST,58,Dinner,18:30,Yes
+300,992,4/30/2005,IN_TEST,59,Dinner,18:51,Yes
+301,992,5/1/2005,IN_TEST,60,Dinner,19:00,Yes
+302,992,5/2/2005,IN_TEST,61,Dinner,18:25,Yes
+303,992,5/3/2005,IN_TEST,62,Dinner,18:30,Yes
+304,992,5/4/2005,IN_TEST,63,Dinner,18:25,Yes
+305,992,5/5/2005,IN_TEST,64,Dinner,18:30,Yes
+306,992,5/6/2005,IN_TEST,65,Dinner,18:00,Yes
+307,992,5/7/2005,IN_TEST,66,Dinner,18:30,Yes
+308,992,5/8/2005,IN_TEST,67,Dinner,18:50,Yes
+309,992,5/9/2005,IN_TEST,68,Dinner,18:35,Yes
+310,992,5/10/2005,IN_TEST,69,Dinner,18:32,Yes
+311,992,5/11/2005,IN_TEST,70,Dinner,18:35,Yes
+312,992,5/12/2005,IN_TEST,71,Dinner,18:30,Yes
+313,992,5/13/2005,IN_TEST,72,Dinner,18:35,Yes
+314,992,5/14/2005,IN_TEST,73,Dinner,NA,NA
+315,992,5/15/2005,IN_TEST,74,Dinner,18:42,Yes
+316,992,5/16/2005,IN_TEST,75,Dinner,18:30,NA
+317,992,5/17/2005,IN_TEST,76,Dinner,18:30,Yes
+318,992,5/18/2005,IN_TEST,77,Dinner,18:30,Yes
+319,992,5/19/2005,IN_TEST,78,Dinner,18:23,Yes
+320,992,5/20/2005,IN_TEST,79,Dinner,18:30,Yes
+321,992,5/21/2005,IN_TEST,80,Dinner,18:30,"No, fruit cocktail et ice cream saved in kitchen to eat as snack before 10pm."
+322,992,5/22/2005,IN_TEST,81,Dinner,18:30,NA
+323,992,5/23/2005,IN_TEST,82,Dinner,18:30,Yes
+324,992,5/24/2005,IN_TEST,83,Dinner,18:13,Yes
+325,992,5/25/2005,IN_TEST,84,Dinner,18:30,"No, patient says that subject is going to save pie for a snack. @ 2050 subject states that subject will not eat pie tonight - returned to refrigerator in kitchen."
+326,992,5/26/2005,IN_TEST,85,Dinner,18:30,Yes
+327,992,5/27/2005,IN_TEST,86,Dinner,18:25,Yes
+328,992,5/28/2005,IN_TEST,87,Dinner,18:32,Yes
+329,992,5/29/2005,IN_TEST,88,Dinner,18:30,Yes
+330,992,5/30/2005,IN_TEST,89,Dinner,18:35,Yes
+331,992,5/31/2005,IN_TEST,90,Dinner,18:38,Yes
+332,992,6/1/2005,POST_TEST,0,Dinner,19:55,Yes
+333,992,6/2/2005,POST_TEST,1,Dinner,18:30,"NA, will eat about 2000"
+334,992,6/3/2005,POST_TEST,2,Dinner,18:30,Yes
+335,992,6/4/2005,POST_TEST,3,Dinner,19:50,Yes
+336,992,6/5/2005,POST_TEST,4,Dinner,19:30,Yes
+337,992,6/6/2005,POST_TEST,5,Dinner,19:45,Yes
+338,992,6/7/2005,POST_TEST,6,Dinner,18:35,Yes
+339,992,6/8/2005,POST_TEST,7,Dinner,18:30,Yes
+340,992,6/9/2005,POST_TEST,8,Dinner,18:30,Yes
+341,992,6/10/2005,POST_TEST,9,Dinner,18:30,Yes
+342,992,6/11/2005,POST_TEST,10,Dinner,18:30,Yes
+343,992,6/12/2005,POST_TEST,11,Dinner,18:30,Yes
+344,992,6/13/2005,POST_TEST,12,Dinner,18:30,Yes
+345,992,6/14/2005,POST_TEST,13,Dinner,NA,Pt. DC'd to home at 1640

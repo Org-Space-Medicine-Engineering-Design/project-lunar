@@ -1,0 +1,106 @@
+﻿ID,Subject,Date,Test_Phase,BR_Day,Time,Medication,Dose,Route,Indication,Pain_Score,Outcome
+1,5788,3/3/2005,PRE_TEST,7,704,C-13-Urea,75 mg,PO,Testing,NA,No problems
+2,5788,3/7/2005,PRE_TEST,3,730,Motrin,400 mg,PO,Menses cramping,10-Aug,0830 pt voices feeling better
+3,5788,3/8/2005,PRE_TEST,2,824,NS (Normal Saline),12 cc/hr,IV,Study,0/10,NA
+4,5788,3/8/2005,PRE_TEST,2,908,Indomethacin,12.5 mcg/0.05ml at 6cc/hr x 10 min,IV,Study,0/10,NA
+5,5788,3/8/2005,PRE_TEST,2,922,Phenylephrine,3160 ng/0.1ml at 6cc/hr x 20 min,IV,Study,0/10,NA
+6,5788,3/8/2005,PRE_TEST,2,950,Isoproterenol,100 ng/0.1ml at 6cc/hr x 10 min,IV,Study,0/10,NA
+7,5788,3/8/2005,PRE_TEST,2,1009,Acetylcholine,0.1 nmol/0.05ml at 3cc/hr x 6 min,IV,Study,0/10,Slight shift in catheter position
+8,5788,3/8/2005,PRE_TEST,2,1018,Acetylcholine,0.316 nmol/0.05ml at 3cc/hr x 6 min,IV,Study,0/10,Slight shift in catheter position
+9,5788,3/8/2005,PRE_TEST,2,1027,Acetylcholine,1.0 nmol/0.05ml at 3cc/hr for 6 min,IV,Study,0/10,Slight shift in catheter position
+10,5788,3/8/2005,PRE_TEST,2,1038,Acetylcholine,3.16 nmol/0.05ml at 3cc/hr for 6 min,IV,Study,0/10,Slight shift in catheter position
+11,5788,3/8/2005,PRE_TEST,2,1050,Acetylcholine,10 nmol/0.05ml at 3cc/hr x 6 min,IV,Study,0/10,NA
+12,5788,3/8/2005,PRE_TEST,2,1212,LNMMA,50 mcg/0.05ml at 3cc/hr x 10 min,IV,Study,0/10,NA
+13,5788,3/8/2005,PRE_TEST,2,1226,Nitroglycerin,16 pmol/0.1ml at 6cc/hr x 10 min,IV,Study,0/10,NA
+14,5788,3/8/2005,PRE_TEST,2,1158,Acetylcholine,20 nmol/0.05ml at 3cc/hr x 6 min,IV,Study,10-Jan,NA
+15,5788,3/11/2005,IN_TEST,5,805,Tylenol,650 mg,PO,Back pain,10-Jul,Effective 09:15
+16,5788,3/11/2005,IN_TEST,5,1240,Tylenol,650 mg,PO,Back pain,10-Jul,"Effective (decrease) ""5"" 16:00"
+17,5788,3/22/2005,IN_TEST,13,1015,Motrin,400 mg,PO,Bx site pain,10-May,"""Helped"""
+18,5788,3/27/2005,IN_TEST,17,1140,Antivert,12.5 mg,PO,Dizziness (severe) with nausea,NA,"(Decrease) dizziness, (decrease) nausea"
+19,5788,4/7/2005,IN_TEST,29,1015,Ibuprofen,800 mg,PO,Pain,10-Aug,"Some effect ""7"""
+20,5788,4/7/2005,IN_TEST,29,1440,Ibuprofen,800 mg,PO,Pain,10-Jul,"Some effect ""6"""
+21,5788,4/7/2005,IN_TEST,29,1945,NA,NA,NA,NA,NA,Pt feels pain at a 0 unless lifts - then 8 but even that is decreasing
+22,5788,4/9/2005,IN_TEST,31,1230,Ibuprofen,1 tab,PO,HA,NA,NA
+23,5788,4/9/2005,IN_TEST,31,2000,Tylenol,650 mg,PO,HA,10-Jul,Resolved by 22:00
+24,5788,4/28/2005,IN_TEST,50,2125,Diphenhydramine,50 mg,PO,Difficulty sleeping-recent-Hx of,NA,04/29/05 @ 06:10-pt states slept well last p.m.
+25,5788,4/29/2005,IN_TEST,51,2130,Diphenhydramine,50 mg,PO,Recent Hx of difficulty sleeping,0/10,04/30/05 @ 06:30 - states Benedryl helps to sleep better
+26,5788,5/2/2005,IN_TEST,54,1558,Phenylephrine,0.4 mcg/kg/min at 6cc/hr,IV,PE - Nitroprusside Testing,NA,NA
+27,5788,5/2/2005,IN_TEST,54,1612,Phenylephrine,0.8 mcg/kg/mi at 12cc/hr for,IV,PE - Nitroprusside Testing,NA,NA
+28,5788,5/2/2005,IN_TEST,54,1623,Phenylephrine,1.6 mcg/kg/mi at 24cc/hr,IV,PE - Nitroprusside Testing,NA,NA
+29,5788,5/2/2005,IN_TEST,54,1546,Normal Saline,6cc/hr,IV,PE - Nitroprusside Testing,NA,NA
+30,5788,5/2/2005,IN_TEST,54,1703,Sodium Nitroprusside,0.4 mcg/kg/min at 6cc/hr,IV,PE - Nitroprusside Testing,NA,NA
+31,5788,5/2/2005,IN_TEST,54,1753,Sodium Nitroprusside,0.8 mcg/kg/min at 12cc/hr,IV,PE - Nitroprusside Testing,NA,NA
+32,5788,5/2/2005,IN_TEST,54,1820,Sodium Nitroprusside,1.2 mcg/kg/min at 1cc/hr,IV,PE - Nitroprusside Testing,NA,NA
+33,5788,5/3/2005,IN_TEST,55,1226,Indomethacin,12.5 mcg/.05ml at 6cc/hr for 10 min,IV,Dorsal hand vein testing,NA,NA
+34,5788,5/3/2005,IN_TEST,55,1241,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 20 min,IV,Dorsal hand vein testing,NA,NA
+35,5788,5/3/2005,IN_TEST,55,1301,Isoproterenol,100 ng/0.1ml at 6cc/hr for 10 min,IV,Dorsal hand vein testing,NA,NA
+36,5788,5/3/2005,IN_TEST,55,1318,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 6 min,IV,Dorsal hand vein testing,NA,NA
+37,5788,5/3/2005,IN_TEST,55,1319,Acetylcholine,0.1 nmol/0.05ml at 3cc/hr for 6 min,IV,Dorsal hand vein testing,NA,NA
+38,5788,5/3/2005,IN_TEST,57,1329,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 6 min,IV,Dorsal hand vein testing,NA,NA
+39,5788,5/3/2005,IN_TEST,57,1329,Acetylcholine,0.316 nmol/0.05ml at 3cc/hr for 6 min,IV,Dorsal hand vein testing,NA,NA
+40,5788,5/3/2005,IN_TEST,57,1339,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 6 min,IV,Dorsal hand vein testing,NA,NA
+41,5788,5/3/2005,IN_TEST,57,1339,Acetylcholine,1.0 nmol/0.05ml at 3cc/hr for 6 min,IV,Dorsal hand vein testing,NA,NA
+42,5788,5/3/2005,IN_TEST,57,1350,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 6 min,IV,Dorsal hand vein testing,NA,NA
+43,5788,5/3/2005,IN_TEST,57,1350,Acetylcholine,3.16 nmol/0.05ml at 3cc/hr for 6 min,IV,Dorsal hand vein testing,NA,NA
+44,5788,5/3/2005,IN_TEST,57,1400,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 6 min,IV,Dorsal hand vein testing,NA,NA
+45,5788,5/3/2005,IN_TEST,57,1400,Acetylcholine,10 nmol/0.05ml at 3cc/hr for 6 min,IV,Dorsal hand vein testing,NA,NA
+46,5788,5/3/2005,IN_TEST,55,1443,LNMMA,50 mcg/.05ml at 3cc/hr for 10 min,IV,Dorsal hand vein testing,NA,NA
+47,5788,5/3/2005,IN_TEST,55,1443,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 10 min,IV,Dorsal hand vein testing,NA,NA
+48,5788,5/3/2005,IN_TEST,55,1443,Acetylcholine,3.16 nmol/0.05ml at 3cc/hr for 10 min,IV,Dorsal hand vein testing,NA,NA
+49,5788,5/3/2005,IN_TEST,55,1500,Nitroglycerin,2 pmol/0.1ml at 6cc/hr for 10 min,IV,Dorsal hand vein testing,NA,NA
+50,5788,5/3/2005,IN_TEST,55,1500,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 10 min,IV,Dorsal hand vein testing,NA,NA
+51,5788,5/3/2005,IN_TEST,55,1151,Normal Saline,12 cc,IV,Dorsal hand vein testing,NA,NA
+52,5788,5/5/2005,IN_TEST,57,932,Indomethacin,12.5 mcg/.05ml at 6cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+53,5788,5/5/2005,IN_TEST,57,945,Phenylephrine,3.160 ng/0.1ml at 6cc/hr for 20 min,IV,Dorsal foot vein testing,NA,NA
+54,5788,5/5/2005,IN_TEST,57,1009,Isoproterenol,100 ng/0.1ml at 6cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+55,5788,5/5/2005,IN_TEST,57,1009,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+56,5788,5/5/2005,IN_TEST,57,1023,Phenylephrine,3160 ng/0.1ml at 6cc for 10 min,IV,Dorsal foot vein testing,NA,NA
+57,5788,5/5/2005,IN_TEST,57,1023,Acetylcholine,0.1 nmol/0.05ml at 3cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+58,5788,5/5/2005,IN_TEST,57,1033,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+59,5788,5/5/2005,IN_TEST,57,1033,Acetylcholine,0.316 nmol/0.05ml at 3cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+60,5788,5/5/2005,IN_TEST,57,1044,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+61,5788,5/5/2005,IN_TEST,57,1044,Acetylcholine,1.0 nmol/0.05ml at 3cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+62,5788,5/5/2005,IN_TEST,57,1058,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+63,5788,5/5/2005,IN_TEST,57,1058,Acetylcholine,3.16 nmol/0.05ml at 3cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+64,5788,5/5/2005,IN_TEST,57,1109,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+65,5788,5/5/2005,IN_TEST,57,1109,Acetylcholine,10 nmol/0.05ml at 3cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+66,5788,5/5/2005,IN_TEST,57,1120,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+67,5788,5/5/2005,IN_TEST,57,1120,Acetylcholine,20 nmol/0.05ml at 3cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+68,5788,5/5/2005,IN_TEST,57,1151,LNMMA,50 mcg/.05ml at 3cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+69,5788,5/5/2005,IN_TEST,57,1151,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+70,5788,5/5/2005,IN_TEST,57,1151,Acetylcholine,10 nmol/0.05ml at 3cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+71,5788,5/5/2005,IN_TEST,57,1206,Nitroglycerin,16 pmol/0.1ml at 6cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+72,5788,5/5/2005,IN_TEST,57,1206,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+73,5788,5/3/2005,IN_TEST,57,848,Normal Saline,12 cc,IV,Dorsal foot vein testing,NA,NA
+74,5788,6/3/2005,IN_TEST,86,838,NS (Normal Saline),12 cc/hr,IV,Dorsal foot vein testing,NA,NA
+75,5788,6/3/2005,IN_TEST,86,945,Indomethacin,12.5 mcg/.05ml at 6cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+76,5788,6/3/2005,IN_TEST,86,1000,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 20 min,IV,Dorsal foot vein testing,NA,NA
+77,5788,6/3/2005,IN_TEST,86,1023,Isoproterenol,100 ng/0.1ml at 6cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+78,5788,6/3/2005,IN_TEST,86,1023,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+79,5788,6/3/2005,IN_TEST,86,1049,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 6min,IV,Dorsal foot vein testing,NA,NA
+80,5788,6/3/2005,IN_TEST,86,1049,Acetylcholine,0.1 nmol/0.05ml at 3cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+81,5788,6/3/2005,IN_TEST,86,1058,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+82,5788,6/3/2005,IN_TEST,86,1058,Acetylcholine,0.316 nmol/0.05ml at 3cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+83,5788,6/3/2005,IN_TEST,86,1107,Phenylephrine,NA,IV,Dorsal foot vein testing,NA,NA
+84,5788,6/3/2005,IN_TEST,86,1107,Acetylcholine,1 nmol/0.05ml at 3cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+85,5788,6/3/2005,IN_TEST,86,1117,Phenylephrine,NA,IV,Dorsal foot vein testing,NA,NA
+86,5788,6/3/2005,IN_TEST,86,1117,Acetylcholine,3.16 nmol/0.05ml at 3cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+87,5788,6/3/2005,IN_TEST,86,1125,Phenylephrine,NA,IV,Dorsal foot vein testing,NA,NA
+88,5788,6/3/2005,IN_TEST,86,1125,Acetylcholine,10 nmol/0.05ml at 3cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+89,5788,6/3/2005,IN_TEST,86,1136,LNMMA,50 mcg/.05ml at 3cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+90,5788,6/3/2005,IN_TEST,86,1136,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+91,5788,6/3/2005,IN_TEST,86,1136,Acetylcholine,1 nmol/0.05ml at 3cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+92,5788,6/3/2005,IN_TEST,86,1149,Nitroglycerin,16 pmol/0.1ml at cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+93,5788,6/3/2005,IN_TEST,86,1149,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+94,5788,6/9/2005,POST_TEST,1,830,Motrin,400 mg,PO,Muscle soreness,NA,2100 no c/o pain
+95,5788,6/11/2005,POST_TEST,3,1745,Motrin,400 mg,PO,Muscle achiness/soreness,10-Jul,NA
+96,5788,6/11/2005,POST_TEST,3,2140,Ambien,5 mg,PO,Sleep,0/10,Sleeping @ 0100
+97,5788,6/12/2005,POST_TEST,4,2130,Ambien,5 mg,PO,Recent hx difficulty sleeping,0/10,"2300 resting quietly, 2130 stated med effective on previous nights"
+98,5788,6/13/2005,POST_TEST,5,1320,Tylenol,650 mg,PO,Right ankle pain,10-May,Effective
+99,5788,6/13/2005,POST_TEST,5,2115,Ambien,5 mg,PO,Difficulty sleeping since HOB level,NA,"2145 oriented with strength bilat.  C/o blurry vision, feeling ""drunk"".  2300 resting quietly"
+100,5788,6/14/2005,POST_TEST,6,1730,Motrin,400 mg,PO,Ankle pain,4.5/10,1900 states pain relieved
+101,5788,6/17/2005,POST_TEST,9,1645,Motrin,400 mg,PO,Feet pain,10-Apr,"2000 pt walking outside.  2200 ""feeling better"" per patient"
+102,5788,6/18/2005,POST_TEST,10,800,Tylenol,650 mg,PO,Pain (legs/knee),3/4/2010,Effective
+103,5788,6/18/2005,POST_TEST,10,1400,Motrin,400 mg,PO,Pain (legs/left knee),3/4/2010,Effective
+104,5788,6/19/2005,POST_TEST,11,1715,Motrin,400 mg,PO,Pain both feet,10-Mar,Effective
+105,5788,6/19/2005,POST_TEST,11,2115,Ibuprofen,400 mg,PO,"Intermittent right knee ""soreness""",0/10,Tol med well

@@ -1,0 +1,85 @@
+ID,Subject,Date,Test_Phase,BR_Day,Pulse (bpm),"Blood Pressure, systolic","Blood Pressure, diastolic",Respiration rate (rpm),Vitals collection time,"Temperature, body (Celsius)","Temperature, body (Fahrenheit)",Weight (kg),Height (cm),"Temperature, ambient","Humidity, ambient %",Nurse Comments,6-degree Tilt Verified
+1,C1G0002,8/30/2004,PRE_TEST,10,71,121,77,16,6:10,NA,NA,NA,NA,NA,NA,NA,NA
+2,C1G0002,8/31/2004,PRE_TEST,9,68,115,80,14,6:05,NA,NA,NA,NA,NA,NA,NA,NA
+3,C1G0002,9/1/2004,PRE_TEST,8,80,108,68,16,6:00,NA,NA,NA,NA,NA,NA,NA,NA
+4,C1G0002,9/2/2004,PRE_TEST,7,69,98,63,16,6:00,NA,NA,NA,NA,NA,NA,NA,NA
+5,C1G0002,9/3/2004,PRE_TEST,6,60,102,66,14,6:00,NA,NA,NA,NA,NA,NA,NA,NA
+6,C1G0002,9/4/2004,PRE_TEST,5,62,104,63,18,6:00,NA,NA,76.7,NA,NA,NA,NA,NA
+7,C1G0002,9/5/2004,PRE_TEST,4,62,103,56,16,6:00,NA,NA,79.44,NA,NA,NA,NA,NA
+8,C1G0002,9/6/2004,PRE_TEST,3,61,115,74,16,6:00,NA,NA,NA,NA,NA,NA,NA,NA
+9,C1G0002,9/7/2004,PRE_TEST,2,64,108,69,16,6:00,NA,NA,79.31,NA,NA,NA,NA,NA
+10,C1G0002,9/8/2004,PRE_TEST,1,65,113,75,16,6:05,36.3,97.3,78.6,NA,NA,NA,NA,NA
+11,C1G0002,9/9/2004,IN_TEST,1,59,119,67,16,6:00,NA,NA,78.6,NA,71.1,56,NA,NA
+12,C1G0002,9/10/2004,IN_TEST,2,62,114,69,16,5:58,NA,NA,78.9,NA,71.2,56,Bed remains at 6 degree head down tilt - verified with inclinometer,Yes
+13,C1G0002,9/11/2004,IN_TEST,3,55,130,68,16,6:00,NA,NA,78.71,NA,71.4,58,NA,NA
+14,C1G0002,9/12/2004,IN_TEST,4,63,123,62,16,6:00,NA,NA,78.53,NA,71.1,57,NA,NA
+15,C1G0002,9/13/2004,IN_TEST,5,60,114,61,16,6:00,NA,NA,78.17,NA,71.2,58,Bed tilt verified at -6 degree head tilt with Johnson Magnetic Angle Locator at 3 different points;,Yes
+16,C1G0002,9/14/2004,IN_TEST,6,56,113,73,16,6:00,NA,NA,79,NA,70.2,59,Negative 6 degree head down tilt verified with Johnson Magnetic Angle Locator at 3 different points.  Bed down -6 degree down had tilt rechecked after bed made.,Yes
+17,C1G0002,9/15/2004,IN_TEST,7,68,151,90,18,6:00,NA,NA,78.7,NA,70.3,60,Negative 6 degree down head tilt verified with Johnson Magnetic Angle Locator at 3 points.,Yes
+18,C1G0002,9/16/2004,IN_TEST,8,58,122,71,16,6:00,NA,NA,78.71,NA,70,60,Negative 6 head tilt verified at 7:00.,Yes
+19,C1G0002,9/17/2004,IN_TEST,9,78,114,67,16,6:00,36.6,97.9,78.3,NA,70.2,60,Negative head tilt verified.,Yes
+20,C1G0002,9/18/2004,IN_TEST,10,64,128,62,16,6:00,36.5,97.7,78.7,NA,70.2,60,Negative 6 degree down head tilt verified by Johnson Magnetic Angle Locator at 3 different points.,Yes
+21,C1G0002,9/19/2004,IN_TEST,11,57,133,74,16,6:05,NA,NA,78.53,NA,70.3,59,Negative 6 degree down head tilt verified with Johnson Magnetic Angle Locator.,Yes
+22,C1G0002,9/20/2004,IN_TEST,12,57,115,77,16,6:08,NA,NA,77.98,NA,70.3,56,Bed angle verified with Johnson Magnetic Angle Locator to be at negative 6 degree down head tilt at 3 different points.,Yes
+23,C1G0002,9/21/2004,IN_TEST,13,71,127,83,16,6:10,NA,NA,77.94,NA,70.2,59,At 7:00 -6 degree down head tilt verified with Johnson Magnetic Angle Locator at 3 different points.  19:30 head tilt down 6 degree verified,Yes
+24,C1G0002,9/22/2004,IN_TEST,14,68,115,69,16,6:00,36.4,97.5,78.08,NA,70.3,59,21:00 - negative 6 degree head down checked using inclinometer,Yes
+25,C1G0002,9/23/2004,IN_TEST,15,67,130,83,16,6:00,36,96.8,78.13,NA,70,61,21:00 -6 degree head tilt verified,Yes
+26,C1G0002,9/24/2004,IN_TEST,16,58,136,78,16,6:00,36,96.8,78.09,NA,70,58,Negative 6 degree head tilt confirmed at 3 different locations on bed,Yes
+27,C1G0002,9/25/2004,IN_TEST,17,73,114,81,16,NA,NA,NA,77.71,NA,70.2,59,NA,NA
+28,C1G0002,9/26/2004,IN_TEST,18,69,140,78,20,6:00,NA,NA,77.44,NA,70,58,Negative 6 degree head tilt verified at 3 different areas of bed.  22:00 -6 degree head down verified,Yes
+29,C1G0002,9/27/2004,IN_TEST,19,61,123,62,18,6:00,36,96.8,77.21,NA,70,56,NA,NA
+30,C1G0002,9/28/2004,IN_TEST,20,62,145,80,18,6:00,35.9,96.6,77.3,NA,69,56,Negative 6 degree down head tilt verified with Johnson's Magnetic Angle Locator at 3 different points.,Yes
+31,C1G0002,9/29/2004,IN_TEST,21,68,130,76,18,6:00,35.9,96.6,77.99,NA,70,55,Negative 6 degree head tilt verified at 3 different positions,Yes
+32,C1G0002,9/30/2004,IN_TEST,22,75,122,84,20,6:00,NA,NA,77.94,NA,71,54,Negative 6 degree head tilt verified at 3 different positions,Yes
+33,C1G0002,10/1/2004,IN_TEST,23,73,119,78,20,6:00,NA,NA,77.35,NA,70,56,Bed at 6 degree head down tilt verified.  Awake in bed watching TV.,Yes
+34,C1G0002,10/2/2004,IN_TEST,24,80,141,87,20,6:00,NA,NA,77.03,NA,70.7,60,19:30 - HOB verified at 6 degree down,Yes
+35,C1G0002,10/3/2004,IN_TEST,25,85,131,84,16,6:00,36.6,97.9,77.03,NA,70.5,58,19:30 - HOB tilt at 6 degree down verified,Yes
+36,C1G0002,10/4/2004,IN_TEST,26,73,130,81,16,6:00,NA,NA,76.9,NA,70,59,Negative 6 degree down head tilt verified with Johnson Magnetic Angle Locator at 3 points on bed.  19:30 - HOB tilt at 6 degree down verified.,Yes
+37,C1G0002,10/5/2004,IN_TEST,27,77,111,80,16,6:00,36.2,97.2,80.42,NA,70,56,Negative 6 degree down head tilt verified with Johnson Magnetic Angle Locator at 3 points on bed.  19:30 - HOB down 6 degree tilt verified.,Yes
+38,C1G0002,10/6/2004,IN_TEST,28,73,124,80,16,6:00,36.1,97,77.12,NA,71,52,Negative 6 degree head tilt verified at 3 different positions,Yes
+39,C1G0002,10/7/2004,IN_TEST,29,67,126,53,16,6:00,NA,NA,77.12,NA,71,58,Negative 6 degree head tilt verified at 3 different positions,Yes
+40,C1G0002,10/8/2004,IN_TEST,30,72,120,85,16,6:00,NA,NA,77.25,NA,70,59,Negative 6 degree head tilt verified at 3 different positions,Yes
+41,C1G0002,10/9/2004,IN_TEST,31,68,132,78,16,6:00,NA,NA,77.16,NA,70,58,Bed down 6 degrees verified at 3 different positions,Yes
+42,C1G0002,10/10/2004,IN_TEST,32,70,143,83,20,6:00,NA,NA,77.12,NA,73,50,Negative 6 degree head tilt verified at 3 different positions.  19:30 - HOB down 6 degree tilt verified,Yes
+43,C1G0002,10/11/2004,IN_TEST,33,70,119,79,16,6:00,NA,NA,76.5,NA,72.9,49,Negative 6 degree head down tilt verified at 7:30 a.m.  19:30 HOB down 6 degree tilt verified.,Yes
+44,C1G0002,10/12/2004,IN_TEST,34,70,125,88,16,6:00,36.3,97.3,76.9,NA,72.9,49,7:20 - negative 6 degree head down tilt verified.  19:15 HOB down 6 degree tilt verified.,Yes
+45,C1G0002,10/13/2004,IN_TEST,35,71,109,69,16,6:00,36.3,97.3,76.9,NA,73,48,Beds - negative 6 degree down head tilt verified with Johnson Magnetic Angle Locator at 3 points.  19:30 HOB down 6 degree tilt verified.,Yes
+46,C1G0002,10/14/2004,IN_TEST,36,65,124,78,16,6:00,36.5,97.7,77.42,NA,73,49,Negative 6 degree down head tilt verified with Johnson Magnetic Angle Locator at 3 points on bed.  20:00 -6 degree head tilt verified using inclinometer.,Yes
+47,C1G0002,10/15/2004,IN_TEST,37,72,146,77,16,6:00,36.4,97.5,77.09,NA,72,40,Negative 6 degree down head tilt verified with Johnson Magnetic Angle Locator at 3 points. 22:00 verified -6 degree head down with inclinometer.,Yes
+48,C1G0002,10/16/2004,IN_TEST,38,71,130,76,16,6:00,36.4,97.5,76.34,NA,73,49,07:00 -6 degree head down tilt verified with inclinometer.,Yes
+49,C1G0002,10/17/2004,IN_TEST,39,69,122,81,16,6:00,36.3,97.3,76.48,NA,73,52,07:00 -6 degree head down tilt verified with inclinometer. 19:30 -6 degree head tilt verified,Yes
+50,C1G0002,10/18/2004,IN_TEST,40,76,110,83,18,6:00,36.1,97,75.98,NA,73,54,19:30 -6 degree head tilt verified using inclinometer,Yes
+51,C1G0002,10/19/2004,IN_TEST,41,68,126,81,16,6:00,36.5,97.7,76.8,NA,73,54,13:00 -6 degree head down tilt verified.,Yes
+52,C1G0002,10/20/2004,IN_TEST,42,69,121,75,16,6:00,NA,NA,76.62,NA,73,55,Negative 6 degree down head tilt verified with Johnson Magnetic Angle Locator at 3 points.,Yes
+53,C1G0002,10/21/2004,IN_TEST,43,72,112,73,16,6:00,NA,NA,76.85,NA,73,55,Negative 6 degree down head tilt verified with Johnson Magnetic Angle Locator at 3 points.,Yes
+54,C1G0002,10/22/2004,IN_TEST,44,67,130,80,20,6:00,NA,NA,76.62,NA,73,54,Bed -6 degree down head tilt verified with Johnson Magnetic Angle Locator at 3 points.,Yes
+55,C1G0002,10/23/2004,IN_TEST,45,70,121,78,16,6:00,36.4,97.5,76.93,NA,73,52,Negative 6 degree head down tilt verified by inclinometer,Yes
+56,C1G0002,10/24/2004,IN_TEST,46,68,118,74,16,6:00,36.5,97.7,76.63,NA,73,52,NA,NA
+57,C1G0002,10/25/2004,IN_TEST,47,74,129,80,16,6:00,NA,NA,76.44,NA,73,52,Negative 6 degree down head tilt verified with Johnson Magnetic Angle Locator at 3 points.,Yes
+58,C1G0002,10/26/2004,IN_TEST,48,69,123,84,20,6:00,NA,NA,76.85,NA,73,52,20:00 head tilt -6 degree verified.,Yes
+59,C1G0002,10/27/2004,IN_TEST,49,70,114,75,18,6:00,36.5,97.7,76.94,NA,73,54,Negative 6 degree head tilt verified at 3 different locations.,Yes
+60,C1G0002,10/28/2004,IN_TEST,50,62,113,76,20,6:00,35.9,96.6,76.93,NA,73,52,NA,NA
+61,C1G0002,10/29/2001,IN_TEST,51,64,114,70,16,6:05,NA,NA,76.76,NA,73,51,Negative 6 degree head tilt verified at 3 different locations.,Yes
+62,C1G0002,10/30/2004,IN_TEST,52,68,116,71,16,6:00,NA,NA,76.62,NA,73,51,Head tilt down 6 degrees confirmed at 0710,Yes
+63,C1G0002,10/31/2004,IN_TEST,53,74,114,75,16,6:00,NA,NA,76.57,NA,73,51,NA,NA
+64,C1G0002,11/1/2004,IN_TEST,54,76,109,71,16,6:00,NA,NA,76.54,NA,74.5,54,AM weight recorded incorrectly.  Subject ate breakfast.  Was unable to determine AM weight.  Nurse used AM weight from 10/31/04.,Yes
+65,C1G0002,11/2/2004,IN_TEST,55,61,128,69,16,6:00,36.2,97.2,76.57,NA,73,51,NA,NA
+66,C1G0002,11/3/2004,IN_TEST,56,65,115,72,16,6:00,NA,NA,76.81,NA,72,49,19:00 -6 degree head tilt verified using inclinometer.,Yes
+67,C1G0002,11/4/2004,IN_TEST,57,70,142,86,16,6:00,36.3,97.3,76.94,NA,73,41,Negative 6 degree head tilt verified at 3 different locations.,Yes
+68,C1G0002,11/5/2004,IN_TEST,58,65,102,71,16,6:00,36.8,98.2,77.49,NA,73,43,19:30 -6 degree head tilt verified,Yes
+69,C1G0002,11/6/2004,IN_TEST,59,70,120,79,18,6:00,36.2,97.2,76.84,NA,73,46,07:30 -6 degree head down tilt verified.  19:30 - negative head tilt verified.,Yes
+70,C1G0002,11/7/2004,IN_TEST,60,67,135,83,18,6:00,36.3,97.3,77.07,NA,73,49,07:30 -6 degree head down tilt verified.,Yes
+71,C1G0002,11/8/2004,POST_TEST,0,72,114,67,18,6:00,36.4,97.5,77.52,NA,73.2,50,NA,NA
+72,C1G0002,11/9/2004,POST_TEST,1,84,110,67,16,6:00,36.7,98.1,77.85,NA,72.9,50,NA,NA
+73,C1G0002,11/10/2004,POST_TEST,2,71,103,68,14,6:00,NA,NA,78.26,NA,73,51,NA,NA
+74,C1G0002,11/11/2004,POST_TEST,3,67,99,61,16,6:00,36.1,97,78.44,NA,73,51,NA,NA
+75,C1G0002,11/12/2004,POST_TEST,4,68,105,58,18,6:00,36.2,97.2,78.8,NA,71,45,NA,NA
+76,C1G0002,11/13/2004,POST_TEST,5,59,109,67,16,6:00,36.1,97,79.12,NA,72,46,NA,NA
+77,C1G0002,11/14/2004,POST_TEST,6,63,104,67,16,6:00,36.5,97.7,78.52,NA,71,50,NA,NA
+78,C1G0002,11/15/2004,POST_TEST,7,61,117,61,18,6:00,37,98.6,78.88,NA,71,53,NA,NA
+79,C1G0002,11/16/2004,POST_TEST,8,62,104,61,16,6:00,36.1,97,79.01,NA,71.4,53,NA,NA
+80,C1G0002,11/17/2004,POST_TEST,9,69,106,68,16,6:00,36.1,97,79.1,NA,71,54,NA,NA
+81,C1G0002,11/18/2004,POST_TEST,10,73,99,67,NA,6:00,36.3,97.3,78.5,NA,71.2,53,NA,NA
+82,C1G0002,11/19/2004,POST_TEST,11,68,113,76,18,6:00,36,96.8,78.89,NA,72,52,NA,NA
+83,C1G0002,11/20/2004,POST_TEST,12,66,102,60,14,6:00,NA,NA,78.71,NA,71,53,NA,NA
+84,C1G0002,11/21/2004,POST_TEST,13,66,113,68,16,6:00,NA,NA,76.86,NA,71.2,54,NA,NA

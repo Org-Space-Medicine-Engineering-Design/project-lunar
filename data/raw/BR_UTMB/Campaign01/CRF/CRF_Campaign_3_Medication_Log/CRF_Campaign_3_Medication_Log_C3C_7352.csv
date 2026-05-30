@@ -1,0 +1,229 @@
+﻿ID,Subject,Date,Test_Phase,BR_Day,Time,Medication,Dose,Route,Indication,Pain_Score,Outcome
+1,7352,4/6/2006,PRE_TEST,12,6:20,Lactulose,10 gms,PO,Pharm test,NA,NA
+2,7352,4/6/2006,PRE_TEST,12,6:20,Acetaminophen,650 mg,PO,Pharm Test,NA,NA
+3,7352,4/6/2006,PRE_TEST,12,22:20,Oxymetazoline,2 sprays,Nasal,Congestion,NA,No sneezing - Congestion down & subject sleeping
+4,7352,4/10/2006,PRE_TEST,8,NA,Nitroglycerin,0.4 mg,SL,Testing,NA,No HA (headache) reported
+5,7352,4/14/2006,PRE_TEST,4,9:04,Normal Saline, ,IV,Meck - PE/Nitroprusside,NA,NA
+6,7352,4/14/2006,PRE_TEST,4,9:17,Phenylephrine,0.4 microgms/kg/min @ 6 cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+7,7352,4/14/2006,PRE_TEST,4,9:29,Phenylephrine,0.8 microgms/kg/min @ 12cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+8,7352,4/14/2006,PRE_TEST,4,9:41,Phenylephrine,1.6 microgms/kg/min @ 24cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+9,7352,4/14/2006,PRE_TEST,4,10:10,Normal Saline,6 cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+10,7352,4/14/2006,PRE_TEST,4,10:41,Sodium Nitroprusside,0.4 microgms/kg/min @ 6 cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+11,7352,4/14/2006,PRE_TEST,4,10:53,Sodium Nitroprusside,0.8 microgms/kg/min @ 12cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+12,7352,4/14/2006,PRE_TEST,4,11:05,Sodium Nitroprusside,1.2 microgms/kg/min @ 18cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+13,7352,4/15/2006,PRE_TEST,3,8:34,Normal Saline,12 cc/hr,IV,Meck - Dorsal Hand Vein,NA,NA
+14,7352,4/15/2006,PRE_TEST,3,9:08,Indomethacin,12.5 mcg/0.05ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+15,7352,4/15/2006,PRE_TEST,3,9:20,Phenylephrine,"3,160 ng/0.1ml @ 6 cc/hr for 20 minutes",IV,Meck - Dorsal Hand Vein,NA,NA
+16,7352,4/15/2006,PRE_TEST,3,9:46,Isoproterenol,100 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+17,7352,4/15/2006,PRE_TEST,3,9:46,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+18,7352,4/15/2006,PRE_TEST,3,10:00,Phenylephrine,"3,160 ng/0.1ml @ 6 cc/hr for 20 minutes",IV,Meck - Dorsal Hand Vein,NA,NA
+19,7352,4/15/2006,PRE_TEST,3,10:15,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+20,7352,4/15/2006,PRE_TEST,3,10:15,Acetylcholine,0.1 nmol/0.05ml @ 3 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+21,7352,4/15/2006,PRE_TEST,3,10:23,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+22,7352,4/15/2006,PRE_TEST,3,10:23,Acetylcholine,0.316 nmol/0.05ml @ 3 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+23,7352,4/15/2006,PRE_TEST,3,10:32,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+24,7352,4/15/2006,PRE_TEST,3,10:32,Acetylcholine,1.0 nmol/0.05ml @ 3 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+25,7352,4/15/2006,PRE_TEST,3,10:41,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+26,7352,4/15/2006,PRE_TEST,3,10:41,Acetylcholine,3.16 nmol/0.05ml @ 3 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+27,7352,4/15/2006,PRE_TEST,3,10:53,LNMMA,50 mcg/0.05ml @ 3 cc/hr/ for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+28,7352,4/15/2006,PRE_TEST,3,10:53,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+29,7352,4/15/2006,PRE_TEST,3,10:53,Acetylcholine,1 nmol/0.05ml @ 3 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+30,7352,4/15/2006,PRE_TEST,3,11:08,Nitroglycerin,16 pmol/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+31,7352,4/15/2006,PRE_TEST,3,11:08,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+32,7352,4/17/2006,PRE_TEST,1,8:25,Normal Saline,12 cc/hr,IV,Meck - Dorsal Foot Vein,NA,NA
+33,7352,4/17/2006,PRE_TEST,1,9:20,Indomethacin,12.5 mcg/0.05ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+34,7352,4/17/2006,PRE_TEST,1,9:33,Phenylephrine,"3,160 ng/0.1ml @ 6 cc/hr for 20 minutes",IV,Meck - Dorsal Foot Vein,NA,NA
+35,7352,4/17/2006,PRE_TEST,1,9:57,Isoproterenol,100 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+36,7352,4/17/2006,PRE_TEST,1,9:57,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+37,7352,4/17/2006,PRE_TEST,1,10:10,Phenylephrine,"3,160 ng/0.1ml @ 6 cc/hr for 20 minutes",IV,Meck - Dorsal Foot Vein,NA,NA
+38,7352,4/17/2006,PRE_TEST,1,10:22,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+39,7352,4/17/2006,PRE_TEST,1,10:22,Acetylcholine,0.1 nmol/0.05ml @ 3 cc/hr for 6 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+40,7352,4/17/2006,PRE_TEST,1,10:32,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+41,7352,4/17/2006,PRE_TEST,1,10:32,Acetylcholine,0.316 nmol/0.05ml @ 3 cc/hr for 6 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+42,7352,4/17/2006,PRE_TEST,1,10:40,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+43,7352,4/17/2006,PRE_TEST,1,10:40,Acetylcholine,1.0 nmol/0.05ml @ 3 cc/hr for 6 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+44,7352,4/17/2006,PRE_TEST,1,10:55,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+45,7352,4/17/2006,PRE_TEST,1,10:55,Acetylcholine,0.316 nmol/0.05ml @ 3 cc/hr for 10 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+46,7352,4/17/2006,PRE_TEST,1,10:55,LNMMA,50 mcg/0.05ml @ 3 cc/hr for 10 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+47,7352,4/17/2006,PRE_TEST,1,11:09,Nitroglycerin,16 pmol/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+48,7352,4/17/2006,PRE_TEST,1,11:09,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+49,7352,4/18/2006,IN_TEST,1,10:35,Tylenol,325 mg tabs (2),PO,Post muscle bx(biopsy) soreness,NA,Relief of pain - pt. pain free 1-1.5 hours post biopsy
+50,7352,4/18/2006,IN_TEST,1,15:15,Tylenol,325 mg (2),PO,Muscle bx (biopsy) site pain,5,Pain count 5.  Voices with movement is when hurts.  Declines ice pack Ace wrap.
+51,7352,4/18/2006,IN_TEST,1,18:00,Colace,100 mg,PO,Per Protocol,NA,NA
+52,7352,4/19/2006,IN_TEST,2,18:00,Colace,100 mg,PO,Per Protocol,NA,NA
+53,7352,4/20/2006,IN_TEST,3,6:32,Tylenol,650 mg / 20.3 ml,PO,x1 for testing,NA,NA
+54,7352,4/20/2006,IN_TEST,3,6:32,Lactulose,10 gms/15ml,PO,x1 for testing,NA,NA
+55,7352,4/20/2006,IN_TEST,3,18:00,Colace,100 mg,PO,Per Protocol,NA,NA
+56,7352,4/21/2006,IN_TEST,4,10:00,Tylenol,325 mg (2),PO,Back pain,4,11:00 a.m. no pain.
+57,7352,4/21/2006,IN_TEST,4,18:00,Colace,100 mg,PO,Per Protocol,NA,NA
+58,7352,4/21/2006,IN_TEST,4,21:55,Ambien,5 mg,PO,Insomnia,NA,Subject appears to be asleep @ 2215
+59,7352,4/22/2006,IN_TEST,5,18:05,Colace,100 mg,PO,Per Protocol,NA,NA
+60,7352,4/23/2006,IN_TEST,6,20:30,Colace,100 mg,PO,Per Protocol,NA,NA
+61,7352,4/24/2006,IN_TEST,7,10:40,Nitroglycerine,0.4 mg,SL,Per Protocol,NA,Subject developed mild headache during testing given by Dr. Reinertson.
+62,7352,4/24/2006,IN_TEST,7,13:45,Tylenol,650 mg,PO,Headache,4,1545 - states headache is still present but better.
+63,7352,4/24/2006,IN_TEST,7,18:00,Colace,100 mg,PO,Per Protocol,NA,NA
+64,7352,4/25/2006,IN_TEST,8,18:00,Colace,100 mg,PO,Protocol,0,NA
+65,7352,4/26/2006,IN_TEST,9,18:00,Colace,100 mg,PO,Protocol,0,NA
+66,7352,4/26/2006,IN_TEST,9,22:45,Ambien,5 mg,PO,Sleep aid,NA,2400 - Sleeping
+67,7352,4/27/2006,IN_TEST,10,18:00,Colace,100 mg,PO,Per Protocol,0,NA
+68,7352,4/28/2006,IN_TEST,11,18:00,Colace,100 mg,PO,Per Protocol,,NA
+69,7352,4/28/2006,IN_TEST,11,23:00,Ambien,5 mg,PO,Sleep aid,NA,NA
+70,7352,4/29/2006,IN_TEST,12,18:00,Colace,100 mg,PO,Per Protocol,,NA
+71,7352,4/30/2006,IN_TEST,13,9:30,d5PHE (d3) KIC, ,IV,Per Protocol,0,NA
+72,7352,4/30/2006,IN_TEST,13,10:10,Tylenol,650 mg,PO,Post Biopsy,0,NA
+73,7352,4/30/2006,IN_TEST,13,18:00,Colace,100 mg,PO,Per Protocol,0,NA
+74,7352,5/1/2006,IN_TEST,14,6:45,Glucola,75 gms,PO,Per Protocol,0,For OGTT testing
+75,7352,5/6/2006,IN_TEST,19,13:40,Bacitracin Ointment, ,Topical,Redness to muscle biopsy site,0,NA
+76,7352,5/7/2006,IN_TEST,20,18:00,Colace,100 mg,PO,Stool Softener,NA,NA
+77,7352,5/8/2006,IN_TEST,21,21:45,Ambien,5 mg,PO,Pt. requests to assist with sleep tonight,0,5/9/06 @ 0630 - Subject states slept well
+78,7352,5/9/2006,IN_TEST,22,23:00,Ambien,5 mg,PO,Restlessness,0,NA
+79,7352,5/13/2006,IN_TEST,26,13:53,Normal Saline,6 cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+80,7352,5/13/2006,IN_TEST,26,14:17,Phenylephrine,0.4 microgms/kg/min @ 6 cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+81,7352,5/13/2006,IN_TEST,26,14:30,Phenylephrine,0.8 microgms/kg/min @ 12 cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+82,7352,5/13/2006,IN_TEST,26,14:45,Phenylephrine,1.6 microgms/kg/min @ 24 cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+83,7352,5/13/2006,IN_TEST,26,15:10,Normal Saline,6 cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+84,7352,5/13/2006,IN_TEST,26,15:25,Sodium Nitroprusside,0.4 microgms/kg/min @ 6 cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+85,7352,5/13/2006,IN_TEST,26,15:36,Sodium Nitroprusside,0.8 microgms/kg/min @12cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+86,7352,5/13/2006,IN_TEST,26,15:47,Sodium Nitroprusside,1.2 microgms/kg/min @18cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+87,7352,5/14/2006,IN_TEST,27,12:41,Normal Saline,12 cc/hr,IV,Meck - Dorsal Hand Vein,NA,NA
+88,7352,5/14/2006,IN_TEST,27,13:19,Indomethacin,12.5 mcg/0.05ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+89,7352,5/14/2006,IN_TEST,27,13:31,Phenylephrine,"3,160 ng/0.1ml @ 6 cc/hr for 20 minutes",IV,Meck - Dorsal Hand Vein,NA,NA
+90,7352,5/14/2006,IN_TEST,27,14:04,Isoproterenol,100 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+91,7352,5/14/2006,IN_TEST,27,14:04,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+92,7352,5/14/2006,IN_TEST,27,14:15,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+93,7352,5/14/2006,IN_TEST,27,14:15,Acetylcholine,0.1 nmol/0.05ml @ 3 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+94,7352,5/14/2006,IN_TEST,27,14:18,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+95,7352,5/14/2006,IN_TEST,27,14:31,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+96,7352,5/14/2006,IN_TEST,27,14:48,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+97,7352,5/14/2006,IN_TEST,27,15:04,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+98,7352,5/14/2006,IN_TEST,27,14:48,Acetylcholine,0.316 nmol/0.05ml @ 3 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+99,7352,5/14/2006,IN_TEST,27,15:04,Acetylcholine,1 nmol/0.05ml @ 3 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+100,7352,5/14/2006,IN_TEST,27,15:17,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+101,7352,5/14/2006,IN_TEST,27,15:17,Acetylcholine,0.316 nmol/0.05ml @ 3 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+102,7352,5/14/2006,IN_TEST,27,15:20,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+103,7352,5/14/2006,IN_TEST,27,15:20,Acetylcholine,0.316 nmol/0.05ml @ 3 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+104,7352,5/14/2006,IN_TEST,27,15:25,LNMMA,50 mcg/0.05ml @ 3 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+105,7352,5/14/2006,IN_TEST,27,15:25,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+106,7352,5/14/2006,IN_TEST,27,15:25,Acetylcholine,0.316 ng/0.5ml @ 3 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+107,7352,5/14/2006,IN_TEST,27,15:40,Nitroglycerin,16 pmol/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+108,7352,5/14/2006,IN_TEST,27,15:40,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+109,7352,5/15/2006,IN_TEST,28,12:43,Normal Saline,12 cc/hr,IV,Meck - Dorsal Foot Vein,NA,NA
+110,7352,5/15/2006,IN_TEST,28,13:24,Indomethacin,12.5 mcg/0.05ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+111,7352,5/15/2006,IN_TEST,28,13:36,Phenylephrine,"3,160 ng/0.1ml @ 6 cc/hr for 30 minutes",IV,Meck - Dorsal Foot Vein,NA,NA
+112,7352,5/15/2006,IN_TEST,28,14:12,Isoproterenol,100 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+113,7352,5/15/2006,IN_TEST,28,14:12,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+114,7352,5/15/2006,IN_TEST,28,14:28,Normal Saline,6 cc/hr,IV,Meck - Dorsal Foot Vein,NA,NA
+115,7352,5/15/2006,IN_TEST,28,14:28,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+116,7352,5/15/2006,IN_TEST,28,14:44,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+117,7352,5/15/2006,IN_TEST,28,14:44,Normal Saline,6 cc/hr,IV,Meck - Dorsal Foot Vein,NA,NA
+118,7352,5/15/2006,IN_TEST,28,14:44,Acetylcholine,0.1 nmol/0.05ml @ 3 cc/hr for 6 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+119,7352,5/15/2006,IN_TEST,28,14:54,Acetylcholine,0.316 nmol/0.05ml @ 3 cc/hr for 6 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+120,7352,5/15/2006,IN_TEST,28,14:54,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+121,7352,5/15/2006,IN_TEST,28,15:07,Acetylcholine,1.0 nmol/0.05ml @ 3 cc/hr for 6 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+122,7352,5/15/2006,IN_TEST,28,15:07,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+123,7352,5/15/2006,IN_TEST,28,15:17,Acetylcholine,3.16 nmol/0.05ml @ 3 cc/hr for 6 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+124,7352,5/15/2006,IN_TEST,28,15:17,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+125,7352,5/15/2006,IN_TEST,28,15:29,Acetylcholine,10 nmol/0.05ml @ 3 cc/hr for 6 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+126,7352,5/15/2006,IN_TEST,28,15:29,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+127,7352,5/15/2006,IN_TEST,28,15:29,Normal Saline,3 cchr,IV,Meck - Dorsal Foot Vein,NA,NA
+128,7352,5/15/2006,IN_TEST,28,15:40,Acetylcholine,20 nmol/0.05ml @ 3 cc/hr for 6 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+129,7352,5/15/2006,IN_TEST,28,15:40,Normal Saline,3 cc/hr,IV,Meck - Dorsal Foot Vein,NA,NA
+130,7352,5/15/2006,IN_TEST,28,15:53,LNMMA,50 mcg/0.05ml @ 3 cc/hr for 10 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+131,7352,5/15/2006,IN_TEST,28,15:53,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+132,7352,5/15/2006,IN_TEST,28,15:53,Acetylcholine,3.16 ng/0.1ml @ 3 cc/hr for 10 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+133,7352,5/15/2006,IN_TEST,28,16:08,Nitroglycerin,16 pmol/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+134,7352,5/15/2006,IN_TEST,28,16:08,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+135,7352,5/16/2006,IN_TEST,29,10:35,Tylenol,650 mg,PO,Post biopsy pain,4,Moderate relief after 2 1/2 hrs
+136,7352,5/16/2006,IN_TEST,29,14:23,Tylenol,650 mg,PO,Post biopsy pain,3,"1 1/2 hrs. post Tylenol, pain 1-2"
+137,7352,5/19/2006,IN_TEST,32,10:38,Nitroglycerin,0.4 mg,SL,Cardiovascular - Vascular Function,0,No headache
+138,7352,5/19/2006,IN_TEST,32,15:30,Tylenol,325 mg,PO,HA (headache) - from SL Nitroglycerin,5-Apr,Headache is gone - 0 pain 1725
+139,7352,5/22/2006,IN_TEST,35,6:25,Lactulose,10 gms,PO,Lactulose/Acetaminophen Test,NA,NA
+140,7352,5/22/2006,IN_TEST,35,6:25,Acetaminophen,650 mg,PO,Lactulose/Acetaminophen Test,NA,NA
+141,7352,5/27/2006,IN_TEST,40,21:50,Tylenol,650 mg,PO,Lower left sided back pain,3-Feb,NA
+142,7352,6/5/2006,IN_TEST,49,9:00,Nitroglycerin,0.4 mg,SL,Cardiovascular - Vascular Function,0,NA
+143,7352,6/5/2006,IN_TEST,49,13:00,Tylenol,325 mg,PO,HA (headache)-from SL Nitro,4,1400-HA gone
+144,7352,6/5/2006,IN_TEST,49,19:00,Tylenol,325 mg,PO,HA (headache),3,NA
+145,7352,6/8/2006,IN_TEST,52,6:08,Lactulose,10 gms / 15 ml,PO,Lactulose/Acetaminophen Test,0,NA
+146,7352,6/8/2006,IN_TEST,52,6:08,Acetaminophen,650 mg,PO,Lactulose/Acetaminophen Test,0,NA
+147,7352,6/9/2006,IN_TEST,53,12:49,Normal Saline,6 cc/hr/0.1ml/min,IV,Meck - PE/Nitroprusside,NA,NA
+148,7352,6/9/2006,IN_TEST,53,12:59,Normal Saline,6 cc/hr/0.1ml/min,IV,Meck - PE/Nitroprusside,NA,NA
+149,7352,6/9/2006,IN_TEST,53,13:02,Phenylephrine,0.4 microgms/kg/min @ 6 cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+150,7352,6/9/2006,IN_TEST,53,13:14,Phenylephrine,0.8 microgms/kg/min @ 12/cc,IV,Meck - PE/Nitroprusside,NA,NA
+151,7352,6/9/2006,IN_TEST,53,13:25,Phenylephrine,1.6 microgms/kg/min @ 24/cc,IV,Meck - PE/Nitroprusside,NA,NA
+152,7352,6/9/2006,IN_TEST,53,14:08,Sodium Nitroprusside,0.4 microgms/kg/min @ 6 cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+153,7352,6/9/2006,IN_TEST,53,14:20,Sodium Nitroprusside,0.8 microgms/kg/min @ 12cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+154,7352,6/9/2006,IN_TEST,53,14:31,Sodium Nitroprusside,1.2 microgms/kg/min @ 18cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+155,7352,6/10/2006,IN_TEST,54,13:07,Normal Saline, ,IV,Meck - Dorsal Hand Vein,NA,NA
+156,7352,6/10/2006,IN_TEST,54,13:47,Indomethacin,12.5 mcg/0.05ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+157,7352,6/10/2006,IN_TEST,54,14:01,Phenylephrine,"3,160 ng/0.1ml @ 6 cc/hr for 20 minutes",IV,Meck - Dorsal Hand Vein,NA,NA
+158,7352,6/10/2006,IN_TEST,54,14:28,Isoproterenol,100 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+159,7352,6/10/2006,IN_TEST,54,14:28,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+160,7352,6/10/2006,IN_TEST,54,14:52,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+161,7352,6/10/2006,IN_TEST,54,14:52,Acetylcholine,0.1 nmol/0.05ml @ 3 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+162,7352,6/10/2006,IN_TEST,54,15:07,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+163,7352,6/10/2006,IN_TEST,54,15:07,Acetylcholine,0.316 nmol/0.05ml @ 3 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+164,7352,6/10/2006,IN_TEST,54,15:20,LNMMA,50 mcg/0.05ml @ 3 cc for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+165,7352,6/10/2006,IN_TEST,54,15:20,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+166,7352,6/10/2006,IN_TEST,54,15:20,Acetylcholine,0.1 nmol/0.05ml @ 3 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+167,7352,6/10/2006,IN_TEST,54,15:34,Nitroglycerin,16 pmol/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+168,7352,6/10/2006,IN_TEST,54,15:34,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr/ for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+169,7352,6/13/2006,IN_TEST,57,10:05,Acetaminophen,650 mg,PO,S/P biopsy,2,NA
+170,7352,6/13/2006,IN_TEST,57,12:00,Amino Acid Tracer, ,IV,Ferrando - Fractional Synthesis Rate,NA,NA
+171,7352,6/13/2006,IN_TEST,57,21:30,Ambien,5 mg,PO,Sleep,NA,2200 appears to be sleeping
+172,7352,6/15/2006,IN_TEST,59,16:00,Bacitracin,30 gms,Topical,Per biopsy orders - site care,0,Site healthy without signs/symptoms of infection
+173,7352,6/24/2006,IN_TEST,68,21:45,Ambien,5 mg,PO,Sleep,NA,2300 appears to be asleep
+174,7352,6/30/2006,IN_TEST,74,13:45,Nitroglycerin,0.4 mg,SL,Cardiovascular - Vascular Function,NA,BP 95/41 - No headache
+175,7352,7/2/2006,IN_TEST,76,11:57,Oxymetazoline,2 puffs,Nasal,Decongestant,0,No congestion - Nasal relief
+176,7352,7/3/2006,IN_TEST,77,7:55,Oxymetazoline,2 puffs each nostril,Nasal,Head/nasal congestion,0,NA
+177,7352,7/3/2006,IN_TEST,77,21:30,Oxymetazoline,1 puff each nostril,Nasal,Head/nasal congestion,NA,Not much help-tossed & turned
+178,7352,7/4/2006,IN_TEST,78,10:55,Tylenol,650 mg,PO,Head/nasal fullness - feeling poorly,0,Voices feeling better
+179,7352,7/4/2006,IN_TEST,78,15:40,Oxymetazoline,1 puff each nostril,Nasal,Head/nasal congestion,0,Some relief
+180,7352,7/4/2006,IN_TEST,78,21:30,Tylenol,650 mg,PO,Head stuffiness with nasal congestion,0,Helped me sleep
+181,7352,7/5/2006,IN_TEST,79,8:53,Tylenol,650 mg,PO,Head congestion,3,No pain
+182,7352,7/7/2006,IN_TEST,81,8:54,Normal Saline,6 cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+183,7352,7/7/2006,IN_TEST,81,9:06,Phenylephrine,0.4 microgms/kg/min @ 6 cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+184,7352,7/7/2006,IN_TEST,81,9:18,Phenylephrine,0.8 microgms/kg/min @12cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+185,7352,7/7/2006,IN_TEST,81,9:29,Phenylephrine,1.6 microgms/kg/min @ 24cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+186,7352,7/7/2006,IN_TEST,81,10:13,Sodium Nitroprusside,0.4 microgms/kg/min @ 6 cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+187,7352,7/7/2006,IN_TEST,81,10:24,Sodium Nitroprusside,0.8 microgms/kg/min @ 12cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+188,7352,7/7/2006,IN_TEST,81,10:35,Sodium Nitroprusside,1.2 microgms/kg/min @ 18cc/hr,IV,Meck - PE/Nitroprusside,NA,NA
+189,7352,7/8/2006,IN_TEST,82,12:25,Normal Saline,12 cc,IV,Meck - Dorsal Hand Vein,NA,NA
+190,7352,7/8/2006,IN_TEST,82,13:05,Indomethacin,12.5 mcg/0.05ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+191,7352,7/8/2006,IN_TEST,82,13:19,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 20 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+192,7352,7/8/2006,IN_TEST,82,13:44,Isoproterenol,100 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+193,7352,7/8/2006,IN_TEST,82,13:44,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+194,7352,7/8/2006,IN_TEST,82,14:06,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 20 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+195,7352,7/8/2006,IN_TEST,82,14:19,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+196,7352,7/8/2006,IN_TEST,82,14:19,Acetylcholine,0.1 nmol/0.05ml @ 3 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+197,7352,7/8/2006,IN_TEST,82,14:28,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+198,7352,7/8/2006,IN_TEST,82,14:28,Acetylcholine,0.316 nmol/0.05ml @ 3cc/hr for 6 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+199,7352,7/8/2006,IN_TEST,82,14:41,LNMMA,50 mcg/0.05ml @ 3 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+200,7352,7/8/2006,IN_TEST,82,14:41,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+201,7352,7/8/2006,IN_TEST,82,14:41,Acetylcholine,0.1 nmol/0.05ml @ 3 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+202,7352,7/8/2006,IN_TEST,82,14:56,Nitroglycerin,16 pmol/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+203,7352,7/8/2006,IN_TEST,82,14:56,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Hand Vein,NA,NA
+204,7352,7/9/2006,IN_TEST,83,12:02,Normal Saline,12 cc,IV,Meck - Dorsal Foot Vein,NA,NA
+205,7352,7/9/2006,IN_TEST,83,12:52,Indomethacin,12.5 mcg/0.05ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+206,7352,7/9/2006,IN_TEST,83,13:07,Phenylephrine,"3,160 ng/0.1ml @ 6 cc/hr for 20 minutes",IV,Meck - Dorsal Foot Vein,NA,NA
+207,7352,7/9/2006,IN_TEST,83,13:55,Isoproterenol,100 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+208,7352,7/9/2006,IN_TEST,83,13:55,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+209,7352,7/9/2006,IN_TEST,83,14:06,Phenylephrine,"3,160 ng/0.1ml @ 6 cc/hr for 20 minutes",IV,Meck - Dorsal Foot Vein,NA,NA
+210,7352,7/9/2006,IN_TEST,83,14:20,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+211,7352,7/9/2006,IN_TEST,83,14:20,Acetylcholine,0.1 nmol/0.05ml @ 3 cc/hr for 6 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+212,7352,7/9/2006,IN_TEST,83,14:30,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 6 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+213,7352,7/9/2006,IN_TEST,83,14:30,Acetylcholine,0.316 nmol/0.05ml @ 3 cc/hr for 6 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+214,7352,7/9/2006,IN_TEST,83,14:40,LNMMA,50 mcg/0.05ml @ 3 cc/hr for 10 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+215,7352,7/9/2006,IN_TEST,83,14:40,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+216,7352,7/9/2006,IN_TEST,83,14:40,Acetylcholine,0.1 nmol/0.05ml @ 3cc/hr for 10 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+217,7352,7/9/2006,IN_TEST,83,14:55,Nitroglycerin,16 pmol/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+218,7352,7/9/2006,IN_TEST,83,14:55,Phenylephrine,3160 ng/0.1ml @ 6 cc/hr for 10 minutes,IV,Meck - Dorsal Foot Vein,NA,NA
+219,7352,7/10/2006,IN_TEST,84,14:15,Bacitracin Ointment,<0.9 gms,Topical,Pustule to planter surface of right foot,0,NA
+220,7352,7/12/2006,IN_TEST,86,6:26,Acetaminophen,650 mg,PO,Lactulose/Acetaminophen Test,0,Testing completed nominally.
+221,7352,7/12/2006,IN_TEST,86,6:26,Lactulose,10 gms,PO,Lactulose/Acetaminophen Test,0,Testing completed nominally.
+222,7352,7/12/2006,IN_TEST,86,8:00,Bacitracin Ointment,<0.9 gms,Topical,Pustule to planter surface of right foot,NA,Pustule has decreased in size since 7/10/06.
+223,7352,7/15/2006,IN_TEST,89,9:38,OGTT Beverage,225 ml,PO,Ferrando - Oral Glucose Tolerance Test,NA,NA
+224,7352,7/17/2006,POST_TEST,0,11:42,Nitroglycerin,0.4 mg,SL,Cardiovascular - Vascular Function,NA,NA
+225,7352,7/20/2006,POST_TEST,3,13:25,Nitroglycerin,0.4 mg,SL,Cardiovascular - Vascular Function,NA,NA
+226,7352,7/25/2006,POST_TEST,8,6:20,Acetaminophen,650 mg,PO,Lactulose/Acetaminophen Test,NA,NA
+227,7352,7/25/2006,POST_TEST,8,6:20,Lactulose,10 gms / 15 ml,PO,Lactulose/Acetaminophen Test,NA,NA
+228,7352,7/29/2006,POST_TEST,12,7:47,Glucola,225 ml,PO,Ferrando - Oral Glucose Tolerance Test,NA,NA

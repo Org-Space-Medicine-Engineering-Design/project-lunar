@@ -1,0 +1,78 @@
+﻿ID,Subject,Date,Test_Phase,BR_Day,Time,Medication,Dose,Route,Indication,Pain_Score,Outcome
+1,992,2/21/2005,PRE_TEST,10,815,Glucola,75 gm,By mouth,OGTT,NA,Testing medication
+2,992,2/22/2005,PRE_TEST,9,746,Acetaminophen,650 mg,By mouth,Pharmacology testing,NA,NA
+3,992,2/22/2005,PRE_TEST,9,747,Lactulose,20 g,By mouth,Pharmacology Testing,NA,NA
+4,992,2/22/2005,PRE_TEST,9,2100,Desitin Ointment,NA,Topical,Rectal burning x1 use per Dr. Meck,NA,NA
+5,992,2/26/2005,PRE_TEST,5,1614,Nitrostat,0.4 mg,By mouth,Testing,0/10,NA
+6,992,3/3/2005,IN_TEST,1,1015,Tylenol,650 mg,By mouth,Soreness from muscle bx site,10-May,"""Not helping"" per pt"
+7,992,3/3/2005,IN_TEST,1,1230,Motrin,400 mg,By mouth,Soreness from muscle bx site,10-May,Decreased soreness at bx site
+8,992,3/3/2005,IN_TEST,1,2100,Motrin,400 mg,By mouth,Pain,10-Aug,Symptom relieved
+9,992,3/3/2005,IN_TEST,1,2100,Benadryl,50 mg,By mouth,Insomnia,NA,Sleeping
+10,992,3/4/2005,IN_TEST,2,2100,Colace,1 tab,By mouth,Prevent constipation,NA,NA
+11,992,3/5/2005,IN_TEST,3,1225,Tylenol,650 mg,By mouth,Back pain,10-Aug,No effect
+12,992,3/5/2005,IN_TEST,3,1740,Tylenol,650 mg,By mouth,Back pain,10-Aug,No effect
+13,992,3/5/2005,IN_TEST,3,2130,Ambien,5 mg,By mouth,Sleep,NA,Effective
+14,992,3/6/2005,IN_TEST,4,1035,Motrin (Ibuprofen),400 mg,By mouth,Pain,10-Aug,"Effective pain level decrease ""4"""
+15,992,3/6/2005,IN_TEST,4,2200,Ibuprofen,800 mg,By mouth,Back pain,10-Aug,Effective pt asleep
+16,992,3/7/2005,IN_TEST,5,1250,Motrin,800 mg,By mouth,Back pain,10-Aug,1330 - pt voices pain now gone
+17,992,3/7/2005,IN_TEST,5,2100,Colace,100 mg,By mouth,Bowels,0/10,Pending
+18,992,3/7/2005,IN_TEST,5,2140,Ambien,5 mg,By mouth,Sleep,0/10,Drowsy 2200 sleeping 2215
+19,992,3/7/2005,IN_TEST,5,2145,Icy Hot Patch,1 patch,Patch,Left side lower back ache,10-Aug,"Decreased to 6, relieving at 2200"
+20,992,3/9/2005,IN_TEST,7,2100,Colace,100 mg,By mouth,Constipation,NA,Pending
+21,992,3/19/2005,IN_TEST,16,240,Motrin,400 mg,By mouth,Headache,10-May,Helped with pain Pt asleep @ 0305
+22,992,3/23/2005,IN_TEST,21,1130,Motrin,400 mg,By mouth,HA,10-Jul,NA
+23,992,3/23/2005,IN_TEST,21,1400,Motrin,400 mg,By mouth,HA,10-May,NA
+24,992,3/23/2005,IN_TEST,21,1945,Motrin,400 mg,By mouth,HA,10-May,Successful at ending headache by 2015
+25,992,3/31/2005,IN_TEST,29,1640,Orajel,NA,TOP,Canker sore in mouth,10-Apr,"""Little better"""
+26,992,3/31/2005,IN_TEST,29,2015,Ibuprofen,400 mg,By mouth,Biopsy site pain,10-May,2140 Pt states pain relieved
+27,992,4/1/2005,IN_TEST,30,1200,Orabase Paste,NA,TOP PRN,Canker sore in mouth,10-Apr,NA
+28,992,4/25/2005,IN_TEST,55,1415,Motrin,400 mg,By mouth,HA,10-Jul,1600 - no change in HA. Denies need for further med.
+29,992,4/29/2005,IN_TEST,58,1015,Ibuprofen,800 mg,By mouth,Pain,5/6/2010,Not effective 1605
+30,992,4/29/2005,IN_TEST,58,1605,Ibuprofen,800 mg,By mouth,Leg pain,6/7/2010,NA
+31,992,4/29/2005,IN_TEST,58,1915,Acetaminophen,325 mg,By mouth,Ache to bx site to left lateral thigh,10-Aug,"2000 - Pain continues to = ""8"" per pt"
+32,992,4/29/2005,IN_TEST,58,2145,Ibuprofen,800 mg,By mouth,Ache to left thigh bx site,10-Aug,NA
+33,992,5/1/2005,IN_TEST,60,1215,Motrin,400 mg,By mouth,HA from Nitro used for testing,10-Jul,"1330 - HA ""much better"""
+34,992,5/15/2005,IN_TEST,74,2055,Orajel,NA,Topical,Cankers,NA,2200 slight relief with Orajel.  Emailed dietary re: pt c/o spicy foods
+35,992,5/16/2005,IN_TEST,75,1630,Tylenol,325 mg,By mouth,Headache,NA,NA
+36,992,5/16/2005,IN_TEST,75,2055,Acetaminophen,325 mg,By mouth,HA,10-Oct,"Subject states pain score ""12"".  At 2145 pt has had zero relief.  Refuses further Tylenol & comfort measures."
+37,992,5/17/2005,IN_TEST,76,830,Tylenol,325 mg,By mouth,HA,10-Mar,"0945 HA ""same"""
+38,992,5/17/2005,IN_TEST,76,1210,Tylenol,325 mg,By mouth,HA,10-Apr,"1315 HA now ""3"""
+39,992,5/17/2005,IN_TEST,76,1410,Tylenol,325 mg,By mouth,HA,3/4/2010,1600 HA gone
+40,992,5/18/2005,IN_TEST,77,925,Tylenol,325 mg,By mouth,Rt thigh cramping,10-Mar,NA
+41,992,5/23/2005,IN_TEST,82,831,NS (Normal Saline),12 cc/hr,IV,Dorsal foot vein testing,NA,NA
+42,992,5/23/2005,IN_TEST,82,922,Indomethacin,12.5 mcg/.05ml at 6cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+43,992,5/23/2005,IN_TEST,82,936,Phenylephrine,3.160 ng/0.1ml at 6cc/hr for 20 min,IV,Dorsal foot vein testing,NA,NA
+44,992,5/23/2005,IN_TEST,82,1003,Isoproterenol,100 ng/0.1ml at 6cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+45,992,5/23/2005,IN_TEST,82,1003,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+46,992,5/23/2005,IN_TEST,82,1017,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 6min,IV,Dorsal foot vein testing,NA,NA
+47,992,5/23/2005,IN_TEST,82,1017,Acetylcholine,0.1 nmol/0.05ml at 3cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+48,992,5/23/2005,IN_TEST,82,1029,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+49,992,5/23/2005,IN_TEST,82,1029,Acetylcholine,0.316 nmol/0.05ml at 3cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+50,992,5/23/2005,IN_TEST,82,1039,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+51,992,5/23/2005,IN_TEST,82,1039,Acetylcholine,1.0 nmol/0.05ml at 3cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+52,992,5/23/2005,IN_TEST,82,1049,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+53,992,5/23/2005,IN_TEST,82,1102,Acetylcholine,0.316 nm/0.05ml at 3cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+54,992,5/23/2005,IN_TEST,82,1102,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+55,992,5/23/2005,IN_TEST,82,1102,Acetylcholine,10 nmol/0.05ml at 3cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+56,992,5/23/2005,IN_TEST,82,1118,LNMMA,50 mcg/.05ml at 3cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+57,992,5/23/2005,IN_TEST,82,1118,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+58,992,5/23/2005,IN_TEST,82,1118,Acetylcholine,0.1 nmol/0.05ml at 3cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+59,992,5/23/2005,IN_TEST,82,1133,Nitroglycerin,16 pmol/0.1ml at 6cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+60,992,5/23/2005,IN_TEST,82,1133,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+61,992,5/25/2005,IN_TEST,84,1245,Pepcid,20 mg,By mouth,Upset stomach,10-May,14:30 - stomach upset gone
+62,992,5/28/2005,IN_TEST,87,1210,Tylenol,650 mg,By mouth,Pain in the side,10-Jun,Effective
+63,992,6/1/2005,POST_TEST,0,2010,Acetaminophen,650 mg,By mouth,"Ache to bilateral lower extremities, back, head and feet.",10-Oct,"Subject states pain score ""12-15"".  22:00 - Improved ""some"" after massage & acetaminophen given"
+64,992,6/2/2005,POST_TEST,1,1345,Tylenol,650 mg,By mouth,Backache,10-Aug,Not effective
+65,992,6/2/2005,POST_TEST,1,1900,Tylenol,650 mg,By mouth,Body aches,10-Oct,"Patient states pain score 10+.  With massage greatly reduced discomfort, ""barely there"" 2150"
+66,992,6/4/2005,POST_TEST,3,1520,Tylenol,650 mg,By mouth,For Backache,10-Jul,Better after stretching exercises
+67,992,6/4/2005,POST_TEST,3,2130,Tylenol,650 mg,By mouth,Back/leg ache,10-Aug,Sleeping at 2300
+68,992,6/4/2005,POST_TEST,4,1235,Tylenol,650 mg,By mouth,For backache,10-Aug,NA
+69,992,6/5/2005,POST_TEST,4,645,Tylenol,650 mg,By mouth,Body aches,10-Aug,Reported to oncoming staff. They will follow up.
+70,992,6/6/2005,POST_TEST,5,1415,Motrin,400 mg,By mouth,Backache,10-Feb,Effective
+71,992,6/6/2005,POST_TEST,5,2100,Motrin,400 mg,By mouth,"""Muscle tightness"" to bilateral LE (thighs, anterior)",NA,2130 -No discomfort lying in bed.
+72,992,6/6/2005,POST_TEST,6,830,Motrin,400 mg,By mouth,Muscle soreness,10-Sep,NA
+73,992,6/8/2005,POST_TEST,7,940,Motrin,400 mg,By mouth,"Muscle ""soreness, stiffness""",10-Feb,Effective
+74,992,6/9/2005,POST_TEST,8,1930,Motrin,400 mg,By mouth,Body aches,10-Apr,2300 subject sleeping
+75,992,6/11/2005,POST_TEST,10,1400,Motrin,400 mg,By mouth,HA - neck ache,10-Apr,"1630 - ""almost all gone - better"""
+76,992,6/12/2005,POST_TEST,11,1100,Motrin,400 mg,By mouth,Muscle soreness,10-Apr,"1300 - ""better"""
+77,992,6/14/2005,POST_TEST,13,1330,Motrin,400 mg,By mouth,Menses cramping,10-Jul,NA

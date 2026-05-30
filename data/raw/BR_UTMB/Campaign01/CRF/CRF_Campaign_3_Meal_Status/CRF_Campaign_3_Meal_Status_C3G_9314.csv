@@ -1,0 +1,288 @@
+﻿Record,Subject,Date,Test_Phase,BR_Day,Meal,Comments,Meal_Time_Start,Meal_Time_Finish,Duration_minutes,Meal_Completed,Related_to_Test,Test,Issues_Reported,Issue_Reported_Number
+35143,9314,3/7/2009,PRE_TEST,16,Lunch,Subject ate fast.,12:05,12:18,13,Yes,NA,NA,No,NA
+35144,9314,3/7/2009,PRE_TEST,16,Dinner,NA,17:06,17:28,22,Yes,NA,NA,No,NA
+35162,9314,3/8/2009,PRE_TEST,15,Breakfast test,Cycle test breakfast of light complex carbohydrates.,6:29,6:37,8,Yes,No,NA,No,NA
+35163,9314,3/8/2009,PRE_TEST,15,Breakfast test,Subject ate fast.,9:46,9:52,6,Yes,No,NA,No,NA
+35164,9314,3/8/2009,PRE_TEST,15,Lunch,Subject ate fast.,12:05,12:18,13,Yes,NA,NA,No,NA
+35172,9314,3/8/2009,PRE_TEST,15,Dinner,NA,17:05,17:27,22,Yes,NA,NA,No,NA
+35187,9314,3/9/2009,PRE_TEST,14,Breakfast,NA,7:20,7:39,19,Yes,NA,NA,No,NA
+35192,9314,3/9/2009,PRE_TEST,14,Lunch,NA,12:15,12:30,15,Yes,NA,NA,No,NA
+35212,9314,3/9/2009,PRE_TEST,14,Dinner,NA,17:14,17:40,26,Yes,NA,NA,No,NA
+35224,9314,3/10/2009,PRE_TEST,13,Breakfast,NA,7:14,7:30,16,Yes,NA,NA,No,NA
+35233,9314,3/10/2009,PRE_TEST,13,Lunch,NA,12:14,12:34,20,Yes,NA,NA,No,NA
+35236,9314,3/10/2009,PRE_TEST,13,Dinner,NA,17:15,17:37,22,Yes,NA,NA,No,NA
+35248,9314,3/11/2009,PRE_TEST,12,Breakfast,NA,7:00,7:19,19,Yes,NA,NA,No,NA
+35258,9314,3/11/2009,PRE_TEST,12,Lunch,NA,11:58,12:15,17,Yes,NA,NA,No,NA
+35260,9314,3/11/2009,PRE_TEST,12,Dinner,Ate meal in 14 minutes.,17:00,17:14,14,Yes,NA,NA,No,NA
+35272,9314,3/12/2009,PRE_TEST,11,Breakfast,Subject ate quickly.,7:14,7:27,13,Yes,NA,NA,No,NA
+35279,9314,3/12/2009,PRE_TEST,11,Lunch,NA,11:57,12:22,25,Yes,NA,NA,No,NA
+35280,9314,3/12/2009,PRE_TEST,11,Dinner,NA,17:00,17:18,18,Yes,NA,NA,No,NA
+35301,9314,3/13/2009,PRE_TEST,10,Breakfast test,Cycle with NIRS pre-test breakfast of light complex carbohydrates.,6:34,6:41,7,Yes,No,NA,No,NA
+35306,9314,3/13/2009,PRE_TEST,10,Breakfast test,Cycle with NIRS test remaining breakfast.,10:21,10:25,4,Yes,No,NA,No,NA
+35326,9314,3/13/2009,PRE_TEST,10,Lunch,Subject ate meal quickly.,11:58,12:12,14,Yes,NA,NA,No,NA
+35327,9314,3/13/2009,PRE_TEST,10,Dinner,NA,16:57,17:13,16,Yes,NA,NA,No,NA
+35362,9314,3/14/2009,PRE_TEST,9,Breakfast,Subject ate meal quickly.,6:33,6:47,14,Yes,NA,NA,No,NA
+35363,9314,3/14/2009,PRE_TEST,9,Lunch,NA,12:01,12:17,16,Yes,NA,NA,No,NA
+35370,9314,3/14/2009,PRE_TEST,9,Dinner,NA,17:01,17:25,24,Yes,NA,NA,No,NA
+35402,9314,3/15/2009,PRE_TEST,8,Breakfast,Subject ate breakfast quickly.,6:30,6:43,13,Yes,NA,NA,No,NA
+35406,9314,3/15/2009,PRE_TEST,8,Lunch,Subject combined the remaining breakfast with lunch which gave the subject an extra 15 minutes to eat.,12:14,12:50,36,Yes,NA,NA,No,NA
+35416,9314,3/15/2009,PRE_TEST,8,Dinner,NA,17:20,17:49,29,Yes,NA,NA,No,NA
+35442,9314,3/16/2009,PRE_TEST,7,Breakfast,NA,7:26,7:46,20,Yes,NA,NA,No,NA
+35450,9314,3/16/2009,PRE_TEST,7,Lunch,Subject ate quickly.,12:17,12:29,12,Yes,NA,NA,No,NA
+35453,9314,3/16/2009,PRE_TEST,7,Dinner,NA,17:21,17:40,19,Yes,NA,NA,No,NA
+35479,9314,3/17/2009,PRE_TEST,6,Breakfast,NA,7:15,7:32,17,Yes,NA,NA,No,NA
+35499,9314,3/17/2009,PRE_TEST,6,Lunch,NA,12:09,12:39,30,Yes,NA,NA,No,NA
+35507,9314,3/17/2009,PRE_TEST,6,Dinner,NA,17:03,17:23,20,Yes,NA,NA,No,NA
+35535,9314,3/18/2009,PRE_TEST,5,Breakfast,NA,7:15,7:30,15,Yes,NA,NA,No,NA
+35549,9314,3/18/2009,PRE_TEST,5,Lunch,NA,12:16,12:33,17,Yes,NA,NA,No,NA
+35569,9314,3/18/2009,PRE_TEST,5,Dinner,NA,17:21,17:46,25,Yes,NA,NA,No,NA
+35598,9314,3/19/2009,PRE_TEST,4,Breakfast,Subject ate quickly.,6:59,7:11,12,Yes,NA,NA,No,NA
+35628,9314,3/19/2009,PRE_TEST,4,Lunch,NA,12:02,12:17,15,Yes,NA,NA,No,NA
+35634,9314,3/19/2009,PRE_TEST,4,Dinner,NA,17:03,17:28,25,Yes,NA,NA,No,NA
+35669,9314,3/20/2009,PRE_TEST,3,Breakfast,NA,7:22,7:39,17,Yes,NA,NA,No,NA
+35679,9314,3/20/2009,PRE_TEST,3,Lunch test,Subject ate quickly.,12:45,12:56,11,Yes,No,NA,No,NA
+35706,9314,3/20/2009,PRE_TEST,3,Lunch test,Dorsal Hand Vein test remaining meal.,18:31,18:41,10,Yes,No,NA,No,NA
+35710,9314,3/20/2009,PRE_TEST,3,Dinner,Subject ate quickly.,18:48,19:01,13,Yes,NA,NA,No,NA
+35802,9314,3/21/2009,PRE_TEST,2,Breakfast test,Dorsal Foot Vein test pre-test breakfast was all light complex carbohydrates. No remaining meal served.,7:00,7:09,9,Yes,No,NA,No,NA
+35803,9314,3/21/2009,PRE_TEST,2,Lunch,NA,12:10,12:30,20,Yes,NA,NA,No,NA
+35812,9314,3/21/2009,PRE_TEST,2,Dinner,Subject ate fast.,17:00,17:13,13,Yes,NA,NA,No,NA
+35856,9314,3/22/2009,PRE_TEST,1,Breakfast test,PE/Nitroprusside pre-test meal.,6:48,7:00,12,Yes,No,NA,No,NA
+35857,9314,3/22/2009,PRE_TEST,1,Breakfast test,Subject ate fast.,10:38,10:43,5,Yes,No,NA,No,NA
+35858,9314,3/22/2009,PRE_TEST,1,Lunch,Subject ate fast.,12:00,12:11,11,Yes,NA,NA,No,NA
+35869,9314,3/22/2009,PRE_TEST,1,Dinner,Subject is a fast eater.,17:00,17:14,14,Yes,NA,NA,No,NA
+35896,9314,3/23/2009,IN_TEST,1,Breakfast,Subject ate quickly.,7:36,7:48,12,Yes,NA,NA,No,NA
+35909,9314,3/23/2009,IN_TEST,1,Lunch,NA,12:27,12:43,16,Yes,NA,NA,No,NA
+35910,9314,3/23/2009,IN_TEST,1,Dinner,Subject ate meal quickly.,17:35,17:46,11,Yes,NA,NA,No,NA
+35949,9314,3/24/2009,IN_TEST,2,Breakfast,Subject ate quickly.,7:30,7:39,9,Yes,NA,NA,No,NA
+35968,9314,3/24/2009,IN_TEST,2,Lunch,Subject ate meal quickly.,12:35,12:48,13,Yes,NA,NA,No,NA
+35970,9314,3/24/2009,IN_TEST,2,Dinner,NA,17:31,17:46,15,Yes,NA,NA,No,NA
+36012,9314,3/25/2009,IN_TEST,3,Breakfast test,Subject ate quickly.,7:10,7:20,10,Yes,No,NA,No,NA
+36013,9314,3/25/2009,IN_TEST,3,Breakfast test,Subject ate remaining breakfast after test quickly.,9:01,9:06,5,Yes,No,NA,No,NA
+36014,9314,3/25/2009,IN_TEST,3,Lunch,Subject ate quickly.,12:07,12:18,11,Yes,NA,NA,No,NA
+36015,9314,3/25/2009,IN_TEST,3,Dinner,NA,17:01,17:17,16,Yes,NA,NA,No,NA
+36046,9314,3/26/2009,IN_TEST,4,Breakfast,NA,7:15,7:31,16,Yes,NA,NA,No,NA
+36072,9314,3/26/2009,IN_TEST,4,Lunch,NA,12:17,12:33,16,Yes,NA,NA,No,NA
+36073,9314,3/26/2009,IN_TEST,4,Dinner,Subject ate fast.,17:17,17:26,9,Yes,NA,NA,No,NA
+36091,9314,3/27/2009,IN_TEST,5,Breakfast,Subject ate quickly.,7:28,7:37,9,Yes,NA,NA,No,NA
+36117,9314,3/27/2009,IN_TEST,5,Lunch,Subject ate quickly.,12:28,12:35,7,Yes,NA,NA,No,NA
+36132,9314,3/27/2009,IN_TEST,5,Dinner,Subject ate quickly.,17:32,17:46,14,Yes,NA,NA,No,NA
+36158,9314,3/28/2009,IN_TEST,6,Breakfast,NA,7:11,7:26,15,Yes,NA,NA,No,NA
+36161,9314,3/28/2009,IN_TEST,6,Lunch,Subject ate lunch meal very fast.,12:14,12:25,11,Yes,NA,NA,No,NA
+36199,9314,3/28/2009,IN_TEST,6,Dinner,Subject also ate his dinner meal very fast.,17:16,17:29,13,Yes,NA,NA,No,NA
+36234,9314,3/29/2009,IN_TEST,7,Breakfast,Subject ate meal quickly.,7:18,7:26,8,Yes,NA,NA,No,NA
+36251,9314,3/29/2009,IN_TEST,7,Lunch,Subject 9314's Cardiovascular test was canceled.,12:17,12:29,12,Yes,NA,NA,No,NA
+36264,9314,3/29/2009,IN_TEST,7,Dinner,NA,17:21,17:36,15,Yes,NA,NA,No,NA
+36288,9314,3/30/2009,IN_TEST,8,Breakfast,Subject ate quickly.,7:14,7:21,7,Yes,NA,NA,No,NA
+36297,9314,3/30/2009,IN_TEST,8,Lunch test,Cardio testing pre-test lunch of light complex carbohydrates.,11:27,11:32,5,Yes,No,NA,No,NA
+36316,9314,3/30/2009,IN_TEST,8,Lunch test,Subject finished lunch quickly.,14:39,14:47,8,Yes,No,NA,No,NA
+36329,9314,3/30/2009,IN_TEST,8,Dinner,Subject finished dinner quickly.,17:35,17:48,13,Yes,NA,NA,No,NA
+36352,9314,3/31/2009,IN_TEST,9,Breakfast,Subject ate quickly.,7:15,7:28,13,Yes,NA,NA,No,NA
+36359,9314,3/31/2009,IN_TEST,9,Lunch,NA,12:00,12:26,26,Yes,NA,NA,No,NA
+36378,9314,3/31/2009,IN_TEST,9,Dinner,Subject finished dinner quickly.,17:19,17:31,12,Yes,NA,NA,No,NA
+36401,9314,4/1/2009,IN_TEST,10,Breakfast,Subject ate quickly.,7:29,7:36,7,Yes,NA,NA,No,NA
+36407,9314,4/1/2009,IN_TEST,10,Lunch,Subject ate quickly.,12:30,12:42,12,Yes,NA,NA,No,NA
+36422,9314,4/1/2009,IN_TEST,10,Dinner,The subject ate quickly.,17:29,17:36,7,Yes,NA,NA,No,NA
+36444,9314,4/2/2009,IN_TEST,11,Breakfast,Subject ate quickly.,7:29,7:40,11,Yes,NA,NA,No,NA
+36465,9314,4/2/2009,IN_TEST,11,Lunch,The subject ate quickly.,12:31,12:41,10,Yes,NA,NA,No,NA
+36466,9314,4/2/2009,IN_TEST,11,Dinner,The subject ate quickly.,17:30,17:39,9,Yes,NA,NA,No,NA
+36496,9314,4/3/2009,IN_TEST,12,Breakfast,Subject ate quickly.,7:37,7:46,9,Yes,NA,NA,No,NA
+36516,9314,4/3/2009,IN_TEST,12,Lunch,Subject finished lunch quickly.,12:30,12:41,11,Yes,NA,NA,No,NA
+36517,9314,4/3/2009,IN_TEST,12,Dinner,Subject finished dinner quickly.,17:36,17:48,12,Yes,NA,NA,No,NA
+36548,9314,4/4/2009,IN_TEST,13,Breakfast,Subject ate breakfast meal quickly.,7:13,7:18,5,Yes,NA,NA,No,NA
+36549,9314,4/4/2009,IN_TEST,13,Lunch,NA,12:28,12:43,15,Yes,NA,NA,No,NA
+36555,9314,4/4/2009,IN_TEST,13,Dinner,Subject ate dinner meal quickly.,17:46,17:58,12,Yes,NA,NA,No,NA
+36587,9314,4/5/2009,IN_TEST,14,Breakfast,Subject ate breakfast very quickly.,7:20,7:30,10,Yes,NA,NA,No,NA
+36592,9314,4/5/2009,IN_TEST,14,Lunch,Subject ate lunch very quickly.,12:16,12:27,11,Yes,NA,NA,No,NA
+36610,9314,4/5/2009,IN_TEST,14,Dinner,NA,17:16,17:32,16,Yes,NA,NA,No,NA
+36631,9314,4/6/2009,IN_TEST,15,Breakfast,Subject ate quickly.,7:46,7:59,13,Yes,NA,NA,No,NA
+36644,9314,4/6/2009,IN_TEST,15,Lunch,NA,12:49,13:06,17,Yes,NA,NA,No,NA
+36655,9314,4/6/2009,IN_TEST,15,Dinner,The subject ate quickly.,17:33,17:42,9,Yes,NA,NA,No,NA
+36675,9314,4/7/2009,IN_TEST,16,Breakfast,Subject ate quickly.,7:22,7:28,6,Yes,NA,NA,No,NA
+36685,9314,4/7/2009,IN_TEST,16,Lunch,Subject ate quickly.,12:32,12:41,9,Yes,NA,NA,No,NA
+36704,9314,4/7/2009,IN_TEST,16,Dinner,The subject ate quickly.,17:16,17:30,14,Yes,NA,NA,No,NA
+36725,9314,4/8/2009,IN_TEST,17,Breakfast,Subject ate quickly.,7:18,7:25,7,Yes,NA,NA,No,NA
+36734,9314,4/8/2009,IN_TEST,17,Lunch,Subject ate quickly.,12:19,12:30,11,Yes,NA,NA,No,NA
+36748,9314,4/8/2009,IN_TEST,17,Dinner,The subject ate quickly.,17:11,17:24,13,Yes,NA,NA,No,NA
+36766,9314,4/9/2009,IN_TEST,18,Breakfast,Subject ate quickly.,7:13,7:23,10,Yes,NA,NA,No,NA
+36789,9314,4/9/2009,IN_TEST,18,Lunch,Subject ate quickly.,12:13,12:23,10,Yes,NA,NA,No,NA
+36802,9314,4/9/2009,IN_TEST,18,Dinner,Subject ate quickly.,17:15,17:29,14,Yes,NA,NA,No,NA
+36854,9314,4/10/2009,IN_TEST,19,Breakfast,Subject ate quickly.,7:17,7:27,10,Yes,NA,NA,No,NA
+36865,9314,4/10/2009,IN_TEST,19,Lunch,Subject ate quickly.,12:22,12:33,11,Yes,NA,NA,No,NA
+36898,9314,4/10/2009,IN_TEST,19,Dinner,Subject finished dinner quickly.,17:18,17:32,14,Yes,NA,NA,No,NA
+36932,9314,4/11/2009,IN_TEST,20,Breakfast,NA,7:04,7:19,15,Yes,NA,NA,No,NA
+36933,9314,4/11/2009,IN_TEST,20,Lunch,The subject ate quickly.,11:59,12:09,10,Yes,NA,NA,No,NA
+36948,9314,4/11/2009,IN_TEST,20,Dinner,Subject is a fast eater.,17:00,17:12,12,Yes,NA,NA,No,NA
+36977,9314,4/12/2009,IN_TEST,21,Breakfast,The subject ate quickly.,7:14,7:21,7,Yes,NA,NA,No,NA
+36979,9314,4/12/2009,IN_TEST,21,Lunch,The subject ate quickly.,12:14,12:25,11,Yes,NA,NA,No,NA
+36998,9314,4/12/2009,IN_TEST,21,Dinner,Subject ate fast.,17:17,17:30,13,Yes,NA,NA,No,NA
+37039,9314,4/13/2009,IN_TEST,22,Breakfast,Subject ate quickly.,7:02,7:07,5,Yes,NA,NA,No,NA
+37040,9314,4/13/2009,IN_TEST,22,Lunch,Subject ate quickly.,12:30,12:42,12,Yes,NA,NA,No,NA
+37072,9314,4/13/2009,IN_TEST,22,Dinner,Subject ate meal quickly.,17:58,18:05,7,Yes,NA,NA,No,NA
+37095,9314,4/14/2009,IN_TEST,23,Breakfast,Subject ate quickly.,7:37,7:48,11,Yes,NA,NA,No,NA
+37123,9314,4/14/2009,IN_TEST,23,Lunch test,Light complex carbohydrate lunch served before cardiovascular test. Subject finished lunch quickly.,11:59,12:03,4,Yes,No,NA,No,NA
+37124,9314,4/14/2009,IN_TEST,23,Lunch test,Subject finished remaining lunch quickly after cardiovascular test.,16:21,16:30,9,Yes,No,NA,No,NA
+37133,9314,4/14/2009,IN_TEST,23,Dinner,Subject finished dinner quickly.,18:06,18:15,9,Yes,NA,NA,No,NA
+37153,9314,4/15/2009,IN_TEST,24,Breakfast,Subject ate quickly.,7:14,7:20,6,Yes,NA,NA,No,NA
+37169,9314,4/15/2009,IN_TEST,24,Lunch,NA,12:10,12:25,15,Yes,NA,NA,No,NA
+37194,9314,4/15/2009,IN_TEST,24,Dinner,Subject finished dinner quickly.,17:18,17:30,12,Yes,NA,NA,No,NA
+37216,9314,4/16/2009,IN_TEST,25,Breakfast,Subject ate quickly.,7:25,7:36,11,Yes,NA,NA,No,NA
+37227,9314,4/16/2009,IN_TEST,25,Lunch,Subject finshed lunch quickly.,12:14,12:25,11,Yes,NA,NA,No,NA
+37249,9314,4/16/2009,IN_TEST,25,Dinner,NA,17:17,17:32,15,Yes,NA,NA,No,NA
+37270,9314,4/17/2009,IN_TEST,26,Breakfast test,Dorsal Hand Vein pre-test breakfast of light complex carbohydrates.,6:32,6:48,16,Yes,No,NA,No,NA
+37290,9314,4/17/2009,IN_TEST,26,Breakfast test,Cardio testing remaining breakfast.,11:21,11:26,5,Yes,No,NA,No,NA
+37291,9314,4/17/2009,IN_TEST,26,Lunch,Subject ate quickly.,12:05,12:19,14,Yes,NA,NA,No,NA
+37309,9314,4/17/2009,IN_TEST,26,Dinner,Subject ate meal quickly.,17:04,17:16,12,Yes,NA,NA,No,NA
+37332,9314,4/18/2009,IN_TEST,27,Breakfast test,Subject ate meal prior to test quickly.,7:01,7:13,12,Yes,No,NA,No,NA
+37375,9314,4/18/2009,IN_TEST,27,Breakfast test,Subject finished remaining breakfast quickly after Dorsal Foot Vein test.,12:59,13:03,4,Yes,No,NA,No,NA
+37376,9314,4/18/2009,IN_TEST,27,Lunch,Subject finished lunch quickly.,13:08,13:16,8,Yes,NA,NA,No,NA
+37392,9314,4/18/2009,IN_TEST,27,Dinner,Subject finished dinner quickly.,16:53,17:07,14,Yes,NA,NA,No,NA
+37431,9314,4/19/2009,IN_TEST,28,Breakfast test,Subject had a PE/Nitroprusside test.,7:04,7:10,6,Yes,No,NA,No,NA
+37432,9314,4/19/2009,IN_TEST,28,Breakfast test,Subject ate remaining breakfast meal after test.,11:31,11:33,2,Yes,No,NA,No,NA
+37433,9314,4/19/2009,IN_TEST,28,Lunch,Subject ate lunch meal very quickly.,12:04,12:17,13,Yes,NA,NA,No,NA
+37453,9314,4/19/2009,IN_TEST,28,Dinner,Subject ate dinner meal very quickly.,17:01,17:12,11,Yes,NA,NA,No,NA
+37499,9314,4/20/2009,IN_TEST,29,Breakfast,Subject ate quickly.,7:15,7:25,10,Yes,NA,NA,No,NA
+37501,9314,4/20/2009,IN_TEST,29,Lunch,NA,12:11,12:23,12,Yes,NA,NA,No,NA
+37502,9314,4/20/2009,IN_TEST,29,Dinner,NA,17:14,17:28,14,Yes,NA,NA,No,NA
+37537,9314,4/21/2009,IN_TEST,30,Breakfast,Subject ate quickly.,7:07,7:16,9,Yes,NA,NA,No,NA
+37549,9314,4/21/2009,IN_TEST,30,Lunch,Subject ate quickly.,12:00,12:12,12,Yes,NA,NA,No,NA
+37590,9314,4/21/2009,IN_TEST,30,Dinner,NA,17:03,17:14,11,Yes,NA,NA,No,NA
+37618,9314,4/22/2009,IN_TEST,31,Breakfast,Subject ate quickly.,7:14,7:22,8,Yes,NA,NA,No,NA
+37636,9314,4/22/2009,IN_TEST,31,Lunch test,Cardiovascular testing pre-test lunch of light complex carbohydrates.,11:28,11:37,9,Yes,No,NA,No,NA
+37679,9314,4/22/2009,IN_TEST,31,Lunch test,Subject finished remaining lunch quickly after cardiovascular test.,15:58,16:04,6,Yes,No,NA,No,NA
+37680,9314,4/22/2009,IN_TEST,31,Dinner,Subject finished dinner quickly.,17:34,17:48,14,Yes,NA,NA,No,NA
+37715,9314,4/23/2009,IN_TEST,32,Breakfast,Subject ate quickly. Subject served meal at 07:15.,7:18,7:24,6,Yes,NA,NA,No,NA
+37753,9314,4/23/2009,IN_TEST,32,Lunch,NA,12:15,12:36,21,Yes,NA,NA,No,NA
+37754,9314,4/23/2009,IN_TEST,32,Dinner,Subject finished dinner quickly.,17:15,17:23,8,Yes,NA,NA,No,NA
+37795,9314,4/24/2009,IN_TEST,33,Breakfast,Subject ate quickly.,7:01,7:11,10,Yes,NA,NA,No,NA
+37809,9314,4/24/2009,IN_TEST,33,Lunch,Subject ate quickly.,12:02,12:10,8,Yes,NA,NA,No,NA
+37833,9314,4/24/2009,IN_TEST,33,Dinner,NA,17:01,17:11,10,Yes,NA,NA,No,NA
+37856,9314,4/25/2009,IN_TEST,34,Breakfast,NA,7:04,7:14,10,Yes,NA,NA,No,NA
+37968,9314,4/25/2009,IN_TEST,34,Lunch,Subject ate quickly.,12:00,12:14,14,Yes,NA,NA,No,NA
+37969,9314,4/25/2009,IN_TEST,34,Dinner,Subject ate quickly.,17:03,17:13,10,Yes,NA,NA,No,NA
+37970,9314,4/26/2009,IN_TEST,35,Breakfast,NA,7:05,7:12,7,Yes,NA,NA,No,NA
+37971,9314,4/26/2009,IN_TEST,35,Lunch,NA,12:03,12:15,12,Yes,NA,NA,No,NA
+37972,9314,4/26/2009,IN_TEST,35,Dinner,NA,17:00,17:13,13,Yes,NA,NA,No,NA
+37973,9314,4/27/2009,IN_TEST,36,Breakfast,NA,7:26,7:35,9,Yes,NA,NA,No,NA
+37974,9314,4/27/2009,IN_TEST,36,Lunch,NA,12:15,12:26,11,Yes,NA,NA,No,NA
+37999,9314,4/27/2009,IN_TEST,36,Dinner,NA,18:02,18:13,11,Yes,NA,NA,No,NA
+38031,9314,4/28/2009,IN_TEST,37,Breakfast,NA,7:15,7:28,13,Yes,NA,NA,No,NA
+38051,9314,4/28/2009,IN_TEST,37,Lunch,NA,12:15,12:29,14,Yes,NA,NA,No,NA
+38075,9314,4/28/2009,IN_TEST,37,Dinner,NA,17:17,17:29,12,Yes,NA,NA,No,NA
+38110,9314,4/29/2009,IN_TEST,38,Breakfast,NA,7:27,7:33,6,Yes,NA,NA,No,NA
+38123,9314,4/29/2009,IN_TEST,38,Lunch,NA,12:32,12:39,7,Yes,NA,NA,No,NA
+38153,9314,4/29/2009,IN_TEST,38,Dinner,NA,18:08,18:16,8,Yes,NA,NA,No,NA
+38194,9314,4/30/2009,IN_TEST,39,Breakfast,NA,7:19,7:31,12,Yes,NA,NA,No,NA
+38222,9314,4/30/2009,IN_TEST,39,Lunch,NA,12:11,12:27,16,Yes,NA,NA,No,NA
+38239,9314,4/30/2009,IN_TEST,39,Dinner,NA,17:16,17:32,16,Yes,NA,NA,No,NA
+38285,9314,5/1/2009,IN_TEST,40,Breakfast,Subject finished breakfast quickly.,7:14,7:23,9,Yes,NA,NA,No,NA
+38286,9314,5/1/2009,IN_TEST,40,Lunch,NA,12:17,12:40,23,Yes,NA,NA,No,NA
+38309,9314,5/1/2009,IN_TEST,40,Dinner,Subject finished dinner quickly.,17:16,17:28,12,Yes,NA,NA,No,NA
+38356,9314,5/2/2009,IN_TEST,41,Breakfast,NA,7:15,7:26,11,Yes,NA,NA,No,NA
+38357,9314,5/2/2009,IN_TEST,41,Lunch,NA,12:18,12:34,16,Yes,NA,NA,No,NA
+38375,9314,5/2/2009,IN_TEST,41,Dinner,NA,17:15,17:30,15,Yes,NA,NA,No,NA
+38422,9314,5/3/2009,IN_TEST,42,Breakfast,NA,7:14,7:28,14,Yes,NA,NA,No,NA
+38444,9314,5/3/2009,IN_TEST,42,Lunch,NA,12:13,12:29,16,Yes,NA,NA,No,NA
+38448,9314,5/3/2009,IN_TEST,42,Dinner,NA,18:00,18:18,18,Yes,NA,NA,No,NA
+38479,9314,5/4/2009,IN_TEST,43,Breakfast,NA,7:18,7:28,10,Yes,NA,NA,No,NA
+38509,9314,5/4/2009,IN_TEST,43,Lunch,NA,12:17,12:24,7,Yes,NA,NA,No,NA
+38529,9314,5/4/2009,IN_TEST,43,Dinner,Subject finished dinner quickly.,17:18,17:25,7,Yes,NA,NA,No,NA
+38568,9314,5/5/2009,IN_TEST,44,Breakfast,NA,7:14,7:25,11,Yes,NA,NA,No,NA
+38579,9314,5/5/2009,IN_TEST,44,Lunch,NA,12:17,12:29,12,Yes,NA,NA,No,NA
+38602,9314,5/5/2009,IN_TEST,44,Dinner,Subject finished dinner quickly.,17:19,17:29,10,Yes,NA,NA,No,NA
+38638,9314,5/6/2009,IN_TEST,45,Breakfast,NA,7:23,7:33,10,Yes,NA,NA,No,NA
+38653,9314,5/6/2009,IN_TEST,45,Lunch,NA,12:15,12:26,11,Yes,NA,NA,No,NA
+38677,9314,5/6/2009,IN_TEST,45,Dinner,NA,17:16,17:30,14,Yes,NA,NA,No,NA
+38719,9314,5/7/2009,IN_TEST,46,Breakfast,NA,7:19,7:26,7,Yes,NA,NA,No,NA
+38758,9314,5/7/2009,IN_TEST,46,Lunch,NA,12:15,12:27,12,Yes,NA,NA,No,NA
+38759,9314,5/7/2009,IN_TEST,46,Dinner,NA,18:05,18:14,9,Yes,NA,NA,No,NA
+38806,9314,5/8/2009,IN_TEST,47,Breakfast,NA,7:14,7:26,12,Yes,NA,NA,No,NA
+38807,9314,5/8/2009,IN_TEST,47,Lunch,NA,12:14,12:26,12,Yes,NA,NA,No,NA
+38845,9314,5/8/2009,IN_TEST,47,Dinner,NA,17:31,17:44,13,Yes,NA,NA,No,NA
+38892,9314,5/9/2009,IN_TEST,48,Breakfast,NA,7:28,7:48,20,Yes,NA,NA,No,NA
+38893,9314,5/9/2009,IN_TEST,48,Lunch,NA,12:40,12:57,17,Yes,NA,NA,No,NA
+38945,9314,5/9/2009,IN_TEST,48,Dinner,NA,17:29,17:37,8,Yes,NA,NA,No,NA
+39019,9314,5/10/2009,IN_TEST,49,Breakfast,NA,7:32,7:45,13,Yes,NA,NA,No,NA
+39020,9314,5/10/2009,IN_TEST,49,Lunch,NA,12:28,12:40,12,Yes,NA,NA,No,NA
+39021,9314,5/10/2009,IN_TEST,49,Dinner,NA,17:12,17:23,11,Yes,NA,NA,No,NA
+39151,9314,5/11/2009,IN_TEST,50,Breakfast,NA,7:45,8:01,16,Yes,NA,NA,No,NA
+39152,9314,5/11/2009,IN_TEST,50,Lunch test,Subject served light complex carbohydrate lunch prior to Vascular Function.,11:30,11:37,7,Yes,No,NA,No,NA
+39153,9314,5/11/2009,IN_TEST,50,Lunch test,Subject served remaining lunch after Vascular Function.,14:20,14:28,8,Yes,No,NA,No,NA
+39154,9314,5/11/2009,IN_TEST,50,Dinner,NA,18:04,18:15,11,Yes,NA,NA,No,NA
+39179,9314,5/12/2009,IN_TEST,51,Breakfast,NA,7:45,7:55,10,Yes,NA,NA,No,NA
+39214,9314,5/12/2009,IN_TEST,51,Lunch,NA,12:45,12:58,13,Yes,NA,NA,No,NA
+39263,9314,5/12/2009,IN_TEST,51,Dinner,NA,17:51,18:01,10,Yes,NA,NA,No,NA
+39299,9314,5/13/2009,IN_TEST,52,Breakfast,NA,7:48,7:56,8,Yes,NA,NA,No,NA
+39325,9314,5/13/2009,IN_TEST,52,Lunch,NA,12:50,13:04,14,Yes,NA,NA,No,NA
+39353,9314,5/13/2009,IN_TEST,52,Dinner,NA,17:45,17:55,10,Yes,NA,NA,No,NA
+39390,9314,5/14/2009,IN_TEST,53,Breakfast,NA,7:49,8:04,15,Yes,NA,NA,No,NA
+39422,9314,5/14/2009,IN_TEST,53,Lunch,NA,12:49,13:02,13,Yes,NA,NA,No,NA
+39447,9314,5/14/2009,IN_TEST,53,Dinner,NA,17:45,18:00,15,Yes,NA,NA,No,NA
+39487,9314,5/15/2009,IN_TEST,54,Breakfast test,Dorsal Hand Vein pre-test breakfast of light complex carbohydrates.,6:31,6:42,11,Yes,No,NA,No,NA
+39557,9314,5/15/2009,IN_TEST,54,Breakfast test,NA,11:14,11:16,2,Yes,No,NA,No,NA
+39558,9314,5/15/2009,IN_TEST,54,Lunch,NA,12:47,13:13,26,Yes,NA,NA,No,NA
+39559,9314,5/15/2009,IN_TEST,54,Dinner,NA,18:01,18:11,10,Yes,NA,NA,No,NA
+39617,9314,5/16/2009,IN_TEST,55,Breakfast test,Meal prior to Dorsal Foot Vein test.,6:45,6:52,7,Yes,No,NA,No,NA
+39680,9314,5/16/2009,IN_TEST,55,Breakfast test,Subject ate remaining breakfast after test.,11:57,12:04,7,Yes,No,NA,No,NA
+39681,9314,5/16/2009,IN_TEST,55,Lunch,NA,13:30,13:38,8,Yes,NA,NA,No,NA
+39695,9314,5/16/2009,IN_TEST,55,Dinner,NA,18:01,18:13,12,Yes,NA,NA,No,NA
+39743,9314,5/17/2009,IN_TEST,56,Breakfast,NA,7:47,8:00,13,Yes,NA,NA,No,NA
+39744,9314,5/17/2009,IN_TEST,56,Lunch test,PE/Nitroprusside test day.,11:30,11:32,2,Yes,No,NA,No,NA
+39789,9314,5/17/2009,IN_TEST,56,Lunch test,Subject ate remaining lunch meal after PE/Nitroprusside test.,15:03,15:22,19,Yes,No,NA,No,NA
+39790,9314,5/17/2009,IN_TEST,56,Dinner,NA,18:04,18:21,17,Yes,NA,NA,No,NA
+39832,9314,5/18/2009,IN_TEST,57,Breakfast,NA,7:02,7:24,22,Yes,NA,NA,No,NA
+39854,9314,5/18/2009,IN_TEST,57,Lunch,NA,12:02,12:15,13,Yes,NA,NA,No,NA
+39877,9314,5/18/2009,IN_TEST,57,Dinner,NA,17:01,17:12,11,Yes,NA,NA,No,NA
+39908,9314,5/19/2009,IN_TEST,58,Breakfast,NA,7:21,7:28,7,Yes,NA,NA,No,NA
+39926,9314,5/19/2009,IN_TEST,58,Lunch,NA,12:16,12:29,13,Yes,NA,NA,No,NA
+39950,9314,5/19/2009,IN_TEST,58,Dinner,NA,17:13,17:26,13,Yes,NA,NA,No,NA
+40007,9314,5/20/2009,IN_TEST,59,Breakfast,NA,7:04,7:15,11,Yes,NA,NA,No,NA
+40030,9314,5/20/2009,IN_TEST,59,Lunch,NA,12:00,12:27,27,Yes,NA,NA,No,NA
+40044,9314,5/20/2009,IN_TEST,59,Dinner,NA,17:00,17:23,23,Yes,NA,NA,No,NA
+40091,9314,5/21/2009,IN_TEST,60,Breakfast,NA,7:46,7:54,8,Yes,NA,NA,No,NA
+40123,9314,5/21/2009,IN_TEST,60,Lunch,NA,12:45,12:55,10,Yes,NA,NA,No,NA
+40155,9314,5/21/2009,IN_TEST,60,Dinner,NA,18:00,18:14,14,Yes,NA,NA,No,NA
+40185,9314,5/22/2009,POST_TEST,0,Breakfast test,Cardiovascular testing pre-test breakfast of light complex carbohydrates.,6:45,6:53,8,Yes,No,NA,No,NA
+40196,9314,5/22/2009,POST_TEST,0,Breakfast test,Subject served remaining breakfast after cardiovascular testing.,12:53,12:58,5,Yes,No,NA,No,NA
+40221,9314,5/22/2009,POST_TEST,0,Lunch test,Subject served light complex carbohydrate lunch prior to cardiovascular test.,14:00,14:15,15,Yes,No,NA,No,NA
+40223,9314,5/22/2009,POST_TEST,0,Lunch test,Subject served remaining lunch after cardiovascular test.,15:15,15:25,10,Yes,No,NA,No,NA
+40274,9314,5/22/2009,POST_TEST,0,Dinner,NA,20:02,20:14,12,Yes,NA,NA,No,NA
+40316,9314,5/23/2009,POST_TEST,1,Breakfast,NA,7:30,7:49,19,Yes,NA,NA,No,NA
+40317,9314,5/23/2009,POST_TEST,1,Lunch,NA,12:03,12:23,20,Yes,NA,NA,No,NA
+40344,9314,5/23/2009,POST_TEST,1,Dinner,NA,17:30,17:40,10,Yes,NA,NA,No,NA
+40384,9314,5/24/2009,POST_TEST,2,Breakfast,NA,7:46,8:00,14,Yes,NA,NA,No,NA
+40403,9314,5/24/2009,POST_TEST,2,Lunch,NA,12:50,13:00,10,Yes,NA,NA,No,NA
+40431,9314,5/24/2009,POST_TEST,2,Dinner,NA,17:48,18:12,24,Yes,NA,NA,No,NA
+40469,9314,5/25/2009,POST_TEST,3,Breakfast test,Cardiovascular testing pre-test meal of light complex carbohydrates.,7:15,7:27,12,Yes,No,NA,No,NA
+40477,9314,5/25/2009,POST_TEST,3,Breakfast test,Cardio testing remaining breakfast,12:29,12:38,9,Yes,No,NA,No,NA
+40478,9314,5/25/2009,POST_TEST,3,Lunch,NA,13:01,13:24,23,Yes,NA,NA,No,NA
+40509,9314,5/25/2009,POST_TEST,3,Dinner,NA,17:14,17:29,15,Yes,NA,NA,No,NA
+40547,9314,5/26/2009,POST_TEST,4,Breakfast,NA,7:17,7:22,5,Yes,NA,NA,No,NA
+40561,9314,5/26/2009,POST_TEST,4,Lunch,NA,12:12,12:29,17,Yes,NA,NA,No,NA
+40586,9314,5/26/2009,POST_TEST,4,Dinner,NA,17:51,18:08,17,Yes,NA,NA,No,NA
+40616,9314,5/27/2009,POST_TEST,5,Breakfast,NA,7:30,7:38,8,Yes,NA,NA,No,NA
+40643,9314,5/27/2009,POST_TEST,5,Lunch,NA,12:30,12:42,12,Yes,NA,NA,No,NA
+40659,9314,5/27/2009,POST_TEST,5,Dinner,NA,18:03,18:11,8,Yes,NA,NA,No,NA
+40698,9314,5/28/2009,POST_TEST,6,Breakfast,NA,7:35,7:42,7,Yes,NA,NA,No,NA
+40711,9314,5/28/2009,POST_TEST,6,Lunch,NA,12:45,12:58,13,Yes,NA,NA,No,NA
+40741,9314,5/28/2009,POST_TEST,6,Dinner,NA,17:33,17:41,8,Yes,NA,NA,No,NA
+40776,9314,5/29/2009,POST_TEST,7,Breakfast,NA,7:20,7:26,6,Yes,NA,NA,No,NA
+40789,9314,5/29/2009,POST_TEST,7,Lunch,NA,12:15,12:29,14,Yes,NA,NA,No,NA
+40813,9314,5/29/2009,POST_TEST,7,Dinner,NA,17:16,17:30,14,Yes,NA,NA,No,NA
+40876,9314,5/30/2009,POST_TEST,8,Breakfast,NA,7:04,7:30,26,Yes,NA,NA,No,NA
+40877,9314,5/30/2009,POST_TEST,8,Lunch,NA,12:02,12:17,15,Yes,NA,NA,No,NA
+40892,9314,5/30/2009,POST_TEST,8,Dinner,NA,17:00,17:16,16,Yes,NA,NA,No,NA
+40957,9314,5/31/2009,POST_TEST,9,Breakfast,NA,7:02,7:23,21,Yes,NA,NA,No,NA
+40958,9314,5/31/2009,POST_TEST,9,Lunch,NA,12:03,12:19,16,Yes,NA,NA,No,NA
+40959,9314,5/31/2009,POST_TEST,9,Dinner,NA,17:01,17:11,10,Yes,NA,NA,No,NA
+41003,9314,6/1/2009,POST_TEST,10,Breakfast,NA,7:07,7:25,18,Yes,NA,NA,No,NA
+41021,9314,6/1/2009,POST_TEST,10,Lunch,NA,12:00,12:15,15,Yes,NA,NA,No,NA
+41029,9314,6/1/2009,POST_TEST,10,Dinner,NA,17:02,17:15,13,Yes,NA,NA,No,NA
+41066,9314,6/2/2009,POST_TEST,11,Breakfast test,Cycle ergometer pre-test breakfast of light complex carbohydrates.,6:59,7:10,11,Yes,No,NA,No,NA
+41107,9314,6/2/2009,POST_TEST,11,Breakfast test,Subject served remaining breakfast after cycle ergometer test.,10:40,10:45,5,Yes,No,NA,No,NA
+41108,9314,6/2/2009,POST_TEST,11,Lunch,NA,12:02,12:15,13,Yes,NA,NA,No,NA
+41109,9314,6/2/2009,POST_TEST,11,Dinner,NA,17:05,17:22,17,Yes,NA,NA,No,NA
+41148,9314,6/3/2009,POST_TEST,12,Breakfast test,Light complex carbohydrate meal serve prior to test.,6:47,7:02,15,Yes,No,NA,No,NA
+41153,9314,6/3/2009,POST_TEST,12,Breakfast test,Provided remaining breakfast after test.,8:11,8:19,8,Yes,No,NA,No,NA
+41176,9314,6/3/2009,POST_TEST,12,Lunch,NA,12:02,12:23,21,Yes,NA,NA,No,NA
+41190,9314,6/3/2009,POST_TEST,12,Dinner,NA,17:04,17:29,25,Yes,NA,NA,No,NA
+41229,9314,6/4/2009,POST_TEST,13,Breakfast,NA,7:04,7:15,11,Yes,NA,NA,No,NA

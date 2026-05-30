@@ -1,0 +1,375 @@
+﻿ID,Subject,Date,Test_Phase,BR_Day,Meal,Meal_Time_Start,Meal_Time_Finish,Meal_Completed,Comments
+1,8779,4/16/2007,PRE_TEST,13,Lunch,12:21,12:32,Yes,NA
+2,8779,4/16/2007,PRE_TEST,13,Dinner,17:36,17:50,Yes,NA
+3,8779,4/17/2007,PRE_TEST,12,Breakfast,7:00,7:14,Yes,NA
+4,8779,4/17/2007,PRE_TEST,12,Lunch,11:59,12:19,Yes,NA
+5,8779,4/17/2007,PRE_TEST,12,Dinner,17:05,17:28,Yes,NA
+6,8779,4/18/2007,PRE_TEST,11,Breakfast,7:15,7:33,Yes,NA
+7,8779,4/18/2007,PRE_TEST,11,Lunch,12:14,12:40,Yes,NA
+8,8779,4/18/2007,PRE_TEST,11,Dinner,17:22,17:31,Yes,NA
+9,8779,4/19/2007,PRE_TEST,10,Breakfast,7:00,7:16,Yes,NA
+10,8779,4/19/2007,PRE_TEST,10,Lunch,12:12,12:30,Yes,NA
+11,8779,4/19/2007,PRE_TEST,10,Dinner,16:55,17:25,Yes,NA
+12,8779,4/20/2007,PRE_TEST,9,Breakfast test,6:20,6:24,Yes,Lactulose/Acetaminophen Test
+13,8779,4/20/2007,PRE_TEST,9,Breakfast test,12:29,12:45,Yes,Lactulose/Acetaminophen Test
+14,8779,4/20/2007,PRE_TEST,9,Lunch,12:49,13:10,Yes,NA
+15,8779,4/20/2007,PRE_TEST,9,Dinner,17:42,17:59,Yes,NA
+16,8779,4/21/2007,PRE_TEST,8,Breakfast,7:43,7:51,Yes,NA
+17,8779,4/21/2007,PRE_TEST,8,Lunch,12:40,13:08,Yes,NA
+18,8779,4/21/2007,PRE_TEST,8,Dinner,17:40,17:52,Yes,NA
+19,8779,4/22/2007,PRE_TEST,7,Breakfast,7:27,7:50,Yes,NA
+20,8779,4/22/2007,PRE_TEST,7,Lunch,12:42,13:07,Yes,NA
+21,8779,4/22/2007,PRE_TEST,7,Dinner,17:10,17:46,Yes,"Subject with large amount of food. Subject ate some, then rested and ate some more until finished. Subject exceeded the meal duration time by 6 minutes. "
+22,8779,4/23/2007,PRE_TEST,6,Breakfast,6:47,6:59,Yes,NA
+23,8779,4/23/2007,PRE_TEST,6,Lunch test,12:17,12:23,Yes,NA
+24,8779,4/23/2007,PRE_TEST,6,Lunch test,17:14,17:39,Yes,NA
+25,8779,4/23/2007,PRE_TEST,6,Dinner,18:25,19:09,Yes,NA
+26,8779,4/24/2007,PRE_TEST,5,Breakfast,7:15,7:40,Yes,NA
+27,8779,4/24/2007,PRE_TEST,5,Lunch,12:00,12:14,Yes,NA
+28,8779,4/24/2007,PRE_TEST,5,Dinner,17:31,17:51,Yes,NA
+29,8779,4/25/2007,PRE_TEST,4,Breakfast,6:44,6:55,Yes,"Not all syrup consumed, will serve at lunch with carrots."
+30,8779,4/25/2007,PRE_TEST,4,Lunch,12:00,12:12,Yes,NA
+31,8779,4/25/2007,PRE_TEST,4,Dinner,17:17,17:32,No,Not all ketchup consumed. Subject said subject was not much of a ketchup eater.
+32,8779,4/26/2007,PRE_TEST,3,Breakfast,6:52,7:05,Yes,NA
+33,8779,4/26/2007,PRE_TEST,3,Lunch,12:15,12:29,Yes,NA
+34,8779,4/26/2007,PRE_TEST,3,Dinner,18:12,18:35,Yes,NA
+35,8779,4/27/2007,PRE_TEST,2,Breakfast test,6:57,7:13,Yes,NA
+36,8779,4/27/2007,PRE_TEST,2,Breakfast test,13:04,13:10,Yes,NA
+37,8779,4/27/2007,PRE_TEST,2,Lunch,13:12,13:20,Yes,NA
+38,8779,4/27/2007,PRE_TEST,2,Dinner,17:43,17:55,Yes,NA
+39,8779,4/28/2007,PRE_TEST,1,Breakfast test,6:55,7:02,Yes,PE/Nitroprusside Test scheduled for 0800.
+40,8779,4/28/2007,PRE_TEST,1,Breakfast test,10:47,10:53,Yes,PE/Nitroprusside Test
+41,8779,4/28/2007,PRE_TEST,1,Lunch,12:00,12:17,Yes,NA
+42,8779,4/28/2007,PRE_TEST,1,Dinner,17:15,17:32,Yes,NA
+43,8779,4/29/2007,IN_TEST,1,Breakfast,7:45,7:58,Yes,NA
+44,8779,4/29/2007,IN_TEST,1,Lunch,12:55,13:16,Yes,NA
+45,8779,4/29/2007,IN_TEST,1,Dinner,18:14,18:28,Yes,NA
+46,8779,4/30/2007,IN_TEST,2,Breakfast,7:44,8:00,Yes,NA
+47,8779,4/30/2007,IN_TEST,2,Lunch,12:46,12:57,Yes,NA
+48,8779,4/30/2007,IN_TEST,2,Dinner,18:11,18:25,Yes,NA
+49,8779,5/1/2007,IN_TEST,3,Breakfast,7:14,7:29,Yes,NA
+50,8779,5/1/2007,IN_TEST,3,Lunch,13:00,13:16,Yes,NA
+51,8779,5/1/2007,IN_TEST,3,Dinner,17:10,17:27,Yes,NA
+52,8779,5/2/2007,IN_TEST,4,Breakfast test,6:27,6:31,Yes,Lactulose/Acetaminophen Test
+53,8779,5/2/2007,IN_TEST,4,Breakfast test,12:43,12:51,Yes,Lactulose/Acetaminophen Test
+54,8779,5/2/2007,IN_TEST,4,Lunch,13:04,13:17,Yes,NA
+55,8779,5/2/2007,IN_TEST,4,Dinner,18:08,18:29,Yes,NA
+56,8779,5/3/2007,IN_TEST,5,Breakfast,7:15,7:30,Yes,NA
+57,8779,5/3/2007,IN_TEST,5,Lunch,12:15,12:30,Yes,NA
+58,8779,5/3/2007,IN_TEST,5,Dinner,17:04,17:35,Yes,NA
+59,8779,5/4/2007,IN_TEST,6,Breakfast,6:30,6:40,Yes,NA
+60,8779,5/4/2007,IN_TEST,6,Lunch,13:45,14:00,Yes,NA
+61,8779,5/4/2007,IN_TEST,6,Dinner,17:11,17:50,Yes,NA
+62,8779,5/5/2007,IN_TEST,7,Breakfast,7:15,7:31,Yes,NA
+63,8779,5/5/2007,IN_TEST,7,Lunch,12:07,12:23,Yes,NA
+64,8779,5/5/2007,IN_TEST,7,Dinner,17:02,17:25,Yes,NA
+65,8779,5/6/2007,IN_TEST,8,Breakfast,7:13,7:24,Yes,NA
+66,8779,5/6/2007,IN_TEST,8,Lunch,12:10,12:22,Yes,NA
+67,8779,5/6/2007,IN_TEST,8,Dinner,17:06,17:25,Yes,NA
+68,8779,5/7/2007,IN_TEST,9,Breakfast,7:04,7:17,Yes,NA
+69,8779,5/7/2007,IN_TEST,9,Lunch,12:15,12:33,Yes,NA
+70,8779,5/7/2007,IN_TEST,9,Dinner,17:38,18:02,Yes,NA
+71,8779,5/8/2007,IN_TEST,10,Breakfast,7:31,7:55,Yes,NA
+72,8779,5/8/2007,IN_TEST,10,Lunch,12:21,12:31,Yes,NA
+73,8779,5/8/2007,IN_TEST,10,Dinner,17:41,17:53,Yes,NA
+74,8779,5/9/2007,IN_TEST,11,Breakfast,7:03,7:16,Yes,NA
+75,8779,5/9/2007,IN_TEST,11,Lunch,12:30,12:45,Yes,NA
+76,8779,5/9/2007,IN_TEST,11,Dinner,18:00,18:20,Yes,NA
+77,8779,5/10/2007,IN_TEST,12,Breakfast,7:27,7:36,Yes,NA
+78,8779,5/10/2007,IN_TEST,12,Lunch,12:22,12:51,Yes,NA
+79,8779,5/10/2007,IN_TEST,12,Dinner,17:31,17:47,Yes,NA
+80,8779,5/11/2007,IN_TEST,13,Breakfast,7:47,8:02,Yes,NA
+81,8779,5/11/2007,IN_TEST,13,Lunch,12:42,12:58,Yes,NA
+82,8779,5/11/2007,IN_TEST,13,Dinner,17:39,17:57,Yes,NA
+83,8779,5/12/2007,IN_TEST,14,Breakfast,7:29,7:45,Yes,NA
+84,8779,5/12/2007,IN_TEST,14,Lunch,12:30,12:50,Yes,NA
+85,8779,5/12/2007,IN_TEST,14,Dinner,17:51,18:16,Yes,NA
+86,8779,5/13/2007,IN_TEST,15,Breakfast,7:35,7:41,Yes,NA
+87,8779,5/13/2007,IN_TEST,15,Lunch,12:45,13:10,Yes,NA
+88,8779,5/13/2007,IN_TEST,15,Dinner,17:30,17:50,Yes,NA
+89,8779,5/14/2007,IN_TEST,16,Breakfast,7:38,7:46,Yes,NA
+90,8779,5/14/2007,IN_TEST,16,Lunch,12:44,13:00,Yes,NA
+91,8779,5/14/2007,IN_TEST,16,Dinner,17:30,17:53,No,"Subject could not finish half of stir fry (157.18gm) composed of rice, corn, mixed veggies, chicken, oil, and poultry seasoning, 21.75gm cookies, and some juice (96.73gm). Subject will attempt to complete meal later."
+92,8779,5/14/2007,IN_TEST,16,Dinner,18:26,18:33,Yes,Subject completed dinner meal.
+93,8779,5/15/2007,IN_TEST,17,Breakfast,7:10,7:20,Yes,NA
+94,8779,5/15/2007,IN_TEST,17,Lunch,12:27,12:40,Yes,NA
+95,8779,5/15/2007,IN_TEST,17,Dinner,17:30,18:03,Yes,NA
+96,8779,5/16/2007,IN_TEST,18,Breakfast,7:17,7:36,Yes,NA
+97,8779,5/16/2007,IN_TEST,18,Lunch,12:15,12:32,Yes,NA
+98,8779,5/16/2007,IN_TEST,18,Dinner,17:15,17:37,Yes,NA
+99,8779,5/17/2007,IN_TEST,19,Breakfast,6:57,7:07,Yes,NA
+100,8779,5/17/2007,IN_TEST,19,Lunch,12:05,12:16,Yes,NA
+101,8779,5/17/2007,IN_TEST,19,Dinner,17:14,17:27,Yes,NA
+102,8779,5/18/2007,IN_TEST,20,Breakfast test,6:31,6:37,Yes,NA
+103,8779,5/18/2007,IN_TEST,20,Breakfast test,10:53,11:22,Yes,NA
+104,8779,5/18/2007,IN_TEST,20,Lunch,12:43,12:52,No,Subject dropped 6.25 grams of squash on floor.
+105,8779,5/18/2007,IN_TEST,20,Dinner,17:16,17:48,Yes,Subject getting over headache from study.
+106,8779,5/19/2007,IN_TEST,21,Breakfast,7:09,7:28,No,Subject did not eat the peanut butter. Subject has an allergy to peanut butter.
+107,8779,5/19/2007,IN_TEST,21,Lunch,12:12,12:22,Yes,NA
+108,8779,5/19/2007,IN_TEST,21,Dinner,17:25,17:36,Yes,NA
+109,8779,5/20/2007,IN_TEST,22,Breakfast,7:14,7:28,Yes,NA
+110,8779,5/20/2007,IN_TEST,22,Lunch,12:08,12:28,Yes,NA
+111,8779,5/20/2007,IN_TEST,22,Dinner,17:35,17:50,Yes,NA
+112,8779,5/21/2007,IN_TEST,23,Breakfast,7:18,7:33,Yes,NA
+113,8779,5/21/2007,IN_TEST,23,Lunch,12:14,12:26,Yes,NA
+114,8779,5/21/2007,IN_TEST,23,Dinner,17:24,17:52,Yes,NA
+115,8779,5/22/2007,IN_TEST,24,Breakfast test,6:21,6:23,Yes,Lactulose/Acetaminophen Test
+116,8779,5/22/2007,IN_TEST,24,Breakfast test,12:40,12:47,Yes,Lactulose/Acetaminophen Test
+117,8779,5/22/2007,IN_TEST,24,Lunch,13:00,13:15,Yes,NA
+118,8779,5/22/2007,IN_TEST,24,Dinner,16:57,17:28,Yes,NA
+119,8779,5/23/2007,IN_TEST,25,Breakfast,7:00,7:15,Yes,NA
+120,8779,5/23/2007,IN_TEST,25,Lunch,12:17,12:42,Yes,NA
+121,8779,5/23/2007,IN_TEST,25,Dinner,17:57,18:19,Yes,NA
+122,8779,5/24/2007,IN_TEST,26,Breakfast test,6:30,6:33,Yes,NA
+123,8779,5/24/2007,IN_TEST,26,Breakfast test,9:54,10:07,Yes,NA
+124,8779,5/24/2007,IN_TEST,26,Lunch test,16:45,16:56,Yes,NA
+125,8779,5/24/2007,IN_TEST,26,Dinner,18:00,18:24,Yes,NA
+126,8779,5/25/2007,IN_TEST,27,Breakfast,6:45,6:56,Yes,NA
+127,8779,5/25/2007,IN_TEST,27,Lunch test,10:15,10:35,Yes,NA
+128,8779,5/25/2007,IN_TEST,27,Lunch test,13:05,13:23,Yes,NA
+129,8779,5/25/2007,IN_TEST,27,Dinner,17:25,17:45,Yes,NA
+130,8779,5/26/2007,IN_TEST,28,Breakfast,7:23,7:31,Yes,NA
+131,8779,5/26/2007,IN_TEST,28,Lunch test,10:15,10:26,Yes,NA
+132,8779,5/26/2007,IN_TEST,28,Lunch test,14:29,14:36,Yes,NA
+133,8779,5/26/2007,IN_TEST,28,Dinner,17:24,17:41,Yes,NA
+134,8779,5/27/2007,IN_TEST,29,Breakfast,7:15,7:36,Yes,NA
+135,8779,5/27/2007,IN_TEST,29,Lunch,12:20,12:31,Yes,NA
+136,8779,5/27/2007,IN_TEST,29,Dinner,17:28,17:45,Yes,NA
+137,8779,5/28/2007,IN_TEST,30,Breakfast,7:10,7:26,Yes,NA
+138,8779,5/28/2007,IN_TEST,30,Lunch,12:24,12:32,Yes,NA
+139,8779,5/28/2007,IN_TEST,30,Dinner,17:26,17:38,Yes,NA
+140,8779,5/29/2007,IN_TEST,31,Breakfast test,7:05,7:10,Yes,Cardio Testing
+141,8779,5/29/2007,IN_TEST,31,Breakfast test,11:18,11:23,Yes,Cardio Testing
+142,8779,5/29/2007,IN_TEST,31,Lunch,12:15,12:30,Yes,NA
+143,8779,5/29/2007,IN_TEST,31,Dinner,17:30,17:54,Yes,NA
+144,8779,5/30/2007,IN_TEST,32,Breakfast,7:12,7:22,Yes,NA
+145,8779,5/30/2007,IN_TEST,32,Lunch test,11:03,11:10,Yes,NA
+146,8779,5/30/2007,IN_TEST,32,Lunch test,13:50,14:00,Yes,NA
+147,8779,5/30/2007,IN_TEST,32,Dinner,17:29,17:52,Yes,NA
+148,8779,5/31/2007,IN_TEST,33,Breakfast,6:58,7:08,Yes,NA
+149,8779,5/31/2007,IN_TEST,33,Lunch,11:58,12:11,Yes,NA
+150,8779,5/31/2007,IN_TEST,33,Dinner,17:30,17:39,Yes,NA
+151,8779,6/1/2007,IN_TEST,34,Breakfast,7:09,7:20,Yes,NA
+152,8779,6/1/2007,IN_TEST,34,Lunch,12:40,13:00,Yes,NA
+153,8779,6/1/2007,IN_TEST,34,Dinner,17:26,17:46,Yes,NA
+154,8779,6/2/2007,IN_TEST,35,Breakfast,7:15,7:29,Yes,NA
+155,8779,6/2/2007,IN_TEST,35,Lunch,12:26,12:45,Yes,NA
+156,8779,6/2/2007,IN_TEST,35,Dinner,17:21,17:51,Yes,NA
+157,8779,6/3/2007,IN_TEST,36,Breakfast,7:00,7:14,Yes,NA
+158,8779,6/3/2007,IN_TEST,36,Lunch,11:50,12:10,Yes,NA
+159,8779,6/3/2007,IN_TEST,36,Dinner,17:10,17:29,Yes,NA
+160,8779,6/4/2007,IN_TEST,37,Breakfast,7:00,7:07,Yes,NA
+161,8779,6/4/2007,IN_TEST,37,Lunch,11:57,12:25,Yes,NA
+162,8779,6/4/2007,IN_TEST,37,Dinner,17:15,17:33,Yes,NA
+163,8779,6/5/2007,IN_TEST,38,Breakfast,7:15,7:27,Yes,NA
+164,8779,6/5/2007,IN_TEST,38,Lunch,12:15,12:33,Yes,NA
+165,8779,6/5/2007,IN_TEST,38,Dinner,17:27,17:53,Yes,NA
+166,8779,6/6/2007,IN_TEST,39,Breakfast,6:59,7:08,Yes,NA
+167,8779,6/6/2007,IN_TEST,39,Lunch,12:15,12:22,Yes,NA
+168,8779,6/6/2007,IN_TEST,39,Dinner,17:15,17:52,Yes,Subject exceeded meal duration time by 7 minutes. Subject stated - It took me longer to get down that nasty food!
+169,8779,6/7/2007,IN_TEST,40,Breakfast,7:15,7:32,Yes,NA
+170,8779,6/7/2007,IN_TEST,40,Lunch,12:28,12:40,Yes,NA
+171,8779,6/7/2007,IN_TEST,40,Dinner,17:25,17:47,Yes,NA
+172,8779,6/8/2007,IN_TEST,41,Breakfast,7:15,7:26,Yes,NA
+173,8779,6/8/2007,IN_TEST,41,Lunch,12:14,12:24,Yes,NA
+174,8779,6/8/2007,IN_TEST,41,Dinner,17:14,17:28,Yes,NA
+175,8779,6/9/2007,IN_TEST,42,Breakfast,7:16,7:24,Yes,NA
+176,8779,6/9/2007,IN_TEST,42,Lunch,12:10,12:26,Yes,NA
+177,8779,6/9/2007,IN_TEST,42,Dinner,17:25,17:50,Yes,NA
+178,8779,6/10/2007,IN_TEST,43,Breakfast,7:15,7:31,Yes,NA
+179,8779,6/10/2007,IN_TEST,43,Lunch,12:00,12:07,Yes,NA
+180,8779,6/10/2007,IN_TEST,43,Dinner,17:05,17:14,Yes,NA
+181,8779,6/11/2007,IN_TEST,44,Breakfast,6:54,7:02,Yes,NA
+182,8779,6/11/2007,IN_TEST,44,Lunch,12:00,12:22,Yes,NA
+183,8779,6/11/2007,IN_TEST,44,Dinner,17:10,17:33,Yes,NA
+184,8779,6/12/2007,IN_TEST,45,Breakfast,7:30,7:41,Yes,NA
+185,8779,6/12/2007,IN_TEST,45,Lunch,12:38,12:59,Yes,NA
+186,8779,6/12/2007,IN_TEST,45,Dinner,17:43,18:03,No,Subject finished meal but left 65g of juice on the plate with scraps. This has happened in the past but not this extreme. It is getting out of control. May need to talk to subject.
+187,8779,6/13/2007,IN_TEST,46,Breakfast,7:08,7:25,Yes,NA
+188,8779,6/13/2007,IN_TEST,46,Lunch,12:09,12:28,Yes,NA
+189,8779,6/13/2007,IN_TEST,46,Dinner,17:27,17:57,Yes,NA
+190,8779,6/14/2007,IN_TEST,47,Breakfast,7:10,7:21,Yes,NA
+191,8779,6/14/2007,IN_TEST,47,Lunch,12:41,13:01,Yes,NA
+192,8779,6/14/2007,IN_TEST,47,Dinner,17:25,17:55,Yes,NA
+193,8779,6/15/2007,IN_TEST,48,Breakfast,6:30,6:39,Yes,NA
+194,8779,6/15/2007,IN_TEST,48,Lunch,13:23,13:45,Yes,NA
+195,8779,6/15/2007,IN_TEST,48,Dinner,17:21,17:36,Yes,NA
+196,8779,6/16/2007,IN_TEST,49,Breakfast,6:57,7:11,Yes,NA
+197,8779,6/16/2007,IN_TEST,49,Lunch,11:59,12:15,Yes,NA
+198,8779,6/16/2007,IN_TEST,49,Dinner,17:17,17:55,Yes,Subject exceeded the meal duration time by 8 minutes.
+199,8779,6/17/2007,IN_TEST,50,Breakfast,7:14,7:28,Yes,NA
+200,8779,6/17/2007,IN_TEST,50,Lunch,12:17,12:31,Yes,NA
+201,8779,6/17/2007,IN_TEST,50,Dinner,17:30,18:07,Yes,NA
+202,8779,6/18/2007,IN_TEST,51,Breakfast,7:13,7:35,Yes,NA
+203,8779,6/18/2007,IN_TEST,51,Lunch,11:58,12:13,Yes,NA
+204,8779,6/18/2007,IN_TEST,51,Dinner,17:15,17:32,Yes,NA
+205,8779,6/19/2007,IN_TEST,52,Breakfast,6:58,7:12,Yes,NA
+206,8779,6/19/2007,IN_TEST,52,Lunch,12:12,12:32,Yes,NA
+207,8779,6/19/2007,IN_TEST,52,Dinner,17:26,18:01,Yes,Subject does not like the fish menu. It takes subject a little longer to get them down. Subject exceeded the meal duration time by 5 minutes.
+208,8779,6/20/2007,IN_TEST,53,Breakfast test,6:20,6:30,Yes,Lactulose/Acetaminophen Test
+209,8779,6/20/2007,IN_TEST,53,Breakfast test,12:34,12:44,Yes,Lactulose/Acetaminophen Test
+210,8779,6/20/2007,IN_TEST,53,Lunch,13:00,13:30,Yes,NA
+211,8779,6/20/2007,IN_TEST,53,Dinner,17:27,17:57,Yes,NA
+212,8779,6/21/2007,IN_TEST,54,Breakfast test,7:00,7:09,Yes,Dorsal Hand Vein Test
+213,8779,6/21/2007,IN_TEST,54,Lunch,12:44,12:55,Yes,NA
+214,8779,6/21/2007,IN_TEST,54,Dinner,17:28,17:45,Yes,NA
+215,8779,6/22/2007,IN_TEST,55,Breakfast test,6:59,7:09,Yes,NA
+216,8779,6/22/2007,IN_TEST,55,Breakfast test,9:50,9:58,Yes,NA
+217,8779,6/22/2007,IN_TEST,55,Lunch,11:59,12:22,Yes,NA
+218,8779,6/22/2007,IN_TEST,55,Dinner,17:43,18:00,Yes,NA
+219,8779,6/23/2007,IN_TEST,56,Breakfast,7:15,7:29,Yes,NA
+220,8779,6/23/2007,IN_TEST,56,Lunch,11:55,12:23,Yes,NA
+221,8779,6/23/2007,IN_TEST,56,Dinner,17:11,17:30,Yes,NA
+222,8779,6/24/2007,IN_TEST,57,Breakfast,7:00,7:22,Yes,NA
+223,8779,6/24/2007,IN_TEST,57,Lunch,11:59,12:18,Yes,NA
+224,8779,6/24/2007,IN_TEST,57,Dinner,17:10,17:40,Yes,NA
+225,8779,6/25/2007,IN_TEST,58,Breakfast test,6:57,7:20,Yes,"PE/NITRO Test that required a light complex carb. This was scheduled to be a split breakfast, but the subject was given the entire breakfast because everything fell into that category. It did not require a split."
+226,8779,6/25/2007,IN_TEST,58,Lunch,11:58,12:15,Yes,NA
+227,8779,6/25/2007,IN_TEST,58,Dinner,18:31,18:59,Yes,"Subject with complaint of nausea; headache when dinner meal initially served at 17:13. The tray was returned to dietary, reheated, and reserved to subject after subject reported that nausea was resolved and requested the meal tray."
+228,8779,6/26/2007,IN_TEST,59,Breakfast,6:20,6:31,Yes,NA
+229,8779,6/26/2007,IN_TEST,59,Lunch,12:01,12:30,Yes,NA
+230,8779,6/26/2007,IN_TEST,59,Dinner,17:15,17:29,Yes,NA
+231,8779,6/27/2007,IN_TEST,60,Breakfast test,6:58,7:04,Yes,Cardio Testing
+232,8779,6/27/2007,IN_TEST,60,Breakfast test,11:57,12:03,Yes,Cardio Testing
+233,8779,6/27/2007,IN_TEST,60,Lunch,14:51,15:21,Yes,NA
+234,8779,6/27/2007,IN_TEST,60,Dinner,17:36,17:49,Yes,NA
+235,8779,6/28/2007,IN_TEST,61,Breakfast,6:58,7:13,Yes,NA
+236,8779,6/28/2007,IN_TEST,61,Lunch,11:56,12:13,Yes,NA
+237,8779,6/28/2007,IN_TEST,61,Dinner,17:11,17:29,Yes,NA
+238,8779,6/29/2007,IN_TEST,62,Breakfast,7:05,7:30,Yes,NA
+239,8779,6/29/2007,IN_TEST,62,Lunch,11:30,11:49,Yes,NA
+240,8779,6/29/2007,IN_TEST,62,Dinner,17:15,17:35,Yes,NA
+241,8779,6/30/2007,IN_TEST,63,Breakfast,6:55,7:08,Yes,NA
+242,8779,6/30/2007,IN_TEST,63,Lunch,11:54,12:09,Yes,NA
+243,8779,6/30/2007,IN_TEST,63,Dinner,17:15,17:30,Yes,NA
+244,8779,7/1/2007,IN_TEST,64,Breakfast,6:57,7:06,Yes,NA
+245,8779,7/1/2007,IN_TEST,64,Lunch,11:54,12:08,Yes,NA
+246,8779,7/1/2007,IN_TEST,64,Dinner,17:14,17:35,Yes,NA
+247,8779,7/2/2007,IN_TEST,65,Breakfast,6:58,7:27,Yes,NA
+248,8779,7/2/2007,IN_TEST,65,Lunch,12:13,12:21,Yes,NA
+249,8779,7/2/2007,IN_TEST,65,Dinner,17:01,17:11,Yes,NA
+250,8779,7/3/2007,IN_TEST,66,Breakfast,7:03,7:17,Yes,NA
+251,8779,7/3/2007,IN_TEST,66,Lunch,12:10,12:50,Yes,Subject was playing game while eating. Subject exceeded the meal duration time by 10 minutes.
+252,8779,7/3/2007,IN_TEST,66,Dinner,16:55,17:15,Yes,NA
+253,8779,7/4/2007,IN_TEST,67,Breakfast,7:03,7:19,Yes,NA
+254,8779,7/4/2007,IN_TEST,67,Lunch,11:59,12:18,Yes,NA
+255,8779,7/4/2007,IN_TEST,67,Dinner,17:00,17:20,Yes,NA
+256,8779,7/5/2007,IN_TEST,68,Breakfast,7:08,7:32,No,Subject left syrup (5.13g) from breakfast; will serve at lunch with carrots.
+257,8779,7/5/2007,IN_TEST,68,Lunch,12:00,12:14,Yes,Subject finished remaining syrup with lunch.
+258,8779,7/5/2007,IN_TEST,68,Dinner,16:50,17:14,Yes,NA
+259,8779,7/6/2007,IN_TEST,69,Breakfast,7:00,7:12,Yes,NA
+260,8779,7/6/2007,IN_TEST,69,Lunch,11:51,12:15,Yes,NA
+261,8779,7/6/2007,IN_TEST,69,Dinner,17:28,17:56,Yes,NA
+262,8779,7/7/2007,IN_TEST,70,Breakfast,7:14,7:20,Yes,NA
+263,8779,7/7/2007,IN_TEST,70,Lunch,12:09,12:36,Yes,NA
+264,8779,7/7/2007,IN_TEST,70,Dinner,17:15,17:31,Yes,NA
+265,8779,7/8/2007,IN_TEST,71,Breakfast,7:11,7:26,Yes,NA
+266,8779,7/8/2007,IN_TEST,71,Lunch,12:09,12:27,Yes,NA
+267,8779,7/8/2007,IN_TEST,71,Dinner,17:15,17:41,Yes,NA
+268,8779,7/9/2007,IN_TEST,72,Breakfast,6:57,7:11,Yes,NA
+269,8779,7/9/2007,IN_TEST,72,Lunch,12:00,12:14,Yes,NA
+270,8779,7/9/2007,IN_TEST,72,Dinner,16:50,17:05,Yes,NA
+271,8779,7/10/2007,IN_TEST,73,Breakfast,10:15,10:28,No,"Subject was unable to eat breakfast at 7:00 due to headache and nausea. At 10:15, subject was able to eat only a portion of breakfast. Subject will try to eat the rest over the course of the day."
+272,8779,7/10/2007,IN_TEST,73,Breakfast snack,15:15,15:30,Yes,Subject completely finished all breakfast items. Breakfast meal complete.
+273,8779,7/10/2007,IN_TEST,73,Lunch,12:10,12:30,Yes,NA
+274,8779,7/10/2007,IN_TEST,73,Dinner,17:07,17:33,Yes,NA
+275,8779,7/11/2007,IN_TEST,74,Breakfast,7:02,7:18,Yes,NA
+276,8779,7/11/2007,IN_TEST,74,Lunch,12:03,12:14,Yes,NA
+277,8779,7/11/2007,IN_TEST,74,Dinner,17:08,17:27,Yes,NA
+278,8779,7/12/2007,IN_TEST,75,Breakfast test,7:00,7:06,Yes,Cardio Testing
+279,8779,7/12/2007,IN_TEST,75,Breakfast test,10:35,9:42,Yes,Cardio Testing
+280,8779,7/12/2007,IN_TEST,75,Lunch,12:00,12:21,Yes,NA
+281,8779,7/12/2007,IN_TEST,75,Dinner,17:00,17:28,Yes,NA
+282,8779,7/13/2007,IN_TEST,76,Breakfast,7:28,7:53,Yes,NA
+283,8779,7/13/2007,IN_TEST,76,Lunch,12:03,12:15,Yes,NA
+284,8779,7/13/2007,IN_TEST,76,Dinner,17:15,17:30,Yes,NA
+285,8779,7/14/2007,IN_TEST,77,Breakfast,7:12,7:31,Yes,NA
+286,8779,7/14/2007,IN_TEST,77,Lunch,11:57,12:26,Yes,NA
+287,8779,7/14/2007,IN_TEST,77,Dinner,16:57,17:18,Yes,NA
+288,8779,7/15/2007,IN_TEST,78,Breakfast,6:51,7:01,Yes,NA
+289,8779,7/15/2007,IN_TEST,78,Lunch,11:55,12:23,Yes,NA
+290,8779,7/15/2007,IN_TEST,78,Dinner,16:57,17:09,Yes,NA
+291,8779,7/16/2007,IN_TEST,79,Breakfast,7:23,7:41,Yes,NA
+292,8779,7/16/2007,IN_TEST,79,Lunch test,12:30,12:45,Yes,Cardio Testing
+293,8779,7/16/2007,IN_TEST,79,Lunch test,18:30,18:43,Yes,Cardio Testing
+294,8779,7/16/2007,IN_TEST,79,Dinner,20:35,21:03,No,Subject was unable to complete meal due to late testing.
+295,8779,7/17/2007,IN_TEST,80,Breakfast,7:13,7:28,Yes,NA
+296,8779,7/17/2007,IN_TEST,80,Lunch,12:15,12:33,Yes,NA
+297,8779,7/17/2007,IN_TEST,80,Dinner,17:26,17:58,Yes,Subject used restroom during meal. Subject exceeded meal duaration time by 2 minutes.
+298,8779,7/18/2007,IN_TEST,81,Breakfast,7:10,7:32,Yes,NA
+299,8779,7/18/2007,IN_TEST,81,Lunch test,11:03,11:16,Yes,Dorsal Foot Vein Test. Light complex carbohydrate lunch.
+300,8779,7/18/2007,IN_TEST,81,Lunch test,13:25,13:39,Yes,Dorsal Foot Vein Test
+301,8779,7/18/2007,IN_TEST,81,Dinner,17:11,17:32,Yes,NA
+302,8779,7/19/2007,IN_TEST,82,Breakfast,6:59,7:13,Yes,NA
+303,8779,7/19/2007,IN_TEST,82,Lunch test,11:15,11:33,Yes,Light complex carbohydrate lunch.
+304,8779,7/19/2007,IN_TEST,82,Lunch test,14:57,15:13,Yes,NA
+305,8779,7/19/2007,IN_TEST,82,Dinner,17:00,17:22,Yes,NA
+306,8779,7/20/2007,IN_TEST,83,Breakfast,6:56,7:12,Yes,NA
+307,8779,7/20/2007,IN_TEST,83,Lunch,12:03,12:15,Yes,NA
+308,8779,7/20/2007,IN_TEST,83,Dinner,17:03,17:32,Yes,NA
+309,8779,7/21/2007,IN_TEST,84,Breakfast,7:25,7:46,Yes,NA
+310,8779,7/21/2007,IN_TEST,84,Lunch,11:55,12:04,Yes,NA
+311,8779,7/21/2007,IN_TEST,84,Dinner,16:55,17:20,Yes,NA
+312,8779,7/22/2007,IN_TEST,85,Breakfast,7:15,7:24,Yes,NA
+313,8779,7/22/2007,IN_TEST,85,Lunch,11:50,12:08,Yes,NA
+314,8779,7/22/2007,IN_TEST,85,Dinner,16:55,17:11,Yes,NA
+315,8779,7/23/2007,IN_TEST,86,Breakfast,6:58,7:18,Yes,NA
+316,8779,7/23/2007,IN_TEST,86,Lunch,12:00,12:11,Yes,NA
+317,8779,7/23/2007,IN_TEST,86,Dinner,17:13,17:43,Yes,NA
+318,8779,7/24/2007,IN_TEST,87,Breakfast test,6:30,6:37,Yes,Lactulose/Acetaminophen Test
+319,8779,7/24/2007,IN_TEST,87,Breakfast test,13:00,13:12,Yes,Lactulose/Acetaminophen Test
+320,8779,7/24/2007,IN_TEST,87,Lunch,13:13,13:34,Yes,NA
+321,8779,7/24/2007,IN_TEST,87,Dinner,17:26,17:50,Yes,NA
+322,8779,7/25/2007,IN_TEST,88,Breakfast,7:15,7:32,Yes,NA
+323,8779,7/25/2007,IN_TEST,88,Lunch,12:17,12:45,Yes,NA
+324,8779,7/25/2007,IN_TEST,88,Dinner,17:12,17:32,Yes,NA
+325,8779,7/26/2007,IN_TEST,89,Breakfast,6:45,7:00,Yes,NA
+326,8779,7/26/2007,IN_TEST,89,Lunch,11:54,12:20,Yes,NA
+327,8779,7/26/2007,IN_TEST,89,Dinner,17:20,17:50,Yes,NA
+328,8779,7/27/2007,IN_TEST,90,Breakfast,7:03,7:25,Yes,NA
+329,8779,7/27/2007,IN_TEST,90,Lunch,11:30,11:45,Yes,NA
+330,8779,7/27/2007,IN_TEST,90,Dinner,16:58,17:25,Yes,NA
+331,8779,7/28/2007,POST_TEST,0,Breakfast test,6:42,6:56,Yes,NA
+332,8779,7/28/2007,POST_TEST,0,Breakfast test,11:52,12:03,Yes,NA
+333,8779,7/28/2007,POST_TEST,0,Lunch test,14:03,14:14,Yes,NA
+334,8779,7/28/2007,POST_TEST,0,Lunch test,16:40,16:46,Yes,NA
+335,8779,7/28/2007,POST_TEST,0,Dinner,19:45,20:05,No,Subject unable to finish dinner meal. Subject had complaint of nervous stomach. Subject ate approximately 75 percent of meal.
+336,8779,7/29/2007,POST_TEST,1,Breakfast,6:54,7:05,Yes,NA
+337,8779,7/29/2007,POST_TEST,1,Lunch,11:50,12:12,No,Two kernels of corn fell on the floor.
+338,8779,7/29/2007,POST_TEST,1,Dinner,17:00,17:15,Yes,NA
+339,8779,7/30/2007,POST_TEST,2,Breakfast,6:58,7:13,Yes,NA
+340,8779,7/30/2007,POST_TEST,2,Lunch,11:53,12:13,Yes,NA
+341,8779,7/30/2007,POST_TEST,2,Dinner,17:15,17:45,Yes,NA
+342,8779,7/31/2007,POST_TEST,3,Breakfast test,6:47,6:58,Yes,Cardio Testing
+343,8779,7/31/2007,POST_TEST,3,Breakfast test,12:32,12:40,Yes,Cardio Testing
+344,8779,7/31/2007,POST_TEST,3,Lunch,12:50,13:05,Yes,NA
+345,8779,7/31/2007,POST_TEST,3,Dinner,18:04,18:51,Yes,Subject takes longer to eat meals that include any kind of fish. Subject is ambulatory. The 30-minute meal duration time limit does not apply.
+346,8779,8/1/2007,POST_TEST,4,Breakfast,7:20,7:47,Yes,NA
+347,8779,8/1/2007,POST_TEST,4,Lunch,12:25,12:43,Yes,NA
+348,8779,8/1/2007,POST_TEST,4,Dinner,17:23,17:52,Yes,NA
+349,8779,8/2/2007,POST_TEST,5,Breakfast,7:28,7:39,Yes,NA
+350,8779,8/2/2007,POST_TEST,5,Lunch,12:01,12:11,Yes,NA
+351,8779,8/2/2007,POST_TEST,5,Dinner,17:26,17:44,Yes,NA
+352,8779,8/3/2007,POST_TEST,6,Breakfast,6:44,6:54,Yes,NA
+353,8779,8/3/2007,POST_TEST,6,Lunch,12:00,12:16,Yes,NA
+354,8779,8/3/2007,POST_TEST,6,Dinner,17:11,17:37,Yes,NA
+355,8779,8/4/2007,POST_TEST,7,Breakfast,7:27,7:40,Yes,NA
+356,8779,8/4/2007,POST_TEST,7,Lunch,12:30,12:59,Yes,NA
+357,8779,8/4/2007,POST_TEST,7,Dinner,17:18,17:48,Yes,NA
+358,8779,8/5/2007,POST_TEST,8,Breakfast test,6:20,6:30,Yes,Lactulose/Acetaminophen Test
+359,8779,8/5/2007,POST_TEST,8,Breakfast test,12:43,12:58,Yes,Lactulose/Acetaminophen Test
+360,8779,8/5/2007,POST_TEST,8,Lunch,13:10,13:30,Yes,NA
+361,8779,8/5/2007,POST_TEST,8,Dinner,17:45,18:05,Yes,NA
+362,8779,8/6/2007,POST_TEST,9,Breakfast,7:20,7:47,Yes,NA
+363,8779,8/6/2007,POST_TEST,9,Lunch,12:24,12:51,Yes,NA
+364,8779,8/6/2007,POST_TEST,9,Dinner,17:41,18:05,Yes,NA
+365,8779,8/7/2007,POST_TEST,10,Breakfast,7:32,8:02,Yes,NA
+366,8779,8/7/2007,POST_TEST,10,Lunch,12:30,12:48,Yes,NA
+367,8779,8/7/2007,POST_TEST,10,Dinner,17:24,18:05,Yes,Dr. Ware was talking to the subject while he was eating. Subject is ambulatory. The 30-minute meal duration time limit does not apply.
+368,8779,8/8/2007,POST_TEST,11,Breakfast,6:27,7:03,Yes,Subject is ambulatory. The 30-minute meal duration time limit does not apply.
+369,8779,8/8/2007,POST_TEST,11,Lunch,12:00,12:21,Yes,NA
+370,8779,8/8/2007,POST_TEST,11,Dinner,17:00,17:25,Yes,NA
+371,8779,8/9/2007,POST_TEST,12,Breakfast,7:46,6:58,Yes,NA
+372,8779,8/9/2007,POST_TEST,12,Lunch,12:35,13:05,Yes,NA
+373,8779,8/9/2007,POST_TEST,12,Dinner,17:15,17:42,Yes,NA
+374,8779,8/10/2007,POST_TEST,13,Breakfast,6:58,7:20,Yes,Subject discharged from study today.

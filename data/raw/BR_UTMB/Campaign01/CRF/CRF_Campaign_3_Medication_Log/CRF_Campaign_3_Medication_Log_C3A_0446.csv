@@ -1,0 +1,126 @@
+﻿ID,Subject,Date,Test_Phase,BR_Day,Time,Medication,Dose,Route,Indication,Pain_Score,Outcome
+1,446,3/3/2005,PRE_TEST,7,1850,Nitrostat,0.4 mg,PO,Testing,NA,NA
+2,446,3/3/2005,PRE_TEST,7,635,C-13-Urea,75 mg,PO,Testing,NA,No problems
+3,446,3/7/2005,PRE_TEST,3,844,Normal Saline,12 cc/hr,IV,Study,0/10,NA
+4,446,3/7/2005,PRE_TEST,3,920,Indomethacin,12.5 mcg/.05ml at 6cc/hr x 10 min,IV,Study,0/10,NA
+5,446,3/7/2005,PRE_TEST,3,935,Phenylephrine,3160 ng/0.1ml at 6cc/hr,IV,Study,0/10,NA
+6,446,3/7/2005,PRE_TEST,3,959,Isoproterenol,100 ng/0.1ml at 6cc/hr x 10 min,IV,Study,0/10,NA
+7,446,3/7/2005,PRE_TEST,3,1016,Acetylcholine,0.1 nmol/0.05ml at 3cc/hr x 6 min,IV,Study,0/10,NA
+8,446,3/7/2005,PRE_TEST,3,1027,Acetylcholine,0.316 nmol/0.05ml at 3cc/hr x 6 min,IV,Study,0/10,NA
+9,446,3/7/2005,PRE_TEST,3,1036,Acetylcholine,1.0 nmol/0.05ml at 3cc/hr x 6 min,IV,Study,0/10,NA
+10,446,3/7/2005,PRE_TEST,3,1047,Acetylcholine,3.16 nmol/0.05ml at 3cc/hr x 6 min,IV,Study,0/10,NA
+11,446,3/7/2005,PRE_TEST,3,1058,Acetylcholine,10 nmol/0.05ml at 3cc/hr x 6 min,IV,Study,0/10,NA
+12,446,3/7/2005,PRE_TEST,3,1113,LNMMA,50 mcg/.05ml at 3cc/hr x 10 min,IV,Study,0/10,NA
+13,446,3/7/2005,PRE_TEST,3,1128,Nitroglycerin,16 pmol/0.1ml at 6cc/hr x 10 min,IV,Study,0/10,NA
+14,446,3/8/2005,PRE_TEST,2,1355,NS (Normal Saline),12 cc/hr,IV,Study,0/10,NA
+15,446,3/8/2005,PRE_TEST,2,1425,Indomethacin,12.5 mcg/.05ml at 6cc/hr x 10 min,IV,Study,0/10,NA
+16,446,3/8/2005,PRE_TEST,2,1439,Phenylephrine,3160 ng/0.1ml at 6cc/hr,IV,Study,0/10,NA
+17,446,3/8/2005,PRE_TEST,2,1503,Isoproterenol,100 ng/0.1ml at 6cc/hr x 10 min,IV,Study,0/10,NA
+18,446,3/8/2005,PRE_TEST,2,1516,Acetylcholine,0.1 nmol/0.05ml at 3cc/hr x 6 min,IV,Study,0/10,NA
+19,446,3/8/2005,PRE_TEST,2,1524,Acetylcholine,0.316 nmol/0.05ml at 3cc/hr x 6 min,IV,Study,0/10,NA
+20,446,3/8/2005,PRE_TEST,2,1536,Acetylcholine,1.0 nmol/0.05ml at 3cc/hr x 6 min,IV,Study,0/10,NA
+21,446,3/8/2005,PRE_TEST,2,1548,Acetylcholine,3.16 nmol/0.05ml at 3cc/hr x 6 min,IV,Study,0/10,NA
+22,446,3/8/2005,PRE_TEST,2,1557,LNMMA,50 mcg/.05ml at 3cc/hr x 10 min,IV,Study,0/10,NA
+23,446,3/8/2005,PRE_TEST,2,1611,Nitroglycerin,16 pmol/0.1ml at 6cc/hr x 10 min,IV,Study,0/10,NA
+24,446,3/12/2005,IN_TEST,3,1610,Tylenol,650 mg,PO,NA,10-Sep,NA
+25,446,3/13/2005,IN_TEST,4,2110,Motrin,400 mg,PO,Backache,10-Jul,NA
+26,446,3/16/2005,IN_TEST,7,1140,Tylenol,650 mg,PO,Slight headache,2.5/10,"Effective ""0"" 1600"
+27,446,3/16/2005,IN_TEST,7,1825,Tylenol,650 mg,PO,Headache,6.5/10,Effective 1900
+28,446,3/16/2005,IN_TEST,7,2004,Ibuprofen,400 mg,PO,Headache,10-Jul,Effective: not enough
+29,446,3/16/2005,IN_TEST,7,2100,Ibuprofen,400 mg,PO,Headache,10-Jul,Effective: 2140
+30,446,3/16/2005,IN_TEST,7,520,Ibuprofen,400 mg,PO,NA,10-Jul,Not effective 0750
+31,446,3/16/2005,IN_TEST,7,750,Tylenol,650 mg,PO,Headache,10-Jul,Not effective 0930
+32,446,3/17/2005,IN_TEST,8,805,Tylenol,650 mg,PO,Headache,10-Jul,Not effective 0930
+33,446,3/17/2005,IN_TEST,8,1110,Aspirin,325 mg,PO,Headache,10-Jul,Not effective 1355
+34,446,3/17/2005,IN_TEST,8,1355,Aspirin,325 mg,PO,Headache,10-Jul,NA
+35,446,3/17/2005,IN_TEST,8,1810,Tylenol,650 mg,PO,HA,10-May,NA
+36,446,3/17/2005,IN_TEST,8,1920,ASA,325 mg,PO,HA,10-Jul,"Helping somewhat, still there though."
+37,446,3/17/2005,IN_TEST,8,2110,ASA,325 mg,PO,HA,10-May,Continues to ease off.
+38,446,3/22/2005,IN_TEST,13,950,Motrin,400 mg,PO,Bx (biopsy) site pain,10-May,"Pain ""better"""
+39,446,3/26/2005,IN_TEST,17,2050,Tylenol,650 mg,PO,H/ache,10-Mar,Resolved. Medication effective.
+40,446,3/27/2005,IN_TEST,18,2030,Motrin,800 mg,PO,Back pain,10-Mar,NA
+41,446,3/30/2005,IN_TEST,21,1640,Ibuprofen,800 mg,PO,H/A,10-Mar,Relief
+42,446,3/31/2005,IN_TEST,21,2100,Ibuprofen,400 mg,PO,H/A,10-Mar,Relief 21:40
+43,446,3/31/2005,IN_TEST,22,2315,Ibuprofen,800 mg,PO,Headache,10-May,2400: Pt resting quietly per monitor.
+44,446,4/1/2005,IN_TEST,23,2140,Ibuprofen,800 mg,PO,Headache,10-Mar,Reliving headache at 2200.
+45,446,4/9/2005,IN_TEST,31,1420,Ibuprofen,1 tab,PO,HA,NA,NA
+46,446,4/9/2005,IN_TEST,31,1833,Tylenol,2 tabs,PO,HA,NA,NA
+47,446,4/9/2005,IN_TEST,31,2030,Ibuprofen,2 tabs,PO,HA,10-Apr,Resolving by 2200
+48,446,4/11/2005,IN_TEST,33,2130,Ibuprofen,800 mg,PO,Headache,10-Mar,Headache resolved by 2200
+49,446,4/16/2005,IN_TEST,38,1430,Ibuprofen,800 mg,PO,HA,3.5/10,"Little relief. Pain decreased to ""3"". Will con't to monitor as per pt request."
+50,446,4/16/2005,IN_TEST,38,1635,Aspirin,325 mg,PO,HA,10-Jul,1745 - HA pain increased to 8.
+51,446,4/16/2005,IN_TEST,38,1745,Aspirin,400 mg,PO,HA,10-Aug,At 2200 headache decreased to 4 on 0-10 scale.
+52,446,4/16/2005,IN_TEST,38,2000,Ibuprofen,400 mg,PO,HA,10-Aug,At 2200 headache decreased to 4 on 0-10 scale.
+53,446,4/16/2005,IN_TEST,38,2155,Tylenol,650 mg,PO,HA,10-Apr,2300 Pt sleeping quietly. Has not rung out for meds.
+54,446,4/17/2005,IN_TEST,39,850,Motrin,800 mg,PO,HA,10-Jun,"1010 - Decrease in HA pain to ""4"""
+55,446,4/17/2005,IN_TEST,39,1900,Motrin,400 mg,PO,Headache,7/8/2010,Decreased to a 4
+56,446,4/17/2005,IN_TEST,39,2150,ASA,325 mg,PO,Headache,10-Apr,2300 sleeping quietly
+57,446,4/25/2005,IN_TEST,47,2040,Ibuprofen,800 mg,PO,HA (frontal) that is an ache x 1 hour,10-Jan,2140 - unresolved HA No change in intensity or quality
+58,446,4/25/2005,IN_TEST,47,2150,Aspirin,325 mg,PO,Unresolved frontal HA quality = ache,10-Jan,2250 - resting in bed with eyes closed.  No further c/o HA.
+59,446,4/27/2005,IN_TEST,49,1225,Motrin,800 mg,PO,HA due to nitro given for test,1/2/2010,HA gone
+60,446,4/27/2005,IN_TEST,49,1525,Tylenol,650 mg,PO,HA,10-Mar,HA conts - ice packs applied
+61,446,4/27/2005,IN_TEST,49,1800,ASA,325 mg,PO,HA,6/7/2010,NA
+62,446,4/27/2005,IN_TEST,49,2120,Tylenol,650 mg,PO,HA,10-Apr,NA
+63,446,4/29/2005,IN_TEST,51,1915,Motrin,800 mg,PO,Headache,10-Jan,2100 - slight residual headache
+64,446,4/29/2005,IN_TEST,51,2100,ASA,325 mg,PO,Headache,10-Jan,2130 headache gone
+65,446,4/30/2005,IN_TEST,52,730,Motrin,400 mg,PO,HA - caused by light hurting eyes,10-Jan,Not better
+66,446,4/30/2005,IN_TEST,52,820,Motrin,400 mg,PO,HA - caused by light hurting eyes,10-May,Resolved
+67,446,5/4/2005,IN_TEST,56,846,NS (Normal Saline),12 cc/hr,IV,Dorsal foot vein testing,NA,NA
+68,446,5/4/2005,IN_TEST,56,939,Indomethacin,12.5 mcg/.05ml at 6cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+69,446,5/4/2005,IN_TEST,56,952,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 20 min,IV,Dorsal foot vein testing,NA,NA
+70,446,5/4/2005,IN_TEST,56,1015,Isoproterenol,100 ng/0.1ml at 6cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+71,446,5/4/2005,IN_TEST,56,1015,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+72,446,5/4/2005,IN_TEST,56,1029,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 6min,IV,Dorsal foot vein testing,NA,NA
+73,446,5/4/2005,IN_TEST,56,1029,Acetylcholine,0.1 nmol/0.05ml at 3cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+74,446,5/4/2005,IN_TEST,56,1039,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+75,446,5/4/2005,IN_TEST,56,1039,Acetylcholine,0.316 nmol/0.05ml at 3cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+76,446,5/4/2005,IN_TEST,56,1048,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+77,446,5/4/2005,IN_TEST,56,1048,Acetylcholine,1 nmol/0.05ml at 3cc/hr for 6 min,IV,Dorsal foot vein testing,NA,NA
+78,446,5/4/2005,IN_TEST,56,1102,LNMMA,50 mcg/.05ml at 3cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+79,446,5/4/2005,IN_TEST,56,1102,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+80,446,5/4/2005,IN_TEST,56,1102,Acetylcholine,0.316 nm/0.05ml at 3cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+81,446,5/4/2005,IN_TEST,56,1149,Nitroglycerin,16 pmol/0.1ml at 6cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+82,446,5/4/2005,IN_TEST,56,1149,Phenylephrine,3160 ng/0.1ml at 6cc/hr for 10 min,IV,Dorsal foot vein testing,NA,NA
+83,446,5/10/2005,IN_TEST,62,1740,Tylenol,650 mg,PO,Headache,10-Mar,2000 headache still at 3 but improving re: pt.
+84,446,5/10/2005,IN_TEST,62,2130,Tylenol,650 mg,PO,Headache,10-Mar,"2200 states ""a little better"".  2300 pt asleep."
+85,446,5/15/2005,IN_TEST,67,2050,Benedryl,50 mg,PO,Sleep/stomach upset,0/10,2200- stomach better. Ready for sleep
+86,446,5/16/2005,IN_TEST,68,1640,Tylenol,650 mg,PO,Headache,10-Mar,Effective
+87,446,5/18/2005,IN_TEST,70,1120,Tylenol,325 mg,PO,HA,10-Jan,"HA ""gone"""
+88,446,5/18/2005,IN_TEST,70,1950,Acetaminophen,650 mg,PO,HA,10-Feb,At 2030 states HA remains present
+89,446,5/19/2005,IN_TEST,71,1050,Tylenol,325 mg,PO,HA,10-Apr,"1150 ""almost gone""  per pt"
+90,446,5/19/2005,IN_TEST,71,1730,Tylenol,325 mg,PO,HA,10-Mar,NA
+91,446,5/23/2005,IN_TEST,75,1830,Tylenol,650 mg,PO,HA,10-Apr,1950 pt states head ache almost gone
+92,446,5/24/2005,IN_TEST,75,2157,Tylenol,650 mg,PO,Headache,10-Feb,"2350 pt, by camera sleeping"
+93,446,5/24/2005,IN_TEST,76,1435,Tylenol,650 mg,PO,Wrist pain,10-Apr,Effective
+94,446,5/24/2005,IN_TEST,76,2145,Tylenol,325 mg,PO,Wrist pain,10-Apr,2200 states helping pain
+95,446,5/25/2005,IN_TEST,77,1900,Tylenol,325 mg,PO,Tooth pain,10-Feb,NA
+96,446,5/26/2005,IN_TEST,78,610,Acetaminophen,650 mg,PO,Toothache to left upper jaw,10-Mar,"0720 con't ""3"" feels due to partial needing adjusted"
+97,446,5/26/2005,IN_TEST,78,1220,Tylenol,325 mg,PO,Tooth pain,10-Jun,NA
+98,446,5/26/2005,IN_TEST,78,1920,Tylenol,325 mg,PO,Tooth pain,10-Jun,"At 1940 pain (decreased) ""3""  ""not much bothering me"""
+99,446,5/26/2005,IN_TEST,78,2203,Aspirin,325 mg,PO,Throbbing tooth pain,10-Jun,At 0100 appears to be resting quietly
+100,446,5/27/2005,IN_TEST,79,605,Acetaminophen,650 mg,PO,Tooth pain,6/7/2010,NA
+101,446,5/27/2005,IN_TEST,79,915,Tylenol,650 mg,PO,Toothache,10-Jun,NA
+102,446,5/27/2005,IN_TEST,79,2130,Acetaminophen,650 mg,PO,Tooth pain to right upper jaw,10-Jun,2200 preparing for sleep. No decrease in pain.
+103,446,5/27/2005,IN_TEST,79,2315,Aspirin,325 mg,PO,Increase tooth pain to right upper jaw,10-Aug,2400 resting quietly
+104,446,5/28/2005,IN_TEST,80,800,Tylenol,650 mg,PO,Toothache,10-Jun,Effective
+105,446,5/28/2005,IN_TEST,80,1410,Tylenol,650 mg,PO,Toothache,10-Jun,NA
+106,446,5/28/2005,IN_TEST,80,1410,Aspirin,325 mg,PO,Toothache,10-Jun,NA
+107,446,5/28/2005,IN_TEST,80,1720,Amoxicillin,500 mg,PO,Toothache,NA,NA
+108,446,5/28/2005,IN_TEST,80,2150,Acetaminophen,650 mg,PO,Tooth pain left upper jaw,10-May,NA
+109,446,5/28/2005,IN_TEST,80,2150,Aspirin,325 mg,PO,Tooth pain left upper jaw,10-May,NA
+110,446,5/29/2005,IN_TEST,81,610,ASA,325 mg,PO,Tooth pain to left upper jaw,10-May,NA
+111,446,5/29/2005,IN_TEST,81,1030,Amoxicillin,500 mg,PO,Toothache left upper jaw,5/6/2010,NA
+112,446,5/29/2005,IN_TEST,81,1305,Tylenol,650 mg,PO,Toothache left upper jaw,5/6/2010,NA
+113,446,5/29/2005,IN_TEST,81,1940,Acetaminophen,650 mg,PO,Tooth ache left upper jaw,10-May,2010 no relief
+114,446,5/29/2005,IN_TEST,81,1940,Amoxicillin,500 mg,PO,Toothache left upper jaw,10-May,Tol med well 1940
+115,446,5/29/2005,IN_TEST,81,2010,ASA,325 mg,PO,Toothache left upper jaw,10-May,2140 RN @ BS no c/o pain
+116,446,6/1/2005,IN_TEST,84,2000,Amoxicillin,500 mg,PO,Tooth pain left upper,0/10,Pt has verbalized decreased pain with use of abx-
+117,446,6/4/2005,IN_TEST,87,1255,Tylenol,650 mg,PO,Pain/headache,10-Mar,Effective
+118,446,6/4/2005,IN_TEST,87,2130,Tylenol,650 mg,PO,Headache,10-Mar,Not effective as of 2300
+119,446,6/4/2005,IN_TEST,87,2300,Ambien,5 mg,PO,Sleep,NA,0000 sleeping
+120,446,6/4/2005,IN_TEST,87,2300,Aspirin,325 mg,PO,Headache,10-Apr,0000 sleeping
+121,446,6/5/2005,IN_TEST,88,2210,Tylenol,650 mg,PO,Rt foot - lateral pain: old IV site dorsal,10-Apr,0000 sleeping quietly also gave ice pack.
+122,446,6/9/2005,POST_TEST,1,15,Tylenol,650 mg,PO,Headache,10-Apr,Sleeping @ 0130
+123,446,6/11/2005,POST_TEST,3,1310,Tylenol,650 mg,PO,HA,10-May,"1410 - ""better"" now ""2"" on 0-10 pain scale"
+124,446,6/14/2005,POST_TEST,6,1300,Tylenol,650 mg,PO,HA,10-Mar,1930 - states no pain @ this time
+125,446,6/17/2005,POST_TEST,9,525,Tylenol,650 mg,PO,Headache,10-Mar,"0630 pt states ""feeling better"""

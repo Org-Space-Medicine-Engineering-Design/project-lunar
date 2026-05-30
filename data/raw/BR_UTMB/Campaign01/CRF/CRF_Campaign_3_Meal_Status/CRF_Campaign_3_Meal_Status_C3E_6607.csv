@@ -1,0 +1,350 @@
+﻿ID,Record,Subject,Date,Test_Phase,BR_Day,Meal,Meal_Time_Start,Meal_Time_Finish,Duration_minutes,Meal_Completed,Issues_Reported,Issue_Reported_Number,Comments
+1,25496,6607,5/9/2008,PRE_TEST,15,Dinner,16:58,17:23,25,Yes,No,NA,NA
+2,25636,6607,5/11/2008,PRE_TEST,13,Breakfast,6:59,7:05,6,Yes,No,NA,NA
+3,25637,6607,5/11/2008,PRE_TEST,13,Lunch,11:55,12:25,30,Yes,No,NA,NA
+4,25682,6607,5/11/2008,PRE_TEST,13,Dinner,17:01,17:26,25,Yes,No,NA,NA
+5,25662,6607,5/10/2008,PRE_TEST,14,Breakfast test,7:00,7:20,20,Yes,No,NA,Cycle ergometer test.
+6,25663,6607,5/10/2008,PRE_TEST,14,Breakfast test,10:50,10:59,9,Yes,No,NA,"Cycle ergometer test, served remaining meal."
+7,25664,6607,5/10/2008,PRE_TEST,14,Lunch,12:25,12:47,22,Yes,No,NA,NA
+8,25665,6607,5/10/2008,PRE_TEST,14,Dinner,17:06,17:30,24,Yes,No,NA,NA
+9,25718,6607,5/12/2008,PRE_TEST,12,Breakfast,7:01,7:14,13,Yes,No,NA,Pre-lactulose menu.
+10,25719,6607,5/12/2008,PRE_TEST,12,Lunch,12:19,12:39,20,Yes,No,NA,Pre-lactulose menu.
+11,25738,6607,5/12/2008,PRE_TEST,12,Dinner,16:56,17:19,23,Yes,No,NA,NA
+12,25770,6607,5/13/2008,PRE_TEST,11,Breakfast test,6:30,6:34,4,Yes,No,NA,"Lactulose testing, lactulose breakfast served."
+13,25771,6607,5/13/2008,PRE_TEST,11,Breakfast test,12:43,12:50,7,Yes,No,NA,"Lactulose testing, remaining breakfast served."
+14,25772,6607,5/13/2008,PRE_TEST,11,Lunch,12:59,13:17,18,Yes,No,NA,NA
+15,25833,6607,5/13/2008,PRE_TEST,11,Dinner,17:25,17:55,30,Yes,No,NA,NA
+16,25857,6607,5/14/2008,PRE_TEST,10,Breakfast,7:04,7:31,27,Yes,No,NA,NA
+17,25886,6607,5/14/2008,PRE_TEST,10,Lunch,12:00,12:24,24,Yes,No,NA,NA
+18,25887,6607,5/14/2008,PRE_TEST,10,Dinner,17:03,17:28,25,Yes,No,NA,NA
+19,25923,6607,5/15/2008,PRE_TEST,9,Breakfast,6:56,7:07,11,Yes,No,NA,NA
+20,25934,6607,5/15/2008,PRE_TEST,9,Lunch,11:56,12:14,18,Yes,No,NA,NA
+21,25967,6607,5/15/2008,PRE_TEST,9,Dinner,17:05,17:12,7,Yes,No,NA,NA
+22,25980,6607,5/16/2008,PRE_TEST,8,Breakfast,7:06,7:25,19,Yes,No,NA,NA
+23,25981,6607,5/16/2008,PRE_TEST,8,Lunch,12:00,12:18,18,Yes,No,NA,NA
+24,26010,6607,5/16/2008,PRE_TEST,8,Dinner,17:00,17:23,23,Yes,No,NA,NA
+25,26064,6607,5/17/2008,PRE_TEST,7,Breakfast test,7:00,7:05,5,Yes,No,NA,Cardio testing.
+26,26065,6607,5/17/2008,PRE_TEST,7,Breakfast test,12:55,12:59,4,Yes,No,NA,Cardio testing.
+27,26066,6607,5/17/2008,PRE_TEST,7,Lunch,13:07,13:23,16,Yes,No,NA,NA
+28,26103,6607,5/17/2008,PRE_TEST,7,Dinner,18:14,18:41,27,Yes,No,NA,NA
+29,26159,6607,5/18/2008,PRE_TEST,6,Breakfast,7:01,7:12,11,Yes,No,NA,NA
+30,26160,6607,5/18/2008,PRE_TEST,6,Lunch,11:59,12:20,21,Yes,No,NA,NA
+31,26177,6607,5/18/2008,PRE_TEST,6,Dinner,16:55,17:19,24,Yes,No,NA,NA
+32,26210,6607,5/19/2008,PRE_TEST,5,Breakfast test,7:01,7:11,10,Yes,No,NA,"Cardio testing (Dorsal Hand Vein), cardio breakfast served."
+33,26260,6607,5/19/2008,PRE_TEST,5,Breakfast test,11:51,12:00,9,Yes,No,NA,Dorsal Hand Vein test.
+34,26262,6607,5/19/2008,PRE_TEST,5,Lunch,13:19,13:41,22,Yes,No,NA,NA
+35,26300,6607,5/19/2008,PRE_TEST,5,Dinner,17:30,17:57,27,Yes,No,NA,NA
+36,26318,6607,5/20/2008,PRE_TEST,4,Breakfast test,7:01,7:12,11,Yes,No,NA,"Cardio testing (Dorsal Foot Vein), cardio breakfast served."
+37,26365,6607,5/20/2008,PRE_TEST,4,Breakfast test,12:38,12:39,1,No,No,NA,"Cardio testing, remaining breakfast served. Subject did not want to eat the remaining breakfast as a separate meal. Subject requested we serve the remaining breakfast at lunch."
+38,26369,6607,5/20/2008,PRE_TEST,4,Lunch,13:10,13:35,25,Yes,No,NA,Subject consumed all of the remaining breakfast with lunch.
+39,26428,6607,5/20/2008,PRE_TEST,4,Dinner,17:28,17:57,29,Yes,No,NA,NA
+40,26437,6607,5/21/2008,PRE_TEST,3,Breakfast test,6:56,7:25,29,Yes,No,NA,"Cardio testing (PE/NITRO), cardio breakfast served."
+41,26444,6607,5/21/2008,PRE_TEST,3,Breakfast test,10:34,10:50,16,Yes,No,NA,"Cardio testing (PE/NITRO), remaining breakfast served."
+42,26445,6607,5/21/2008,PRE_TEST,3,Lunch,12:05,12:29,24,Yes,No,NA,NA
+43,26476,6607,5/21/2008,PRE_TEST,3,Dinner,17:02,17:29,27,Yes,No,NA,NA
+44,26541,6607,5/22/2008,PRE_TEST,2,Breakfast,7:02,7:16,14,Yes,No,NA,NA
+45,26542,6607,5/22/2008,PRE_TEST,2,Lunch,12:18,12:41,23,Yes,No,NA,NA
+46,26543,6607,5/22/2008,PRE_TEST,2,Dinner,17:01,17:25,24,Yes,No,NA,NA
+47,26571,6607,5/23/2008,PRE_TEST,1,Breakfast test,6:58,7:12,14,Yes,No,NA,"Cardio testing (repeat PE/NITRO), cardio breakfast served."
+48,26618,6607,5/23/2008,PRE_TEST,1,Breakfast test,11:57,12:06,9,Yes,No,NA,Remaining breakfast served after cardio (PE/Nitro) test.
+49,26619,6607,5/23/2008,PRE_TEST,1,Lunch,12:24,12:39,15,Yes,No,NA,NA
+50,26620,6607,5/23/2008,PRE_TEST,1,Dinner,17:03,17:38,35,Yes,Yes,26621 ,Issue form submitted.
+51,26686,6607,5/24/2008,IN_TEST,1,Breakfast,7:00,7:14,14,Yes,No,NA,NA
+52,26687,6607,5/24/2008,IN_TEST,1,Lunch,12:09,12:28,19,Yes,No,NA,NA
+53,26718,6607,5/24/2008,IN_TEST,1,Dinner,16:58,17:25,27,Yes,No,NA,NA
+54,26756,6607,5/25/2008,IN_TEST,2,Breakfast,7:16,7:40,24,Yes,No,NA,NA
+55,26757,6607,5/25/2008,IN_TEST,2,Lunch,12:14,12:27,13,Yes,No,NA,NA
+56,26814,6607,5/25/2008,IN_TEST,2,Dinner,17:22,17:45,23,Yes,No,NA,NA
+57,26851,6607,5/26/2008,IN_TEST,3,Breakfast test,6:48,7:08,20,Yes,No,NA,"Cardio testing (Plasma Volume), cardio breakfast served. Pre-lactulose menu."
+58,26852,6607,5/26/2008,IN_TEST,3,Breakfast test,8:20,8:31,11,Yes,No,NA,"Cardio testing (Plasma Volume), remaining breakfast served. Pre-lactulose menu."
+59,26919,6607,5/26/2008,IN_TEST,3,Lunch,12:04,12:25,21,Yes,No,NA,Pre-lactulose menu.
+60,26920,6607,5/26/2008,IN_TEST,3,Dinner,17:04,17:33,29,Yes,No,NA,Pre-lactulose menu.
+61,26946,6607,5/27/2008,IN_TEST,4,Breakfast test,6:34,6:38,4,Yes,No,NA,First half of breakfast served before lactulose test.
+62,26948,6607,5/27/2008,IN_TEST,4,Breakfast test,12:50,13:01,11,Yes,No,NA,Remaining breakfast served after lactulose test.
+63,26949,6607,5/27/2008,IN_TEST,4,Lunch,13:12,13:32,20,Yes,No,NA,NA
+64,26991,6607,5/27/2008,IN_TEST,4,Dinner,17:06,17:32,26,Yes,No,NA,NA
+65,27024,6607,5/28/2008,IN_TEST,5,Breakfast,7:04,7:16,12,Yes,No,NA,NA
+66,27060,6607,5/28/2008,IN_TEST,5,Lunch,12:03,12:22,19,Yes,No,NA,NA
+67,27061,6607,5/28/2008,IN_TEST,5,Dinner,16:56,17:19,23,Yes,No,NA,NA
+68,27108,6607,5/29/2008,IN_TEST,6,Breakfast,7:00,7:12,12,Yes,No,NA,NA
+69,27160,6607,5/29/2008,IN_TEST,6,Lunch,12:01,12:19,18,Yes,No,NA,NA
+70,27161,6607,5/29/2008,IN_TEST,6,Dinner,17:04,17:29,25,Yes,No,NA,NA
+71,27229,6607,5/30/2008,IN_TEST,7,Breakfast,7:25,7:37,12,Yes,No,NA,NA
+72,27230,6607,5/30/2008,IN_TEST,7,Lunch test,12:27,12:38,11,Yes,No,NA,"Cardio testing, cardio lunch served."
+73,27299,6607,5/30/2008,IN_TEST,7,Lunch test,15:40,16:00,20,Yes,No,NA,"Cardio test, remaining lunch served."
+74,27300,6607,5/30/2008,IN_TEST,7,Dinner,20:48,21:15,27,No,Yes,27301,Subject did not complete dinner due to a severe headache. Food remaining on plate was 50.30 grams of corn and 43.10 grams of green beans.
+75,27308,6607,5/31/2008,IN_TEST,8,Breakfast,7:15,7:36,21,Yes,No,NA,NA
+76,27342,6607,5/31/2008,IN_TEST,8,Lunch,12:17,12:47,30,Yes,No,NA,NA
+77,27343,6607,5/31/2008,IN_TEST,8,Dinner,17:13,17:54,41,Yes,Yes,27344,Issue form submitted.
+78,27383,6607,6/1/2008,IN_TEST,9,Breakfast,7:04,7:23,19,Yes,No,NA,NA
+79,27384,6607,6/1/2008,IN_TEST,9,Lunch,12:07,12:29,22,Yes,No,NA,NA
+80,27404,6607,6/1/2008,IN_TEST,9,Dinner,17:06,17:31,25,Yes,No,NA,NA
+81,27435,6607,6/2/2008,IN_TEST,10,Breakfast,7:18,7:29,11,Yes,No,NA,NA
+82,27444,6607,6/2/2008,IN_TEST,10,Lunch,12:24,12:54,30,Yes,No,NA,NA
+83,27476,6607,6/2/2008,IN_TEST,10,Dinner,17:11,17:40,29,Yes,No,NA,NA
+84,27505,6607,6/3/2008,IN_TEST,11,Breakfast,7:30,7:44,14,Yes,No,NA,NA
+85,27530,6607,6/3/2008,IN_TEST,11,Lunch,12:20,12:38,18,Yes,No,NA,NA
+86,27569,6607,6/3/2008,IN_TEST,11,Dinner,17:30,17:58,28,No,Yes,27570,"Subject did not consume 104 grams of 109 grams of chicken, 56 grams of 118 grams of mixed vegetables, 224.7 grams of 297 grams of rice, and 100 grams of 107 grams of corn from the dinner menu. In addition to the chicken, mixed vegetables and corn are sauteed in 7 grams of cooking oil, 0.24 grams of poultry seasoning, and 54 grams of sweet and sour sauce."
+87,27575,6607,6/4/2008,IN_TEST,12,Breakfast,7:31,7:44,13,Yes,No,NA,NA
+88,27583,6607,6/4/2008,IN_TEST,12,Lunch,12:30,12:48,18,Yes,No,NA,NA
+89,27611,6607,6/4/2008,IN_TEST,12,Dinner,17:30,17:58,28,Yes,No,NA,NA
+90,27640,6607,6/5/2008,IN_TEST,13,Breakfast,7:48,8:10,22,Yes,No,NA,NA
+91,27690,6607,6/5/2008,IN_TEST,13,Lunch,12:41,12:57,16,Yes,No,NA,NA
+92,27709,6607,6/5/2008,IN_TEST,13,Dinner,17:48,18:10,22,Yes,No,NA,NA
+93,27767,6607,6/6/2008,IN_TEST,14,Breakfast,7:15,7:29,14,Yes,No,NA,NA
+94,27768,6607,6/6/2008,IN_TEST,14,Lunch,12:16,12:30,14,Yes,No,NA,NA
+95,27786,6607,6/6/2008,IN_TEST,14,Dinner,17:15,17:21,6,Yes,No,NA,NA
+96,27813,6607,6/7/2008,IN_TEST,15,Breakfast,7:15,7:31,16,Yes,No,NA,NA
+97,27814,6607,6/7/2008,IN_TEST,15,Lunch,12:10,12:28,18,Yes,No,NA,NA
+98,27829,6607,6/7/2008,IN_TEST,15,Dinner,17:14,17:31,17,Yes,No,NA,NA
+99,27918,6607,6/8/2008,IN_TEST,16,Breakfast,6:55,7:12,17,Yes,No,NA,NA
+100,27919,6607,6/8/2008,IN_TEST,16,Lunch,11:59,12:24,25,Yes,No,NA,NA
+101,27920,6607,6/8/2008,IN_TEST,16,Dinner,17:02,17:26,24,Yes,No,NA,NA
+102,27925,6607,6/9/2008,IN_TEST,17,Breakfast,7:04,7:12,8,Yes,No,NA,NA
+103,27933,6607,6/9/2008,IN_TEST,17,Lunch,12:04,12:21,17,Yes,No,NA,NA
+104,27979,6607,6/9/2008,IN_TEST,17,Dinner,16:59,17:20,21,Yes,No,NA,NA
+105,28001,6607,6/10/2008,IN_TEST,18,Breakfast,7:04,7:23,19,Yes,No,NA,NA
+106,28005,6607,6/10/2008,IN_TEST,18,Lunch,12:03,12:25,22,Yes,No,NA,NA
+107,28058,6607,6/10/2008,IN_TEST,18,Dinner,17:08,17:38,30,No,Yes,28059,"Subject did not consume the following: 42.44 grams of 165.3 grams of two-step chicken, 66.25 grams of 175 grams of brown rice, 54.73 grams of 113 grams of corn, 12.72 grams of 150 grams of broccoli, and 30.5 grams of 124 grams of green beans."
+108,28050,6607,6/11/2008,IN_TEST,19,Breakfast,7:15,7:39,24,Yes,No,NA,NA
+109,28060,6607,6/11/2008,IN_TEST,19,Lunch,12:18,12:46,28,Yes,No,NA,NA
+110,28083,6607,6/11/2008,IN_TEST,19,Dinner,17:14,17:42,28,Yes,No,NA,NA
+111,28097,6607,6/12/2008,IN_TEST,20,Breakfast test,6:56,7:05,9,Yes,No,NA,Cardio testing.
+112,28116,6607,6/12/2008,IN_TEST,20,Breakfast test,11:58,12:13,15,Yes,No,NA,"Cardio test, remaining meal served."
+113,28117,6607,6/12/2008,IN_TEST,20,Lunch,13:30,13:48,18,Yes,No,NA,NA
+114,28161,6607,6/12/2008,IN_TEST,20,Dinner,16:59,17:28,29,Yes,No,NA,NA
+115,28412,6607,6/13/2008,IN_TEST,21,Breakfast,7:01,7:14,13,Yes,No,NA,NA
+116,28413,6607,6/13/2008,IN_TEST,21,Lunch,12:18,12:50,32,Yes,Yes,28414,Subject exceeded the 30 minutes allowed for lunch. Issue form submitted.
+117,28423,6607,6/13/2008,IN_TEST,21,Dinner,17:00,17:29,29,Yes,No,NA,NA
+118,28455,6607,6/14/2008,IN_TEST,22,Breakfast,7:14,7:35,21,Yes,No,NA,NA
+119,28456,6607,6/14/2008,IN_TEST,22,Lunch,12:24,12:53,29,Yes,No,NA,NA
+120,28470,6607,6/14/2008,IN_TEST,22,Dinner,17:50,18:15,25,No,Yes,28471,"Subject felt sick and did not finish meal. Subject did not consume the following at dinner: 88.93 grams of cooked chicken, 91.35 grams of mixed veggies, 243.08 grams (all mixed up) of rice, corn, sweet and sour sauce, poultry seasoning, salt, and oil."
+121,28489,6607,6/15/2008,IN_TEST,23,Breakfast,7:17,7:39,22,Yes,No,NA,Pre-lactulose menu.
+122,28490,6607,6/15/2008,IN_TEST,23,Lunch,12:23,12:53,30,Yes,No,NA,Pre-lactulose menu.
+123,28496,6607,6/15/2008,IN_TEST,23,Dinner,17:19,17:43,24,No,Yes,28497,Data input by J. Hodges in Dietary (password issues). Subject did not finish dinner; did not consume 129.99 grams of white rice.
+124,28535,6607,6/16/2008,IN_TEST,24,Breakfast test,6:32,6:34,2,Yes,No,NA,Lactulose test.
+125,28536,6607,6/16/2008,IN_TEST,24,Breakfast test,12:57,13:10,13,Yes,No,NA,"Lactulose test, remaining breakfast served."
+126,28537,6607,6/16/2008,IN_TEST,24,Lunch,13:18,13:35,17,Yes,No,NA,NA
+127,28538,6607,6/16/2008,IN_TEST,24,Dinner,17:03,17:27,24,No,Yes,28539,"Subject did not finish dinner saying there was too much food. Subject could not finish despite the encouragement and suggestions. The subject did not consume the following: 104.68 grams of 2-step chicken, 104 grams of brown rice, 65.27 grams of corn, 70.55 grams of green beans, and 56.50 grams of broccoli."
+128,28657,6607,6/17/2008,IN_TEST,25,Breakfast,6:57,7:10,13,Yes,No,NA,NA
+129,28658,6607,6/17/2008,IN_TEST,25,Lunch,12:00,12:25,25,Yes,No,NA,NA
+130,28659,6607,6/17/2008,IN_TEST,25,Dinner,17:05,17:20,15,Yes,No,NA,NA
+131,28748,6607,6/18/2008,IN_TEST,26,Breakfast,7:01,7:15,14,Yes,No,NA,NA
+132,28877,6607,6/18/2008,IN_TEST,26,Lunch test,11:26,11:29,3,Yes,No,NA,"Cardio testing (Dorsal Hand Vein), cardio lunch."
+133,28878,6607,6/18/2008,IN_TEST,26,Lunch test,16:35,16:45,10,Yes,No,NA,"Cardio testing (Dorsal Hand Vein), remaining lunch."
+134,28879,6607,6/18/2008,IN_TEST,26,Dinner,18:25,18:42,17,Yes,No,NA,NA
+135,28884,6607,6/19/2008,IN_TEST,27,Breakfast,7:01,7:11,10,Yes,No,NA,NA
+136,28937,6607,6/19/2008,IN_TEST,27,Lunch test,12:00,12:08,8,Yes,No,NA,First half of lunch served before Dorsal Foot Vein test. Input by James in Dietary (password issues).
+137,28938,6607,6/19/2008,IN_TEST,27,Lunch test,15:45,16:08,23,Yes,No,NA,Remaining lunch served after Dorsal Foot Vein test. Input by James in Dietary (password issues).
+138,28939,6607,6/19/2008,IN_TEST,27,Dinner,18:25,18:55,30,Yes,No,NA,Input by James in Dietary (password issues).
+139,28960,6607,6/20/2008,IN_TEST,28,Breakfast,7:14,7:28,14,Yes,No,NA,NA
+140,29112,6607,6/20/2008,IN_TEST,28,Lunch test,12:00,12:16,16,Yes,No,NA,First half of lunch served before PE/Nitro test. Input by James in Dietary (password issues).
+141,29113,6607,6/20/2008,IN_TEST,28,Lunch test,17:15,17:24,9,Yes,No,NA,Remaining lunch served after PE/Nitro test. Input by James in Dietary (password issues).
+142,29148,6607,6/20/2008,IN_TEST,28,Dinner,20:00,20:27,27,Yes,No,NA,NA
+143,29156,6607,6/21/2008,IN_TEST,29,Breakfast,7:20,7:34,14,Yes,No,NA,NA
+144,29157,6607,6/21/2008,IN_TEST,29,Lunch,12:10,12:34,24,Yes,No,NA,NA
+145,29176,6607,6/21/2008,IN_TEST,29,Dinner,17:11,17:40,29,No,Yes,29177,Subject did not consume all of dinner. Please refer to Issue form.
+146,29202,6607,6/22/2008,IN_TEST,30,Breakfast,7:00,7:19,19,Yes,No,NA,NA
+147,29203,6607,6/22/2008,IN_TEST,30,Lunch,11:58,12:26,28,Yes,No,NA,NA
+148,29218,6607,6/22/2008,IN_TEST,30,Dinner,17:00,17:30,30,Yes,No,NA,NA
+149,29241,6607,6/23/2008,IN_TEST,31,Breakfast,7:04,7:16,12,Yes,No,NA,NA
+150,29331,6607,6/23/2008,IN_TEST,31,Lunch,11:47,12:06,19,Yes,No,NA,Cardio test cancelled.
+151,29382,6607,6/23/2008,IN_TEST,31,Dinner,17:00,17:30,30,Yes,No,NA,NA
+152,29530,6607,6/24/2008,IN_TEST,32,Breakfast,7:31,7:48,17,Yes,No,NA,NA
+153,29599,6607,6/24/2008,IN_TEST,32,Lunch,12:25,12:48,23,Yes,No,NA,NA
+154,29600,6607,6/24/2008,IN_TEST,32,Dinner,17:35,17:59,24,Yes,No,NA,NA
+155,29626,6607,6/25/2008,IN_TEST,33,Breakfast,7:26,7:43,17,Yes,No,NA,NA
+156,29673,6607,6/25/2008,IN_TEST,33,Lunch test,10:46,10:56,10,Yes,No,NA,Cardio test.
+157,29674,6607,6/25/2008,IN_TEST,33,Lunch test,15:34,15:58,24,Yes,No,NA,Remaining lunch served after cardio test.
+158,29675,6607,6/25/2008,IN_TEST,33,Dinner,20:13,20:53,40,No,Yes,29676,Subject reported that there was too much food and not enough time. The subject did not consume 13.30 grams of sweet & sour sauce at dinner.
+159,29678,6607,6/26/2008,IN_TEST,34,Breakfast,6:56,7:15,19,Yes,No,NA,NA
+160,29717,6607,6/26/2008,IN_TEST,34,Lunch,11:56,12:20,24,Yes,No,NA,NA
+161,29730,6607,6/26/2008,IN_TEST,34,Dinner,18:05,18:38,33,Yes,No,NA,"Subject started meal at 18:05, but stopped at 18:20. Subject then started back at 18:25 and finished at 18:38. Total meal time was only 28 minutes."
+162,29761,6607,6/27/2008,IN_TEST,35,Breakfast,7:16,7:37,21,Yes,No,NA,NA
+163,29762,6607,6/27/2008,IN_TEST,35,Lunch,12:17,12:40,23,Yes,No,NA,NA
+164,29774,6607,6/27/2008,IN_TEST,35,Dinner,17:18,17:44,26,Yes,No,NA,NA
+165,29795,6607,6/28/2008,IN_TEST,36,Breakfast,7:13,7:21,8,Yes,No,NA,NA
+166,29796,6607,6/28/2008,IN_TEST,36,Lunch,12:15,12:34,19,Yes,No,NA,NA
+167,29822,6607,6/28/2008,IN_TEST,36,Dinner,17:14,17:35,21,Yes,No,NA,NA
+168,29827,6607,6/29/2008,IN_TEST,37,Breakfast,7:13,7:33,20,Yes,No,NA,NA
+169,29833,6607,6/29/2008,IN_TEST,37,Lunch,11:57,12:16,19,Yes,No,NA,NA
+170,29858,6607,6/29/2008,IN_TEST,37,Dinner,17:10,17:27,17,Yes,No,NA,NA
+171,29869,6607,6/30/2008,IN_TEST,38,Breakfast,7:16,7:35,19,Yes,No,NA,NA
+172,29870,6607,6/30/2008,IN_TEST,38,Lunch,12:15,12:40,25,Yes,No,NA,NA
+173,29913,6607,6/30/2008,IN_TEST,38,Dinner,17:10,17:37,27,Yes,No,NA,NA
+174,30095,6607,7/1/2008,IN_TEST,39,Breakfast,7:24,7:31,7,Yes,No,NA,NA
+175,30096,6607,7/1/2008,IN_TEST,39,Lunch,12:14,12:36,22,Yes,No,NA,NA
+176,30110,6607,7/1/2008,IN_TEST,39,Dinner,17:11,17:35,24,Yes,No,NA,NA
+177,30125,6607,7/2/2008,IN_TEST,40,Breakfast,7:17,7:37,20,Yes,No,NA,NA
+178,30126,6607,7/2/2008,IN_TEST,40,Lunch,12:08,12:30,22,Yes,No,NA,NA
+179,30147,6607,7/2/2008,IN_TEST,40,Dinner,17:12,17:38,26,Yes,No,NA,NA
+180,30168,6607,7/3/2008,IN_TEST,41,Breakfast,7:00,7:27,27,Yes,No,NA,NA
+181,30169,6607,7/3/2008,IN_TEST,41,Lunch,12:17,12:46,29,Yes,No,NA,NA
+182,30170,6607,7/3/2008,IN_TEST,41,Dinner,17:12,17:38,26,Yes,No,NA,NA
+183,30187,6607,7/4/2008,IN_TEST,42,Breakfast,7:20,7:45,25,Yes,No,NA,NA
+184,30190,6607,7/4/2008,IN_TEST,42,Lunch,12:34,12:47,13,Yes,No,NA,NA
+185,30205,6607,7/4/2008,IN_TEST,42,Dinner,17:20,17:50,30,Yes,No,NA,NA
+186,30225,6607,7/5/2008,IN_TEST,43,Breakfast,7:00,7:18,18,Yes,No,NA,NA
+187,30226,6607,7/5/2008,IN_TEST,43,Lunch,11:56,12:35,39,Yes,Yes,30227,Meal exceeded time limit. Issue has been submitted.
+188,30233,6607,7/5/2008,IN_TEST,43,Dinner,17:05,17:25,20,Yes,No,NA,NA
+189,30255,6607,7/6/2008,IN_TEST,44,Breakfast,7:00,7:20,20,Yes,No,NA,NA
+190,30262,6607,7/6/2008,IN_TEST,44,Lunch,12:14,12:42,28,Yes,No,NA,NA
+191,30268,6607,7/6/2008,IN_TEST,44,Dinner,17:10,17:36,26,Yes,No,NA,NA
+192,30285,6607,7/7/2008,IN_TEST,45,Breakfast,6:59,7:18,19,Yes,No,NA,NA
+193,30286,6607,7/7/2008,IN_TEST,45,Lunch,11:55,12:18,23,Yes,No,NA,NA
+194,30300,6607,7/7/2008,IN_TEST,45,Dinner,16:57,17:24,27,Yes,No,NA,NA
+195,30319,6607,7/8/2008,IN_TEST,46,Breakfast,7:15,7:37,22,Yes,No,NA,NA
+196,30320,6607,7/8/2008,IN_TEST,46,Lunch,12:14,12:32,18,Yes,No,NA,NA
+197,30335,6607,7/8/2008,IN_TEST,46,Dinner,17:07,17:35,28,Yes,No,NA,NA
+198,30354,6607,7/9/2008,IN_TEST,47,Breakfast,7:15,7:25,10,Yes,No,NA,NA
+199,30377,6607,7/9/2008,IN_TEST,47,Lunch,12:15,12:33,18,Yes,No,NA,NA
+200,30387,6607,7/9/2008,IN_TEST,47,Dinner,17:34,17:44,10,Yes,No,NA,NA
+201,30419,6607,7/10/2008,IN_TEST,48,Breakfast,6:56,7:15,19,Yes,No,NA,NA
+202,30420,6607,7/10/2008,IN_TEST,48,Lunch,12:00,12:22,22,Yes,No,NA,NA
+203,30421,6607,7/10/2008,IN_TEST,48,Dinner,17:07,17:25,18,Yes,No,NA,NA
+204,30444,6607,7/11/2008,IN_TEST,49,Breakfast test,7:02,7:14,12,Yes,No,NA,"Cardio testing (Vascular Function), cardio breakfast."
+205,30460,6607,7/11/2008,IN_TEST,49,Breakfast test,10:14,10:17,3,Yes,No,NA,Cardio testing.
+206,30461,6607,7/11/2008,IN_TEST,49,Lunch,12:18,12:48,30,Yes,No,NA,NA
+207,30476,6607,7/11/2008,IN_TEST,49,Dinner,17:03,17:25,22,Yes,No,NA,NA
+208,30499,6607,7/12/2008,IN_TEST,50,Breakfast,7:19,7:40,21,Yes,No,NA,NA
+209,30500,6607,7/12/2008,IN_TEST,50,Lunch,12:13,12:34,21,Yes,No,NA,NA
+210,30516,6607,7/12/2008,IN_TEST,50,Dinner,17:13,17:37,24,Yes,No,NA,NA
+211,30548,6607,7/13/2008,IN_TEST,51,Breakfast,7:16,7:35,19,Yes,No,NA,NA
+212,30549,6607,7/13/2008,IN_TEST,51,Lunch,12:16,12:45,29,Yes,No,NA,NA
+213,30574,6607,7/13/2008,IN_TEST,51,Dinner,17:15,17:41,26,Yes,No,NA,NA
+214,30610,6607,7/14/2008,IN_TEST,52,Breakfast test,6:18,6:21,3,Yes,No,NA,"Lactulose test; egg, sausage, butter, and orange juice consumed prior to test at breakfast."
+215,30613,6607,7/14/2008,IN_TEST,52,Breakfast test,12:32,12:41,9,Yes,No,NA,Subject finished remaining breakfast after lactulose test.
+216,30614,6607,7/14/2008,IN_TEST,52,Lunch,13:32,13:55,23,Yes,No,NA,Subject requested lunch meal be moved from 13:00 to 13:30.
+217,30617,6607,7/14/2008,IN_TEST,52,Dinner,18:02,18:26,24,No,Yes,30618,"Subject complained there was too much food for dinner. Subject did not consume the following items at dinner: 152.85 grams of two-step chicken, 118.60 grams of brown rice, 78.05 grams of corn, 40 grams of broccoli, and 19.55 grams of green beans."
+218,30645,6607,7/15/2008,IN_TEST,53,Breakfast,7:00,7:21,21,Yes,No,NA,NA
+219,30665,6607,7/15/2008,IN_TEST,53,Lunch,12:05,12:22,17,Yes,No,NA,NA
+220,30666,6607,7/15/2008,IN_TEST,53,Dinner,16:59,17:28,29,Yes,No,NA,NA
+221,30704,6607,7/16/2008,IN_TEST,54,Breakfast test,7:02,7:17,15,Yes,No,NA,First half of breakfast served before dorsal hand vein test.
+222,30705,6607,7/16/2008,IN_TEST,54,Breakfast test,12:19,12:25,6,Yes,No,NA,Remaining breakfast served after dorsal hand vein test.
+223,30706,6607,7/16/2008,IN_TEST,54,Lunch,12:44,13:02,18,Yes,No,NA,NA
+224,30719,6607,7/16/2008,IN_TEST,54,Dinner,17:25,17:44,19,Yes,No,NA,NA
+225,30774,6607,7/17/2008,IN_TEST,55,Breakfast test,7:15,7:35,20,Yes,No,NA,Cardio testing (Dorsal Foot Vein); cardio breakfast served.
+226,30792,6607,7/17/2008,IN_TEST,55,Breakfast test,12:56,13:04,8,Yes,No,NA,NA
+227,30793,6607,7/17/2008,IN_TEST,55,Lunch,14:21,14:53,32,Yes,Yes,30794,Subject exceeded time limit for meal. Issue submitted.
+228,30814,6607,7/17/2008,IN_TEST,55,Dinner,18:30,19:10,40,No,Yes,"30815, 30847",Subject did not complete meal. Issue submitted.
+229,30834,6607,7/18/2008,IN_TEST,56,Breakfast test,6:59,7:16,17,Yes,No,NA,NA
+230,30835,6607,7/18/2008,IN_TEST,56,Breakfast test,11:31,11:40,9,Yes,No,NA,NA
+231,30836,6607,7/18/2008,IN_TEST,56,Lunch,12:45,13:10,25,Yes,No,NA,NA
+232,30862,6607,7/18/2008,IN_TEST,56,Dinner,17:07,17:35,28,Yes,No,NA,NA
+233,30893,6607,7/19/2008,IN_TEST,57,Breakfast,7:26,7:55,29,Yes,No,NA,NA
+234,30894,6607,7/19/2008,IN_TEST,57,Lunch,12:15,12:45,30,Yes,No,NA,NA
+235,30905,6607,7/19/2008,IN_TEST,57,Dinner,17:00,17:23,23,Yes,No,NA,NA
+236,30934,6607,7/20/2008,IN_TEST,58,Breakfast,7:11,7:24,13,Yes,No,NA,NA
+237,30935,6607,7/20/2008,IN_TEST,58,Lunch,12:03,12:22,19,Yes,No,NA,NA
+238,30951,6607,7/20/2008,IN_TEST,58,Dinner,17:00,17:20,20,Yes,No,NA,NA
+239,31016,6607,7/21/2008,IN_TEST,59,Breakfast,7:15,7:33,18,Yes,No,NA,NA
+240,31017,6607,7/21/2008,IN_TEST,59,Lunch,12:06,12:23,17,Yes,No,NA,NA
+241,31018,6607,7/21/2008,IN_TEST,59,Dinner,17:17,17:35,18,Yes,No,NA,NA
+242,31068,6607,7/22/2008,IN_TEST,60,Breakfast,7:20,7:36,16,Yes,No,NA,NA
+243,31069,6607,7/22/2008,IN_TEST,60,Lunch,12:00,12:30,30,Yes,No,NA,Cardio test cancelled.
+244,31070,6607,7/22/2008,IN_TEST,60,Dinner,18:00,18:19,19,Yes,No,NA,NA
+245,31114,6607,7/23/2008,IN_TEST,61,Breakfast,7:19,7:40,21,Yes,No,NA,NA
+246,31115,6607,7/23/2008,IN_TEST,61,Lunch test,11:05,11:25,20,Yes,No,NA,"First half of breakfast served before Vascular Function, Plasma Volume and ECHO tests."
+247,31116,6607,7/23/2008,IN_TEST,61,Lunch test,15:28,15:36,8,Yes,No,NA,"Remaining lunch served after Vascular Function, Plasma Volume and ECHO tests."
+248,31117,6607,7/23/2008,IN_TEST,61,Dinner,17:15,17:45,30,Yes,No,NA,NA
+249,31141,6607,7/24/2008,IN_TEST,62,Breakfast,7:15,7:36,21,Yes,No,NA,NA
+250,31175,6607,7/24/2008,IN_TEST,62,Lunch,12:05,12:33,28,Yes,No,NA,NA
+251,31176,6607,7/24/2008,IN_TEST,62,Dinner,17:26,17:55,29,No,Yes,31177,Subject did not consume all of dinner. Issue submitted.
+252,31199,6607,7/25/2008,IN_TEST,63,Breakfast,7:15,7:40,25,Yes,No,NA,NA
+253,31217,6607,7/25/2008,IN_TEST,63,Lunch,12:16,12:45,29,Yes,No,NA,NA
+254,31238,6607,7/25/2008,IN_TEST,63,Dinner,17:29,17:57,28,Yes,No,NA,NA
+255,31297,6607,7/26/2008,IN_TEST,64,Breakfast,7:34,7:46,12,Yes,No,NA,NA
+256,31298,6607,7/26/2008,IN_TEST,64,Lunch,12:35,12:51,16,Yes,No,NA,NA
+257,31299,6607,7/26/2008,IN_TEST,64,Dinner,17:40,18:05,25,Yes,No,NA,NA
+258,31324,6607,7/27/2008,IN_TEST,65,Breakfast,7:08,7:14,6,Yes,No,NA,NA
+259,31325,6607,7/27/2008,IN_TEST,65,Lunch,12:05,12:27,22,Yes,No,NA,NA
+260,31365,6607,7/27/2008,IN_TEST,65,Dinner,17:03,17:28,25,Yes,No,NA,NA
+261,31393,6607,7/28/2008,IN_TEST,66,Breakfast,7:12,7:31,19,Yes,No,NA,NA
+262,31394,6607,7/28/2008,IN_TEST,66,Lunch,12:15,12:45,30,No,Yes,31395,"Subject did not consume 387.50 grams of soup at lunch. Mixed in the soup was 430 grams of vegetable/tomato soup, 150 grams of white rice, and 29 grams of croutons. Subject stated dislike of the soup and declined offer to finish it at dinner. 73.80 grams of cran-grape drink was moved to dinner to finish."
+263,31435,6607,7/28/2008,IN_TEST,66,Dinner,16:47,16:48,1,No,Yes,31436,Subject informed the kitchen to postpone dinner. Nursing and Bionutrition Manager were notified. Subject did not notify kitchen to serve dinner by the time the kitchen closed at 19:00. Nursing staff was given the instructions for the preparation of the meal if subject requested after the kitchen staff left for the day. Subject did not consume any of dinner or the remaining items from lunch.
+264,31452,6607,7/29/2008,IN_TEST,67,Breakfast,7:12,7:33,21,Yes,No,NA,NA
+265,31453,6607,7/29/2008,IN_TEST,67,Lunch,12:19,12:40,21,Yes,No,NA,NA
+266,31482,6607,7/29/2008,IN_TEST,67,Dinner,17:18,17:46,28,No,Yes,31483,"Subject refused to finish dinner, stating that the food was not prepared to the subject's ""liking"". The subject did not consume the following items: 21.22 grams of broccoli, 73.18 grams of squash, 81.08 grams of tilapia (cooked with 0.30 grams of salt, 0.23 grams of pepper, and 5.20 grams of butter), 166.72 grams of wild rice (cooked with 0.20 grams of salt)."
+267,31505,6607,7/30/2008,IN_TEST,68,Breakfast,7:16,7:44,28,Yes,No,NA,NA
+268,31511,6607,7/30/2008,IN_TEST,68,Lunch,12:15,12:34,19,Yes,No,NA,NA
+269,31534,6607,7/30/2008,IN_TEST,68,Dinner,17:15,17:45,30,Yes,No,NA,NA
+270,31574,6607,7/31/2008,IN_TEST,69,Breakfast,7:15,7:35,20,Yes,No,NA,NA
+271,31575,6607,7/31/2008,IN_TEST,69,Lunch,12:15,12:32,17,Yes,No,NA,NA
+272,31596,6607,7/31/2008,IN_TEST,69,Dinner,17:12,17:28,16,Yes,No,NA,NA
+273,31668,6607,8/1/2008,IN_TEST,70,Breakfast,7:30,7:53,23,Yes,No,NA,NA
+274,31669,6607,8/1/2008,IN_TEST,70,Lunch,12:30,12:50,20,Yes,No,NA,NA
+275,31670,6607,8/1/2008,IN_TEST,70,Dinner,17:28,17:47,19,Yes,No,NA,NA
+276,31711,6607,8/2/2008,IN_TEST,71,Breakfast,7:13,7:26,13,Yes,No,NA,NA
+277,31712,6607,8/2/2008,IN_TEST,71,Lunch,12:14,12:41,27,No,Yes,31770,NA
+278,31773,6607,8/2/2008,IN_TEST,71,Dinner,17:12,17:35,23,Yes,No,NA,NA
+279,31812,6607,8/3/2008,IN_TEST,72,Breakfast,7:07,7:22,15,Yes,No,NA,NA
+280,31813,6607,8/3/2008,IN_TEST,72,Lunch,12:11,12:31,20,No,Yes,31814,Subject did not consume 53.99 grams of 62 grams of pita bread.
+281,31842,6607,8/3/2008,IN_TEST,72,Dinner,16:56,17:25,29,Yes,No,NA,NA
+282,31889,6607,8/4/2008,IN_TEST,73,Breakfast,7:17,7:42,25,Yes,No,NA,NA
+283,31890,6607,8/4/2008,IN_TEST,73,Lunch,12:21,12:47,26,No,No,NA,"Subject did not consume all of lunch. The potato salad, honeydew melon and cookies will be served at dinner."
+284,31891,6607,8/4/2008,IN_TEST,73,Dinner,18:06,0:00,NA,No,Yes,"31892, 31893, 31933","Subject did not complete dinner or the remaining lunch items. Subject did not consume the following items remaining from lunch: 104.58 grams of 105.3 grams of potato salad, 78 grams of 101 grams of honeydew melon and 0 grams of 30 grams of cookies. The subject also did not consume the following items from dinner: 145.97 grams of 165.3 grams of two-step chicken, 42.28 grams of 80 grams of brown rice, 44.5 grams of 63 grams of corn, 27.12 grams of 80 grams of broccoli, 5.88 grams of 62 grams of green beans, and 0 grams of 23 grams of craisins from dinner."
+285,31894,6607,8/5/2008,IN_TEST,74,Breakfast,7:15,7:31,16,Yes,No,NA,NA
+286,31895,6607,8/5/2008,IN_TEST,74,Lunch,12:43,13:12,29,Yes,No,NA,NA
+287,31896,6607,8/5/2008,IN_TEST,74,Dinner,16:58,17:26,28,Yes,No,NA,NA
+288,31897,6607,8/6/2008,IN_TEST,75,Breakfast,7:01,7:29,28,Yes,No,NA,NA
+289,31969,6607,8/6/2008,IN_TEST,75,Lunch,12:03,12:25,22,Yes,No,NA,NA
+290,31970,6607,8/6/2008,IN_TEST,75,Dinner,17:10,17:38,28,Yes,No,NA,NA
+291,32063,6607,8/7/2008,IN_TEST,76,Breakfast,6:55,7:13,18,Yes,No,NA,NA
+292,32064,6607,8/7/2008,IN_TEST,76,Lunch test,11:32,11:39,7,Yes,No,NA,First half of lunch served before cardio test.
+293,32065,6607,8/7/2008,IN_TEST,76,Lunch test,15:05,15:20,15,Yes,No,NA,Remaining lunch served after cardio test.
+294,32066,6607,8/7/2008,IN_TEST,76,Dinner,17:45,18:13,28,Yes,No,NA,NA
+295,32092,6607,8/8/2008,IN_TEST,77,Breakfast,6:59,7:20,21,Yes,No,NA,NA
+296,32103,6607,8/8/2008,IN_TEST,77,Lunch,12:03,12:20,17,No,Yes,32104,Subject felt sick and did not consume any lunch.
+297,32158,6607,8/8/2008,IN_TEST,77,Dinner,17:00,17:01,1,No,Yes,32159,Suject felt sick and did not want dinner. Subject consumed nothing.
+298,32148,6607,8/9/2008,IN_TEST,78,Breakfast,7:15,7:30,15,Yes,No,NA,NA
+299,32149,6607,8/9/2008,IN_TEST,78,Lunch,12:16,12:40,24,Yes,No,NA,NA
+300,32177,6607,8/9/2008,IN_TEST,78,Dinner,17:19,17:44,25,No,Yes,32178,Subject did not consume all of dinner. Issue form submitted.
+301,32204,6607,8/10/2008,IN_TEST,79,Breakfast,7:20,7:45,25,Yes,No,NA,NA
+302,32205,6607,8/10/2008,IN_TEST,79,Lunch,12:15,12:40,25,Yes,No,NA,NA
+303,32221,6607,8/10/2008,IN_TEST,79,Dinner,17:16,17:45,29,Yes,No,NA,NA
+304,32249,6607,8/11/2008,IN_TEST,80,Breakfast,7:15,7:40,25,Yes,No,NA,NA
+305,32250,6607,8/11/2008,IN_TEST,80,Lunch,12:15,12:37,22,Yes,No,NA,NA
+306,32291,6607,8/11/2008,IN_TEST,80,Dinner,17:15,17:59,44,Yes,No,NA,Subject wanted the fish cooked more at 17:30. Kitchen staff cooked the fish further and served the subject again at 17:46. Subject consumed all of the meal within a 30 minute meal time total.
+307,32298,6607,8/12/2008,IN_TEST,81,Breakfast,7:15,7:40,25,Yes,No,NA,NA
+308,32299,6607,8/12/2008,IN_TEST,81,Lunch,12:15,12:42,27,Yes,No,NA,NA
+309,32326,6607,8/12/2008,IN_TEST,81,Dinner,17:15,17:40,25,Yes,No,NA,NA
+310,32350,6607,8/13/2008,IN_TEST,82,Breakfast test,6:28,6:44,16,Yes,No,NA,Cardio testing (Dorsal Hand Vein); cardio breakfast served.
+311,32351,6607,8/13/2008,IN_TEST,82,Breakfast test,12:25,12:27,2,Yes,No,NA,Cardio testing (Dorsal Hand Vein); remaining breakfast served.
+312,32352,6607,8/13/2008,IN_TEST,82,Lunch,12:45,13:15,30,No,Yes,32353,Subject did not consume 62.35 grams of 67 grams of pita bread from lunch.
+313,32363,6607,8/13/2008,IN_TEST,82,Dinner,17:12,17:30,18,Yes,No,NA,NA
+314,32408,6607,8/14/2008,IN_TEST,83,Breakfast test,6:59,7:18,19,Yes,No,NA,Cardio testing (Dorsal Foot Vein); cardio breakfast served.
+315,32458,6607,8/14/2008,IN_TEST,83,Breakfast test,12:30,12:36,6,Yes,No,NA,Cardio testing (Dorsal Foot Vein); remaining breakfast served.
+316,32459,6607,8/14/2008,IN_TEST,83,Lunch,12:47,13:00,13,Yes,No,NA,NA
+317,32460,6607,8/14/2008,IN_TEST,83,Dinner,17:02,17:29,27,Yes,No,NA,NA
+318,32480,6607,8/15/2008,IN_TEST,84,Breakfast test,7:03,7:16,13,No,No,NA,Cardio testing (PE/Nitro); cardio breakfast served. Subject did not consume all of the syrup served with breakfast. Will serve remaining syrup with carrots at lunch.
+319,32520,6607,8/15/2008,IN_TEST,84,Breakfast test,11:45,11:51,6,Yes,No,NA,Remaining breakfast served after PE/Nitro testing.
+320,32522,6607,8/15/2008,IN_TEST,84,Lunch,12:48,13:15,27,Yes,No,NA,NA
+321,32531,6607,8/15/2008,IN_TEST,84,Dinner,17:33,17:58,25,No,Yes,32532,Subject did not consume all of dinner. Issue submitted.
+322,32562,6607,8/16/2008,IN_TEST,85,Breakfast,7:00,7:20,20,Yes,No,NA,NA
+323,32563,6607,8/16/2008,IN_TEST,85,Lunch,12:00,12:24,24,Yes,No,NA,Pre-lactulose menu.
+324,32596,6607,8/16/2008,IN_TEST,85,Dinner,17:00,17:24,24,No,Yes,32597,Subject did not consume all of dinner. Issue submitted.
+325,32645,6607,8/17/2008,IN_TEST,86,Breakfast test,6:20,6:22,2,Yes,No,NA,Lactulose test day.
+326,32646,6607,8/17/2008,IN_TEST,86,Breakfast test,12:37,12:45,8,Yes,No,NA,Lactulose test day.
+327,32647,6607,8/17/2008,IN_TEST,86,Lunch,13:30,13:57,27,Yes,No,NA,NA
+328,32694,6607,8/17/2008,IN_TEST,86,Dinner,17:30,17:30,0,No,Yes,32695,"Subject did not consume any of dinner. Subject consumed: 0 grams of 165.3 grams of two-step chicken, 0 grams of 150 grams of brown rice, 0 grams of 113 grams of corn, 0 grams of 150 grams of broccoli, 0 grams of 62 grams of green beans, 0 grams of 23 grams os craisins, and 0 grams of 236 grams of whole milk."
+329,32764,6607,8/18/2008,IN_TEST,87,Breakfast,7:17,7:31,14,Yes,No,NA,NA
+330,32765,6607,8/18/2008,IN_TEST,87,Lunch,11:46,12:18,32,No,Yes,32769,Subject did not consume all of lunch. Issue submitted.
+331,32770,6607,8/18/2008,IN_TEST,87,Dinner,17:00,17:14,14,Yes,No,NA,NA
+332,32856,6607,8/19/2008,IN_TEST,88,Breakfast,7:21,7:25,4,No,Yes,32857,NA
+333,32858,6607,8/19/2008,IN_TEST,88,Lunch,12:20,12:42,22,No,Yes,32859,NA
+334,32860,6607,8/19/2008,IN_TEST,88,Dinner,0:00,0:00,0,No,Yes,32861,Subject refused dinner.
+335,32893,6607,8/20/2008,POST_TEST,0,Breakfast test,6:44,7:00,16,Yes,No,NA,Cardio testing; cardio breakfast served.
+336,32940,6607,8/20/2008,POST_TEST,0,Breakfast test,12:53,13:09,16,Yes,No,NA,Remaining breakfast served after cardio test.
+337,32941,6607,8/20/2008,POST_TEST,0,Lunch test,14:15,14:40,25,Yes,No,NA,First half of lunch served before cardio test.
+338,32942,6607,8/20/2008,POST_TEST,0,Lunch test,16:45,16:52,7,Yes,No,NA,Remaining lunch served after cardio test.
+339,32971,6607,8/20/2008,POST_TEST,0,Dinner,19:49,19:50,1,No,Yes,32972,"Subject did not consume the following items from dinner: 90 grams of tilapia, 0.3 grams of salt, 0.23 grams of pepper, 5.2 grams of butter, 185 grams of wild rice, 0.2 grams of salt, 81.3 grams of roll, 100 grams of broccoli, and 90 grams of squash."
+340,32973,6607,8/21/2008,POST_TEST,1,Breakfast,7:53,8:22,29,Yes,No,NA,NA
+341,33009,6607,8/21/2008,POST_TEST,1,Lunch,12:45,12:51,6,Yes,No,NA,NA
+342,33010,6607,8/21/2008,POST_TEST,1,Dinner,17:45,18:11,26,Yes,No,NA,NA
+343,33033,6607,8/22/2008,POST_TEST,2,Breakfast,7:00,7:16,16,Yes,No,NA,NA
+344,33042,6607,8/22/2008,POST_TEST,2,Lunch,11:56,12:12,16,Yes,No,NA,NA
+345,33079,6607,8/22/2008,POST_TEST,2,Dinner,17:00,17:15,15,No,Yes,33080,Subject did not consume all of dinner. Issue submitted.
+346,33122,6607,8/23/2008,POST_TEST,3,Breakfast test,6:30,6:45,15,Yes,No,NA,Cardio testing.
+347,33123,6607,8/23/2008,POST_TEST,3,Breakfast test,10:55,11:04,9,No,Yes,33124,NA
+348,33125,6607,8/23/2008,POST_TEST,3,Lunch,12:31,12:56,25,Yes,No,NA,NA
+349,33166,6607,8/23/2008,POST_TEST,3,Dinner,18:16,18:52,36,No,No,NA,Regular tray.

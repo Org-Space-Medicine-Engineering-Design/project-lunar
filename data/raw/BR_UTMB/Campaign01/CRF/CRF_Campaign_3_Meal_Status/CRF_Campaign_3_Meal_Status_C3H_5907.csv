@@ -1,0 +1,273 @@
+﻿Record,Subject,Date,Test_Phase,BR_Day,Meal,Comments,Meal_Time_Start,Meal_Time_Finish,Duration_minutes,Meal_Completed,Related_to_Test,Test,Issues_Reported,Issue_Reported_Number
+49868,5907,1/18/2010,PRE_TEST,13,Dinner,NA,17:11,17:25,14 (Minutes),Yes,NA,NA,No,NA
+49875,5907,1/19/2010,PRE_TEST,12,Breakfast test,Subject was served a light complex carbohydrate breakfast. The remaining breakfast will be served after the Cycle Ergometry test is completed.,7:17,7:26,9 (Minutes),Yes,Yes,MR080G Cycle Ergometry,No,NA
+49973,5907,1/19/2010,PRE_TEST,12,Breakfast test,Subject was served remaining meal after the Cycle Ergometry test.,9:02,9:07,5 (Minutes),Yes,Yes,MR080G Cycle Ergometry,No,NA
+49974,5907,1/19/2010,PRE_TEST,12,Lunch test,Subject was served light complex carbohydrate meal prior to Cycle Ergometry.,11:24,11:30,6 (Minutes),Yes,Yes,MR080G Cycle Ergometry,No,NA
+49976,5907,1/19/2010,PRE_TEST,12,Lunch test,Subject consumed the remaining meal after Cycle Ergometry testing.,15:10,15:16,6 (Minutes),Yes,Yes,MR080G Cycle Ergometry,No,NA
+50000,5907,1/19/2010,PRE_TEST,12,Dinner,NA,17:15,17:27,12 (Minutes),Yes,NA,NA,No,NA
+50032,5907,1/20/2010,PRE_TEST,11,Breakfast,NA,7:12,7:21,9 (Minutes),Yes,NA,NA,No,NA
+50048,5907,1/20/2010,PRE_TEST,11,Lunch,NA,12:15,12:30,15 (Minutes),Yes,NA,NA,No,NA
+50061,5907,1/20/2010,PRE_TEST,11,Dinner,NA,17:10,17:28,18 (Minutes),Yes,NA,NA,No,NA
+50093,5907,1/21/2010,PRE_TEST,10,Breakfast,NA,7:01,7:17,16 (Minutes),Yes,NA,NA,No,NA
+50111,5907,1/21/2010,PRE_TEST,10,Lunch,NA,12:04,12:18,14 (Minutes),Yes,NA,NA,No,NA
+50122,5907,1/21/2010,PRE_TEST,10,Dinner,NA,16:56,17:18,22 (Minutes),Yes,NA,NA,No,NA
+50145,5907,1/22/2010,PRE_TEST,9,Breakfast,NA,7:13,7:25,12 (Minutes),Yes,NA,NA,No,NA
+50158,5907,1/22/2010,PRE_TEST,9,Lunch,NA,12:11,12:22,11 (Minutes),Yes,NA,NA,No,NA
+50174,5907,1/22/2010,PRE_TEST,9,Dinner,NA,17:13,17:29,16 (Minutes),Yes,NA,NA,No,NA
+50210,5907,1/23/2010,PRE_TEST,8,Breakfast,NA,7:15,7:39,24 (Minutes),Yes,NA,NA,No,NA
+50225,5907,1/23/2010,PRE_TEST,8,Lunch,NA,12:11,12:27,16 (Minutes),Yes,NA,NA,No,NA
+50241,5907,1/23/2010,PRE_TEST,8,Dinner,NA,17:11,17:28,17 (Minutes),Yes,NA,NA,No,NA
+50283,5907,1/24/2010,PRE_TEST,7,Breakfast test,Cycle Ergometry test meal of light complex carbohydrates.,6:27,6:33,6 (Minutes),Yes,Yes,MR080G Cycle Ergometry,No,NA
+50284,5907,1/24/2010,PRE_TEST,7,Breakfast test,Subject was served the remaining meal after the test.,10:41,10:42,1 (Minutes),Yes,Yes,MR080G Cycle Ergometry,No,NA
+50285,5907,1/24/2010,PRE_TEST,7,Lunch,NA,12:13,12:24,11 (Minutes),Yes,NA,NA,No,NA
+50304,5907,1/24/2010,PRE_TEST,7,Dinner,NA,17:13,17:20,7 (Minutes),Yes,NA,NA,No,NA
+50345,5907,1/25/2010,PRE_TEST,6,Breakfast,NA,7:14,7:29,15 (Minutes),Yes,NA,NA,No,NA
+50346,5907,1/25/2010,PRE_TEST,6,Lunch,NA,12:15,12:27,12 (Minutes),Yes,NA,NA,No,NA
+50366,5907,1/25/2010,PRE_TEST,6,Dinner,NA,17:16,17:29,13 (Minutes),Yes,NA,NA,No,NA
+50391,5907,1/26/2010,PRE_TEST,5,Breakfast test,"ECHO, Vascular Functions, Leg Compliance, Plasma Volume, Neuroendocrine and Cardiovascular Response to Tilt tests administered. Subject was given a light complex carbohydrates meal.",6:45,6:52,7 (Minutes),Yes,Yes,Cardiovascular Testing (Integrated),No,NA
+50403,5907,1/26/2010,PRE_TEST,5,Breakfast test,"After Cardiovascular testing, the subject finished the remaining meal",12:51,12:54,3 (Minutes),Yes,Yes,Cardiovascular Testing (Integrated),No,NA
+50404,5907,1/26/2010,PRE_TEST,5,Lunch,NA,13:01,13:18,17 (Minutes),Yes,NA,NA,No,NA
+50421,5907,1/26/2010,PRE_TEST,5,Dinner,NA,17:25,17:45,20 (Minutes),Yes,NA,NA,No,NA
+50450,5907,1/27/2010,PRE_TEST,4,Breakfast,NA,7:26,7:36,10 (Minutes),Yes,NA,NA,No,NA
+50455,5907,1/27/2010,PRE_TEST,4,Lunch,NA,12:26,12:48,22 (Minutes),Yes,NA,NA,No,NA
+50484,5907,1/27/2010,PRE_TEST,4,Dinner,NA,17:02,17:18,16 (Minutes),Yes,NA,NA,No,NA
+50519,5907,1/28/2010,PRE_TEST,3,Breakfast,NA,7:02,7:21,19 (Minutes),Yes,NA,NA,No,NA
+50528,5907,1/28/2010,PRE_TEST,3,Lunch,NA,11:56,12:10,14 (Minutes),Yes,NA,NA,No,NA
+50552,5907,1/28/2010,PRE_TEST,3,Dinner,NA,16:57,17:14,17 (Minutes),Yes,NA,NA,No,NA
+50588,5907,1/29/2010,PRE_TEST,2,Breakfast,NA,7:13,7:28,15 (Minutes),Yes,NA,NA,No,NA
+50591,5907,1/29/2010,PRE_TEST,2,Lunch,NA,12:14,12:35,21 (Minutes),Yes,NA,NA,No,NA
+50613,5907,1/29/2010,PRE_TEST,2,Dinner,NA,17:41,17:51,10 (Minutes),Yes,NA,NA,No,NA
+50646,5907,1/30/2010,PRE_TEST,1,Breakfast,NA,7:00,7:08,8 (Minutes),Yes,NA,NA,No,NA
+50674,5907,1/30/2010,PRE_TEST,1,Lunch,NA,11:57,12:08,11 (Minutes),Yes,NA,NA,No,NA
+50686,5907,1/30/2010,PRE_TEST,1,Dinner,NA,16:58,17:18,20 (Minutes),Yes,NA,NA,No,NA
+50721,5907,1/31/2010,IN_TEST,1,Breakfast,NA,7:16,7:24,8 (Minutes),Yes,NA,NA,No,NA
+50738,5907,1/31/2010,IN_TEST,1,Lunch,NA,12:06,12:21,15 (Minutes),Yes,NA,NA,No,NA
+50757,5907,1/31/2010,IN_TEST,1,Dinner,NA,17:14,17:29,15 (Minutes),Yes,NA,NA,No,NA
+50798,5907,2/1/2010,IN_TEST,2,Breakfast,NA,7:15,7:30,15 (Minutes),Yes,NA,NA,No,NA
+50799,5907,2/1/2010,IN_TEST,2,Lunch,NA,12:16,12:35,19 (Minutes),Yes,NA,NA,No,NA
+50831,5907,2/1/2010,IN_TEST,2,Dinner,"Subject had an issue with day 8 menu, sweet & sour chicken. Subject did not like sauce and felt sick because of it. Subject said they could not bare to eat it.",17:16,18:01,45 (Minutes),Yes,NA,NA,Yes,50832
+50861,5907,2/2/2010,IN_TEST,3,Breakfast test,Subject was given a meal of light complex carbohydrates.,7:02,7:12,10 (Minutes),Yes,Yes,Plasma Volume (BRSMPV),No,NA
+50862,5907,2/2/2010,IN_TEST,3,Breakfast test,Subject was given the remaining meal.,8:50,8:56,6 (Minutes),Yes,Yes,Plasma Volume (BRSMPV),No,NA
+50863,5907,2/2/2010,IN_TEST,3,Lunch,NA,12:04,12:17,13 (Minutes),Yes,NA,NA,No,NA
+50919,5907,2/2/2010,IN_TEST,3,Dinner,NA,17:03,17:25,22 (Minutes),Yes,NA,NA,No,NA
+50937,5907,2/3/2010,IN_TEST,4,Breakfast,NA,7:01,7:26,25 (Minutes),Yes,NA,NA,No,NA
+50938,5907,2/3/2010,IN_TEST,4,Lunch,NA,12:01,12:13,12 (Minutes),Yes,NA,NA,No,NA
+50970,5907,2/3/2010,IN_TEST,4,Dinner,NA,17:07,17:19,12 (Minutes),Yes,NA,NA,No,NA
+50986,5907,2/4/2010,IN_TEST,5,Breakfast,NA,7:16,7:24,8 (Minutes),Yes,NA,NA,No,NA
+50995,5907,2/4/2010,IN_TEST,5,Lunch,NA,12:14,12:25,11 (Minutes),Yes,NA,NA,No,NA
+51026,5907,2/4/2010,IN_TEST,5,Dinner,NA,17:13,17:21,8 (Minutes),Yes,NA,NA,No,NA
+51053,5907,2/5/2010,IN_TEST,6,Breakfast,NA,7:14,7:31,17 (Minutes),Yes,NA,NA,No,NA
+51062,5907,2/5/2010,IN_TEST,6,Lunch,NA,12:16,12:25,9 (Minutes),Yes,NA,NA,No,NA
+51083,5907,2/5/2010,IN_TEST,6,Dinner,NA,17:11,17:20,9 (Minutes),Yes,NA,NA,No,NA
+51113,5907,2/6/2010,IN_TEST,7,Breakfast test,Subject was given a light complex carbohydrate meal. The remaining breakfast will be served after testing.,7:34,7:40,6 (Minutes),Yes,Yes,Cardiovascular Testing (Integrated),No,NA
+51121,5907,2/6/2010,IN_TEST,7,Breakfast test,Subject was served remaining meal.,12:28,12:30,2 (Minutes),Yes,Yes,Cardiovascular Testing (Integrated),No,NA
+51127,5907,2/6/2010,IN_TEST,7,Lunch,NA,12:39,12:52,13 (Minutes),Yes,NA,NA,No,NA
+51146,5907,2/6/2010,IN_TEST,7,Dinner,Subject vomited at dinner. Subject will try to finish remaining meal as a snack. Nurse Cheryl returned dinner tray to kitchen.,17:31,17:49,18 (Minutes),No,NA,NA,No,NA
+51157,5907,2/6/2010,IN_TEST,7,Dinner snack,"Subject tried to complete dinner, but was unable.",18:34,18:46,12 (Minutes),No,NA,NA,Yes,51160
+51180,5907,2/7/2010,IN_TEST,8,Breakfast,NA,7:14,7:19,5 (Minutes),Yes,NA,NA,No,NA
+51191,5907,2/7/2010,IN_TEST,8,Lunch,NA,12:10,12:30,20 (Minutes),Yes,NA,NA,No,NA
+51215,5907,2/7/2010,IN_TEST,8,Dinner,NA,17:16,17:29,13 (Minutes),Yes,NA,NA,No,NA
+51241,5907,2/8/2010,IN_TEST,9,Breakfast,NA,7:03,7:18,15 (Minutes),Yes,NA,NA,No,NA
+51252,5907,2/8/2010,IN_TEST,9,Lunch,NA,11:57,12:07,10 (Minutes),Yes,NA,NA,No,NA
+51278,5907,2/8/2010,IN_TEST,9,Dinner,NA,17:02,17:22,20 (Minutes),Yes,NA,NA,No,NA
+51305,5907,2/9/2010,IN_TEST,10,Breakfast,NA,7:18,7:28,10 (Minutes),Yes,NA,NA,No,NA
+51337,5907,2/9/2010,IN_TEST,10,Lunch,NA,12:12,12:31,19 (Minutes),Yes,NA,NA,No,NA
+51338,5907,2/9/2010,IN_TEST,10,Dinner,NA,17:15,17:28,13 (Minutes),Yes,NA,NA,No,NA
+51360,5907,2/10/2010,IN_TEST,11,Breakfast,NA,7:13,7:22,9 (Minutes),Yes,NA,NA,No,NA
+51380,5907,2/10/2010,IN_TEST,11,Lunch,NA,12:14,12:26,12 (Minutes),Yes,NA,NA,No,NA
+51408,5907,2/10/2010,IN_TEST,11,Dinner,NA,17:10,17:35,25 (Minutes),Yes,NA,NA,No,NA
+51441,5907,2/11/2010,IN_TEST,12,Breakfast,NA,7:15,7:25,10 (Minutes),Yes,NA,NA,No,NA
+51447,5907,2/11/2010,IN_TEST,12,Lunch,NA,12:16,12:38,22 (Minutes),Yes,NA,NA,No,NA
+51476,5907,2/11/2010,IN_TEST,12,Dinner,NA,17:12,17:26,14 (Minutes),Yes,NA,NA,No,NA
+51498,5907,2/12/2010,IN_TEST,13,Breakfast,NA,6:47,7:08,21 (Minutes),Yes,NA,NA,No,NA
+51516,5907,2/12/2010,IN_TEST,13,Lunch,NA,12:51,12:59,8 (Minutes),Yes,NA,NA,No,NA
+51532,5907,2/12/2010,IN_TEST,13,Dinner,NA,17:15,17:34,19 (Minutes),Yes,NA,NA,No,NA
+51563,5907,2/13/2010,IN_TEST,14,Breakfast,NA,6:57,7:10,13 (Minutes),Yes,NA,NA,No,NA
+51580,5907,2/13/2010,IN_TEST,14,Lunch,NA,11:57,12:12,15 (Minutes),Yes,NA,NA,No,NA
+51602,5907,2/13/2010,IN_TEST,14,Dinner,NA,16:58,17:18,20 (Minutes),Yes,NA,NA,No,NA
+51629,5907,2/14/2010,IN_TEST,15,Breakfast,NA,7:18,7:33,15 (Minutes),Yes,NA,NA,No,NA
+51638,5907,2/14/2010,IN_TEST,15,Lunch,NA,12:14,12:26,12 (Minutes),Yes,NA,NA,No,NA
+51670,5907,2/14/2010,IN_TEST,15,Dinner,"Subject did not consume 35.28g of 55.99g mixed vegetables, 44.69g of 64.55g chicken, 35.15g of 51.02g corn, 101.11g of 140.81g white rice, .08g of .111g poultry seasoning, 2.44g of 3.39g canola oil, 15.47g of 21.48g sweet and sour sauce, and .08g of .11g salt.",17:12,17:42,30 (Minutes),No,NA,NA,Yes,51669
+51697,5907,2/15/2010,IN_TEST,16,Breakfast,NA,7:16,7:22,6 (Minutes),Yes,NA,NA,No,NA
+51727,5907,2/15/2010,IN_TEST,16,Lunch,NA,12:13,12:24,11 (Minutes),Yes,NA,NA,No,NA
+51736,5907,2/15/2010,IN_TEST,16,Dinner,NA,17:11,17:25,14 (Minutes),Yes,NA,NA,No,NA
+51765,5907,2/16/2010,IN_TEST,17,Breakfast,NA,7:00,7:18,18 (Minutes),Yes,NA,NA,No,NA
+51780,5907,2/16/2010,IN_TEST,17,Lunch,NA,12:01,12:14,13 (Minutes),Yes,NA,NA,No,NA
+51795,5907,2/16/2010,IN_TEST,17,Dinner,NA,16:59,17:10,11 (Minutes),Yes,NA,NA,No,NA
+51815,5907,2/17/2010,IN_TEST,18,Breakfast,NA,7:02,7:12,10 (Minutes),Yes,NA,NA,No,NA
+51819,5907,2/17/2010,IN_TEST,18,Lunch,NA,11:59,12:14,15 (Minutes),Yes,NA,NA,No,NA
+51840,5907,2/17/2010,IN_TEST,18,Dinner,NA,17:02,17:24,22 (Minutes),Yes,NA,NA,No,NA
+51858,5907,2/18/2010,IN_TEST,19,Breakfast,NA,7:01,7:07,6 (Minutes),Yes,NA,NA,No,NA
+51872,5907,2/18/2010,IN_TEST,19,Lunch,NA,11:57,12:17,20 (Minutes),Yes,NA,NA,No,NA
+51893,5907,2/18/2010,IN_TEST,19,Dinner,NA,16:59,17:19,20 (Minutes),Yes,NA,NA,No,NA
+51922,5907,2/19/2010,IN_TEST,20,Breakfast,NA,7:03,7:20,17 (Minutes),Yes,NA,NA,No,NA
+51927,5907,2/19/2010,IN_TEST,20,Lunch,NA,12:00,12:14,14 (Minutes),Yes,NA,NA,No,NA
+51950,5907,2/19/2010,IN_TEST,20,Dinner,NA,16:55,17:15,20 (Minutes),Yes,NA,NA,No,NA
+51972,5907,2/20/2010,IN_TEST,21,Breakfast test,Test meal of light complex carbohydrates.,7:00,7:03,3 (Minutes),Yes,Yes,Cardiovascular Testing (Integrated),No,NA
+51976,5907,2/20/2010,IN_TEST,21,Breakfast test,Subject served remaining meal.,10:57,11:07,10 (Minutes),Yes,Yes,Cardiovascular Testing (Integrated),No,NA
+51982,5907,2/20/2010,IN_TEST,21,Lunch,NA,11:58,12:19,21 (Minutes),Yes,NA,NA,No,NA
+52002,5907,2/20/2010,IN_TEST,21,Dinner,NA,16:55,17:09,14 (Minutes),Yes,NA,NA,No,NA
+52037,5907,2/21/2010,IN_TEST,22,Breakfast,NA,7:17,7:26,9 (Minutes),Yes,NA,NA,No,NA
+52038,5907,2/21/2010,IN_TEST,22,Lunch,NA,12:11,12:23,12 (Minutes),Yes,NA,NA,No,NA
+52048,5907,2/21/2010,IN_TEST,22,Dinner,Subject 5907 had trouble with day 6 dinner menu. Subject said chicken was over-cooked and hard to swallow.,17:13,17:51,38 (Minutes),Yes,NA,NA,Yes,52049
+52076,5907,2/22/2010,IN_TEST,23,Breakfast,NA,7:30,7:41,11 (Minutes),Yes,NA,NA,No,NA
+52085,5907,2/22/2010,IN_TEST,23,Lunch,NA,12:29,12:56,27 (Minutes),Yes,NA,NA,No,NA
+52110,5907,2/22/2010,IN_TEST,23,Dinner,NA,17:29,17:51,22 (Minutes),Yes,NA,NA,No,NA
+52134,5907,2/23/2010,IN_TEST,24,Breakfast,NA,7:30,7:45,15 (Minutes),Yes,NA,NA,No,NA
+52148,5907,2/23/2010,IN_TEST,24,Lunch,NA,12:28,12:41,13 (Minutes),Yes,NA,NA,No,NA
+52161,5907,2/23/2010,IN_TEST,24,Dinner,NA,17:27,17:40,13 (Minutes),Yes,NA,NA,No,NA
+52182,5907,2/24/2010,IN_TEST,25,Breakfast,NA,7:29,7:39,10 (Minutes),Yes,NA,NA,No,NA
+52205,5907,2/24/2010,IN_TEST,25,Lunch,NA,12:31,12:44,13 (Minutes),Yes,NA,NA,No,NA
+52228,5907,2/24/2010,IN_TEST,25,Dinner,NA,17:28,17:48,20 (Minutes),Yes,NA,NA,No,NA
+52252,5907,2/25/2010,IN_TEST,26,Breakfast,NA,7:31,7:47,16 (Minutes),Yes,NA,NA,No,NA
+52261,5907,2/25/2010,IN_TEST,26,Lunch,NA,12:27,12:38,11 (Minutes),Yes,NA,NA,No,NA
+52279,5907,2/25/2010,IN_TEST,26,Dinner,NA,17:28,17:41,13 (Minutes),Yes,NA,NA,No,NA
+52327,5907,2/26/2010,IN_TEST,27,Breakfast,NA,6:58,7:07,9 (Minutes),Yes,NA,NA,No,NA
+52330,5907,2/26/2010,IN_TEST,27,Lunch,NA,11:58,12:12,14 (Minutes),Yes,NA,NA,No,NA
+52332,5907,2/26/2010,IN_TEST,27,Dinner,NA,17:00,17:10,10 (Minutes),Yes,NA,NA,No,NA
+52372,5907,2/27/2010,IN_TEST,28,Breakfast,NA,6:58,7:25,27 (Minutes),Yes,NA,NA,No,NA
+52373,5907,2/27/2010,IN_TEST,28,Lunch,NA,11:58,12:14,16 (Minutes),Yes,NA,NA,No,NA
+52374,5907,2/27/2010,IN_TEST,28,Dinner,NA,16:59,17:13,14 (Minutes),Yes,NA,NA,No,NA
+52415,5907,2/28/2010,IN_TEST,29,Breakfast,NA,7:01,7:13,12 (Minutes),Yes,NA,NA,No,NA
+52416,5907,2/28/2010,IN_TEST,29,Lunch,Subject went 5 minutes over 30 minute meal time.,12:04,12:39,35 (Minutes),Yes,NA,NA,No,NA
+52417,5907,2/28/2010,IN_TEST,29,Dinner,Subject went 4 minutes over 30 minute meal time.,17:01,17:35,34 (Minutes),Yes,NA,NA,No,NA
+52430,5907,3/1/2010,IN_TEST,30,Breakfast,NA,7:14,7:25,11 (Minutes),Yes,NA,NA,No,NA
+52439,5907,3/1/2010,IN_TEST,30,Lunch,NA,12:12,12:38,26 (Minutes),Yes,NA,NA,No,NA
+52457,5907,3/1/2010,IN_TEST,30,Dinner,NA,17:13,17:38,25 (Minutes),Yes,NA,NA,No,NA
+52473,5907,3/2/2010,IN_TEST,31,Breakfast test,Light complex carbohydrate meal served prior to testing.,7:03,7:20,17 (Minutes),Yes,Yes,Cardiovascular Testing (Integrated),No,NA
+52477,5907,3/2/2010,IN_TEST,31,Breakfast test,Subject was served remaining meal after testing.,12:15,12:18,3 (Minutes),Yes,Yes,Cardiovascular Testing (Integrated),No,NA
+52478,5907,3/2/2010,IN_TEST,31,Lunch,NA,12:21,12:35,14 (Minutes),Yes,NA,NA,No,NA
+52498,5907,3/2/2010,IN_TEST,31,Dinner,Subject ate meal in 47 minutes.,17:01,17:48,47 (Minutes),Yes,NA,NA,Yes,52499
+52525,5907,3/3/2010,IN_TEST,32,Breakfast,NA,7:30,7:43,13 (Minutes),Yes,NA,NA,No,NA
+52541,5907,3/3/2010,IN_TEST,32,Lunch,NA,12:30,12:56,26 (Minutes),Yes,NA,NA,No,NA
+52552,5907,3/3/2010,IN_TEST,32,Dinner,NA,17:29,17:43,14 (Minutes),Yes,NA,NA,No,NA
+52574,5907,3/4/2010,IN_TEST,33,Breakfast,NA,7:27,7:36,9 (Minutes),Yes,NA,NA,No,NA
+52578,5907,3/4/2010,IN_TEST,33,Lunch,NA,12:26,12:40,14 (Minutes),Yes,NA,NA,No,NA
+52593,5907,3/4/2010,IN_TEST,33,Dinner,NA,17:28,18:12,44 (Minutes),Yes,NA,NA,Yes,52594
+52610,5907,3/5/2010,IN_TEST,34,Breakfast,NA,7:19,7:42,23 (Minutes),Yes,NA,NA,No,NA
+52616,5907,3/5/2010,IN_TEST,34,Lunch,NA,12:27,13:07,40 (Minutes),Yes,NA,NA,Yes,52617
+52636,5907,3/5/2010,IN_TEST,34,Dinner,NA,17:26,17:44,18 (Minutes),Yes,NA,NA,No,NA
+52672,5907,3/6/2010,IN_TEST,35,Breakfast,NA,7:29,007:37,8 (Minutes),Yes,NA,NA,No,NA
+52673,5907,3/6/2010,IN_TEST,35,Lunch,NA,12:28,12:43,15 (Minutes),Yes,NA,NA,No,NA
+52674,5907,3/6/2010,IN_TEST,35,Dinner,NA,17:25,17:37,12 (Minutes),Yes,NA,NA,No,NA
+52706,5907,3/7/2010,IN_TEST,36,Breakfast,NA,7:28,7:41,13 (Minutes),Yes,NA,NA,No,NA
+52707,5907,3/7/2010,IN_TEST,36,Lunch,NA,12:26,12:46,20 (Minutes),Yes,NA,NA,No,NA
+52708,5907,3/7/2010,IN_TEST,36,Dinner,NA,17:28,17:54,26 (Minutes),Yes,NA,NA,No,NA
+52719,5907,3/8/2010,IN_TEST,37,Breakfast,NA,7:13,7:35,22 (Minutes),Yes,NA,NA,No,NA
+52727,5907,3/8/2010,IN_TEST,37,Lunch,NA,12:10,12:25,15 (Minutes),Yes,NA,NA,No,NA
+52753,5907,3/8/2010,IN_TEST,37,Dinner,NA,17:15,17:33,18 (Minutes),Yes,NA,NA,No,NA
+52750,5907,3/9/2010,IN_TEST,38,Breakfast,NA,7:14,7:24,10 (Minutes),Yes,NA,NA,No,NA
+52760,5907,3/9/2010,IN_TEST,38,Lunch,NA,12:11,12:24,13 (Minutes),Yes,NA,NA,No,NA
+52774,5907,3/9/2010,IN_TEST,38,Dinner,NA,17:10,17:20,10 (Minutes),Yes,NA,NA,No,NA
+52799,5907,3/10/2010,IN_TEST,39,Breakfast,NA,7:15,7:41,26 (Minutes),Yes,NA,NA,No,NA
+52807,5907,3/10/2010,IN_TEST,39,Lunch,NA,12:11,12:21,10 (Minutes),Yes,NA,NA,No,NA
+52824,5907,3/10/2010,IN_TEST,39,Dinner,NA,17:11,17:29,18 (Minutes),Yes,NA,NA,No,NA
+52844,5907,3/11/2010,IN_TEST,40,Breakfast,NA,7:21,7:29,8 (Minutes),Yes,NA,NA,No,NA
+52852,5907,3/11/2010,IN_TEST,40,Lunch,"Per eCRF guidelines, subject may go 5 minutes beyond the 30 minute meal allowance.",12:13,12:48,35 (Minutes),Yes,NA,NA,No,NA
+52864,5907,3/11/2010,IN_TEST,40,Dinner,NA,17:02,17:28,26 (Minutes),Yes,NA,NA,No,NA
+52883,5907,3/12/2010,IN_TEST,41,Breakfast,NA,7:13,7:23,10 (Minutes),Yes,NA,NA,No,NA
+52892,5907,3/12/2010,IN_TEST,41,Lunch,NA,12:18,12:39,21 (Minutes),Yes,NA,NA,No,NA
+52905,5907,3/12/2010,IN_TEST,41,Dinner,NA,17:15,17:41,26 (Minutes),Yes,NA,NA,No,NA
+52939,5907,3/13/2010,IN_TEST,42,Breakfast,NA,7:13,7:39,26 (Minutes),Yes,NA,NA,No,NA
+52940,5907,3/13/2010,IN_TEST,42,Lunch,NA,12:13,12:32,19 (Minutes),Yes,NA,NA,No,NA
+52945,5907,3/13/2010,IN_TEST,42,Dinner,NA,17:19,17:55,36 (Minutes),Yes,NA,NA,Yes,52946
+52964,5907,3/14/2010,IN_TEST,43,Breakfast,NA,7:13,7:32,19 (Minutes),Yes,NA,NA,No,NA
+52970,5907,3/14/2010,IN_TEST,43,Lunch,NA,12:11,12:38,27 (Minutes),Yes,NA,NA,No,NA
+52999,5907,3/14/2010,IN_TEST,43,Dinner,NA,17:15,17:29,14 (Minutes),Yes,NA,NA,No,NA
+53002,5907,3/15/2010,IN_TEST,44,Breakfast,NA,7:16,7:33,17 (Minutes),Yes,NA,NA,No,NA
+53013,5907,3/15/2010,IN_TEST,44,Lunch,NA,12:12,12:31,19 (Minutes),Yes,NA,NA,No,NA
+53041,5907,3/15/2010,IN_TEST,44,Dinner,"Subject did not consume 54.15g of 63.65g chicken, 21.51g of 24.17g honey sauce, 89.98g of 141.09g broccoli/rice casserole and 10.69g of 68.10g carrots.",17:12,17:55,43 (Minutes),No,NA,NA,Yes,53042
+53055,5907,3/16/2010,IN_TEST,45,Breakfast,NA,7:22,7:36,14 (Minutes),Yes,NA,NA,No,NA
+53062,5907,3/16/2010,IN_TEST,45,Lunch,Subject went 24 minutes over the 30 minute meal allowance.,12:12,13:06,54 (Minutes),Yes,NA,NA,Yes,53063
+53086,5907,3/16/2010,IN_TEST,45,Dinner,NA,17:14,17:43,29 (Minutes),Yes,NA,NA,No,NA
+53097,5907,3/17/2010,IN_TEST,46,Breakfast,NA,7:14,7:27,13 (Minutes),Yes,NA,NA,No,NA
+53112,5907,3/17/2010,IN_TEST,46,Lunch,NA,12:15,12:38,23 (Minutes),Yes,NA,NA,No,NA
+53134,5907,3/17/2010,IN_TEST,46,Dinner,NA,17:13,17:26,13 (Minutes),Yes,NA,NA,No,NA
+53141,5907,3/18/2010,IN_TEST,47,Breakfast,NA,7:26,7:40,14 (Minutes),Yes,NA,NA,No,NA
+53152,5907,3/18/2010,IN_TEST,47,Lunch,NA,12:16,12:45,29 (Minutes),Yes,NA,NA,No,NA
+53170,5907,3/18/2010,IN_TEST,47,Dinner,Subject was 10 minutes over the 30 minute meal allowance.,17:25,18:05,40 (Minutes),Yes,NA,NA,Yes,53171
+53195,5907,3/19/2010,IN_TEST,48,Breakfast,NA,7:36,7:58,22 (Minutes),Yes,NA,NA,No,NA
+53202,5907,3/19/2010,IN_TEST,48,Lunch,NA,12:27,12:44,17 (Minutes),Yes,NA,NA,No,NA
+53224,5907,3/19/2010,IN_TEST,48,Dinner,NA,17:27,17:51,24 (Minutes),Yes,NA,NA,No,NA
+53235,5907,3/20/2010,IN_TEST,49,Breakfast test,Subject was served a light complex carbohydrate breakfast.,7:40,7:49,9 (Minutes),Yes,Yes,Cardiovascular Testing (Integrated),No,NA
+53245,5907,3/20/2010,IN_TEST,49,Breakfast test,Subject was served remaining portion of breakfast.,12:06,12:07,1 (Minutes),Yes,Yes,Cardiovascular Testing (Integrated),No,NA
+53246,5907,3/20/2010,IN_TEST,49,Lunch,NA,12:31,12:44,13 (Minutes),Yes,NA,NA,No,NA
+53262,5907,3/20/2010,IN_TEST,49,Dinner,NA,16:58,17:11,13 (Minutes),Yes,NA,NA,No,NA
+53300,5907,3/21/2010,IN_TEST,50,Breakfast,NA,7:28,7:48,20 (Minutes),Yes,NA,NA,No,NA
+53301,5907,3/21/2010,IN_TEST,50,Lunch,NA,12:27,12:42,15 (Minutes),Yes,NA,NA,No,NA
+53316,5907,3/21/2010,IN_TEST,50,Dinner,NA,17:26,17:46,20 (Minutes),Yes,NA,NA,No,NA
+53332,5907,3/22/2010,IN_TEST,51,Breakfast,NA,7:30,7:40,10 (Minutes),Yes,NA,NA,No,NA
+53348,5907,3/22/2010,IN_TEST,51,Lunch,NA,12:30,12:49,19 (Minutes),Yes,NA,NA,No,NA
+53367,5907,3/22/2010,IN_TEST,51,Dinner,NA,17:23,17:50,27 (Minutes),Yes,NA,NA,No,NA
+53391,5907,3/23/2010,IN_TEST,52,Breakfast,NA,7:28,7:42,14 (Minutes),Yes,NA,NA,No,NA
+53415,5907,3/23/2010,IN_TEST,52,Lunch,NA,12:23,12:53,30 (Minutes),Yes,NA,NA,No,NA
+53416,5907,3/23/2010,IN_TEST,52,Dinner,NA,17:22,17:45,23 (Minutes),Yes,NA,NA,No,NA
+53434,5907,3/24/2010,IN_TEST,53,Breakfast,NA,7:20,7:44,24 (Minutes),Yes,NA,NA,No,NA
+53441,5907,3/24/2010,IN_TEST,53,Lunch,NA,12:08,12:28,20 (Minutes),Yes,NA,NA,No,NA
+53458,5907,3/24/2010,IN_TEST,53,Dinner,Subject went 8 minutes beyond the 30 minute meal allowance.,17:12,17:50,38 (Minutes),Yes,NA,NA,Yes,53456
+53473,5907,3/25/2010,IN_TEST,54,Breakfast,NA,7:11,7:32,21 (Minutes),Yes,NA,NA,No,NA
+53481,5907,3/25/2010,IN_TEST,54,Lunch,NA,11:57,12:22,25 (Minutes),Yes,NA,NA,No,NA
+53495,5907,3/25/2010,IN_TEST,54,Dinner,NA,17:08,17:19,11 (Minutes),Yes,NA,NA,No,NA
+53507,5907,3/26/2010,IN_TEST,55,Breakfast,NA,7:10,7:20,10 (Minutes),Yes,NA,NA,No,NA
+53513,5907,3/26/2010,IN_TEST,55,Lunch,NA,12:06,12:23,17 (Minutes),Yes,NA,NA,No,NA
+53526,5907,3/26/2010,IN_TEST,55,Dinner,Subject went over 13 minutes while eating meal. Subject is allowed 5 minutes over meal time per ECRF.,17:05,17:48,43 (Minutes),Yes,NA,NA,Yes,53527
+53602,5907,3/27/2010,IN_TEST,56,Breakfast,NA,7:11,7:26,15 (Minutes),Yes,NA,NA,No,NA
+53603,5907,3/27/2010,IN_TEST,56,Lunch,Subject did not consume complete meal. Subject was 7 minutes over the 30 minute meal allowance.,12:12,12:49,37 (Minutes),No,NA,NA,Yes,53604
+53605,5907,3/27/2010,IN_TEST,56,Dinner,NA,17:12,17:39,27 (Minutes),Yes,NA,NA,No,NA
+53572,5907,3/28/2010,IN_TEST,57,Breakfast,NA,7:13,7:18,5 (Minutes),Yes,NA,NA,No,NA
+53573,5907,3/28/2010,IN_TEST,57,Lunch,NA,12:11,12:24,13 (Minutes),Yes,NA,NA,No,NA
+53582,5907,3/28/2010,IN_TEST,57,Dinner,NA,17:10,17:21,11 (Minutes),Yes,NA,NA,No,NA
+53606,5907,3/29/2010,IN_TEST,58,Breakfast,NA,7:13,7:30,17 (Minutes),Yes,NA,NA,No,NA
+53607,5907,3/29/2010,IN_TEST,58,Lunch,NA,12:09,12:27,18 (Minutes),Yes,NA,NA,No,NA
+53626,5907,3/29/2010,IN_TEST,58,Dinner,Subject went 3 minutes beyond the 30 minute meal allowance but within the 5 minute reporting eCRF guidelines.,17:12,17:45,33 (Minutes),Yes,NA,NA,No,NA
+53638,5907,3/30/2010,IN_TEST,59,Breakfast,NA,7:15,7:37,22 (Minutes),Yes,NA,NA,No,NA
+53651,5907,3/30/2010,IN_TEST,59,Lunch,NA,12:11,12:21,10 (Minutes),Yes,NA,NA,No,NA
+53665,5907,3/30/2010,IN_TEST,59,Dinner,NA,17:15,17:31,16 (Minutes),Yes,NA,NA,No,NA
+53678,5907,3/31/2010,IN_TEST,60,Breakfast,NA,7:00,7:06,6 (Minutes),Yes,NA,NA,No,NA
+53682,5907,3/31/2010,IN_TEST,60,Lunch,NA,11:56,12:11,15 (Minutes),Yes,NA,NA,No,NA
+53697,5907,3/31/2010,IN_TEST,60,Dinner,NA,16:56,17:10,14 (Minutes),Yes,NA,NA,No,NA
+53712,5907,4/1/2010,POST_TEST,0,Breakfast test,Subject was served a light complex carbohydrate.,6:52,7:00,8 (Minutes),Yes,Yes,Cardiovascular Testing (Integrated),No,NA
+53716,5907,4/1/2010,POST_TEST,0,Breakfast test,Subject was served remaining meal.,11:43,11:47,4 (Minutes),Yes,Yes,Cardiovascular Testing (Integrated),No,NA
+53717,5907,4/1/2010,POST_TEST,0,Lunch test,Subject was served a light complex carbohydrate lunch.,13:42,13:49,7 (Minutes),Yes,Yes,Cardiac Function/ECHO (BRMSCF),No,NA
+53731,5907,4/1/2010,POST_TEST,0,Lunch test,Subject was served remaining meal.,15:59,16:10,11 (Minutes),Yes,Yes,Cardiac Function/ECHO (BRMSCF),No,NA
+53732,5907,4/1/2010,POST_TEST,0,Dinner test,Subject was served a light complex carbohydrate dinner.,17:47,18:02,15 (Minutes),Yes,Yes,MR080G Cycle Ergometry,No,NA
+53737,5907,4/1/2010,POST_TEST,0,Dinner test,Subject served remaining meal.,19:42,19:52,10 (Minutes),Yes,Yes,MR080G Cycle Ergometry,No,NA
+53742,5907,4/2/2010,POST_TEST,1,Breakfast,NA,7:16,7:21,5 (Minutes),Yes,NA,NA,No,NA
+53751,5907,4/2/2010,POST_TEST,1,Lunch,NA,12:10,12:26,16 (Minutes),Yes,NA,NA,No,NA
+53766,5907,4/2/2010,POST_TEST,1,Dinner,NA,17:11,17:37,26 (Minutes),Yes,NA,NA,No,NA
+53784,5907,4/3/2010,POST_TEST,2,Breakfast,NA,7:14,7:27,13 (Minutes),Yes,NA,NA,No,NA
+53785,5907,4/3/2010,POST_TEST,2,Lunch,NA,12:12,12:30,18 (Minutes),Yes,NA,NA,No,NA
+53798,5907,4/3/2010,POST_TEST,2,Dinner,NA,17:10,17:29,19 (Minutes),Yes,NA,NA,No,NA
+53826,5907,4/4/2010,POST_TEST,3,Breakfast test,Subject served meal of light complex carbohydrates.,6:59,7:11,12 (Minutes),Yes,Yes,Cardiovascular Testing (Integrated),No,NA
+53827,5907,4/4/2010,POST_TEST,3,Breakfast test,Served remaining meal after the test.,12:19,12:25,6 (Minutes),Yes,Yes,Cardiovascular Testing (Integrated),No,NA
+53828,5907,4/4/2010,POST_TEST,3,Lunch,NA,12:43,13:10,27 (Minutes),Yes,NA,NA,No,NA
+53837,5907,4/4/2010,POST_TEST,3,Dinner,NA,17:15,17:57,42 (Minutes),Yes,NA,NA,Yes,53838
+53858,5907,4/5/2010,POST_TEST,4,Breakfast,NA,7:13,7:34,21 (Minutes),Yes,NA,NA,No,NA
+53862,5907,4/5/2010,POST_TEST,4,Lunch,NA,12:12,12:35,23 (Minutes),Yes,NA,NA,No,NA
+53878,5907,4/5/2010,POST_TEST,4,Dinner,NA,17:08,17:17,9 (Minutes),Yes,NA,NA,No,NA
+53895,5907,4/6/2010,POST_TEST,5,Breakfast,NA,7:16,7:21,5 (Minutes),Yes,NA,NA,No,NA
+53911,5907,4/6/2010,POST_TEST,5,Lunch,NA,12:15,12:30,15 (Minutes),Yes,NA,NA,No,NA
+53935,5907,4/6/2010,POST_TEST,5,Dinner,Subject went 16 minutes beyond 30 minute meal allowance.,17:10,17:56,46 (Minutes),Yes,NA,NA,Yes,53937
+53942,5907,4/7/2010,POST_TEST,6,Breakfast,NA,7:17,7:30,13 (Minutes),Yes,NA,NA,No,NA
+53953,5907,4/7/2010,POST_TEST,6,Lunch,Subject went 20 minutes over the 30 minute meal allowance.,12:10,13:00,50 (Minutes),Yes,NA,NA,Yes,53954
+53977,5907,4/7/2010,POST_TEST,6,Dinner,NA,17:16,17:36,20 (Minutes),Yes,NA,NA,No,NA
+53988,5907,4/8/2010,POST_TEST,7,Breakfast,NA,7:13,7:40,27 (Minutes),Yes,NA,NA,No,NA
+53993,5907,4/8/2010,POST_TEST,7,Lunch,NA,13:14,13:30,16 (Minutes),Yes,NA,NA,No,NA
+54013,5907,4/8/2010,POST_TEST,7,Dinner,NA,17:38,18:01,23 (Minutes),Yes,NA,NA,No,NA
+54019,5907,4/9/2010,POST_TEST,8,Breakfast,NA,7:12,7:28,16 (Minutes),Yes,NA,NA,No,NA
+54029,5907,4/9/2010,POST_TEST,8,Lunch,NA,12:11,12:31,20 (Minutes),Yes,NA,NA,No,NA
+54038,5907,4/9/2010,POST_TEST,8,Dinner,NA,17:13,17:54,41 (Minutes),Yes,NA,NA,Yes,54039
+54055,5907,4/10/2010,POST_TEST,9,Breakfast,NA,7:14,7:42,28 (Minutes),Yes,NA,NA,No,NA
+54060,5907,4/10/2010,POST_TEST,9,Lunch,NA,12:14,12:24,10 (Minutes),Yes,NA,NA,No,NA
+54074,5907,4/10/2010,POST_TEST,9,Dinner,NA,17:03,17:18,15 (Minutes),Yes,NA,NA,No,NA
+54091,5907,4/11/2010,POST_TEST,10,Breakfast,NA,7:13,7:20,7 (Minutes),Yes,NA,NA,No,NA
+54098,5907,4/11/2010,POST_TEST,10,Lunch,NA,12:13,12:24,11 (Minutes),Yes,NA,NA,No,NA
+54116,5907,4/11/2010,POST_TEST,10,Dinner,NA,17:10,17:19,9 (Minutes),Yes,NA,NA,No,NA
+54127,5907,4/12/2010,POST_TEST,11,Breakfast,NA,7:00,7:14,14 (Minutes),Yes,NA,NA,No,NA
+54132,5907,4/12/2010,POST_TEST,11,Lunch,NA,12:14,12:27,13 (Minutes),Yes,NA,NA,No,NA
+54145,5907,4/12/2010,POST_TEST,11,Dinner,NA,17:14,17:28,14 (Minutes),Yes,NA,NA,No,NA
+54159,5907,4/13/2010,POST_TEST,12,Breakfast,NA,7:19,7:30,11 (Minutes),Yes,NA,NA,No,NA
+54171,5907,4/13/2010,POST_TEST,12,Lunch,NA,12:12,12:42,30 (Minutes),Yes,NA,NA,No,NA
+54181,5907,4/13/2010,POST_TEST,12,Dinner,NA,17:18,17:48,30 (Minutes),Yes,NA,NA,No,NA
+54203,5907,4/14/2010,POST_TEST,13,Breakfast test,Light complex carbohydrates.,6:57,7:14,17 (Minutes),Yes,Yes,Cardiac Function/ECHO (BRMSCF),No,NA
+54204,5907,4/14/2010,POST_TEST,13,Breakfast test,Served remaining meal after the test.,8:34,8:40,6 (Minutes),Yes,Yes,Cardiac Function/ECHO (BRMSCF),No,NA

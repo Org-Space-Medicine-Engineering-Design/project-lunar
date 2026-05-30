@@ -1,0 +1,220 @@
+﻿ID,Campaign,Record,Subject,Occur Date,Date of Med,Time of Med,Phase,Day,CRF_status,Route,Medication,Quantity,Related to Test,Test,Initial Pain Score,OutCome Pain Score,Comments,Issues Reported,Issue Reported Number
+1,C3H,49837,5907,1/19/2010,1/19/2010,6:30,PRE_TEST,12,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given before breakfast in orange juice with a straw on an empty stomach.,No,NA
+2,C3H,50025,5907,1/20/2010,1/20/2010,6:48,PRE_TEST,11,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+3,C3H,50083,5907,1/21/2010,1/21/2010,6:45,PRE_TEST,10,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+4,C3H,50185,5907,1/22/2010,1/22/2010,6:30,PRE_TEST,9,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"According to medication administration record (MAR), given by J. Stevens, RN.",No,NA
+5,C3H,50206,5907,1/23/2010,1/23/2010,6:40,PRE_TEST,8,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+6,C3H,50266,5907,1/24/2010,1/24/2010,6:28,PRE_TEST,7,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+7,C3H,50330,5907,1/25/2010,1/25/2010,6:30,PRE_TEST,6,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.,No,NA
+8,C3H,50381,5907,1/26/2010,1/26/2010,6:15,PRE_TEST,5,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+9,C3H,50405,5907,1/26/2010,1/26/2010,12:14,PRE_TEST,5,Lock,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Platts (Gender Differences),0,3,Given in test. Reported headache rated 3 on a 0-10 pain scale. Given ice pack and rest. Resolving with ice rated 1 on a 0-10 pain scale.,No,NA
+10,C3H,50458,5907,1/27/2010,1/27/2010,6:55,PRE_TEST,4,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+11,C3H,50509,5907,1/28/2010,1/28/2010,6:30,PRE_TEST,3,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+12,C3H,50578,5907,1/29/2010,1/29/2010,6:45,PRE_TEST,2,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+13,C3H,50638,5907,1/30/2010,1/30/2010,6:34,PRE_TEST,1,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Mixed in orange juice and given through a straw by J. Stevens, RN.",No,NA
+14,C3H,50751,5907,1/31/2010,1/31/2010,17:19,IN_TEST,1,Lock,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA,No,NA
+15,C3H,50713,5907,1/31/2010,1/31/2010,6:32,IN_TEST,1,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Mixed in orange juice and given through a straw by J. Stevens, RN.",No,NA
+16,C3H,50752,5907,1/31/2010,1/31/2010,17:19,IN_TEST,1,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+17,C3H,50822,5907,2/1/2010,2/1/2010,17:15,IN_TEST,2,Lock,PO-by mouth,Colace 100mg,1,No,NA,0,0,Given with dinner.,No,NA
+18,C3H,50797,5907,2/1/2010,2/1/2010,6:31,IN_TEST,2,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Mixed in orange juice and given through a straw.,No,NA
+19,C3H,50823,5907,2/1/2010,2/1/2010,17:15,IN_TEST,2,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,Given with dinner.,No,NA
+20,C3H,50886,5907,2/2/2010,2/2/2010,17:00,IN_TEST,3,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,"Due to constipation, Colace increased.",No,NA
+21,C3H,50904,5907,2/2/2010,2/2/2010,6:35,IN_TEST,3,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Mixed in orange juice and given through a straw by J. Stevens, RN.",No,NA
+22,C3H,50882,5907,2/2/2010,2/2/2010,15:55,IN_TEST,3,Lock,PR-perirectal,Glycerin Suppository,1,No,NA,0,0,NA,No,NA
+23,C3H,50887,5907,2/2/2010,2/2/2010,17:00,IN_TEST,3,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+24,C3H,50961,5907,2/3/2010,2/3/2010,17:07,IN_TEST,4,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,Given with dinner.,No,NA
+25,C3H,50924,5907,2/3/2010,2/3/2010,6:30,IN_TEST,4,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange with a straw on an empty stomach before breakfast.,No,NA
+26,C3H,50962,5907,2/3/2010,2/3/2010,17:07,IN_TEST,4,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,Given with dinner.,No,NA
+27,C3H,51015,5907,2/4/2010,2/4/2010,17:15,IN_TEST,5,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,Given with dinner.,No,NA
+28,C3H,51036,5907,2/4/2010,2/4/2010,6:30,IN_TEST,5,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Mixed in orange juice and given through a straw.,No,NA
+29,C3H,51017,5907,2/4/2010,2/4/2010,17:15,IN_TEST,5,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,Given with dinner.,No,NA
+30,C3H,51085,5907,2/5/2010,2/5/2010,17:13,IN_TEST,6,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+31,C3H,51052,5907,2/5/2010,2/5/2010,6:24,IN_TEST,6,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Mixed in orange juice and given through a straw by R. Johnson, RN.",No,NA
+32,C3H,51098,5907,2/5/2010,2/5/2010,8:00,IN_TEST,6,Lock,PR-perirectal,Glycerin Suppository,1,No,NA,0,0,"Per medication administration record (MAR), given by V. H.",No,NA
+33,C3H,51086,5907,2/5/2010,2/5/2010,17:13,IN_TEST,6,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+34,C3H,51149,5907,2/6/2010,2/6/2010,17:23,IN_TEST,7,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,Given with dinner.,No,NA
+35,C3H,51112,5907,2/6/2010,2/6/2010,6:40,IN_TEST,7,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Mixed in orange juice and given through a straw by T. Tollefsbol, RN.",No,NA
+36,C3H,51245,5907,2/6/2010,2/6/2010,12:04,IN_TEST,7,Lock,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Platts (Gender Differences),0,0,NA,No,NA
+37,C3H,51150,5907,2/6/2010,2/6/2010,17:23,IN_TEST,7,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,Given with dinner.,No,NA
+38,C3H,51204,5907,2/7/2010,2/7/2010,17:15,IN_TEST,8,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+39,C3H,51170,5907,2/7/2010,2/7/2010,6:30,IN_TEST,8,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.,No,NA
+40,C3H,51203,5907,2/7/2010,2/7/2010,17:15,IN_TEST,8,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+41,C3H,51265,5907,2/8/2010,2/8/2010,17:07,IN_TEST,9,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+42,C3H,51224,5907,2/8/2010,2/8/2010,6:30,IN_TEST,9,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.,No,NA
+43,C3H,51266,5907,2/8/2010,2/8/2010,17:07,IN_TEST,9,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+44,C3H,51320,5907,2/9/2010,2/9/2010,17:16,IN_TEST,10,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+45,C3H,51296,5907,2/9/2010,2/9/2010,6:33,IN_TEST,10,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Mixed in orange juice and given through a straw by R. Johnson, RN.",No,NA
+46,C3H,51321,5907,2/9/2010,2/9/2010,17:16,IN_TEST,10,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+47,C3H,51402,5907,2/10/2010,2/10/2010,17:20,IN_TEST,11,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+48,C3H,51355,5907,2/10/2010,2/10/2010,6:40,IN_TEST,11,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Mixed in orange juice and given through a straw by R. Johnson, RN.",No,NA
+49,C3H,51403,5907,2/10/2010,2/10/2010,17:20,IN_TEST,11,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+50,C3H,51464,5907,2/11/2010,2/11/2010,17:15,IN_TEST,12,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+51,C3H,51426,5907,2/11/2010,2/11/2010,6:00,IN_TEST,12,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+52,C3H,51465,5907,2/11/2010,2/11/2010,17:15,IN_TEST,12,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+53,C3H,51528,5907,2/12/2010,2/12/2010,17:16,IN_TEST,13,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+54,C3H,51495,5907,2/12/2010,2/12/2010,6:00,IN_TEST,13,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.,No,NA
+55,C3H,51529,5907,2/12/2010,2/12/2010,17:16,IN_TEST,13,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+56,C3H,51593,5907,2/13/2010,2/13/2010,17:00,IN_TEST,14,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+57,C3H,51561,5907,2/13/2010,2/13/2010,6:55,IN_TEST,14,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Mixed in orange juice and given through a straw by T. Smith, RN.",No,NA
+58,C3H,51569,5907,2/13/2010,2/13/2010,8:35,IN_TEST,14,Lock,PR-perirectal,Glycerin Suppository,1,No,NA,0,0,Per rectum.,No,NA
+59,C3H,51594,5907,2/13/2010,2/13/2010,17:00,IN_TEST,14,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+60,C3H,51660,5907,2/14/2010,2/14/2010,17:12,IN_TEST,15,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+61,C3H,51622,5907,2/14/2010,2/14/2010,6:45,IN_TEST,15,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Mixed in orange juice and given through a straw by V. Honc, RN.",No,NA
+62,C3H,51661,5907,2/14/2010,2/14/2010,17:12,IN_TEST,15,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+63,C3H,51732,5907,2/15/2010,2/15/2010,17:14,IN_TEST,16,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+64,C3H,51687,5907,2/15/2010,2/15/2010,6:30,IN_TEST,16,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.,No,NA
+65,C3H,51733,5907,2/15/2010,2/15/2010,17:14,IN_TEST,16,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+66,C3H,51787,5907,2/16/2010,2/16/2010,17:00,IN_TEST,17,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+67,C3H,51744,5907,2/16/2010,2/16/2010,6:30,IN_TEST,17,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.,No,NA
+68,C3H,51788,5907,2/16/2010,2/16/2010,17:00,IN_TEST,17,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+69,C3H,51834,5907,2/17/2010,2/17/2010,17:07,IN_TEST,18,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+70,C3H,51800,5907,2/17/2010,2/17/2010,6:30,IN_TEST,18,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.,No,NA
+71,C3H,51835,5907,2/17/2010,2/17/2010,17:07,IN_TEST,18,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+72,C3H,51885,5907,2/18/2010,2/18/2010,17:00,IN_TEST,19,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+73,C3H,51854,5907,2/18/2010,2/18/2010,6:30,IN_TEST,19,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+74,C3H,51886,5907,2/18/2010,2/18/2010,17:00,IN_TEST,19,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+75,C3H,51939,5907,2/19/2010,2/19/2010,17:00,IN_TEST,20,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+76,C3H,51914,5907,2/19/2010,2/19/2010,6:45,IN_TEST,20,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+77,C3H,51941,5907,2/19/2010,2/19/2010,17:00,IN_TEST,20,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+78,C3H,51994,5907,2/20/2010,2/20/2010,17:39,IN_TEST,21,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,Pyxis malfunction.  Unable to open drawer to administer medication until pharmacy came to unit to repair.,No,NA
+79,C3H,51965,5907,2/20/2010,2/20/2010,6:40,IN_TEST,21,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.,No,NA
+80,C3H,51975,5907,2/20/2010,2/20/2010,10:29,IN_TEST,21,Lock,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Platts (Gender Differences),1,0,"On return to room, subject reported no headache remained before leaving testing area.",No,NA
+81,C3H,51993,5907,2/20/2010,2/20/2010,17:01,IN_TEST,21,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+82,C3H,52046,5907,2/21/2010,2/21/2010,17:16,IN_TEST,22,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+83,C3H,52017,5907,2/21/2010,2/21/2010,6:30,IN_TEST,22,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.,No,NA
+84,C3H,52047,5907,2/21/2010,2/21/2010,17:16,IN_TEST,22,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+85,C3H,52105,5907,2/22/2010,2/22/2010,17:32,IN_TEST,23,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+86,C3H,52062,5907,2/22/2010,2/22/2010,6:30,IN_TEST,23,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.,No,NA
+87,C3H,52106,5907,2/22/2010,2/22/2010,17:32,IN_TEST,23,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+88,C3H,52156,5907,2/23/2010,2/23/2010,17:30,IN_TEST,24,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+89,C3H,52129,5907,2/23/2010,2/23/2010,6:40,IN_TEST,24,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+90,C3H,52157,5907,2/23/2010,2/23/2010,17:30,IN_TEST,24,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+91,C3H,52223,5907,2/24/2010,2/24/2010,17:30,IN_TEST,25,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+92,C3H,52175,5907,2/24/2010,2/24/2010,6:05,IN_TEST,25,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+93,C3H,52224,5907,2/24/2010,2/24/2010,17:30,IN_TEST,25,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+94,C3H,52273,5907,2/25/2010,2/25/2010,17:30,IN_TEST,26,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+95,C3H,52248,5907,2/25/2010,2/25/2010,6:40,IN_TEST,26,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.,No,NA
+96,C3H,52274,5907,2/25/2010,2/25/2010,17:30,IN_TEST,26,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+97,C3H,52314,5907,2/26/2010,2/26/2010,17:00,IN_TEST,27,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+98,C3H,52295,5907,2/26/2010,2/26/2010,6:35,IN_TEST,27,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+99,C3H,52315,5907,2/26/2010,2/26/2010,17:00,IN_TEST,27,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+100,C3H,52358,5907,2/27/2010,2/27/2010,17:00,IN_TEST,28,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+101,C3H,52345,5907,2/27/2010,2/27/2010,6:55,IN_TEST,28,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+102,C3H,52357,5907,2/27/2010,2/27/2010,17:00,IN_TEST,28,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+103,C3H,52419,5907,2/28/2010,2/28/2010,17:15,IN_TEST,29,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+104,C3H,52389,5907,2/28/2010,2/28/2010,6:50,IN_TEST,29,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Mixed with 30 cc orange juice and given through a straw.,No,NA
+105,C3H,52418,5907,2/28/2010,2/28/2010,17:15,IN_TEST,29,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+106,C3H,52452,5907,3/1/2010,3/1/2010,17:15,IN_TEST,30,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+107,C3H,52428,5907,3/1/2010,3/1/2010,6:45,IN_TEST,30,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+108,C3H,52453,5907,3/1/2010,3/1/2010,17:15,IN_TEST,30,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+109,C3H,52494,5907,3/2/2010,3/2/2010,17:00,IN_TEST,31,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+110,C3H,52469,5907,3/2/2010,3/2/2010,6:35,IN_TEST,31,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Ferrous sulfate given in 30 cc orange juice with a straw.,No,NA
+111,C3H,52476,5907,3/2/2010,3/2/2010,11:40,IN_TEST,31,Lock,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Platts (Gender Differences),0,0,NA,No,NA
+112,C3H,52495,5907,3/2/2010,3/2/2010,17:00,IN_TEST,31,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+113,C3H,52548,5907,3/3/2010,3/3/2010,17:28,IN_TEST,32,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+114,C3H,52521,5907,3/3/2010,3/3/2010,6:35,IN_TEST,32,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+115,C3H,52549,5907,3/3/2010,3/3/2010,17:28,IN_TEST,32,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+116,C3H,52590,5907,3/4/2010,3/4/2010,17:27,IN_TEST,33,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,Given with dinner.,No,NA
+117,C3H,52567,5907,3/4/2010,3/4/2010,6:15,IN_TEST,33,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.,No,NA
+118,C3H,52582,5907,3/4/2010,3/4/2010,14:10,IN_TEST,33,Lock,PO-by mouth,Lactulose 15 ml,1,No,NA,0,0,No bowel movement for 3 days. Meds effective. Good bowel movement within 30 minutes.,No,NA
+119,C3H,52591,5907,3/4/2010,3/4/2010,17:27,IN_TEST,33,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,Given with dinner.,No,NA
+120,C3H,52632,5907,3/5/2010,3/5/2010,17:30,IN_TEST,34,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+121,C3H,52606,5907,3/5/2010,3/5/2010,6:35,IN_TEST,34,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+122,C3H,52633,5907,3/5/2010,3/5/2010,17:30,IN_TEST,34,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+123,C3H,52664,5907,3/6/2010,3/6/2010,17:30,IN_TEST,35,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,Given with dinner as ordered.,No,NA
+124,C3H,52647,5907,3/6/2010,3/6/2010,6:30,IN_TEST,35,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.,No,NA
+125,C3H,52665,5907,3/6/2010,3/6/2010,17:30,IN_TEST,35,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,Given with dinner as ordered.,No,NA
+126,C3H,52698,5907,3/7/2010,3/7/2010,17:25,IN_TEST,36,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+127,C3H,52681,5907,3/7/2010,3/7/2010,6:25,IN_TEST,36,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.,No,NA
+128,C3H,52699,5907,3/7/2010,3/7/2010,17:25,IN_TEST,36,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+129,C3H,52740,5907,3/8/2010,3/8/2010,17:16,IN_TEST,37,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,"Given by V. Honc, RN.",No,NA
+130,C3H,52718,5907,3/8/2010,3/8/2010,6:45,IN_TEST,37,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+131,C3H,52741,5907,3/8/2010,3/8/2010,17:16,IN_TEST,37,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,"Given by V. Honc, RN.",No,NA
+132,C3H,52777,5907,3/9/2010,3/9/2010,17:10,IN_TEST,38,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,Given with dinner.,No,NA
+133,C3H,52751,5907,3/9/2010,3/9/2010,6:20,IN_TEST,38,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Mixed in orange juice and given through straw.,No,NA
+134,C3H,52778,5907,3/9/2010,3/9/2010,17:10,IN_TEST,38,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,Given with dinner.,No,NA
+135,C3H,52820,5907,3/10/2010,3/10/2010,21:45,IN_TEST,39,Lock,PO-by mouth,Ambien 5mg,1,No,NA,0,0,Subject complained of insomnia.,No,NA
+136,C3H,54130,5907,3/10/2010,3/10/2010,17:15,IN_TEST,39,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+137,C3H,52788,5907,3/10/2010,3/10/2010,6:20,IN_TEST,39,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+138,C3H,54131,5907,3/10/2010,3/10/2010,17:15,IN_TEST,39,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+139,C3H,52871,5907,3/11/2010,3/11/2010,22:55,IN_TEST,40,Lock,PO-by mouth,Ambien 5mg,1,No,NA,0,0,Ambien 5 mg given by mouth with water for insomnia.,No,NA
+140,C3H,54312,5907,3/11/2010,3/11/2010,17:30,IN_TEST,40,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+141,C3H,52839,5907,3/11/2010,3/11/2010,7:00,IN_TEST,40,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Medication given in orange juice via a straw.,No,NA
+142,C3H,54313,5907,3/11/2010,3/11/2010,17:30,IN_TEST,40,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+143,C3H,52899,5907,3/12/2010,3/12/2010,17:15,IN_TEST,41,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,Given with dinner.,No,NA
+144,C3H,52882,5907,3/12/2010,3/12/2010,6:40,IN_TEST,41,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+145,C3H,52900,5907,3/12/2010,3/12/2010,17:15,IN_TEST,41,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,Given with dinner.,No,NA
+146,C3H,52937,5907,3/13/2010,3/13/2010,17:15,IN_TEST,42,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+147,C3H,52921,5907,3/13/2010,3/13/2010,6:28,IN_TEST,42,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.,No,NA
+148,C3H,52938,5907,3/13/2010,3/13/2010,17:15,IN_TEST,42,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+149,C3H,52980,5907,3/14/2010,3/14/2010,17:17,IN_TEST,43,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,Given with dinner.,No,NA
+150,C3H,52960,5907,3/14/2010,3/14/2010,6:35,IN_TEST,43,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+151,C3H,52981,5907,3/14/2010,3/14/2010,17:17,IN_TEST,43,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,Given with dinner.,No,NA
+152,C3H,53027,5907,3/15/2010,3/15/2010,17:00,IN_TEST,44,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+153,C3H,53001,5907,3/15/2010,3/15/2010,6:30,IN_TEST,44,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+154,C3H,53028,5907,3/15/2010,3/15/2010,17:00,IN_TEST,44,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+155,C3H,53076,5907,3/16/2010,3/16/2010,17:20,IN_TEST,45,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+156,C3H,53050,5907,3/16/2010,3/16/2010,6:50,IN_TEST,45,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.,No,NA
+157,C3H,53075,5907,3/16/2010,3/16/2010,17:20,IN_TEST,45,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+158,C3H,53121,5907,3/17/2010,3/17/2010,17:15,IN_TEST,46,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,Given with dinner.,No,NA
+159,C3H,53088,5907,3/17/2010,3/17/2010,6:33,IN_TEST,46,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.,No,NA
+160,C3H,53122,5907,3/17/2010,3/17/2010,17:15,IN_TEST,46,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,Given with dinner.,No,NA
+161,C3H,53163,5907,3/18/2010,3/18/2010,17:25,IN_TEST,47,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,Given with dinner.,No,NA
+162,C3H,53139,5907,3/18/2010,3/18/2010,6:35,IN_TEST,47,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.,No,NA
+163,C3H,53164,5907,3/18/2010,3/18/2010,17:25,IN_TEST,47,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,Given with dinner.,No,NA
+164,C3H,53212,5907,3/19/2010,3/19/2010,17:32,IN_TEST,48,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+165,C3H,53187,5907,3/19/2010,3/19/2010,6:30,IN_TEST,48,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+166,C3H,53213,5907,3/19/2010,3/19/2010,17:32,IN_TEST,48,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+167,C3H,53259,5907,3/20/2010,3/20/2010,17:02,IN_TEST,49,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+168,C3H,53234,5907,3/20/2010,3/20/2010,7:00,IN_TEST,49,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+169,C3H,53253,5907,3/20/2010,3/20/2010,11:46,IN_TEST,49,Lock,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Platts (Gender Differences),0,0,No headache reported.,No,NA
+170,C3H,53260,5907,3/20/2010,3/20/2010,17:02,IN_TEST,49,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+171,C3H,53314,5907,3/21/2010,3/21/2010,17:26,IN_TEST,50,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+172,C3H,53280,5907,3/21/2010,3/22/2010,6:35,IN_TEST,50,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.,No,NA
+173,C3H,53315,5907,3/21/2010,3/21/2010,17:26,IN_TEST,50,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+174,C3H,53359,5907,3/22/2010,3/22/2010,17:25,IN_TEST,51,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+175,C3H,53330,5907,3/22/2010,3/22/2010,6:35,IN_TEST,51,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.,No,NA
+176,C3H,53360,5907,3/22/2010,3/22/2010,17:25,IN_TEST,51,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+177,C3H,53407,5907,3/23/2010,3/23/2010,17:23,IN_TEST,52,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+178,C3H,53382,5907,3/23/2010,3/23/2010,6:41,IN_TEST,52,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Mixed in orange juice and given through a straw.,No,NA
+179,C3H,53408,5907,3/23/2010,3/23/2010,17:23,IN_TEST,52,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+180,C3H,53450,5907,3/24/2010,3/24/2010,17:10,IN_TEST,53,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+181,C3H,53428,5907,3/24/2010,3/24/2010,6:35,IN_TEST,53,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Mixed in orange juice and given through a straw.,No,NA
+182,C3H,53451,5907,3/24/2010,3/24/2010,17:10,IN_TEST,53,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+183,C3H,53491,5907,3/25/2010,3/25/2010,17:15,IN_TEST,54,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+184,C3H,53472,5907,3/25/2010,3/25/2010,6:40,IN_TEST,54,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Mixed in orange juice and given through a straw.,No,NA
+185,C3H,53490,5907,3/25/2010,3/25/2010,17:15,IN_TEST,54,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+186,C3H,53522,5907,3/26/2010,3/26/2010,17:06,IN_TEST,55,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+187,C3H,53503,5907,3/26/2010,3/26/2010,6:58,IN_TEST,55,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+188,C3H,53523,5907,3/26/2010,3/26/2010,17:06,IN_TEST,55,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+189,C3H,53545,5907,3/27/2010,3/27/2010,17:14,IN_TEST,56,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+190,C3H,53535,5907,3/27/2010,3/27/2010,6:35,IN_TEST,56,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.,No,NA
+191,C3H,53544,5907,3/27/2010,3/27/2010,17:14,IN_TEST,56,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+192,C3H,53580,5907,3/28/2010,3/28/2010,17:10,IN_TEST,57,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+193,C3H,53564,5907,3/28/2010,3/28/2010,6:40,IN_TEST,57,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Per physician (MD) order, mixed in orange juice and given through a straw per MD order.",No,NA
+194,C3H,53581,5907,3/28/2010,3/28/2010,17:10,IN_TEST,57,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+195,C3H,53622,5907,3/29/2010,3/29/2010,17:15,IN_TEST,58,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+196,C3H,53594,5907,3/29/2010,3/29/2010,6:35,IN_TEST,58,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice before breakfast served.,No,NA
+197,C3H,53621,5907,3/29/2010,3/29/2010,17:15,IN_TEST,58,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+198,C3H,53658,5907,3/30/2010,3/30/2010,17:15,IN_TEST,59,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+199,C3H,53636,5907,3/30/2010,3/30/2010,6:45,IN_TEST,59,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+200,C3H,53659,5907,3/30/2010,3/30/2010,17:15,IN_TEST,59,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+201,C3H,53691,5907,3/31/2010,3/31/2010,16:57,IN_TEST,60,Lock,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA,No,NA
+202,C3H,53674,5907,3/31/2010,3/31/2010,6:35,IN_TEST,60,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+203,C3H,53692,5907,3/31/2010,3/31/2010,16:57,IN_TEST,60,Lock,PO-by mouth,Vitamin D 400 IU,2,No,NA,0,0,NA,No,NA
+204,C3H,53706,5907,4/1/2010,4/1/2010,6:50,POST_TEST,0,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+205,C3H,53714,5907,4/1/2010,4/1/2010,11:05,POST_TEST,0,Lock,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Platts (Gender Differences),0,0,Subject given nitrostat by Dr. Sheean during Vascular Function testing.,No,NA
+206,C3H,53741,5907,4/2/2010,4/2/2010,6:40,POST_TEST,1,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Mixed in orange juice and given through a straw.,No,NA
+207,C3H,53774,5907,4/3/2010,4/3/2010,6:38,POST_TEST,2,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Per physician (MD) order, mixed in orange juice and given through a straw.",No,NA
+208,C3H,53810,5907,4/4/2010,4/4/2010,6:30,POST_TEST,3,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.,No,NA
+209,C3H,53815,5907,4/4/2010,4/4/2010,11:49,POST_TEST,3,Lock,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Platts (Gender Differences),0,0,NA,No,NA
+210,C3H,53854,5907,4/5/2010,4/5/2010,6:30,POST_TEST,4,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Given in orange juice with a straw on an empty stomach before breakfast.,No,NA
+211,C3H,53904,5907,4/6/2010,4/6/2010,6:30,POST_TEST,5,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+212,C3H,53941,5907,4/7/2010,4/7/2010,6:40,POST_TEST,6,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+213,C3H,53980,5907,4/8/2010,4/8/2010,6:19,POST_TEST,7,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Per physician (MD) order, mixed in orange juice and given through a straw before breakfast.",No,NA
+214,C3H,54016,5907,4/9/2010,4/9/2010,6:35,POST_TEST,8,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+215,C3H,54052,5907,4/10/2010,4/10/2010,6:40,POST_TEST,9,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+216,C3H,54088,5907,4/11/2010,4/11/2010,6:38,POST_TEST,10,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,Mixed in orange juice and given through a straw.,No,NA
+217,C3H,54122,5907,4/12/2010,4/12/2010,6:40,POST_TEST,11,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA
+218,C3H,54156,5907,4/13/2010,4/13/2010,6:20,POST_TEST,12,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,"Per physician (MD) order, mixed in orange juice and given through a straw.",No,NA
+219,C3H,54191,5907,4/14/2010,4/14/2010,6:40,POST_TEST,13,Lock,PO-by mouth,Ferrous Sulfate 88mg/2ml = 17.6mg elemental iron,1,No,NA,0,0,NA,No,NA

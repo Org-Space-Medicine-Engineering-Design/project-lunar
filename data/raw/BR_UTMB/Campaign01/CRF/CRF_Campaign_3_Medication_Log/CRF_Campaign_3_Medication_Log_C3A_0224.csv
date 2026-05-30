@@ -1,0 +1,28 @@
+﻿ID,Subject,Date,Test_Phase,BR_Day,Time,Medication,Dose,Route,Indication,Pain_Score,Outcome
+1,224,2/25/2005,PRE_TEST,10,1710,Tylenol,650 mg,PO,H/A,10-Jun,Effective pain level decreased to 1/10
+2,224,3/3/2005,PRE_TEST,4,1440,Nitrostat,0.4 mg,PO,Testing,NA,NA
+3,224,3/7/2005,IN_TEST,1,1258,NS (Normal Saline),NA,IV,Study,0/10,NA
+4,224,3/7/2005,IN_TEST,1,1332,Indomethacin,12.5 mcg/0.05ml at 6cc/hour x 10 min,IV,Study,0/10,NA
+5,224,3/7/2005,IN_TEST,1,1343,Phenylephrine,3160 ng/0.1ml at 6cc/hour x ,IV,Study,0/10,NA
+6,224,3/7/2005,IN_TEST,1,1408,Isoproterenol,100 ng/0.1ml at 6cc/hour x 10 min,IV,Study,0/10,NA
+7,224,3/7/2005,IN_TEST,1,1423,Acetylcholine,0.1 nmol/0.05ml at 3cc/hour x 6 min,IV,Study,0/10,NA
+8,224,3/7/2005,IN_TEST,1,1432,Acetylcholine,0.316 nmol/0.05ml at 3cc/hour x 6 min,IV,Study,0/10,NA
+9,224,3/7/2005,IN_TEST,1,1442,Acetylcholine,1.0 nmol/0.05ml at 3cc/hour x 6 min,IV,Study,0/10,NA
+10,224,3/7/2005,IN_TEST,1,1450,Acetylcholine,3.16 nmol/0.05ml at 3cc/hour x 6 min,IV,Study,0/10,NA
+11,224,3/7/2005,IN_TEST,1,1502,LNMMA,50 mcg/0.05ml at 3cc/hour x 10 min,IV,Study,0/10,NA
+12,224,3/7/2005,IN_TEST,1,1518,Nitroglycerin,16 pmol/0.1ml at 6cc/hour x 10 min,IV,Study,0/10,NA
+13,224,3/18/2005,IN_TEST,12,40,Ambien,5 mg,PO,Insomnia,NA,0100 - pt sleeping
+14,224,4/7/2005,IN_TEST,32,1530,Motrin,400 mg,PO,"""Slight headache""",10-Mar,1930 - Pt pain at a 1 on 0 -10 scale. States pain is relieved.
+15,224,4/21/2005,IN_TEST,46,1710,Ibuprofen,400 mg,PO,HA - frontal region,10-Mar,"1810 - HA decreased ""1"" on 0 -10 scale."
+16,224,4/25/2005,IN_TEST,50,1225,Motrin,800 mg,PO,HA,10-Mar,"1355 - HA now ""3"" 1800 - HA ""1"""
+17,224,4/30/2005,IN_TEST,55,2110,Ambien,5 mg,PO,Sleep,NA,Sleeping 2300
+18,224,5/2/2005,IN_TEST,57,1946,Phenylephrine,0.4 mcg/kg/min at 6cc/hr,IV,PE - Nitroprusside Testing,NA,NA
+19,224,5/2/2005,IN_TEST,57,1957,Phenylephrine,0.8 mcg/kg/min at 12cc/hr for,IV,PE - Nitroprusside Testing,NA,NA
+20,224,5/2/2005,IN_TEST,57,2008,Phenylephrine,1.6 mcg/kg/min,IV,PE - Nitroprusside Testing,NA,NA
+21,224,5/2/2005,IN_TEST,57,1935,Normal Saline,6 cc/hr,IV,PE - Nitroprusside Testing,NA,NA
+22,224,5/2/2005,IN_TEST,57,2043,Sodium Nitroprusside,0.4 mcg/kg/min at 6 cc/hr,IV,PE - Nitroprusside Testing,NA,NA
+23,224,5/2/2005,IN_TEST,57,2053,Sodium Nitroprusside,0.8 mcg/kg/min at 12cc/hr,IV,PE - Nitroprusside Testing,NA,NA
+24,224,5/2/2005,IN_TEST,57,2104,Sodium Nitroprusside,1.2 mcg/kg/min at 18cc/hr,IV,PE - Nitroprusside Testing,NA,NA
+25,224,5/15/2005,IN_TEST,70,1935,Tylenol (dc'd),325 mg,PO,Headache,10-Mar,2010 head ache relived
+26,224,5/16/2005,IN_TEST,71,1925,Acetaminophen,650 mg,PO,HA frontal region only x 15 min,10-Mar,"2100 - decreased to ""1/2"" on 0-10 scale."
+27,224,6/17/2005,POST_TEST,12,2120,Ambien,5 mg,PO,Sleep,NA,2300 Pt sleeping

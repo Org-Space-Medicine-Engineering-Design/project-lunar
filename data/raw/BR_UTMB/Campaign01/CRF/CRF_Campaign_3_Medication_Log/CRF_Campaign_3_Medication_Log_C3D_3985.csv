@@ -1,0 +1,395 @@
+﻿ID,Campaign,Record,Subject,Date,Time_Administered,Test_Phase,BR_Day,Route,Medication,Quantity,Related_to_Test,Test,Initial_Pain_Score,OutCome_Pain_Score,Comments
+1,C3D,28575,3985,1/25/2007,0:00,PRE_TEST,9,PO-by mouth,Acetaminophen 325mg,2,Yes,Lactulose/ Acetaminophen Test,0,0,Time given was not recorded.
+2,C3D,28576,3985,1/25/2007,0:00,PRE_TEST,9,PO-by mouth,Lactulose 10g/15ml,1,Yes,Lactulose/ Acetaminophen Test,0,0,Time given was not recorded.
+3,C3D,118,3985,1/29/2007,11:40,PRE_TEST,5,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Meck (extramural science),0,0,NA
+4,C3D,28577,3985,1/31/2007,9:12,PRE_TEST,3,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+5,C3D,28578,3985,1/31/2007,10:14,PRE_TEST,3,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+6,C3D,28579,3985,1/31/2007,10:14,PRE_TEST,3,IV-intravenous,Ketorolac 12.5 micrograms/0.1 ml x 10 minutes,NA,Yes,Dr. Meck (extramural science),0,0,NA
+7,C3D,28580,3985,1/31/2007,10:29,PRE_TEST,3,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+8,C3D,28581,3985,1/31/2007,10:29,PRE_TEST,3,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+9,C3D,28582,3985,1/31/2007,10:29,PRE_TEST,3,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+10,C3D,28583,3985,1/31/2007,10:53,PRE_TEST,3,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+11,C3D,28584,3985,1/31/2007,10:53,PRE_TEST,3,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+12,C3D,28585,3985,1/31/2007,10:53,PRE_TEST,3,IV-intravenous,Isoproterenol 100 ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+13,C3D,28586,3985,1/31/2007,11:06,PRE_TEST,3,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+14,C3D,28587,3985,1/31/2007,11:06,PRE_TEST,3,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+15,C3D,28588,3985,1/31/2007,11:06,PRE_TEST,3,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+16,C3D,28589,3985,1/31/2007,11:20,PRE_TEST,3,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+17,C3D,28590,3985,1/31/2007,11:20,PRE_TEST,3,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+18,C3D,28591,3985,1/31/2007,11:20,PRE_TEST,3,IV-intravenous,Acetylcholine 0.1 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+19,C3D,28592,3985,1/31/2007,11:30,PRE_TEST,3,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+20,C3D,28593,3985,1/31/2007,11:30,PRE_TEST,3,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+21,C3D,28594,3985,1/31/2007,11:30,PRE_TEST,3,IV-intravenous,Acetylcholine 0.316nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+22,C3D,28595,3985,1/31/2007,11:44,PRE_TEST,3,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+23,C3D,28597,3985,1/31/2007,11:44,PRE_TEST,3,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+24,C3D,28598,3985,1/31/2007,11:44,PRE_TEST,3,IV-intravenous,Acetylcholine 1.0 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+25,C3D,28599,3985,1/31/2007,11:53,PRE_TEST,3,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+26,C3D,28600,3985,1/31/2007,11:53,PRE_TEST,3,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+27,C3D,28601,3985,1/31/2007,11:53,PRE_TEST,3,IV-intravenous,Acetylcholine 3.16 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+28,C3D,28602,3985,1/31/2007,12:09,PRE_TEST,3,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+29,C3D,28603,3985,1/31/2007,12:09,PRE_TEST,3,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+30,C3D,28604,3985,1/31/2007,12:09,PRE_TEST,3,IV-intravenous,Acetylcholine 3.16 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+31,C3D,28605,3985,1/31/2007,12:23,PRE_TEST,3,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+32,C3D,28611,3985,1/31/2007,12:23,PRE_TEST,3,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+33,C3D,28612,3985,1/31/2007,12:23,PRE_TEST,3,IV-intravenous,Acetylcholine 1.0 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+34,C3D,28614,3985,1/31/2007,12:23,PRE_TEST,3,IV-intravenous,LNMMA 50 mcg / 0.05ml at 3cc/hr x 10 minutes,NA,Yes,Dr. Meck (extramural science),0,0,NA
+35,C3D,28615,3985,1/31/2007,12:38,PRE_TEST,3,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+36,C3D,28616,3985,1/31/2007,12:38,PRE_TEST,3,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+37,C3D,28617,3985,1/31/2007,12:38,PRE_TEST,3,IV-intravenous,Nitroglycerin 16 pmol /0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+38,C3D,28699,3985,2/1/2007,9:10,PRE_TEST,2,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+39,C3D,28700,3985,2/1/2007,10:21,PRE_TEST,2,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+40,C3D,28701,3985,2/1/2007,10:21,PRE_TEST,2,IV-intravenous,Ketorolac 12.5 micrograms/0.1 ml x 10 minutes,NA,Yes,Dr. Meck (extramural science),0,0,NA
+41,C3D,28702,3985,2/1/2007,10:37,PRE_TEST,2,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+42,C3D,28703,3985,2/1/2007,10:37,PRE_TEST,2,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+43,C3D,28704,3985,2/1/2007,10:37,PRE_TEST,2,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+44,C3D,28693,3985,2/1/2007,11:09,PRE_TEST,2,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+45,C3D,28694,3985,2/1/2007,11:09,PRE_TEST,2,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+46,C3D,28695,3985,2/1/2007,11:09,PRE_TEST,2,IV-intravenous,Isoproterenol 100 ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+47,C3D,28696,3985,2/1/2007,11:25,PRE_TEST,2,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+48,C3D,28697,3985,2/1/2007,11:25,PRE_TEST,2,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+49,C3D,28698,3985,2/1/2007,11:25,PRE_TEST,2,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+50,C3D,28684,3985,2/1/2007,11:54,PRE_TEST,2,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+51,C3D,28685,3985,2/1/2007,11:54,PRE_TEST,2,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+52,C3D,28686,3985,2/1/2007,11:54,PRE_TEST,2,IV-intravenous,Acetylcholine 0.1 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+53,C3D,28687,3985,2/1/2007,12:03,PRE_TEST,2,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+54,C3D,28688,3985,2/1/2007,12:03,PRE_TEST,2,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+55,C3D,28689,3985,2/1/2007,12:03,PRE_TEST,2,IV-intravenous,Acetylcholine 0.316nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+56,C3D,28690,3985,2/1/2007,12:18,PRE_TEST,2,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+57,C3D,28691,3985,2/1/2007,12:18,PRE_TEST,2,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+58,C3D,28692,3985,2/1/2007,12:18,PRE_TEST,2,IV-intravenous,Acetylcholine 1.0 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+59,C3D,28681,3985,2/1/2007,12:28,PRE_TEST,2,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+60,C3D,28682,3985,2/1/2007,12:28,PRE_TEST,2,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+61,C3D,28683,3985,2/1/2007,12:28,PRE_TEST,2,IV-intravenous,Acetylcholine 3.16 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+62,C3D,28674,3985,2/1/2007,12:42,PRE_TEST,2,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+63,C3D,28675,3985,2/1/2007,12:42,PRE_TEST,2,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+64,C3D,28676,3985,2/1/2007,12:42,PRE_TEST,2,IV-intravenous,Acetylcholine 1.0 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+65,C3D,28677,3985,2/1/2007,12:42,PRE_TEST,2,IV-intravenous,LNMMA 50 mcg / 0.05ml at 3cc/hr x 10 minutes,NA,Yes,Dr. Meck (extramural science),0,0,NA
+66,C3D,28678,3985,2/1/2007,12:56,PRE_TEST,2,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+67,C3D,28679,3985,2/1/2007,12:56,PRE_TEST,2,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+68,C3D,28680,3985,2/1/2007,12:56,PRE_TEST,2,IV-intravenous,Nitroglycerin 16 pmol /0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+69,C3D,28625,3985,2/2/2007,9:43,PRE_TEST,1,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+70,C3D,28622,3985,2/2/2007,10:00,PRE_TEST,1,IV-intravenous,Phenylephrine 0.4 mcg – 6cc hour,NA,Yes,Dr. Meck (extramural science),0,0,NA
+71,C3D,28623,3985,2/2/2007,10:13,PRE_TEST,1,IV-intravenous,Phenylephrine 0.8 mcg – 12cc hour,NA,Yes,Dr. Meck (extramural science),0,0,NA
+72,C3D,28624,3985,2/2/2007,10:24,PRE_TEST,1,IV-intravenous,Phenylephrine 1.6 mcg – 24cc hour,NA,Yes,Dr. Meck (extramural science),0,0,NA
+73,C3D,28626,3985,2/2/2007,10:55,PRE_TEST,1,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+74,C3D,28627,3985,2/2/2007,11:07,PRE_TEST,1,IV-intravenous,Sodium Nitroprusside 0.4 mcg – 6cc hour,NA,Yes,Dr. Meck (extramural science),0,0,NA
+75,C3D,28628,3985,2/2/2007,11:18,PRE_TEST,1,IV-intravenous,Sodium Nitroprusside 0.8 mcg – 12cc hour,NA,Yes,Dr. Meck (extramural science),0,0,NA
+76,C3D,28629,3985,2/2/2007,11:30,PRE_TEST,1,IV-intravenous,Sodium Nitroprusside 1.2 mcg – 18cc hour,NA,Yes,Dr. Meck (extramural science),0,0,NA
+77,C3D,28619,3985,2/3/2007,17:00,IN_TEST,1,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+78,C3D,28618,3985,2/4/2007,17:00,IN_TEST,2,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+79,C3D,19919,3985,2/5/2007,11:20,IN_TEST,3,Topical,Aquaphor Lotion,1,No,NA,NA,NA,Relief.
+80,C3D,28620,3985,2/5/2007,17:40,IN_TEST,3,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+81,C3D,28621,3985,2/6/2007,17:30,IN_TEST,4,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+82,C3D,28630,3985,2/7/2007,17:20,IN_TEST,5,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+83,C3D,260,3985,2/8/2007,17:40,IN_TEST,6,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+84,C3D,287,3985,2/9/2007,14:00,IN_TEST,7,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Meck (extramural science),0,2,Headache 2/10 7 minutes into test and headache resolved at 1610.
+85,C3D,289,3985,2/9/2007,17:30,IN_TEST,7,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+86,C3D,290,3985,2/9/2007,18:20,IN_TEST,7,PO-by mouth,Acetaminophen 325mg,1,No,NA,2,NA,NA
+87,C3D,327,3985,2/10/2007,17:30,IN_TEST,8,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+88,C3D,372,3985,2/11/2007,17:15,IN_TEST,9,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+89,C3D,406,3985,2/12/2007,17:36,IN_TEST,10,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+90,C3D,436,3985,2/13/2007,18:00,IN_TEST,11,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+91,C3D,469,3985,2/14/2007,17:15,IN_TEST,12,PO-by mouth,Colace 100mg,1,No,NA,0,1,NA
+92,C3D,506,3985,2/15/2007,18:18,IN_TEST,13,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+93,C3D,28631,3985,2/16/2007,17:30,IN_TEST,14,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+94,C3D,578,3985,2/17/2007,17:15,IN_TEST,15,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+95,C3D,616,3985,2/18/2007,17:15,IN_TEST,16,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+96,C3D,641,3985,2/19/2007,17:30,IN_TEST,17,PO-by mouth,Colace 100mg,1,No,NA,0,0,per protocol
+97,C3D,678,3985,2/20/2007,17:30,IN_TEST,18,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+98,C3D,713,3985,2/21/2007,17:20,IN_TEST,19,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+99,C3D,794,3985,2/22/2007,17:15,IN_TEST,20,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+100,C3D,847,3985,2/23/2007,15:05,IN_TEST,21,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Meck (extramural science),0,0,NA
+101,C3D,846,3985,2/23/2007,15:15,IN_TEST,21,PO-by mouth,Acetaminophen 325mg,2,Yes,Dr. Meck (extramural science),1,NA,NA
+102,C3D,850,3985,2/23/2007,17:15,IN_TEST,21,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+103,C3D,907,3985,2/24/2007,17:00,IN_TEST,22,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+104,C3D,949,3985,2/25/2007,17:25,IN_TEST,23,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+105,C3D,28632,3985,2/26/2007,6:26,IN_TEST,24,PO-by mouth,Lactulose 10g/15ml,1,Yes,Lactulose/ Acetaminophen Test,0,0,NA
+106,C3D,28633,3985,2/26/2007,6:26,IN_TEST,24,PO-by mouth,Acetaminophen 325mg,2,Yes,Lactulose/ Acetaminophen Test,0,0,NA
+107,C3D,984,3985,2/26/2007,17:30,IN_TEST,24,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+108,C3D,1019,3985,2/27/2007,17:30,IN_TEST,25,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+109,C3D,1079,3985,2/28/2007,17:14,IN_TEST,26,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+110,C3D,28634,3985,3/1/2007,15:30,IN_TEST,27,PO-by mouth,Acetaminophen 325mg,1,No,NA,2,2,Given for headache.
+111,C3D,1135,3985,3/1/2007,18:00,IN_TEST,27,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+112,C3D,1187,3985,3/2/2007,17:00,IN_TEST,28,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+113,C3D,1234,3985,3/3/2007,12:15,IN_TEST,29,PO-by mouth,Acetaminophen 325mg,2,No,NA,4,NA,NA
+114,C3D,1235,3985,3/3/2007,17:34,IN_TEST,29,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+115,C3D,1282,3985,3/4/2007,16:59,IN_TEST,30,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+116,C3D,1343,3985,3/5/2007,17:00,IN_TEST,31,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+117,C3D,28705,3985,3/6/2007,13:33,IN_TEST,32,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+118,C3D,28707,3985,3/6/2007,14:27,IN_TEST,32,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+119,C3D,28709,3985,3/6/2007,14:27,IN_TEST,32,IV-intravenous,Ketorolac 12.5 micrograms/0.1 ml x 10 minutes,NA,Yes,Dr. Meck (extramural science),0,0,NA
+120,C3D,28711,3985,3/6/2007,14:43,IN_TEST,32,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+121,C3D,28713,3985,3/6/2007,14:43,IN_TEST,32,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+122,C3D,28715,3985,3/6/2007,14:43,IN_TEST,32,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+123,C3D,28717,3985,3/6/2007,15:09,IN_TEST,32,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+124,C3D,28719,3985,3/6/2007,15:09,IN_TEST,32,IV-intravenous,Other - Isoproterenol 200 ng/0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+125,C3D,28720,3985,3/6/2007,15:09,IN_TEST,32,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+126,C3D,28724,3985,3/6/2007,15:26,IN_TEST,32,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+127,C3D,28726,3985,3/6/2007,15:26,IN_TEST,32,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+128,C3D,28728,3985,3/6/2007,15:26,IN_TEST,32,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+129,C3D,28725,3985,3/6/2007,15:43,IN_TEST,32,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+130,C3D,28727,3985,3/6/2007,15:43,IN_TEST,32,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+131,C3D,28729,3985,3/6/2007,15:43,IN_TEST,32,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+132,C3D,28730,3985,3/6/2007,16:00,IN_TEST,32,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+133,C3D,28731,3985,3/6/2007,16:00,IN_TEST,32,IV-intravenous,Acetylcholine 0.1 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+134,C3D,28732,3985,3/6/2007,16:00,IN_TEST,32,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+135,C3D,28733,3985,3/6/2007,16:12,IN_TEST,32,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+136,C3D,28734,3985,3/6/2007,16:12,IN_TEST,32,IV-intravenous,Acetylcholine 0.316nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+137,C3D,28735,3985,3/6/2007,16:12,IN_TEST,32,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+138,C3D,28736,3985,3/6/2007,16:23,IN_TEST,32,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+139,C3D,28737,3985,3/6/2007,16:23,IN_TEST,32,IV-intravenous,Acetylcholine 1.0 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+140,C3D,28738,3985,3/6/2007,16:23,IN_TEST,32,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+141,C3D,28739,3985,3/6/2007,16:37,IN_TEST,32,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+142,C3D,28740,3985,3/6/2007,16:37,IN_TEST,32,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+143,C3D,28741,3985,3/6/2007,16:37,IN_TEST,32,IV-intravenous,Acetylcholine 0.316nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+144,C3D,28742,3985,3/6/2007,16:37,IN_TEST,32,IV-intravenous,LNMMA 50 mcg / 0.05ml at 3cc/hr x 10 minutes,NA,Yes,Dr. Meck (extramural science),0,0,NA
+145,C3D,28743,3985,3/6/2007,16:54,IN_TEST,32,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+146,C3D,28744,3985,3/6/2007,16:54,IN_TEST,32,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+147,C3D,28745,3985,3/6/2007,16:54,IN_TEST,32,IV-intravenous,Nitroglycerin 16 pmol /0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+148,C3D,1416,3985,3/6/2007,17:00,IN_TEST,32,PO-by mouth,Colace 100mg,2,No,NA,NA,NA,NA
+149,C3D,28785,3985,3/7/2007,13:03,IN_TEST,33,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+150,C3D,28786,3985,3/7/2007,13:41,IN_TEST,33,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+151,C3D,28787,3985,3/7/2007,13:41,IN_TEST,33,IV-intravenous,Ketorolac 12.5 micrograms/0.1 ml x 10 minutes,NA,Yes,Dr. Meck (extramural science),0,0,NA
+152,C3D,28788,3985,3/7/2007,14:00,IN_TEST,33,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+153,C3D,28789,3985,3/7/2007,14:00,IN_TEST,33,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+154,C3D,28790,3985,3/7/2007,14:25,IN_TEST,33,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+155,C3D,28791,3985,3/7/2007,14:25,IN_TEST,33,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+156,C3D,28792,3985,3/7/2007,14:25,IN_TEST,33,IV-intravenous,Other - Isoproterenol 200 ng/0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+157,C3D,28793,3985,3/7/2007,14:41,IN_TEST,33,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+158,C3D,28795,3985,3/7/2007,14:41,IN_TEST,33,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+159,C3D,28794,3985,3/7/2007,14:54,IN_TEST,33,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+160,C3D,28796,3985,3/7/2007,14:54,IN_TEST,33,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+161,C3D,28797,3985,3/7/2007,15:07,IN_TEST,33,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+162,C3D,28798,3985,3/7/2007,15:07,IN_TEST,33,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+163,C3D,28799,3985,3/7/2007,15:07,IN_TEST,33,IV-intravenous,Acetylcholine 0.1 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+164,C3D,28800,3985,3/7/2007,15:17,IN_TEST,33,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+165,C3D,28801,3985,3/7/2007,15:17,IN_TEST,33,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+166,C3D,28802,3985,3/7/2007,15:17,IN_TEST,33,IV-intravenous,Acetylcholine 0.316nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+167,C3D,28803,3985,3/7/2007,15:27,IN_TEST,33,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+168,C3D,28804,3985,3/7/2007,15:27,IN_TEST,33,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+169,C3D,28805,3985,3/7/2007,15:27,IN_TEST,33,IV-intravenous,Acetylcholine 1.0 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+170,C3D,28806,3985,3/7/2007,15:37,IN_TEST,33,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+171,C3D,28807,3985,3/7/2007,15:37,IN_TEST,33,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+172,C3D,28808,3985,3/7/2007,15:37,IN_TEST,33,IV-intravenous,Acetylcholine 3.16 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+173,C3D,28809,3985,3/7/2007,15:50,IN_TEST,33,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+174,C3D,28810,3985,3/7/2007,15:50,IN_TEST,33,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+175,C3D,28811,3985,3/7/2007,15:50,IN_TEST,33,IV-intravenous,Acetylcholine 1.0 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+176,C3D,28812,3985,3/7/2007,15:50,IN_TEST,33,IV-intravenous,LNMMA 50 mcg / 0.05ml at 3cc/hr x 10 minutes,NA,Yes,Dr. Meck (extramural science),0,0,NA
+177,C3D,28813,3985,3/7/2007,16:10,IN_TEST,33,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+178,C3D,28814,3985,3/7/2007,16:10,IN_TEST,33,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+179,C3D,28815,3985,3/7/2007,16:10,IN_TEST,33,IV-intravenous,Nitroglycerin 16 pmol /0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+180,C3D,28635,3985,3/7/2007,17:45,IN_TEST,33,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+181,C3D,1441,3985,3/7/2007,19:05,IN_TEST,33,PO-by mouth,Pepcid 20mg,1,No,NA,0,0,Indigestion resolved
+182,C3D,1489,3985,3/8/2007,17:00,IN_TEST,34,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+183,C3D,1533,3985,3/9/2007,17:30,IN_TEST,35,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+184,C3D,1605,3985,3/10/2007,17:00,IN_TEST,36,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+185,C3D,1639,3985,3/11/2007,17:03,IN_TEST,37,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+186,C3D,1709,3985,3/12/2007,17:10,IN_TEST,38,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+187,C3D,1734,3985,3/12/2007,21:30,IN_TEST,38,PO-by mouth,Ambien 5mg,1,No,NA,0,NA,Will assess sleep status in AM
+188,C3D,1762,3985,3/13/2007,17:15,IN_TEST,39,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+189,C3D,19914,3985,3/13/2007,19:25,IN_TEST,39,PO-by mouth,Acetaminophen 325mg,2,No,NA,0,0,NA
+190,C3D,1853,3985,3/14/2007,17:03,IN_TEST,40,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+191,C3D,1927,3985,3/15/2007,17:00,IN_TEST,41,PO-by mouth,Colace 100mg,2,No,NA,0,NA,NA
+192,C3D,1998,3985,3/16/2007,17:52,IN_TEST,42,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+193,C3D,2030,3985,3/17/2007,17:00,IN_TEST,43,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+194,C3D,2067,3985,3/18/2007,17:00,IN_TEST,44,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+195,C3D,2142,3985,3/19/2007,17:15,IN_TEST,45,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+196,C3D,2235,3985,3/20/2007,17:15,IN_TEST,46,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+197,C3D,19916,3985,3/20/2007,21:40,IN_TEST,46,PO-by mouth,Ambien 5mg,1,No,NA,0,0,NA
+198,C3D,2296,3985,3/21/2007,17:25,IN_TEST,47,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+199,C3D,2362,3985,3/22/2007,17:15,IN_TEST,48,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+200,C3D,2424,3985,3/23/2007,11:30,IN_TEST,49,PO-by mouth,Acetaminophen 325mg,2,Yes,Dr. Meck (extramural science),2,0,Within 1 hour subject was completely free of headache
+201,C3D,2441,3985,3/23/2007,17:07,IN_TEST,49,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+202,C3D,28636,3985,3/24/2007,17:00,IN_TEST,50,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+203,C3D,2589,3985,3/25/2007,17:15,IN_TEST,51,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+204,C3D,28637,3985,3/26/2007,6:25,IN_TEST,52,PO-by mouth,Lactulose 10g/15ml,1,Yes,Lactulose/ Acetaminophen Test,0,0,NA
+205,C3D,28638,3985,3/26/2007,6:25,IN_TEST,52,PO-by mouth,Acetaminophen 325mg,2,Yes,Lactulose/ Acetaminophen Test,0,0,NA
+206,C3D,2695,3985,3/27/2007,17:00,IN_TEST,53,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+207,C3D,2771,3985,3/28/2007,17:18,IN_TEST,54,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+208,C3D,2842,3985,3/29/2007,8:18,IN_TEST,55,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+209,C3D,2843,3985,3/29/2007,8:55,IN_TEST,55,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+210,C3D,2844,3985,3/29/2007,8:55,IN_TEST,55,IV-intravenous,Ketorolac 12.5 micrograms/0.1 ml x 10 minutes,NA,Yes,Dr. Meck (extramural science),0,0,NA
+211,C3D,2845,3985,3/29/2007,9:10,IN_TEST,55,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+212,C3D,2846,3985,3/29/2007,9:10,IN_TEST,55,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+213,C3D,2847,3985,3/29/2007,9:10,IN_TEST,55,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+214,C3D,2848,3985,3/29/2007,9:35,IN_TEST,55,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+215,C3D,2849,3985,3/29/2007,9:35,IN_TEST,55,IV-intravenous,Other - Isoproterenol 200ng/0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+216,C3D,2850,3985,3/29/2007,9:35,IN_TEST,55,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,No,NA,0,0,NA
+217,C3D,2851,3985,3/29/2007,9:48,IN_TEST,55,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+218,C3D,2852,3985,3/29/2007,9:48,IN_TEST,55,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+219,C3D,2853,3985,3/29/2007,9:48,IN_TEST,55,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+220,C3D,2854,3985,3/29/2007,10:04,IN_TEST,55,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+221,C3D,2855,3985,3/29/2007,10:04,IN_TEST,55,IV-intravenous,Acetylcholine 0.1 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+222,C3D,2856,3985,3/29/2007,10:04,IN_TEST,55,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+223,C3D,2857,3985,3/29/2007,10:13,IN_TEST,55,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+224,C3D,2858,3985,3/29/2007,10:13,IN_TEST,55,IV-intravenous,Acetylcholine 0.316nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+225,C3D,2859,3985,3/29/2007,10:13,IN_TEST,55,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+226,C3D,2860,3985,3/29/2007,10:25,IN_TEST,55,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+227,C3D,2861,3985,3/29/2007,10:25,IN_TEST,55,IV-intravenous,Acetylcholine 0.1 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+228,C3D,2862,3985,3/29/2007,10:25,IN_TEST,55,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+229,C3D,2863,3985,3/29/2007,10:33,IN_TEST,55,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+230,C3D,2864,3985,3/29/2007,10:33,IN_TEST,55,IV-intravenous,Acetylcholine 3.16 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+231,C3D,2865,3985,3/29/2007,10:33,IN_TEST,55,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+232,C3D,2866,3985,3/29/2007,10:47,IN_TEST,55,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+233,C3D,2867,3985,3/29/2007,10:47,IN_TEST,55,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+234,C3D,2868,3985,3/29/2007,10:47,IN_TEST,55,IV-intravenous,Acetylcholine 1.0 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+235,C3D,2869,3985,3/29/2007,10:47,IN_TEST,55,IV-intravenous,LNMMA 50 mcg / 0.05ml at 3cc/hr x 10 minutes,NA,Yes,Dr. Meck (extramural science),0,0,NA
+236,C3D,2870,3985,3/29/2007,11:01,IN_TEST,55,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+237,C3D,2871,3985,3/29/2007,11:01,IN_TEST,55,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+238,C3D,2872,3985,3/29/2007,11:01,IN_TEST,55,IV-intravenous,Nitroglycerin 16 pmol /0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+239,C3D,28639,3985,3/29/2007,17:30,IN_TEST,55,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+240,C3D,2952,3985,3/30/2007,17:00,IN_TEST,56,PO-by mouth,Acetaminophen 325mg,2,Yes,Dr. Meck (extramural science),4,4,Voices bilateral dorsal foot pain from attempted IV starts
+241,C3D,2960,3985,3/30/2007,18:00,IN_TEST,56,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+242,C3D,3042,3985,3/31/2007,17:25,IN_TEST,57,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+243,C3D,3088,3985,4/1/2007,8:51,IN_TEST,58,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+244,C3D,3092,3985,4/1/2007,9:05,IN_TEST,58,IV-intravenous,Phenylephrine 0.4 mcg – 6cc hour,NA,Yes,Dr. Meck (extramural science),0,0,NA
+245,C3D,3089,3985,4/1/2007,9:16,IN_TEST,58,IV-intravenous,Phenylephrine 0.8 mcg – 12cc hour,NA,Yes,Dr. Meck (extramural science),0,0,NA
+246,C3D,3090,3985,4/1/2007,9:29,IN_TEST,58,IV-intravenous,Phenylephrine 1.6 mcg – 24cc hour,NA,Yes,Dr. Meck (extramural science),0,0,NA
+247,C3D,3091,3985,4/1/2007,10:06,IN_TEST,58,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+248,C3D,3093,3985,4/1/2007,10:20,IN_TEST,58,IV-intravenous,Sodium Nitroprusside 0.4 mcg – 6cc hour,NA,Yes,Dr. Meck (extramural science),0,0,NA
+249,C3D,3094,3985,4/1/2007,10:32,IN_TEST,58,IV-intravenous,Sodium Nitroprusside 0.8 mcg – 12cc hour,NA,Yes,Dr. Meck (extramural science),0,0,NA
+250,C3D,3095,3985,4/1/2007,10:43,IN_TEST,58,IV-intravenous,Sodium Nitroprusside 1.2 mcg – 18cc hour,NA,Yes,Dr. Meck (extramural science),0,0,NA
+251,C3D,3136,3985,4/1/2007,17:15,IN_TEST,58,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+252,C3D,3181,3985,4/2/2007,11:40,IN_TEST,59,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+253,C3D,3182,3985,4/2/2007,12:26,IN_TEST,59,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+254,C3D,3183,3985,4/2/2007,12:26,IN_TEST,59,IV-intravenous,Ketorolac 12.5 micrograms/0.1 ml x 10 minutes,NA,Yes,Dr. Meck (extramural science),0,0,NA
+255,C3D,3184,3985,4/2/2007,12:42,IN_TEST,59,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+256,C3D,3185,3985,4/2/2007,12:42,IN_TEST,59,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+257,C3D,28640,3985,4/2/2007,12:42,IN_TEST,59,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+258,C3D,3186,3985,4/2/2007,13:13,IN_TEST,59,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+259,C3D,3187,3985,4/2/2007,13:13,IN_TEST,59,IV-intravenous,Other - Isoproterenol 200ng/0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+260,C3D,3188,3985,4/2/2007,13:13,IN_TEST,59,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+261,C3D,3189,3985,4/2/2007,13:27,IN_TEST,59,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+262,C3D,3190,3985,4/2/2007,13:27,IN_TEST,59,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+263,C3D,3191,3985,4/2/2007,13:27,IN_TEST,59,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+264,C3D,3204,3985,4/2/2007,17:32,IN_TEST,59,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+265,C3D,28641,3985,4/3/2007,11:00,IN_TEST,60,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Meck (extramural science),0,0,NA
+266,C3D,3281,3985,4/3/2007,13:30,IN_TEST,60,PO-by mouth,Acetaminophen 325mg,2,No,NA,1,0,Calves ache from standing day 60
+267,C3D,3282,3985,4/3/2007,17:30,IN_TEST,60,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+268,C3D,3368,3985,4/4/2007,17:13,IN_TEST,61,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+269,C3D,3444,3985,4/5/2007,17:30,IN_TEST,62,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+270,C3D,3529,3985,4/6/2007,17:27,IN_TEST,63,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+271,C3D,3602,3985,4/7/2007,17:30,IN_TEST,64,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+272,C3D,3675,3985,4/8/2007,17:30,IN_TEST,65,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+273,C3D,3745,3985,4/9/2007,17:15,IN_TEST,66,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+274,C3D,3823,3985,4/10/2007,17:21,IN_TEST,67,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+275,C3D,3890,3985,4/11/2007,17:17,IN_TEST,68,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+276,C3D,3911,3985,4/11/2007,20:30,IN_TEST,68,Nasal,Oxymetazoline Nasal Spray,2,No,NA,0,0,NA
+277,C3D,3914,3985,4/11/2007,21:40,IN_TEST,68,PO-by mouth,Ambien 5mg,1,No,NA,0,0,NA
+278,C3D,19882,3985,4/12/2007,17:30,IN_TEST,69,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+279,C3D,19881,3985,4/12/2007,21:45,IN_TEST,69,PO-by mouth,Ambien 5mg,1,No,NA,0,0,NA
+280,C3D,4063,3985,4/13/2007,17:32,IN_TEST,70,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+281,C3D,4086,3985,4/13/2007,21:50,IN_TEST,70,PO-by mouth,Ambien 5mg,1,No,NA,0,0,NA
+282,C3D,4147,3985,4/14/2007,17:15,IN_TEST,71,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+283,C3D,4163,3985,4/14/2007,21:45,IN_TEST,71,PO-by mouth,Ambien 5mg,1,No,NA,0,0,NA
+284,C3D,4222,3985,4/15/2007,17:12,IN_TEST,72,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+285,C3D,4286,3985,4/16/2007,17:20,IN_TEST,73,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+286,C3D,4322,3985,4/16/2007,21:44,IN_TEST,73,PO-by mouth,Ambien 5mg,1,No,NA,0,0,At subject's request
+287,C3D,4349,3985,4/17/2007,17:00,IN_TEST,74,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+288,C3D,4422,3985,4/18/2007,13:06,IN_TEST,75,PO-by mouth,Acetaminophen 325mg,2,Yes,Dr. Meck (extramural science),3,1,NA
+289,C3D,4423,3985,4/18/2007,14:45,IN_TEST,75,Nasal,Oxymetazoline Nasal Spray,2,No,NA,5,5,Paged Dr. Ware of possible sinus infection related to reported pain and pressure in sinuses and congestion. No discolored drainage.
+290,C3D,4434,3985,4/18/2007,17:30,IN_TEST,75,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+291,C3D,4485,3985,4/19/2007,17:30,IN_TEST,76,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+292,C3D,4488,3985,4/19/2007,21:55,IN_TEST,76,PO-by mouth,Other - Pseudoephedrine Hydrochloride 60mg,NA,No,NA,4,1,Appeared to be sleeping soon after medication given.
+293,C3D,19978,3985,4/19/2007,21:55,IN_TEST,76,PO-by mouth,Other - Sudafed 60mg,NA,No,NA,0,0,Subject appeared to be sleeping shortly after administration.
+294,C3D,4548,3985,4/20/2007,11:00,IN_TEST,77,PO-by mouth,Other - Sudafed 60mg,NA,No,NA,4,1,NA
+295,C3D,4549,3985,4/20/2007,17:00,IN_TEST,77,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+296,C3D,4647,3985,4/21/2007,18:00,IN_TEST,78,PO-by mouth,Colace 100mg,2,No,NA,0,NA,NA
+297,C3D,4769,3985,4/22/2007,17:30,IN_TEST,79,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+298,C3D,4842,3985,4/23/2007,17:30,IN_TEST,80,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+299,C3D,4893,3985,4/24/2007,17:30,IN_TEST,81,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+300,C3D,5001,3985,4/25/2007,17:35,IN_TEST,82,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+301,C3D,28816,3985,4/26/2007,12:54,IN_TEST,83,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+302,C3D,28817,3985,4/26/2007,13:40,IN_TEST,83,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+303,C3D,28818,3985,4/26/2007,13:40,IN_TEST,83,IV-intravenous,Ketorolac 12.5 micrograms/0.1 ml x 10 minutes,NA,Yes,Dr. Meck (extramural science),0,0,NA
+304,C3D,28819,3985,4/26/2007,14:00,IN_TEST,83,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+305,C3D,28820,3985,4/26/2007,14:00,IN_TEST,83,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+306,C3D,28821,3985,4/26/2007,14:00,IN_TEST,83,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+307,C3D,28822,3985,4/26/2007,14:27,IN_TEST,83,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+308,C3D,28823,3985,4/26/2007,14:27,IN_TEST,83,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+309,C3D,28824,3985,4/26/2007,14:27,IN_TEST,83,IV-intravenous,Other - Isoproterenol 200 ng/0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+310,C3D,28825,3985,4/26/2007,14:45,IN_TEST,83,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+311,C3D,28826,3985,4/26/2007,14:45,IN_TEST,83,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+312,C3D,28827,3985,4/26/2007,14:45,IN_TEST,83,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+313,C3D,28828,3985,4/26/2007,15:12,IN_TEST,83,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+314,C3D,28829,3985,4/26/2007,15:12,IN_TEST,83,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+315,C3D,28830,3985,4/26/2007,15:12,IN_TEST,83,IV-intravenous,Acetylcholine 0.1 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+316,C3D,28831,3985,4/26/2007,15:20,IN_TEST,83,IV-intravenous,Acetylcholine 0.316nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+317,C3D,28832,3985,4/26/2007,15:20,IN_TEST,83,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+318,C3D,28833,3985,4/26/2007,15:20,IN_TEST,83,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+319,C3D,28834,3985,4/26/2007,15:32,IN_TEST,83,IV-intravenous,Acetylcholine 1.0 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+320,C3D,28835,3985,4/26/2007,15:32,IN_TEST,83,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+321,C3D,28836,3985,4/26/2007,15:32,IN_TEST,83,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+322,C3D,28837,3985,4/26/2007,15:45,IN_TEST,83,IV-intravenous,Acetylcholine 3.16 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+323,C3D,28838,3985,4/26/2007,15:45,IN_TEST,83,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+324,C3D,28839,3985,4/26/2007,15:45,IN_TEST,83,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+325,C3D,28840,3985,4/26/2007,16:00,IN_TEST,83,IV-intravenous,Acetylcholine 1.0 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+326,C3D,28841,3985,4/26/2007,16:00,IN_TEST,83,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+327,C3D,28842,3985,4/26/2007,16:00,IN_TEST,83,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+328,C3D,28843,3985,4/26/2007,16:00,IN_TEST,83,IV-intravenous,Acetylcholine 1.0 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+329,C3D,28844,3985,4/26/2007,16:00,IN_TEST,83,IV-intravenous,LNMMA 50 mcg / 0.05ml at 3cc/hr x 10 minutes,NA,Yes,Dr. Meck (extramural science),0,0,NA
+330,C3D,28845,3985,4/26/2007,16:21,IN_TEST,83,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+331,C3D,28846,3985,4/26/2007,16:21,IN_TEST,83,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+332,C3D,28847,3985,4/26/2007,16:21,IN_TEST,83,IV-intravenous,Nitroglycerin 16 pmol /0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+333,C3D,28642,3985,4/26/2007,18:00,IN_TEST,83,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+334,C3D,28848,3985,4/27/2007,13:31,IN_TEST,84,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+335,C3D,28849,3985,4/27/2007,14:35,IN_TEST,84,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+336,C3D,28850,3985,4/27/2007,14:35,IN_TEST,84,IV-intravenous,Ketorolac 12.5 micrograms/0.1 ml x 10 minutes,NA,Yes,Dr. Meck (extramural science),0,0,NA
+337,C3D,28851,3985,4/27/2007,14:56,IN_TEST,84,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+338,C3D,28852,3985,4/27/2007,14:56,IN_TEST,84,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+339,C3D,28853,3985,4/27/2007,14:56,IN_TEST,84,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+340,C3D,28854,3985,4/27/2007,15:22,IN_TEST,84,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+341,C3D,28855,3985,4/27/2007,15:22,IN_TEST,84,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+342,C3D,28856,3985,4/27/2007,15:22,IN_TEST,84,IV-intravenous,Other - Isoproterenol 200 ng/0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+343,C3D,28857,3985,4/27/2007,15:42,IN_TEST,84,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+344,C3D,28858,3985,4/27/2007,15:42,IN_TEST,84,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,NA
+345,C3D,28859,3985,4/27/2007,15:42,IN_TEST,84,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+346,C3D,28860,3985,4/27/2007,16:09,IN_TEST,84,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+347,C3D,28861,3985,4/27/2007,16:09,IN_TEST,84,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+348,C3D,28862,3985,4/27/2007,16:09,IN_TEST,84,IV-intravenous,Acetylcholine 0.1 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+349,C3D,28863,3985,4/27/2007,16:20,IN_TEST,84,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+350,C3D,28864,3985,4/27/2007,16:20,IN_TEST,84,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+351,C3D,28865,3985,4/27/2007,16:20,IN_TEST,84,IV-intravenous,Acetylcholine 0.316nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+352,C3D,28866,3985,4/27/2007,16:31,IN_TEST,84,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+353,C3D,28867,3985,4/27/2007,16:31,IN_TEST,84,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+354,C3D,28868,3985,4/27/2007,16:31,IN_TEST,84,IV-intravenous,Acetylcholine 1.0 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+355,C3D,28869,3985,4/27/2007,16:44,IN_TEST,84,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+356,C3D,28870,3985,4/27/2007,16:44,IN_TEST,84,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+357,C3D,28871,3985,4/27/2007,16:44,IN_TEST,84,IV-intravenous,Acetylcholine 3.16 nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+358,C3D,28872,3985,4/27/2007,16:59,IN_TEST,84,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+359,C3D,28889,3985,4/27/2007,16:59,IN_TEST,84,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+360,C3D,28890,3985,4/27/2007,16:59,IN_TEST,84,IV-intravenous,Acetylcholine 0.316nmol / 0.05ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+361,C3D,28891,3985,4/27/2007,16:59,IN_TEST,84,IV-intravenous,LNMMA 50 mcg / 0.05ml at 3cc/hr x 10 minutes,NA,Yes,Dr. Meck (extramural science),0,0,NA
+362,C3D,28892,3985,4/27/2007,17:15,IN_TEST,84,IV-intravenous,Phenylephrine 3160ng / 0.1ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+363,C3D,28893,3985,4/27/2007,17:15,IN_TEST,84,IV-intravenous,Ketorolac 3.0 mcq/ 0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+364,C3D,28894,3985,4/27/2007,17:15,IN_TEST,84,IV-intravenous,Nitroglycerin 16 pmol /0.1 ml,NA,Yes,Dr. Meck (extramural science),0,0,NA
+365,C3D,5183,3985,4/27/2007,18:15,IN_TEST,84,PO-by mouth,Colace 100mg,2,No,NA,NA,NA,NA
+366,C3D,5283,3985,4/28/2007,12:15,IN_TEST,85,IV-intravenous,Normal Saline,NA,Yes,Dr. Meck (extramural science),0,0,Second IV administration given at 13:30
+367,C3D,5280,3985,4/28/2007,12:28,IN_TEST,85,IV-intravenous,Phenylephrine 0.4 mcg – 6cc hour,NA,Yes,Dr. Meck (extramural science),0,0,NA
+368,C3D,5281,3985,4/28/2007,12:40,IN_TEST,85,IV-intravenous,Phenylephrine 0.8 mcg – 12cc hour,NA,Yes,Dr. Meck (extramural science),0,0,NA
+369,C3D,5282,3985,4/28/2007,12:52,IN_TEST,85,IV-intravenous,Phenylephrine 1.6 mcg – 24cc hour,NA,Yes,Dr. Meck (extramural science),0,0,NA
+370,C3D,5284,3985,4/28/2007,13:38,IN_TEST,85,IV-intravenous,Sodium Nitroprusside 0.4 mcg – 6cc hour,NA,Yes,Dr. Meck (extramural science),0,0,NA
+371,C3D,5285,3985,4/28/2007,13:51,IN_TEST,85,IV-intravenous,Sodium Nitroprusside 0.8 mcg – 12cc hour,NA,Yes,Dr. Meck (extramural science),0,0,NA
+372,C3D,5286,3985,4/28/2007,14:07,IN_TEST,85,IV-intravenous,Sodium Nitroprusside 1.2 mcg – 18cc hour,NA,Yes,Dr. Meck (extramural science),0,0,NA
+373,C3D,5276,3985,4/28/2007,17:30,IN_TEST,85,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+374,C3D,5388,3985,4/29/2007,18:11,IN_TEST,86,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+375,C3D,5451,3985,4/30/2007,7:40,IN_TEST,87,PO-by mouth,Acetaminophen 325mg,2,Yes,Lactulose/ Acetaminophen Test,0,0,NA
+376,C3D,5452,3985,4/30/2007,7:40,IN_TEST,87,PO-by mouth,Lactulose 10g/15ml,1,Yes,Lactulose/ Acetaminophen Test,0,0,NA
+377,C3D,5450,3985,4/30/2007,16:30,IN_TEST,87,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+378,C3D,5560,3985,5/1/2007,17:17,IN_TEST,88,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+379,C3D,5657,3985,5/2/2007,18:19,IN_TEST,89,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+380,C3D,19954,3985,5/3/2007,9:15,IN_TEST,90,PO-by mouth,Other - Meclizine 25mg,NA,No,NA,0,0,"Helped at the time, per subject."
+381,C3D,19955,3985,5/3/2007,17:30,IN_TEST,90,PO-by mouth,Other - Meclizine 25mg,NA,No,NA,0,0,NA
+382,C3D,28645,3985,5/3/2007,17:30,IN_TEST,90,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+383,C3D,5784,3985,5/4/2007,0:45,IN_TEST,91,PO-by mouth,Other - Antivert 25 mg,NA,No,NA,0,0,NA
+384,C3D,28646,3985,5/4/2007,17:30,IN_TEST,91,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+385,C3D,5895,3985,5/5/2007,17:27,IN_TEST,92,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+386,C3D,6085,3985,5/7/2007,21:30,POST_TEST,1,PO-by mouth,Acetaminophen 325mg,2,No,NA,0,NA,NA
+387,C3D,6126,3985,5/8/2007,17:15,POST_TEST,2,PO-by mouth,Colace 100mg,2,No,NA,0,0,NA
+388,C3D,6202,3985,5/9/2007,9:00,POST_TEST,3,SL-sublingual,Nitrostat 0.4mg,1,Yes,Dr. Meck (extramural science),0,0,NA
+389,C3D,6243,3985,5/9/2007,17:32,POST_TEST,3,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+390,C3D,6461,3985,5/12/2007,17:54,POST_TEST,6,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+391,C3D,28649,3985,5/14/2007,6:25,POST_TEST,8,PO-by mouth,Lactulose 10g/15ml,1,Yes,Lactulose/ Acetaminophen Test,0,0,NA
+392,C3D,28650,3985,5/14/2007,6:25,POST_TEST,8,PO-by mouth,Acetaminophen 325mg,2,Yes,Lactulose/ Acetaminophen Test,0,0,NA
+393,C3D,28648,3985,5/18/2007,17:50,POST_TEST,12,PO-by mouth,Colace 100mg,1,No,NA,0,0,NA
+394,C3D,6871,3985,5/19/2007,8:10,POST_TEST,13,PO-by mouth,Acetaminophen 325mg,2,No,NA,0,0,For muscle twitching.
