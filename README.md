@@ -3,125 +3,181 @@
 
 ## Overview
 
-This repository contains data integration scripts and derived datasets generated from publicly available Inspiration4 biomedical data. The goal of this project is to create analysis-ready datasets by combining clinical chemistry, multiplex biomarker, and demographic measurements into unified tables suitable for statistical analysis, machine learning, visualization, and longitudinal modeling.
+This repository contains scripts, derived datasets, and quality-control reports generated from Inspiration4 biomedical research data. The objective is to integrate multiple clinical chemistry, cytokine, immune, cardiovascular, and demographic datasets into standardized analysis-ready formats suitable for statistical analysis, machine learning, visualization, and longitudinal modeling.
 
-The current release focuses on the Inspiration4 serum biomarker and clinical chemistry datasets.
+The current release focuses on Inspiration4 serum biomarker, multiplex assay, clinical chemistry, and demographic data.
 
 ---
 
-## Repository Structure
+# Repository Structure
 
 ```text
 Inspiration4_Project/
 │
-├── data_raw/
-│   └── Raw source CSV files (not included unless permitted)
+├── scripts/
+│   ├── combine_inspiration4_data.py
+│   └── summary_statistics.py
 │
 ├── outputs/
 │   ├── Inspiration4_Master_Long.csv
-│   └── Inspiration4_Master_Wide.csv
+│   ├── Inspiration4_Master_Wide.csv
+│   └── Inspiration4_Data_Quality_Summary.xlsx
 │
-├── scripts/
-│   └── combine_inspiration4_datasets.py
+├── README.md
 │
-├── figures/
-│
-├── notebooks/
-│
-├── requirements.txt
-│
-└── README.md
+└── requirements.txt
 ```
 
 ---
 
-## Source Data
+# Source Data
 
-The integrated dataset was generated from the following Inspiration4 data files:
+The integrated datasets were generated from the following Inspiration4 source files:
 
-* LSDS 8 Multiplex SerumSpaceX_serum_non_bridged
-* LSDS 8 Multiplex Serum
-* LSDS 8 Comprehensive Metabolic Panel (CMP)
-* Demographics Inspiration4
-* Additional serum biomarker datasets as available
+### Clinical Chemistry
 
-These datasets contain:
+* LSDS-8_Comprehensive_Metabolic_Panel_CMP.upload_SUBMITTED.csv
 
-* Clinical chemistry measurements
-* Cytokines and inflammatory markers
-* Cardiovascular biomarkers
+### Multiplex Biomarker Panels
+
+* LSDS-8_Multiplex_serum.cardiovascular.EvePanel_SUBMITTED.csv
+* LSDS-8_Multiplex_serum.immune.EvePanel_SUBMITTED.csv
+* LSDS-8_Multiplex_serum.immune.AlamarPanel_SUBMITTED.xlsx
+
+### Demographics
+
+* Demographics_inspiration4.xlsx
+
+These datasets contain measurements related to:
+
+* Clinical chemistry
 * Immune biomarkers
-* Demographic variables
-* Longitudinal sampling information
-
-Source data were obtained from publicly available Inspiration4 research datasets.
+* Cytokines
+* Cardiovascular biomarkers
+* Demographics
+* Longitudinal sampling across mission-relevant timepoints
 
 ---
 
-## Data Processing
+# Data Integration Pipeline
 
-The script:
+## combine_inspiration4_data.py
 
-```text
-scripts/combine_inspiration4_datasets.py
-```
+This script:
 
-performs the following operations:
-
-1. Imports all source CSV files.
+1. Loads all source datasets.
 2. Standardizes column names.
 3. Harmonizes participant identifiers.
-4. Harmonizes collection timepoints.
+4. Harmonizes sampling timepoints.
 5. Merges demographic information.
 6. Combines biomarker panels into a unified structure.
-7. Generates both long-format and wide-format analysis datasets.
+7. Produces both long-format and wide-format datasets.
+
+Run:
+
+```bash
+py scripts/combine_inspiration4_data.py
+```
+
+Generated outputs:
+
+* Inspiration4_Master_Long.csv
+* Inspiration4_Master_Wide.csv
 
 ---
 
-## Outputs
+# Data Quality Pipeline
 
-### Inspiration4_Master_Long.csv
+## summary_statistics.py
 
-Long-format dataset suitable for:
+This script performs automated quality-control and descriptive statistical analyses.
 
-* Longitudinal modeling
-* Mixed-effects analyses
-* Repeated measures statistics
-* Data visualization
+Generated summaries include:
+
+* Dataset inventory
+* Participant counts
+* Timepoint counts
+* Demographic summaries
+* Variable-level descriptive statistics
+* Missingness by variable
+* Missingness by participant
+* Missingness by timepoint
+* Missingness by participant/timepoint
+* Unit audits
+* Variable naming audits
+
+Run:
+
+```bash
+py scripts/summary_statistics.py
+```
+
+Generated output:
+
+* Inspiration4_Data_Quality_Summary.xlsx
+
+---
+
+# Outputs
+
+## Inspiration4_Master_Long.csv
+
+Integrated long-format dataset.
+
+Characteristics:
+
+* One row per measurement
+* Suitable for longitudinal analyses
+* Suitable for mixed-effects models
+* Suitable for repeated-measures statistics
 
 Dimensions:
 
-```text
-8,252 rows × 14 columns
-```
-
-Each row represents an individual measurement.
+* 8,252 rows
+* 14 columns
 
 ---
 
-### Inspiration4_Master_Wide.csv
+## Inspiration4_Master_Wide.csv
 
-Wide-format dataset suitable for:
+Integrated wide-format dataset.
 
-* Principal Component Analysis (PCA)
-* Machine learning workflows
-* Correlation analysis
-* Clustering
-* Multivariate statistics
+Characteristics:
+
+* One row per participant-timepoint
+* Suitable for PCA
+* Suitable for clustering
+* Suitable for correlation analysis
+* Suitable for machine learning workflows
 
 Dimensions:
 
-```text
-28 rows × 304 columns
-```
-
-Each row represents a participant-timepoint observation.
+* 28 rows
+* 304 columns
 
 ---
 
-## Software Requirements
+## Inspiration4_Data_Quality_Summary.xlsx
 
-Python version:
+Automated quality-control workbook.
+
+Workbook tabs include:
+
+* Dataset_Inventory
+* Demographics
+* Variable_Stats
+* Missing_By_Variable
+* Missing_By_Participant
+* Missing_By_Timepoint
+* Missing_By_Part_Time
+* Units_Audit
+* Naming_Audit
+
+---
+
+# Software Requirements
+
+Python Version:
 
 ```text
 Python 3.10+
@@ -138,81 +194,58 @@ openpyxl
 Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install pandas numpy openpyxl
 ```
 
 ---
 
-## Running the Pipeline
+# Dataset Version History
 
-Place source files in:
-
-```text
-data_raw/
-```
-
-Run:
-
-```bash
-python scripts/combine_inspiration4_datasets.py
-```
-
-Generated files will be written to:
-
-```text
-outputs/
-```
-
----
-
-## Dataset Version History
-
-### v1.0 (2026-05-31)
+## v1.0 (2026-05-31)
 
 Initial integrated Inspiration4 biomedical dataset.
 
 Included:
 
-* Multiplex serum biomarker data
-* Comprehensive Metabolic Panel (CMP) data
+* Comprehensive Metabolic Panel (CMP)
+* Cardiovascular multiplex biomarkers
+* Immune multiplex biomarkers
+* Alamar immune biomarkers
 * Demographic data
 * Long-format integrated dataset
 * Wide-format integrated dataset
-* Data integration script
+* Automated data quality report
 
-Outputs:
+Generated outputs:
 
 * Inspiration4_Master_Long.csv
 * Inspiration4_Master_Wide.csv
-
-Dataset dimensions:
-
-* Long: 8,252 rows × 14 columns
-* Wide: 28 rows × 304 columns
+* Inspiration4_Data_Quality_Summary.xlsx
 
 ---
 
-## Planned Analyses
+# Planned Analyses
 
 Future analyses may include:
 
 * Principal Component Analysis (PCA)
-* Longitudinal trajectory analysis
+* Longitudinal trajectory modeling
 * Mixed-effects modeling
 * Biomarker correlation networks
-* Heatmaps and clustering
-* Cytokine and immune profiling
+* Clustering and heatmaps
+* Cytokine profiling
 * Clinical chemistry trend analysis
 * Cross-dataset integration with additional Inspiration4 and LSDA datasets
 
 ---
 
-## Citation
+# Citation
 
-If using this repository or derived datasets, please cite the original Inspiration4 data source and associated publications where applicable.
+If using this repository, please cite the original Inspiration4 data source, associated publications, and any downstream analyses generated from these integrated datasets.
 
 ---
 
-## Disclaimer
+# Disclaimer
 
-This repository contains derived research datasets generated from publicly available source data. Users are responsible for verifying all analyses and ensuring compliance with applicable data-use agreements and citation requirements.
+This repository contains derived research datasets generated from publicly available Inspiration4 source data. Users are responsible for verifying analyses, validating results, and complying with all applicable data-use and citation requirements.
+
