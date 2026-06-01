@@ -1,0 +1,14 @@
+measure_group,decision,column_count,avg_missing_percent
+Albumin / creatinine,Keep,5,19.606
+Body measures,Keep,7,16.335714285714285
+CBC / hematology,Keep,21,21.895714285714284
+Cotinine / tobacco exposure,Keep,2,26.77
+Demographics,Keep,11,2.022727272727273
+Dietary intake,Keep,17,20.36
+Merge key,Keep,1,0.0
+Albumin / creatinine,Support,2,19.605
+Body measures,Support,1,9.54
+Cotinine / tobacco exposure,Support,2,26.77
+Demographics,Support,9,12.08
+Dietary intake,Support,49,19.57530612244898
+Supplement intake,Support,17,18.14764705882353
