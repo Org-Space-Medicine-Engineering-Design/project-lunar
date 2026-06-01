@@ -7,7 +7,7 @@ LUNAR (Longitudinal Unification of Small-N Astronaut Responses) is a data harmon
 
 A major challenge in space medicine is the limited sample size available within astronaut populations. Individual studies often contain only a small number of participants, making it difficult to distinguish mission-specific findings from broader physiological trends. LUNAR addresses this challenge by creating standardized, analysis-ready datasets that enable comparison across multiple independent cohorts.
 
-The project aims to support future investigations into physiological adaptation, recovery, resilience, and health risks associated with spaceflight and spaceflight-relevant environments.
+The project is designed to support future investigations into physiological adaptation, recovery, resilience, and health risks associated with spaceflight and spaceflight-relevant environments.
 
 ---
 
@@ -49,6 +49,12 @@ Current status:
 * Quality controlled
 * Analysis-ready
 
+Available outputs:
+
+* Inspiration4_Master_Long.csv
+* Inspiration4_Master_Wide.csv
+* Inspiration4_Data_Quality_Summary.xlsx
+
 ---
 
 ### NHANES
@@ -81,23 +87,31 @@ Current status:
 
 ### Bed Rest Cohorts
 
-Ground-based physiological analog studies.
+Ground-based physiological analog studies designed to simulate selected effects of spaceflight and physiological deconditioning.
 
-Planned datasets include:
+Current efforts focus on harmonizing biomedical datasets derived from bed rest campaigns curated through the University of Texas Medical Branch (UTMB).
 
-* DLR Envihab
-* NASA Bed Rest Studies
-* Additional publicly available analog cohorts
+Potential data domains include:
+
+* Clinical chemistry
+* Hematology
+* Immune biomarkers
+* Cardiovascular measures
+* Anthropometrics
+* Physiological monitoring
+* Nutrition-related variables
 
 Purpose within LUNAR:
 
 * Spaceflight analog comparisons
 * Physiological deconditioning analyses
-* Isolation and confinement comparisons
+* Longitudinal adaptation and recovery studies
+* Evaluation of analog-to-spaceflight similarities and differences
 
 Current status:
 
 * Data acquisition and harmonization in progress
+* Variable mapping and cohort characterization underway
 
 ---
 
@@ -110,19 +124,21 @@ LUNAR/
 │
 ├── Inspiration4/
 │   ├── README.md
-│   ├── scripts/
+│   ├── data/
 │   ├── outputs/
-│   └── data/
+│   └── scripts/
 │
 ├── NHANES/
 │   ├── README.md
-│   ├── processed_csv/
-│   ├── summaries/
+│   ├── data/
+│   ├── outputs/
 │   └── scripts/
 │
 ├── BedRest/
 │   ├── README.md
-│   └── data/
+│   ├── data/
+│   ├── outputs/
+│   └── scripts/
 │
 ├── Harmonization/
 │
@@ -159,7 +175,7 @@ Future work will generate a common data dictionary enabling direct comparison ac
 
 Completed:
 
-* Inspiration4 integration pipeline
+* Inspiration4 data integration pipeline
 * Inspiration4 quality-control reporting pipeline
 * Initial NHANES harmonization effort
 * NHANES missingness and descriptive statistics reporting
@@ -168,7 +184,7 @@ In Progress:
 
 * Variable mapping across cohorts
 * Common data dictionary development
-* Bed rest dataset integration
+* UTMB bed rest campaign integration
 
 Planned:
 
@@ -220,11 +236,39 @@ for details.
 
 ---
 
+### Bed Rest
+
+Current datasets are undergoing harmonization and variable mapping.
+
+Future outputs will include:
+
+* Harmonized longitudinal datasets
+* Missingness assessments
+* Descriptive statistics summaries
+* Cross-cohort variable mapping tables
+
+See:
+
+```text
+BedRest/README.md
+```
+
+for updates.
+
+---
+
 ## Long-Term Vision
 
 The long-term goal of LUNAR is to establish a unified framework for evaluating longitudinal physiological responses across astronaut, analog, and terrestrial populations.
 
-By integrating multiple small-N astronaut cohorts with large terrestrial reference populations and ground-based analog studies, LUNAR aims to improve interpretation of astronaut biomedical data and support future evidence-based space medicine research.
+By integrating multiple small-N astronaut cohorts with large terrestrial reference populations and UTMB bed rest campaigns, LUNAR aims to improve interpretation of astronaut biomedical data and support future evidence-based space medicine research.
+
+Ultimately, LUNAR will enable researchers to determine whether observed physiological changes represent:
+
+* Normal population variation
+* Spaceflight-associated adaptation
+* Analog-associated adaptation
+* Unique astronaut physiological signatures
 
 ---
 
@@ -243,3 +287,4 @@ If using datasets, scripts, or derived products from this repository, please cit
 ## Disclaimer
 
 This repository contains derived datasets generated from publicly available and/or collaborator-provided source data. Users are responsible for verifying analyses, validating results, and complying with all applicable data-use agreements and citation requirements.
+
