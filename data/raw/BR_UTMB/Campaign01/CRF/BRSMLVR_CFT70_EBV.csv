@@ -1,0 +1,841 @@
+﻿ID,Subject,Trial,GroupLabel,Time_Period,EBV copies/ng Salivary DNA
+1,5210,1,Control,Before,0
+2,5210,2,Control,Before,40
+3,5210,3,Control,Before,68
+4,5210,4,Control,Before,0
+5,5210,5,Control,Before,0
+6,6791,1,Control,Before,0
+7,6791,2,Control,Before,50
+8,6791,3,Control,Before,70
+9,6791,4,Control,Before,0
+10,6791,5,Control,Before,0
+11,5803,1,Control,Before,0
+12,5803,2,Control,Before,0
+13,5803,3,Control,Before,0
+14,5803,4,Control,Before,0
+15,5803,5,Control,Before,0
+16,6319,1,Control,Before,0
+17,6319,2,Control,Before,56
+18,6319,3,Control,Before,0
+19,6319,4,Control,Before,67
+20,6319,5,Control,Before,0
+21,6319,1,Control,Before,0
+22,7574,2,Control,Before,60
+23,7574,3,Control,Before,0
+24,7574,4,Control,Before,0
+25,7574,5,Control,Before,0
+26,6546,1,Control,Before,0
+27,6546,2,Control,Before,0
+28,6546,3,Control,Before,0
+29,6546,4,Control,Before,0
+30,6546,5,Control,Before,0
+31,5297,1,Control,Before,167
+32,5297,2,Control,Before,92
+33,5297,3,Control,Before,126
+34,5297,4,Control,Before,249
+35,5297,5,Control,Before,140
+36,6947,1,Control,Before,58
+37,6947,2,Control,Before,41
+38,6947,3,Control,Before,31
+39,6947,4,Control,Before,0
+40,6947,5,Control,Before,54
+41,6213,1,Control,Before,0
+42,6213,2,Control,Before,0
+43,6213,3,Control,Before,0
+44,6213,4,Control,Before,0
+45,6213,5,Control,Before,0
+46,7750,1,Control,Before,14
+47,7750,2,Control,Before,426
+48,7750,3,Control,Before,33
+49,7750,4,Control,Before,21
+50,7750,5,Control,Before,9
+51,8936,1,Control,Before,0
+52,8936,2,Control,Before,0
+53,8936,3,Control,Before,0
+54,8936,4,Control,Before,0
+55,8936,5,Control,Before,0
+56,7326,1,Exercise A,Before,0
+57,7326,2,Exercise A,Before,0
+58,7326,3,Exercise A,Before,0
+59,7326,4,Exercise A,Before,0
+60,7326,5,Exercise A,Before,0
+61,9713,1,Exercise A,Before,0
+62,9713,2,Exercise A,Before,0
+63,9713,3,Exercise A,Before,0
+64,9713,4,Exercise A,Before,0
+65,9713,5,Exercise A,Before,0
+66,9667,1,Exercise A,Before,0
+67,9667,2,Exercise A,Before,0
+68,9667,3,Exercise A,Before,0
+69,9667,4,Exercise A,Before,0
+70,9667,5,Exercise A,Before,0
+71,8072,1,Exercise A,Before,0
+72,8072,2,Exercise A,Before,0
+73,8072,3,Exercise A,Before,0
+74,8072,4,Exercise A,Before,0
+75,8072,5,Exercise A,Before,0
+76,5160,1,Exercise A,Before,0
+77,5160,2,Exercise A,Before,0
+78,5160,3,Exercise A,Before,0
+79,5160,4,Exercise A,Before,0
+80,5160,5,Exercise A,Before,0
+81,8010,1,Exercise A,Before,0
+82,8010,2,Exercise A,Before,0
+83,8010,3,Exercise A,Before,0
+84,8010,4,Exercise A,Before,0
+85,8010,5,Exercise A,Before,0
+86,8837,1,Exercise A,Before,0
+87,8837,2,Exercise A,Before,0
+88,8837,3,Exercise A,Before,0
+89,8837,4,Exercise A,Before,0
+90,8837,5,Exercise A,Before,0
+91,8713,1,Exercise A,Before,0
+92,8713,2,Exercise A,Before,0
+93,8713,3,Exercise A,Before,0
+94,8713,4,Exercise A,Before,0
+95,8713,5,Exercise A,Before,0
+96,9682,1,Exercise B,Before,0
+97,9682,2,Exercise B,Before,0
+98,9682,3,Exercise B,Before,0
+99,9682,4,Exercise B,Before,0
+100,9682,5,Exercise B,Before,0
+101,7036,1,Exercise B,Before,0
+102,7036,2,Exercise B,Before,0
+103,7036,3,Exercise B,Before,0
+104,7036,4,Exercise B,Before,0
+105,7036,5,Exercise B,Before,0
+106,7350,1,Exercise B,Before,0
+107,7350,2,Exercise B,Before,21
+108,7350,3,Exercise B,Before,0
+109,7350,4,Exercise B,Before,0
+110,7350,5,Exercise B,Before,0
+111,7152,1,Exercise B,Before,0
+112,7152,2,Exercise B,Before,0
+113,7152,3,Exercise B,Before,0
+114,7152,4,Exercise B,Before,0
+115,7152,5,Exercise B,Before,0
+116,6877,1,Exercise B,Before,0
+117,6877,2,Exercise B,Before,0
+118,6877,3,Exercise B,Before,0
+119,6877,4,Exercise B,Before,0
+120,6877,5,Exercise B,Before,0
+121,5160,1,Exercise B,Before,0
+122,5160,2,Exercise B,Before,0
+123,5160,3,Exercise B,Before,0
+124,5160,4,Exercise B,Before,0
+125,5160,5,Exercise B,Before,0
+126,5188,1,Exercise B,Before,0
+127,5188,2,Exercise B,Before,0
+128,5188,3,Exercise B,Before,0
+129,5188,4,Exercise B,Before,0
+130,5188,5,Exercise B,Before,0
+131,6403,1,Exercise B,Before,0
+132,6403,2,Exercise B,Before,0
+133,6403,3,Exercise B,Before,0
+134,6403,4,Exercise B,Before,0
+135,6403,5,Exercise B,Before,0
+136,5627,1,Exercise B,Before,0
+137,5627,2,Exercise B,Before,0
+138,5627,3,Exercise B,Before,0
+139,5627,4,Exercise B,Before,0
+140,5627,5,Exercise B,Before,0
+141,7707,1,Exercise B,Before,0
+142,7707,2,Exercise B,Before,0
+143,7707,3,Exercise B,Before,0
+144,7707,4,Exercise B,Before,0
+145,7707,5,Exercise B,Before,0
+146,6611,1,Exercise B,Before,0
+147,6611,2,Exercise B,Before,0
+148,6611,3,Exercise B,Before,0
+149,6611,4,Exercise B,Before,0
+150,6611,5,Exercise B,Before,0
+151,5210,1,Control,During,0
+152,5210,2,Control,During,0
+153,5210,3,Control,During,200
+154,5210,4,Control,During,0
+155,5210,5,Control,During,0
+156,5210,6,Control,During,0
+157,5210,7,Control,During,145
+158,5210,8,Control,During,0
+159,5210,9,Control,During,0
+160,5210,10,Control,During,0
+161,5210,11,Control,During,349
+162,5210,12,Control,During,0
+163,5210,13,Control,During,0
+164,5210,14,Control,During,0
+165,5210,15,Control,During,450
+166,5210,16,Control,During,0
+167,6791,1,Control,During,0
+168,6791,2,Control,During,0
+169,6791,3,Control,During,0
+170,6791,4,Control,During,0
+171,6791,5,Control,During,0
+172,6791,6,Control,During,0
+173,6791,7,Control,During,0
+174,6791,8,Control,During,0
+175,6791,9,Control,During,0
+176,6791,10,Control,During,0
+177,6791,11,Control,During,0
+178,6791,12,Control,During,0
+179,6791,13,Control,During,
+180,6791,14,Control,During,0
+181,6791,15,Control,During,0
+182,6791,16,Control,During,0
+183,5803,1,Control,During,0
+184,5803,2,Control,During,0
+185,5803,3,Control,During,0
+186,5803,4,Control,During,120
+187,5803,5,Control,During,0
+188,5803,6,Control,During,0
+189,5803,7,Control,During,0
+190,5803,8,Control,During,0
+191,5803,9,Control,During,0
+192,5803,10,Control,During,136
+193,5803,11,Control,During,0
+194,5803,12,Control,During,0
+195,5803,13,Control,During,0
+196,5803,14,Control,During,0
+197,5803,15,Control,During,0
+198,5803,16,Control,During,0
+199,6319,1,Control,During,0
+200,6319,2,Control,During,0
+201,6319,3,Control,During,0
+202,6319,4,Control,During,0
+203,6319,5,Control,During,0
+204,6319,6,Control,During,0
+205,6319,7,Control,During,230
+206,6319,8,Control,During,0
+207,6319,9,Control,During,0
+208,6319,10,Control,During,0
+209,6319,11,Control,During,0
+210,6319,12,Control,During,0
+211,6319,13,Control,During,0
+212,6319,14,Control,During,0
+213,6319,15,Control,During,36
+214,6319,16,Control,During,37
+215,7574,1,Control,During,0
+216,7574,2,Control,During,0
+217,7574,3,Control,During,0
+218,7574,4,Control,During,0
+219,7574,5,Control,During,0
+220,7574,6,Control,During,0
+221,7574,7,Control,During,0
+222,7574,8,Control,During,0
+223,7574,9,Control,During,0
+224,7574,10,Control,During,0
+225,7574,11,Control,During,0
+226,7574,12,Control,During,0
+227,7574,13,Control,During,0
+228,7574,14,Control,During,0
+229,7574,15,Control,During,0
+230,7574,16,Control,During,0
+231,6546,1,Control,During,0
+232,6546,2,Control,During,0
+233,6546,3,Control,During,0
+234,6546,4,Control,During,0
+235,6546,5,Control,During,0
+236,6546,6,Control,During,0
+237,6546,7,Control,During,0
+238,6546,8,Control,During,0
+239,6546,9,Control,During,0
+240,6546,10,Control,During,0
+241,6546,11,Control,During,0
+242,6546,12,Control,During,0
+243,6546,13,Control,During,0
+244,6546,14,Control,During,80
+245,6546,15,Control,During,0
+246,6546,16,Control,During,0
+247,5297,1,Control,During,162
+248,5297,2,Control,During,391
+249,5297,3,Control,During,210
+250,5297,4,Control,During,168
+251,5297,5,Control,During,331
+252,5297,6,Control,During,173
+253,5297,7,Control,During,NA
+254,5297,8,Control,During,137
+255,5297,9,Control,During,141
+256,5297,10,Control,During,264
+257,5297,11,Control,During,NA
+258,5297,12,Control,During,351
+259,5297,13,Control,During,337
+260,5297,14,Control,During,252
+261,5297,15,Control,During,848
+262,5297,16,Control,During,72
+263,6947,1,Control,During,17
+264,6947,2,Control,During,0
+265,6947,3,Control,During,0
+266,6947,4,Control,During,49
+267,6947,5,Control,During,18
+268,6947,6,Control,During,10
+269,6947,7,Control,During,0
+270,6947,8,Control,During,0
+271,6947,9,Control,During,0
+272,6947,10,Control,During,0
+273,6947,11,Control,During,0
+274,6947,12,Control,During,12
+275,6947,13,Control,During,0
+276,6947,14,Control,During,0
+277,6947,15,Control,During,14
+278,6947,16,Control,During,37
+279,6213,1,Control,During,0
+280,6213,2,Control,During,0
+281,6213,3,Control,During,0
+282,6213,4,Control,During,0
+283,6213,5,Control,During,0
+284,6213,6,Control,During,0
+285,6213,7,Control,During,0
+286,6213,8,Control,During,0
+287,6213,9,Control,During,0
+288,6213,10,Control,During,0
+289,6213,11,Control,During,0
+290,6213,12,Control,During,0
+291,6213,13,Control,During,0
+292,6213,14,Control,During,0
+293,6213,15,Control,During,0
+294,6213,16,Control,During,0
+295,7750,1,Control,During,15
+296,7750,2,Control,During,8
+297,7750,3,Control,During,3
+298,7750,4,Control,During,13
+299,7750,5,Control,During,NA
+300,7750,6,Control,During,27
+301,7750,7,Control,During,36
+302,7750,8,Control,During,15
+303,7750,9,Control,During,4
+304,7750,10,Control,During,16
+305,7750,11,Control,During,22
+306,7750,12,Control,During,5
+307,7750,13,Control,During,88
+308,7750,14,Control,During,112
+309,7750,15,Control,During,34
+310,7750,16,Control,During,104
+311,8936,1,Control,During,0
+312,8936,2,Control,During,0
+313,8936,3,Control,During,0
+314,8936,4,Control,During,0
+315,8936,5,Control,During,0
+316,8936,6,Control,During,0
+317,8936,7,Control,During,0
+318,8936,8,Control,During,0
+319,8936,9,Control,During,0
+320,8936,10,Control,During,0
+321,8936,11,Control,During,0
+322,8936,12,Control,During,0
+323,8936,13,Control,During,0
+324,8936,14,Control,During,0
+325,8936,15,Control,During,0
+326,8936,16,Control,During,0
+327,7326,1,Exercise A,During,0
+328,7326,2,Exercise A,During,0
+329,7326,3,Exercise A,During,0
+330,7326,4,Exercise A,During,0
+331,7326,5,Exercise A,During,0
+332,7326,6,Exercise A,During,0
+333,7326,7,Exercise A,During,0
+334,7326,8,Exercise A,During,0
+335,7326,9,Exercise A,During,0
+336,7326,10,Exercise A,During,0
+337,7326,11,Exercise A,During,0
+338,7326,12,Exercise A,During,0
+339,7326,13,Exercise A,During,0
+340,7326,14,Exercise A,During,0
+341,7326,15,Exercise A,During,0
+342,7326,16,Exercise A,During,0
+343,9713,1,Exercise A,During,0
+344,9713,2,Exercise A,During,35
+345,9713,3,Exercise A,During,0
+346,9713,4,Exercise A,During,0
+347,9713,5,Exercise A,During,0
+348,9713,6,Exercise A,During,0
+349,9713,7,Exercise A,During,0
+350,9713,8,Exercise A,During,0
+351,9713,9,Exercise A,During,0
+352,9713,10,Exercise A,During,0
+353,9713,11,Exercise A,During,0
+354,9713,12,Exercise A,During,56
+355,9713,13,Exercise A,During,0
+356,9713,14,Exercise A,During,0
+357,9713,15,Exercise A,During,0
+358,9713,16,Exercise A,During,0
+359,9667,1,Exercise A,During,0
+360,9667,2,Exercise A,During,0
+361,9667,3,Exercise A,During,0
+362,9667,4,Exercise A,During,0
+363,9667,5,Exercise A,During,0
+364,9667,6,Exercise A,During,0
+365,9667,7,Exercise A,During,0
+366,9667,8,Exercise A,During,0
+367,9667,9,Exercise A,During,0
+368,9667,10,Exercise A,During,0
+369,9667,11,Exercise A,During,0
+370,9667,12,Exercise A,During,0
+371,9667,13,Exercise A,During,0
+372,9667,14,Exercise A,During,0
+373,9667,15,Exercise A,During,0
+374,9667,16,Exercise A,During,0
+375,8072,1,Exercise A,During,0
+376,8072,2,Exercise A,During,0
+377,8072,3,Exercise A,During,0
+378,8072,4,Exercise A,During,0
+379,8072,5,Exercise A,During,0
+380,8072,6,Exercise A,During,0
+381,8072,7,Exercise A,During,0
+382,8072,8,Exercise A,During,0
+383,8072,9,Exercise A,During,0
+384,8072,10,Exercise A,During,0
+385,8072,11,Exercise A,During,0
+386,8072,12,Exercise A,During,0
+387,8072,13,Exercise A,During,0
+388,8072,14,Exercise A,During,0
+389,8072,15,Exercise A,During,0
+390,8072,16,Exercise A,During,0
+391,5160,1,Exercise A,During,0
+392,5160,2,Exercise A,During,0
+393,5160,3,Exercise A,During,0
+394,5160,4,Exercise A,During,0
+395,5160,5,Exercise A,During,0
+396,5160,6,Exercise A,During,0
+397,5160,7,Exercise A,During,0
+398,5160,8,Exercise A,During,0
+399,5160,9,Exercise A,During,0
+400,5160,10,Exercise A,During,0
+401,5160,11,Exercise A,During,0
+402,5160,12,Exercise A,During,0
+403,5160,13,Exercise A,During,0
+404,5160,14,Exercise A,During,0
+405,5160,15,Exercise A,During,0
+406,5160,16,Exercise A,During,0
+407,8010,1,Exercise A,During,0
+408,8010,2,Exercise A,During,0
+409,8010,3,Exercise A,During,0
+410,8010,4,Exercise A,During,0
+411,8010,5,Exercise A,During,0
+412,8010,6,Exercise A,During,0
+413,8010,7,Exercise A,During,0
+414,8010,8,Exercise A,During,0
+415,8010,9,Exercise A,During,0
+416,8010,10,Exercise A,During,0
+417,8010,11,Exercise A,During,0
+418,8010,12,Exercise A,During,0
+419,8010,13,Exercise A,During,0
+420,8010,14,Exercise A,During,0
+421,8010,15,Exercise A,During,0
+422,8010,16,Exercise A,During,0
+423,8837,1,Exercise A,During,0
+424,8837,2,Exercise A,During,0
+425,8837,3,Exercise A,During,0
+426,8837,4,Exercise A,During,0
+427,8837,5,Exercise A,During,0
+428,8837,6,Exercise A,During,0
+429,8837,7,Exercise A,During,0
+430,8837,8,Exercise A,During,0
+431,8837,9,Exercise A,During,0
+432,8837,10,Exercise A,During,0
+433,8837,11,Exercise A,During,0
+434,8837,12,Exercise A,During,0
+435,8837,13,Exercise A,During,0
+436,8837,14,Exercise A,During,0
+437,8837,15,Exercise A,During,0
+438,8837,16,Exercise A,During,0
+439,8713,1,Exercise A,During,0
+440,8713,2,Exercise A,During,0
+441,8713,3,Exercise A,During,0
+442,8713,4,Exercise A,During,0
+443,8713,5,Exercise A,During,0
+444,8713,6,Exercise A,During,0
+445,8713,7,Exercise A,During,0
+446,8713,8,Exercise A,During,0
+447,8713,9,Exercise A,During,0
+448,8713,10,Exercise A,During,0
+449,8713,11,Exercise A,During,0
+450,8713,12,Exercise A,During,0
+451,8713,13,Exercise A,During,0
+452,8713,14,Exercise A,During,0
+453,8713,15,Exercise A,During,0
+454,8713,16,Exercise A,During,0
+455,9682,1,Exercise B,During,30
+456,9682,2,Exercise B,During,0
+457,9682,3,Exercise B,During,0
+458,9682,4,Exercise B,During,0
+459,9682,5,Exercise B,During,0
+460,9682,6,Exercise B,During,0
+461,9682,7,Exercise B,During,0
+462,9682,8,Exercise B,During,0
+463,9682,9,Exercise B,During,0
+464,9682,10,Exercise B,During,60
+465,9682,11,Exercise B,During,0
+466,9682,12,Exercise B,During,0
+467,9682,13,Exercise B,During,0
+468,9682,14,Exercise B,During,0
+469,9682,15,Exercise B,During,0
+470,9682,16,Exercise B,During,0
+471,7036,1,Exercise B,During,0
+472,7036,2,Exercise B,During,0
+473,7036,3,Exercise B,During,0
+474,7036,4,Exercise B,During,0
+475,7036,5,Exercise B,During,0
+476,7036,6,Exercise B,During,0
+477,7036,7,Exercise B,During,0
+478,7036,8,Exercise B,During,0
+479,7036,9,Exercise B,During,0
+480,7036,10,Exercise B,During,0
+481,7036,11,Exercise B,During,0
+482,7036,12,Exercise B,During,0
+483,7036,13,Exercise B,During,0
+484,7036,14,Exercise B,During,0
+485,7036,15,Exercise B,During,0
+486,7036,16,Exercise B,During,0
+487,7350,1,Exercise B,During,0
+488,7350,2,Exercise B,During,0
+489,7350,3,Exercise B,During,0
+490,7350,4,Exercise B,During,0
+491,7350,5,Exercise B,During,0
+492,7350,6,Exercise B,During,0
+493,7350,7,Exercise B,During,0
+494,7350,8,Exercise B,During,0
+495,7350,9,Exercise B,During,0
+496,7350,10,Exercise B,During,0
+497,7350,11,Exercise B,During,0
+498,7350,12,Exercise B,During,0
+499,7350,13,Exercise B,During,0
+500,7350,14,Exercise B,During,0
+501,7350,15,Exercise B,During,35
+502,7350,16,Exercise B,During,0
+503,7152,1,Exercise B,During,0
+504,7152,2,Exercise B,During,0
+505,7152,3,Exercise B,During,0
+506,7152,4,Exercise B,During,0
+507,7152,5,Exercise B,During,0
+508,7152,6,Exercise B,During,0
+509,7152,7,Exercise B,During,0
+510,7152,8,Exercise B,During,0
+511,7152,9,Exercise B,During,68
+512,7152,10,Exercise B,During,0
+513,7152,11,Exercise B,During,0
+514,7152,12,Exercise B,During,0
+515,7152,13,Exercise B,During,0
+516,7152,14,Exercise B,During,0
+517,7152,15,Exercise B,During,0
+518,7152,16,Exercise B,During,0
+519,6877,1,Exercise B,During,0
+520,6877,2,Exercise B,During,0
+521,6877,3,Exercise B,During,0
+522,6877,4,Exercise B,During,0
+523,6877,5,Exercise B,During,0
+524,6877,6,Exercise B,During,0
+525,6877,7,Exercise B,During,0
+526,6877,8,Exercise B,During,0
+527,6877,9,Exercise B,During,0
+528,6877,10,Exercise B,During,0
+529,6877,11,Exercise B,During,0
+530,6877,12,Exercise B,During,0
+531,6877,13,Exercise B,During,0
+532,6877,14,Exercise B,During,0
+533,6877,15,Exercise B,During,0
+534,6877,16,Exercise B,During,45
+535,5160,1,Exercise B,During,0
+536,5160,2,Exercise B,During,0
+537,5160,3,Exercise B,During,0
+538,5160,4,Exercise B,During,0
+539,5160,5,Exercise B,During,0
+540,5160,6,Exercise B,During,0
+541,5160,7,Exercise B,During,0
+542,5160,8,Exercise B,During,0
+543,5160,9,Exercise B,During,0
+544,5160,10,Exercise B,During,0
+545,5160,11,Exercise B,During,0
+546,5160,12,Exercise B,During,0
+547,5160,13,Exercise B,During,0
+548,5160,14,Exercise B,During,0
+549,5160,15,Exercise B,During,0
+550,5160,16,Exercise B,During,0
+551,5188,1,Exercise B,During,0
+552,5188,2,Exercise B,During,0
+553,5188,3,Exercise B,During,0
+554,5188,4,Exercise B,During,0
+555,5188,5,Exercise B,During,0
+556,5188,6,Exercise B,During,0
+557,5188,7,Exercise B,During,0
+558,5188,8,Exercise B,During,0
+559,5188,9,Exercise B,During,0
+560,5188,10,Exercise B,During,0
+561,5188,11,Exercise B,During,0
+562,5188,12,Exercise B,During,0
+563,5188,13,Exercise B,During,0
+564,5188,14,Exercise B,During,0
+565,5188,15,Exercise B,During,0
+566,5188,16,Exercise B,During,0
+567,6403,1,Exercise B,During,0
+568,6403,2,Exercise B,During,0
+569,6403,3,Exercise B,During,0
+570,6403,4,Exercise B,During,0
+571,6403,5,Exercise B,During,0
+572,6403,6,Exercise B,During,0
+573,6403,7,Exercise B,During,56
+574,6403,8,Exercise B,During,0
+575,6403,9,Exercise B,During,0
+576,6403,10,Exercise B,During,0
+577,6403,11,Exercise B,During,0
+578,6403,12,Exercise B,During,0
+579,6403,13,Exercise B,During,0
+580,6403,14,Exercise B,During,0
+581,6403,15,Exercise B,During,0
+582,6403,16,Exercise B,During,0
+583,5627,1,Exercise B,During,0
+584,5627,2,Exercise B,During,0
+585,5627,3,Exercise B,During,0
+586,5627,4,Exercise B,During,0
+587,5627,5,Exercise B,During,0
+588,5627,6,Exercise B,During,0
+589,5627,7,Exercise B,During,0
+590,5627,8,Exercise B,During,0
+591,5627,9,Exercise B,During,0
+592,5627,10,Exercise B,During,90
+593,5627,11,Exercise B,During,0
+594,5627,12,Exercise B,During,0
+595,5627,13,Exercise B,During,0
+596,5627,14,Exercise B,During,0
+597,5627,15,Exercise B,During,0
+598,5627,16,Exercise B,During,0
+599,7707,1,Exercise B,During,0
+600,7707,2,Exercise B,During,0
+601,7707,3,Exercise B,During,0
+602,7707,4,Exercise B,During,0
+603,7707,5,Exercise B,During,0
+604,7707,6,Exercise B,During,0
+605,7707,7,Exercise B,During,0
+606,7707,8,Exercise B,During,0
+607,7707,9,Exercise B,During,0
+608,7707,10,Exercise B,During,0
+609,7707,11,Exercise B,During,0
+610,7707,12,Exercise B,During,0
+611,7707,13,Exercise B,During,30
+612,7707,14,Exercise B,During,0
+613,7707,15,Exercise B,During,0
+614,7707,16,Exercise B,During,0
+615,6611,1,Exercise B,During,0
+616,6611,2,Exercise B,During,0
+617,6611,3,Exercise B,During,0
+618,6611,4,Exercise B,During,0
+619,6611,5,Exercise B,During,0
+620,6611,6,Exercise B,During,0
+621,6611,7,Exercise B,During,0
+622,6611,8,Exercise B,During,0
+623,6611,9,Exercise B,During,0
+624,6611,10,Exercise B,During,0
+625,6611,11,Exercise B,During,0
+626,6611,12,Exercise B,During,0
+627,6611,13,Exercise B,During,0
+628,6611,14,Exercise B,During,0
+629,6611,15,Exercise B,During,0
+630,6611,16,Exercise B,During,0
+631,5210,1,Control,After,0
+632,5210,2,Control,After,120
+633,5210,3,Control,After,0
+634,5210,4,Control,After,0
+635,5210,5,Control,After,0
+636,5210,6,Control,After,29
+637,5210,7,Control,After,0
+638,6791,1,Control,After,0
+639,6791,2,Control,After,0
+640,6791,3,Control,After,0
+641,6791,4,Control,After,0
+642,6791,5,Control,After,0
+643,6791,6,Control,After,0
+644,6791,7,Control,After,0
+645,5803,1,Control,After,20
+646,5803,2,Control,After,0
+647,5803,3,Control,After,0
+648,5803,4,Control,After,0
+649,5803,5,Control,After,0
+650,5803,6,Control,After,0
+651,5803,7,Control,After,0
+652,6319,1,Control,After,39
+653,6319,2,Control,After,39
+654,6319,3,Control,After,0
+655,6319,4,Control,After,0
+656,6319,5,Control,After,0
+657,6319,6,Control,After,0
+658,6319,7,Control,After,0
+659,7574,1,Control,After,0
+660,7574,2,Control,After,0
+661,7574,3,Control,After,0
+662,7574,4,Control,After,0
+663,7574,5,Control,After,0
+664,7574,6,Control,After,0
+665,7574,7,Control,After,0
+666,6546,1,Control,After,0
+667,6546,2,Control,After,0
+668,6546,3,Control,After,0
+669,6546,4,Control,After,0
+670,6546,5,Control,After,0
+671,6546,6,Control,After,0
+672,6546,7,Control,After,0
+673,5297,1,Control,After,364
+674,5297,2,Control,After,419
+675,5297,3,Control,After,153
+676,5297,4,Control,After,114
+677,5297,5,Control,After,500
+678,5297,6,Control,After,142
+679,5297,7,Control,After,182
+680,6947,1,Control,After,38
+681,6947,2,Control,After,0
+682,6947,3,Control,After,0
+683,6947,4,Control,After,346
+684,6947,5,Control,After,0
+685,6947,6,Control,After,0
+686,6947,7,Control,After,0
+687,6213,1,Control,After,0
+688,6213,2,Control,After,0
+689,6213,3,Control,After,0
+690,6213,4,Control,After,0
+691,6213,5,Control,After,0
+692,6213,6,Control,After,0
+693,6213,7,Control,After,0
+694,7750,1,Control,After,117
+695,7750,2,Control,After,24
+696,7750,3,Control,After,16
+697,7750,4,Control,After,99
+698,7750,5,Control,After,14
+699,7750,6,Control,After,14
+700,7750,7,Control,After,205
+701,8936,1,Control,After,0
+702,8936,2,Control,After,0
+703,8936,3,Control,After,0
+704,8936,4,Control,After,0
+705,8936,5,Control,After,0
+706,8936,6,Control,After,0
+707,8936,7,Control,After,0
+708,7326,1,Exercise A,After,0
+709,7326,2,Exercise A,After,0
+710,7326,3,Exercise A,After,0
+711,7326,4,Exercise A,After,0
+712,7326,5,Exercise A,After,0
+713,7326,6,Exercise A,After,0
+714,7326,7,Exercise A,After,0
+715,9713,1,Exercise A,After,0
+716,9713,2,Exercise A,After,0
+717,9713,3,Exercise A,After,0
+718,9713,4,Exercise A,After,0
+719,9713,5,Exercise A,After,0
+720,9713,6,Exercise A,After,0
+721,9713,7,Exercise A,After,0
+722,9667,1,Exercise A,After,0
+723,9667,2,Exercise A,After,0
+724,9667,3,Exercise A,After,0
+725,9667,4,Exercise A,After,0
+726,9667,5,Exercise A,After,0
+727,9667,6,Exercise A,After,0
+728,9667,7,Exercise A,After,0
+729,8072,1,Exercise A,After,0
+730,8072,2,Exercise A,After,0
+731,8072,3,Exercise A,After,0
+732,8072,4,Exercise A,After,0
+733,8072,5,Exercise A,After,0
+734,8072,6,Exercise A,After,0
+735,8072,7,Exercise A,After,0
+736,5160,1,Exercise A,After,0
+737,5160,2,Exercise A,After,0
+738,5160,3,Exercise A,After,0
+739,5160,4,Exercise A,After,0
+740,5160,5,Exercise A,After,0
+741,5160,6,Exercise A,After,0
+742,5160,7,Exercise A,After,0
+743,8010,1,Exercise A,After,0
+744,8010,2,Exercise A,After,0
+745,8010,3,Exercise A,After,0
+746,8010,4,Exercise A,After,0
+747,8010,5,Exercise A,After,0
+748,8010,6,Exercise A,After,0
+749,8010,7,Exercise A,After,0
+750,8837,1,Exercise A,After,0
+751,8837,2,Exercise A,After,0
+752,8837,3,Exercise A,After,0
+753,8837,4,Exercise A,After,0
+754,8837,5,Exercise A,After,0
+755,8837,6,Exercise A,After,0
+756,8837,7,Exercise A,After,0
+757,8713,1,Exercise A,After,0
+758,8713,2,Exercise A,After,0
+759,8713,3,Exercise A,After,0
+760,8713,4,Exercise A,After,0
+761,8713,5,Exercise A,After,0
+762,8713,6,Exercise A,After,0
+763,8713,7,Exercise A,After,0
+764,9682,1,Exercise B,After,0
+765,9682,2,Exercise B,After,0
+766,9682,3,Exercise B,After,0
+767,9682,4,Exercise B,After,0
+768,9682,5,Exercise B,After,0
+769,9682,6,Exercise B,After,0
+770,9682,7,Exercise B,After,0
+771,7036,1,Exercise B,After,0
+772,7036,2,Exercise B,After,0
+773,7036,3,Exercise B,After,0
+774,7036,4,Exercise B,After,0
+775,7036,5,Exercise B,After,0
+776,7036,6,Exercise B,After,0
+777,7036,7,Exercise B,After,0
+778,7350,1,Exercise B,After,0
+779,7350,2,Exercise B,After,0
+780,7350,3,Exercise B,After,0
+781,7350,4,Exercise B,After,0
+782,7350,5,Exercise B,After,0
+783,7350,6,Exercise B,After,0
+784,7350,7,Exercise B,After,20
+785,7152,1,Exercise B,After,0
+786,7152,2,Exercise B,After,0
+787,7152,3,Exercise B,After,0
+788,7152,4,Exercise B,After,0
+789,7152,5,Exercise B,After,0
+790,7152,6,Exercise B,After,0
+791,7152,7,Exercise B,After,0
+792,6877,1,Exercise B,After,0
+793,6877,2,Exercise B,After,0
+794,6877,3,Exercise B,After,0
+795,6877,4,Exercise B,After,0
+796,6877,5,Exercise B,After,0
+797,6877,6,Exercise B,After,0
+798,6877,7,Exercise B,After,0
+799,5160,1,Exercise B,After,0
+800,5160,2,Exercise B,After,0
+801,5160,3,Exercise B,After,0
+802,5160,4,Exercise B,After,0
+803,5160,5,Exercise B,After,0
+804,5160,6,Exercise B,After,0
+805,5160,7,Exercise B,After,0
+806,5188,1,Exercise B,After,0
+807,5188,2,Exercise B,After,0
+808,5188,3,Exercise B,After,0
+809,5188,4,Exercise B,After,0
+810,5188,5,Exercise B,After,0
+811,5188,6,Exercise B,After,0
+812,5188,7,Exercise B,After,0
+813,6403,1,Exercise B,After,0
+814,6403,2,Exercise B,After,0
+815,6403,3,Exercise B,After,0
+816,6403,4,Exercise B,After,0
+817,6403,5,Exercise B,After,0
+818,6403,6,Exercise B,After,0
+819,6403,7,Exercise B,After,0
+820,5627,1,Exercise B,After,0
+821,5627,2,Exercise B,After,0
+822,5627,3,Exercise B,After,0
+823,5627,4,Exercise B,After,0
+824,5627,5,Exercise B,After,0
+825,5627,6,Exercise B,After,0
+826,5627,7,Exercise B,After,0
+827,7707,1,Exercise B,After,0
+828,7707,2,Exercise B,After,0
+829,7707,3,Exercise B,After,0
+830,7707,4,Exercise B,After,0
+831,7707,5,Exercise B,After,0
+832,7707,6,Exercise B,After,0
+833,7707,7,Exercise B,After,0
+834,6611,1,Exercise B,After,0
+835,6611,2,Exercise B,After,0
+836,6611,3,Exercise B,After,0
+837,6611,4,Exercise B,After,0
+838,6611,5,Exercise B,After,0
+839,6611,6,Exercise B,After,0
+840,6611,7,Exercise B,After,0
