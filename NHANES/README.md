@@ -1,299 +1,181 @@
-# NHANES Terrestrial Reference Dataset
+# NHANES BIOPRO Dataset for LUNAR
 
-## Overview
+This folder contains the NHANES BIOPRO chemistry dataset and derived LUNAR summary workbooks used as a terrestrial reference population for comparison against Inspiration4, bed-rest campaigns, and future astronaut or analog cohorts.
 
-This folder contains NHANES (National Health and Nutrition Examination Survey) datasets curated for the LUNAR (Longitudinal Unification of Small-N Astronaut Responses) project.
+## Purpose
 
-The purpose of this dataset is to establish a terrestrial reference population that can be compared with astronaut cohorts and spaceflight analog populations. NHANES provides large-scale population-level measurements that serve as a baseline for interpreting physiological changes observed in small-N astronaut studies.
+The goal of this NHANES BIOPRO pull is to create a clean, cross-sectional terrestrial reference dataset focused on serum biochemistry variables that overlap with LUNAR spaceflight and bed-rest datasets. Unlike the earlier NHANES first pull, which emphasized demographics, CBC, lipids, diet, supplements, cotinine, and urine albumin/creatinine variables, this BIOPRO pull focuses on clinical chemistry analytes that are directly comparable to the chemistry portion of Inspiration4 and bed-rest datasets.
 
----
+NHANES is used here as a terrestrial reference population, not as a spaceflight analog.
 
-## Purpose within LUNAR
+## Key Conceptual Notes
 
-LUNAR aims to harmonize biomedical datasets across astronaut, analog, and terrestrial populations.
-
-Within this framework, NHANES serves as:
-
-* A terrestrial reference population
-* A source of demographic baseline distributions
-* A source of clinical chemistry reference values
-* A source of anthropometric reference values
-* A harmonization target for cross-cohort comparisons
-
-Future analyses will compare NHANES participants with:
-
-* Inspiration4 astronauts
-* Bed rest analog cohorts
-* Additional astronaut cohorts
-* Future commercial and government spaceflight datasets
-
----
-
-## Current Dataset
-
-This folder contains the first NHANES working dataset focused on biochemical profile variables and cohort-filtering variables relevant to space medicine and astronaut health.
-
-The goal of this first pull was to create a clean, merged terrestrial reference dataset suitable for future harmonization with astronaut and analog datasets.
-
----
+- `SEQN` is the NHANES participant/subject identifier.
+- `SEQN` is not a measured laboratory variable and should be excluded from variable statistics, variability calculations, and missingness-by-variable summaries.
+- NHANES BIOPRO is cross-sectional for the purposes of this LUNAR workbook.
+- No timepoint-based summaries are generated for NHANES.
+- Some NHANES cycles include second-exam or repeat-measurement variables; these are retained in the all-cycles combined file but are not treated as longitudinal timepoints.
 
 ## Main Files
 
-### processed_csv/nhanes_biochemical_profile_first_pull.csv
+### Processed CSV Files
 
-Full merged first-pass dataset containing all merged NHANES source files.
+`processed_csv/nhanes_biopro_all_cycles_combined.csv`  
+All-cycles NHANES BIOPRO chemistry dataset. BIOPRO files from multiple NHANES cycles were concatenated by rows using `SEQN` as the participant identifier. Provenance columns were added for `nhanes_cycle`, `source_file`, and `exam_type`.
 
----
+`processed_csv/LUNAR_NHANES_OVERLAP_Data_Wide_v2.csv`  
+NHANES-only overlap-ready dataset containing only the selected chemistry variables expected to overlap with Inspiration4 and/or bed-rest chemistry datasets, plus derived ratios.
 
-### processed_csv/nhanes_biochemical_profile_first_pull_70pct_available.csv
+### Summary Workbooks
 
-Filtered dataset retaining:
+`summaries/LUNAR_NHANES_Data_Quality_Summary_v4.xlsx`  
+NHANES BIOPRO data-quality summary workbook. Includes dataset inventory, variable statistics, inter-subject variability, missingness by variable, missingness by participant, units audit, and naming audit.
 
-* SEQN
-* Variables with at least 70% availability
+`summaries/LUNAR_NHANES_OVERLAP_Summary_v2.xlsx`  
+NHANES-only overlap summary workbook. Includes only the overlap chemistry variables and derived ratios, using the same general structure as the LUNAR Inspiration4 and Bed Rest overlap workbooks.
 
-Purpose:
+### Scripts
 
-* Initial exploratory analyses
-* Reduced missingness workflows
+`scripts/build_nhanes_biopro_all_cycles_combined.py`  
+Builds `nhanes_biopro_all_cycles_combined.csv` from raw NHANES BIOPRO XPT files.
 
----
+`scripts/build_lunar_nhanes_data_quality_summary.py`  
+Builds `LUNAR_NHANES_Data_Quality_Summary_v4.xlsx` from the all-cycles combined BIOPRO CSV.
 
-### processed_csv/nhanes_biochemical_model_ready_keep_columns.csv
+`scripts/build_lunar_nhanes_overlap_summary.py`  
+Builds `LUNAR_NHANES_OVERLAP_Summary_v2.xlsx` and `LUNAR_NHANES_OVERLAP_Data_Wide_v2.csv` from the all-cycles combined BIOPRO CSV.
 
-Model-ready dataset containing variables designated:
+## BIOPRO Source Files Used
 
-* Keep
+The combined NHANES BIOPRO dataset was created by row-stacking the following public-use BIOPRO files:
 
-based on the completed variable mapping process.
+| NHANES Cycle | Source File | Exam Type |
+|---|---|---|
+| 1999-2000 | `LAB18.xpt` | main |
+| 2001-2002 | `L40_B.xpt` | main |
+| 2001-2002 | `L40_2_B.xpt` | second_exam |
+| 2003-2004 | `L40_C.xpt` | main |
+| 2005-2006 | `BIOPRO_D.xpt` | main |
+| 2009-2010 | `BIOPRO_F.xpt` | main |
+| 2011-2012 | `BIOPRO_G.xpt` | main |
+| 2013-2014 | `BIOPRO_H.xpt` | main |
+| 2015-2016 | `BIOPRO_I.xpt` | main |
+| 2017-2018 | `BIOPRO_J.xpt` | main |
+| 2017-March 2020 | `P_BIOPRO.xpt` | main_pre_pandemic |
 
----
+## How the BIOPRO Combined File Was Created
 
-### processed_csv/nhanes_biochemical_model_ready_keep_support_columns.csv
+The BIOPRO combined file was created by adapting the original NHANES first-pull workflow. The first pull merged multiple NHANES domains by `SEQN`; the BIOPRO workflow instead concatenates a single laboratory domain across survey cycles.
 
-Model-ready dataset containing variables designated:
+Workflow:
 
-* Keep
-* Support
+1. Download NHANES BIOPRO public-use XPT files for available cycles.
+2. Read each XPT file into Python using `pandas.read_sas(..., format="xport")`.
+3. Add provenance columns:
+   - `nhanes_cycle`
+   - `source_file`
+   - `exam_type`
+4. Concatenate all BIOPRO files by rows.
+5. Align variables by column name across cycles.
+6. Preserve `SEQN` as the subject identifier.
+7. Export the combined file as `nhanes_biopro_all_cycles_combined.csv`.
 
-This is the recommended dataset for first-pass exploratory analyses and harmonization efforts.
+This produces a cross-sectional chemistry reference dataset with:
 
----
+| Metric | Value |
+|---|---:|
+| Rows | 73,170 |
+| Unique SEQN values | 72,624 |
+| Duplicate SEQN rows | 546 |
+| Columns | 91 |
 
-## Summary Files
+The duplicate `SEQN` rows are expected and arise from the 2001-2002 second-exam BIOPRO file (`L40_2_B.xpt`).
 
-### summaries/nhanes_first_pull_column_map_completed.csv
+## Data-Quality Summary Workbook
 
-Completed variable map including:
+`LUNAR_NHANES_Data_Quality_Summary_v4.xlsx` contains the following sheets:
 
-* Variable descriptions
-* Measure groups
-* LUNAR relevance
-* Keep / Support / Review decisions
+| Sheet | Description |
+|---|---|
+| `Dataset_Inventory` | Dataset-level row, subject, and variable counts. |
+| `Variable_Stats` | Descriptive statistics for numeric variables, excluding `SEQN`. |
+| `Inter_Subject_Variability` | Population variability using the same column structure as the LUNAR Inspiration4/Bed Rest summaries. |
+| `Missing_By_Variable` | Missing count and percent for each variable, excluding `SEQN`. |
+| `Missing_By_Participant` | Missing count and percent for each `SEQN` row. |
+| `Units_Audit` | Variable units based on NHANES BIOPRO documentation. |
+| `Naming_Audit` | Variable descriptions based on NHANES BIOPRO documentation. |
 
----
+Because NHANES is cross-sectional in this context, the workbook does not include timepoint sheets such as `Missing_By_Timepoint`, `Subject_Timepoint_Stats`, or `Variable_Stats_By_Timepoint`.
 
-### summaries/nhanes_model_ready_group_summary.csv
+## NHANES Overlap Summary Workbook
 
-Summary of retained variables by measure group.
+`LUNAR_NHANES_OVERLAP_Summary_v2.xlsx` contains the NHANES-only overlap subset. It is designed to mirror the structure of the LUNAR Inspiration4 and Bed Rest overlap workbooks while containing only NHANES values.
 
----
+Included sheets:
 
-### summaries/nhanes_model_ready_missingness_summary.csv
+| Sheet | Description |
+|---|---|
+| `Dataset_Inventory` | Summary of the NHANES overlap dataset. |
+| `Variable_Stats` | Descriptive statistics for overlap variables only. |
+| `Inter_Subject_Variability` | Population variability for overlap variables only. |
+| `Missing_By_Variable` | Missingness for overlap variables only. |
+| `Missing_By_Participant` | Participant-level missingness for overlap variables only. |
+| `Units_Audit` | Units for overlap variables. |
+| `Naming_Audit` | Descriptions and canonical names for overlap variables. |
+| `Derived_Variables_Audit` | Formulas for derived overlap variables. |
+| `Overlap_Data` | Preview of overlap-ready participant-level data. |
 
-Missingness assessment for the model-ready dataset.
+The full participant-level overlap dataset is exported separately as:
 
----
+`processed_csv/LUNAR_NHANES_OVERLAP_Data_Wide_v2.csv`
 
-### summaries/nhanes_model_ready_numeric_summary.csv
+## NHANES Overlap Variables
 
-Descriptive statistics for retained numeric variables.
+The NHANES overlap workbook includes 16 direct BIOPRO chemistry variables and 2 derived ratios.
 
----
+### Direct Variables
 
-## Source Files Used
+| Canonical Variable | NHANES Variable | Unit |
+|---|---|---|
+| Albumin | `LBXSAL` | g/dL |
+| Alkaline Phosphatase | `LBXSAPSI` | U/L |
+| AST | `LBXSASSI` | U/L |
+| ALT | `LBXSATSI` | U/L |
+| BUN | `LBXSBU` | mg/dL |
+| Carbon Dioxide / Bicarbonate | `LBXSC3SI` | mmol/L |
+| Calcium | `LBXSCA` | mg/dL |
+| Chloride | `LBXSCLSI` | mmol/L |
+| Creatinine | `LBXSCR` | mg/dL |
+| Globulin | `LBXSGB` | g/dL |
+| Glucose | `LBXSGL` | mg/dL |
+| Potassium | `LBXSKSI` | mmol/L |
+| Sodium | `LBXSNASI` | mmol/L |
+| Total Bilirubin | `LBXSTB` | mg/dL |
+| Total Protein | `LBXSTP` | g/dL |
+| Uric Acid | `LBXSUA` | mg/dL |
 
-The current first-pass merge includes 14 NHANES public-use datasets:
+### Derived Variables
 
-### Demographics
+| Derived Variable | Formula | Unit |
+|---|---|---|
+| Albumin/Globulin Ratio | `LBXSAL / LBXSGB` | ratio |
+| BUN/Creatinine Ratio | `LBXSBU / LBXSCR` | ratio |
 
-* P_DEMO
+## Recommended Use
 
-### Anthropometrics
+Use `LUNAR_NHANES_Data_Quality_Summary_v4.xlsx` to inspect the full BIOPRO all-cycles chemistry dataset.
 
-* P_BMX
+Use `LUNAR_NHANES_OVERLAP_Summary_v2.xlsx` and `LUNAR_NHANES_OVERLAP_Data_Wide_v2.csv` when comparing NHANES with Inspiration4, Bed Rest Campaign 1, or other LUNAR datasets.
 
-### Blood Pressure
+## Relationship to the Original First Pull
 
-* P_BPXO
+The original NHANES first pull created a broad working dataset that included demographics, body measures, CBC, cotinine, urine albumin/creatinine, lipids, diet recalls, and supplement recalls. That dataset was useful for general NHANES exploration but did not contain the clinical chemistry variables needed for strong overlap with Inspiration4.
 
-### Hematology
+The BIOPRO pull was created to address that gap by focusing specifically on NHANES serum chemistry variables.
 
-* P_CBC
+## Source Documentation
 
-### Exposure Biomarkers
+NHANES BIOPRO laboratory documentation/codebooks are available through the CDC/NCHS NHANES website. Example BIOPRO documentation page:
 
-* P_COT
-
-### Kidney Function
-
-* P_ALB_CR
-
-### Lipids
-
-* P_HDL
-* P_TCHOL
-* P_TRIGLY
-
-### Dietary Intake
-
-* P_DR1TOT
-* P_DR2TOT
-
-### Dietary Supplements
-
-* P_DS1TOT
-* P_DS2TOT
-* P_DSQTOT
-
----
-
-## Merge Strategy
-
-All source datasets were merged using:
-
-```text
-SEQN
-```
-
-the unique NHANES participant identifier.
-
----
-
-## Cohort Summary
-
-Current merged dataset:
-
-* 15,560 unique participants
-* No duplicate SEQN values
-
-Population type:
-
-* General U.S. population
-
-Role within LUNAR:
-
-* Terrestrial comparison cohort
-
----
-
-## Recommended Files
-
-### For Exploratory Analysis
-
-Use:
-
-```text
-processed_csv/
-nhanes_biochemical_model_ready_keep_support_columns.csv
-```
-
-Recommended analyses:
-
-* PCA
-* Clustering
-* Correlation analysis
-* Variable harmonization
-
----
-
-### For Missingness Evaluation
-
-Use:
-
-```text
-summaries/
-nhanes_model_ready_missingness_summary.csv
-```
-
----
-
-### For Variable Mapping
-
-Use:
-
-```text
-summaries/
-nhanes_first_pull_column_map_completed.csv
-```
-
----
-
-## Harmonization Goals
-
-Future harmonization efforts will align NHANES variables with:
-
-| Domain             | Example Variables               |
-| ------------------ | ------------------------------- |
-| Demographics       | Age, Sex, BMI                   |
-| Anthropometrics    | Height, Weight                  |
-| Clinical Chemistry | Glucose, Albumin, Creatinine    |
-| Lipids             | HDL, Cholesterol, Triglycerides |
-| Hematology         | CBC Measures                    |
-| Nutrition          | Dietary Intake                  |
-| Supplements        | Vitamin and Mineral Use         |
-| Cardiovascular     | Blood Pressure                  |
-
-These mappings will support direct comparison with astronaut and analog cohorts.
-
----
-
-## Current Status
-
-### Version 1.0
-
-Completed:
-
-* Initial NHANES dataset acquisition
-* Dataset merging
-* Variable mapping
-* Missingness assessment
-* Model-ready dataset generation
-
-Current outputs:
-
-* Merged NHANES dataset
-* Filtered NHANES dataset
-* Model-ready datasets
-* Missingness summaries
-* Variable mapping tables
-
-Status:
-
-* Ready for harmonization with astronaut and analog cohorts
-
----
-
-## Relationship to LUNAR
-
-NHANES serves as the primary terrestrial reference population within the LUNAR framework.
-
-By comparing astronaut cohorts against large terrestrial populations, LUNAR seeks to determine whether observed physiological responses represent:
-
-* Normal population variation
-* Spaceflight-associated adaptation
-* Analog-associated adaptation
-* Unique astronaut physiological signatures
-
----
-
-## Citation
-
-Please cite the National Health and Nutrition Examination Survey (NHANES) and associated documentation when using these datasets or derived products.
-
----
-
-## Disclaimer
-
-This folder contains derived datasets generated from publicly available NHANES data. Users are responsible for verifying analyses, validating results, and complying with all applicable NHANES data-use and citation requirements.
+https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/BIOPRO_J.htm
 
