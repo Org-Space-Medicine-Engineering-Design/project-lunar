@@ -2,9 +2,11 @@
 
 ## Overview
 
-This folder contains the Inspiration4 cohort datasets, processing scripts, derived datasets, and quality-control reports generated as part of the **LUNAR (Longitudinal Unification of Small-N Astronaut Responses)** project.
+This folder contains the Inspiration4 cohort datasets, processing scripts, derived datasets, harmonization products, and quality-control reports generated as part of the **LUNAR (Longitudinal Unification of Small-N Astronaut Responses)** project.
 
-The purpose of this dataset is to create analysis-ready longitudinal biomedical data products from the Inspiration4 mission that can be compared with terrestrial reference populations (e.g., NHANES) and spaceflight analog cohorts (e.g., bed rest studies).
+The purpose of this dataset is to create analysis-ready longitudinal biomedical data products from the Inspiration4 mission that can be compared with terrestrial reference populations (e.g., NHANES) and spaceflight analog cohorts (e.g., UTMB Bed Rest Campaigns).
+
+The Inspiration4 dataset serves as the first astronaut cohort integrated into the LUNAR framework and provides the foundation for future cross-cohort harmonization efforts.
 
 ---
 
@@ -77,7 +79,7 @@ Inputs:
 The script reconstructs a longitudinal data structure from the master datasets and produces:
 
 1. A comprehensive Inspiration4 quality-control workbook.
-2. A Bed Rest–aligned overlap workbook containing only approved overlap variables.
+2. A harmonized overlap workbook containing approved overlap variables shared with Bed Rest and NHANES harmonization efforts.
 
 Run:
 
@@ -87,17 +89,186 @@ py scripts/summary_statistics_inspiration4_v2.py \
     --long outputs/Inspiration4_Master_Long.csv \
     --demographics data/raw/Inspiration4/Demographics_inspiration4.xlsx \
     --out outputs/Inspiration4_Data_Quality_Summary_V2.xlsx \
-    --overlap-out outputs/Inspiration4_BedRest_Overlap_Summary_v3_with_BUN.xlsx
+    --overlap-out outputs/LUNAR_Inspiration4_OVERLAP_Summary_v1.xlsx
 ```
 
 Outputs:
 
 * Inspiration4_Data_Quality_Summary_V2.xlsx
-* Inspiration4_BedRest_Overlap_Summary_v3_with_BUN.xlsx
+* LUNAR_Inspiration4_OVERLAP_Summary_v1.xlsx
 
-The full summary workbook is generated exclusively from the harmonized master datasets and does not include raw source-file observation tables.
+---
 
-The overlap workbook is generated using a locked Inspiration4-to-Bed Rest crosswalk and is intended for direct comparison with Bed Rest Campaign 1 and future harmonized datasets.
+## generate_inspiration4_timepoint_binning.py
+
+This script generates longitudinally binned astronaut datasets and cohort-level summary statistics from the Inspiration4 overlap workbook.
+
+Input:
+
+* LUNAR_Inspiration4_OVERLAP_Summary_v1.xlsx
+
+Required sheet:
+
+* Overlap_Data
+
+Required columns:
+
+* Subject_ID
+* Variable
+* Timepoint
+* Value
+
+Run:
+
+```bash
+python scripts/generate_inspiration4_timepoint_binning.py \
+    --input outputs/LUNAR_Inspiration4_OVERLAP_Summary_v1.xlsx \
+    --output outputs/Inspiration4_Timepoint_Binning_Workbook_All3_Summaries.xlsx
+```
+
+### Purpose
+
+Different cohorts use different sampling schedules. This script generates multiple longitudinal binning strategies to facilitate direct comparison among:
+
+* Inspiration4
+* NHANES
+* UTMB Bed Rest Campaigns
+* Future LUNAR datasets
+
+### Generated Workbook
+
+Output:
+
+* Inspiration4_Timepoint_Binning_Workbook_All3_Summaries.xlsx
+
+The workbook contains one worksheet per overlap biomarker.
+
+Each worksheet includes:
+
+#### Raw Timepoint Data
+
+Participant-level values for:
+
+* L-92
+* L-44
+* L-3
+* R+1
+* R+45
+* R+82
+* R+194
+
+---
+
+#### Option 1: Mean Preflight vs Mean Postflight
+
+Preflight:
+
+* Mean(L-92, L-44, L-3)
+
+Postflight:
+
+* Mean(R+1, R+45, R+82, R+194)
+
+Purpose:
+
+* Primary longitudinal harmonization framework
+* Reduces noise associated with individual collection days
+* Supports cross-cohort comparisons
+
+---
+
+#### Option 2: Acute Response
+
+Baseline:
+
+* L-3
+
+Postflight:
+
+* R+1
+
+Purpose:
+
+* Captures immediate physiological response to spaceflight
+* Supports acute-response comparisons
+
+---
+
+#### Option 3: Long-Term Recovery
+
+Preflight:
+
+* Mean(L-92, L-44, L-3)
+
+Postflight:
+
+* Mean(R+45, R+82, R+194)
+
+Purpose:
+
+* Excludes acute R+1 recovery effects
+* Emphasizes longer-term physiological recovery
+
+---
+
+### Participant-Level Outputs
+
+For each participant and variable:
+
+* Baseline value
+* Postflight value
+* Delta
+* Percent Delta
+* Number of observations contributing to baseline estimate
+* Number of observations contributing to postflight estimate
+
+---
+
+### Cohort Summary Sheets
+
+The workbook generates three cohort-level summary worksheets.
+
+#### Summary_Option1
+
+Reports:
+
+* Preflight Mean
+* Preflight SD
+* Postflight Mean
+* Postflight SD
+* Delta Mean
+* Delta SD
+* Percent Delta Mean
+* Percent Delta SD
+* N Subjects
+
+#### Summary_Option2
+
+Reports:
+
+* L-3 Mean
+* L-3 SD
+* R+1 Mean
+* R+1 SD
+* Delta Mean
+* Delta SD
+* Percent Delta Mean
+* Percent Delta SD
+* N Subjects
+
+#### Summary_Option3
+
+Reports:
+
+* Preflight Mean
+* Preflight SD
+* Long-Term Recovery Mean
+* Long-Term Recovery SD
+* Delta Mean
+* Delta SD
+* Percent Delta Mean
+* Percent Delta SD
+* N Subjects
 
 ---
 
@@ -111,8 +282,8 @@ Characteristics:
 
 * One row per measurement
 * Preserves longitudinal structure
-* Suitable for mixed-effects models
-* Suitable for repeated-measures analyses
+* Suitable for data exploration
+* Suitable for harmonization workflows
 * Suitable for longitudinal visualization
 
 ---
@@ -124,10 +295,9 @@ Integrated wide-format dataset.
 Characteristics:
 
 * One row per participant-timepoint
-* Suitable for PCA
-* Suitable for clustering
-* Suitable for correlation analysis
-* Suitable for machine-learning workflows
+* Suitable for data integration
+* Suitable for harmonization workflows
+* Suitable for downstream dataset generation
 
 ---
 
@@ -160,19 +330,18 @@ Workbook tabs include:
 Characteristics:
 
 * Generated from integrated master datasets
-* No raw source-file observation tables included
-* Aligned with the Bed Rest reporting framework
-* Designed for rapid quality control, cohort characterization, and cross-cohort harmonization
+* Provides quality-control reporting
+* Provides coverage assessment
+* Provides cohort characterization
+* Supports harmonization planning
 
 ---
 
-## Inspiration4_BedRest_Overlap_Summary_v3_with_BUN.xlsx
+## LUNAR_Inspiration4_OVERLAP_Summary_v1.xlsx
 
-Bed Rest–aligned overlap summary workbook containing only approved overlap variables shared between Inspiration4 and Bed Rest Campaign 1.
+Overlap workbook containing approved variables shared with Bed Rest and NHANES harmonization efforts.
 
-This workbook is generated using a locked crosswalk and does not rely on fuzzy variable matching.
-
-### Included Canonical Variables
+Included variables:
 
 * ALBUMIN
 * ALKALINE PHOSPHATASE
@@ -194,54 +363,32 @@ This workbook is generated using a locked crosswalk and does not rely on fuzzy v
 * ALBUMIN/GLOBULIN RATIO
 * BUN/CREATININE RATIO
 
-### Locked Crosswalk
-
-| Canonical Variable     | Inspiration4 Source Column  |
-| ---------------------- | --------------------------- |
-| ALBUMIN                | CMP__ALBUMIN                |
-| ALKALINE PHOSPHATASE   | CMP__ALKALINE PHOSPHATASE   |
-| ALT                    | CMP__ALT                    |
-| AST                    | CMP__AST                    |
-| BILIRUBIN; TOTAL       | CMP__BILIRUBIN; TOTAL       |
-| CALCIUM                | CMP__CALCIUM                |
-| CARBON DIOXIDE         | CMP__CARBON DIOXIDE         |
-| CHLORIDE               | CMP__CHLORIDE               |
-| CREATININE             | CMP__CREATININE             |
-| CRP                    | Cardiovascular_Eve__CRP     |
-| GLUCOSE                | CMP__GLUCOSE                |
-| POTASSIUM              | CMP__POTASSIUM              |
-| PROTEIN; TOTAL         | CMP__PROTEIN; TOTAL         |
-| SODIUM                 | CMP__SODIUM                 |
-| BUN                    | CMP__UREA NITROGEN (BUN)    |
-| UREA NITROGEN (BUN)    | CMP__UREA NITROGEN (BUN)    |
-| GLOBULIN               | CMP__GLOBULIN               |
-| ALBUMIN/GLOBULIN RATIO | CMP__ALBUMIN/GLOBULIN RATIO |
-| BUN/CREATININE RATIO   | CMP__BUN/CREATININE RATIO   |
-
-### Workbook Tabs
-
-* Dataset_Inventory
-* Variable_Stats
-* Variable_Stats_By_Timepoint
-* Subject_Stats
-* Subject_Timepoint_Variable_Stat
-* Subject_Missingness
-* Subject_Timepoint_Stats
-* Missing_By_Variable
-* Missing_By_Timepoint
-* Overlap_Crosswalk
-* Units_Audit
-* Derived_Variables_Audit
-* Participant_Audit
-* Overlap_Data
-
 Characteristics:
 
-* Generated from Inspiration4_Master_Wide.csv
-* Uses a locked crosswalk to prevent accidental inclusion of similarly named biomarkers
-* Mirrors the Bed Rest Campaign 1 overlap summary structure
-* Includes participant-level, variable-level, and timepoint-level quality-control metrics
-* Intended for direct comparison with Bed Rest and future harmonized datasets
+* Generated from Inspiration4 master datasets
+* Uses a locked overlap-variable crosswalk
+* Harmonized for Bed Rest comparison
+* Harmonized for NHANES comparison
+* Contains participant-level longitudinal overlap data
+
+---
+
+## Inspiration4_Timepoint_Binning_Workbook_All3_Summaries.xlsx
+
+Longitudinal harmonization workbook generated from the overlap dataset.
+
+Contains:
+
+* One worksheet per overlap biomarker
+* Raw participant-level timepoint data
+* Three longitudinal binning strategies
+* Three cohort-level summary worksheets
+* Delta calculations
+* Percent-change calculations
+
+Primary use:
+
+* Cross-cohort harmonization
 
 ---
 
@@ -255,16 +402,15 @@ Cohort Size:
 
 * 4 participants
 
-Longitudinal Sampling Timepoints:
+Primary Longitudinal Timepoints:
 
 * L-92
 * L-44
 * L-3
-* FD2
-* FD3
 * R+1
 * R+45
 * R+82
+* R+194
 
 Data Domains:
 
@@ -279,38 +425,37 @@ Data Domains:
 
 # Recommended Files
 
-## For Longitudinal Statistical Modeling
+## Data Exploration
 
 Use:
 
 * Inspiration4_Master_Long.csv
 
-Recommended methods:
+Recommended uses:
 
-* Mixed-effects models
-* Repeated-measures ANOVA
-* Longitudinal trajectory analysis
-* Generalized estimating equations
+* Review participant-level measurements
+* Explore longitudinal trajectories
+* Verify variable availability
+* Assess timepoint coverage
 
 ---
 
-## For Multivariate Analysis
+## Data Integration and Harmonization
 
 Use:
 
 * Inspiration4_Master_Wide.csv
 
-Recommended methods:
+Recommended uses:
 
-* Principal Component Analysis (PCA)
-* UMAP
-* Hierarchical clustering
-* Correlation networks
-* Machine learning workflows
+* Data integration
+* Variable harmonization
+* Cross-cohort alignment
+* Dataset generation
 
 ---
 
-## For Data Exploration and Quality Assessment
+## Data Quality Assessment
 
 Use:
 
@@ -319,101 +464,42 @@ Use:
 Recommended uses:
 
 * Missingness assessment
-* Cohort characterization
 * Participant-level quality control
 * Variable-level quality control
-* Baseline variability assessment
-* Cross-cohort harmonization planning
+* Unit verification
+* Cohort characterization
 
 ---
 
-## For Bed Rest Harmonization
+## Overlap Variable Assessment
 
 Use:
 
-* Inspiration4_BedRest_Overlap_Summary_v3_with_BUN.xlsx
+* LUNAR_Inspiration4_OVERLAP_Summary_v1.xlsx
 
 Recommended uses:
 
-* Direct astronaut-versus-bed-rest comparison
-* Harmonized biomarker assessment
-* Shared-variable analyses
-* Cross-cohort effect size estimation
-* Preparation for future NHANES overlap analyses
+* Review overlap variables
+* Verify harmonized biomarker mappings
+* Compare variable availability across cohorts
+* Support NHANES harmonization
+* Support Bed Rest harmonization
 
 ---
 
-# Relationship to Bed Rest Harmonization
+## Longitudinal Harmonization
 
-The Inspiration4 overlap workbook was intentionally structured to mirror the Bed Rest Campaign 1 overlap workbook.
+Use:
 
-Shared reporting elements include:
+* Inspiration4_Timepoint_Binning_Workbook_All3_Summaries.xlsx
 
-* Dataset inventory
-* Variable summary statistics
-* Variable-level missingness
-* Subject-level summary statistics
-* Subject-level missingness
-* Participant audit tables
-* Units audit
-* Coverage assessment
+Recommended uses:
 
-This standardized framework facilitates direct comparison between:
-
-* Inspiration4
-* Bed Rest Campaign 1
-* Future Bed Rest Campaigns
-* NHANES (future harmonization)
-
----
-
-# Current Status
-
-## Version 3.0
-
-Completed:
-
-* Data integration pipeline
-* Demographic integration
-* Long-format dataset generation
-* Wide-format dataset generation
-* Inspiration4 quality-control framework
-* Subject-level quality-control reporting
-* Inter-subject variability analysis
-* Baseline variability assessment
-* Bed Rest overlap harmonization framework
-* Locked overlap variable crosswalk
-* LUNAR-compatible summary workbook generation
-
-Current outputs:
-
-* Inspiration4_Master_Long.csv
-* Inspiration4_Master_Wide.csv
-* Inspiration4_Data_Quality_Summary_V2.xlsx
-* Inspiration4_BedRest_Overlap_Summary_v3_with_BUN.xlsx
-
-Status:
-
-* Analysis-ready
-* Harmonized for comparison with Bed Rest Campaign 1
-* Overlap biomarker framework established
-* Prepared for future NHANES harmonization within the LUNAR framework
-
----
-
-# Planned Analyses
-
-Planned analyses include:
-
-* Principal Component Analysis (PCA)
-* Longitudinal trajectory modeling
-* Biomarker correlation networks
-* Immune profiling
-* Clinical chemistry trend analysis
-* Comparison with Bed Rest Campaign 1
-* Comparison with NHANES terrestrial reference populations
-* Cross-cohort harmonization within the LUNAR framework
-* Development of common biomarker panels across astronaut, analog, and terrestrial populations
+* Preflight-versus-postflight comparisons
+* Acute-response assessment
+* Long-term recovery assessment
+* Cohort summary generation
+* Cross-cohort harmonization
 
 ---
 
@@ -421,15 +507,56 @@ Planned analyses include:
 
 This dataset represents the first integrated astronaut cohort within the LUNAR project.
 
-Future LUNAR analyses will compare Inspiration4 biomarker profiles with:
+Future LUNAR harmonization efforts will compare Inspiration4 biomarker profiles with:
 
-* Bed Rest Campaign 1
-* Additional bed rest campaigns
 * NHANES terrestrial reference populations
+* UTMB Bed Rest Campaigns
 * Additional astronaut cohorts
-* Future commercial spaceflight datasets
+* Additional biomedical datasets incorporated into the LUNAR framework
 
-The long-term objective is to identify common and cohort-specific physiological responses associated with spaceflight, analog environments, and operationally relevant human performance stressors.
+The longitudinal binning framework developed here serves as a harmonization bridge between astronaut, analog, and terrestrial datasets.
+
+---
+
+# Current Status
+
+## Version 4.0
+
+Completed:
+
+* Data integration pipeline
+* Demographic integration
+* Long-format dataset generation
+* Wide-format dataset generation
+* Quality-control framework
+* Overlap variable harmonization
+* Locked overlap-variable crosswalk
+* Longitudinal timepoint binning framework
+* Acute-response binning framework
+* Long-term recovery binning framework
+* Cohort-level summary statistics generation
+* Bed Rest harmonization framework
+* NHANES harmonization framework
+* LUNAR-compatible reporting framework
+
+Current outputs:
+
+* Inspiration4_Master_Long.csv
+* Inspiration4_Master_Wide.csv
+* Inspiration4_Data_Quality_Summary_V2.xlsx
+* LUNAR_Inspiration4_OVERLAP_Summary_v1.xlsx
+* Inspiration4_Timepoint_Binning_Workbook_All3_Summaries.xlsx
+
+Status:
+
+* Data integration complete
+* Quality-control reporting complete
+* Overlap harmonization complete
+* Timepoint binning complete
+* Cohort summary generation complete
+* Harmonized for comparison with NHANES
+* Harmonized for comparison with UTMB Bed Rest Campaigns
+* Integrated into the LUNAR framework
 
 ---
 
@@ -452,9 +579,5 @@ Users are responsible for:
 
 * Verifying analyses
 * Validating results
-* Confirming variable harmonization
-* Maintaining reproducible workflows
-* Complying with all applicable data-use agreements and citation requirements
-
-Derived datasets and summary products are intended to facilitate reproducible analysis within the LUNAR framework and do not replace the original source datasets.
-
+* Confirming interpretation of derived variables
+* Ensuring compliance with original data-use requirements
