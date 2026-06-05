@@ -1,290 +1,294 @@
-# project-lunar
 # LUNAR: Longitudinal Unification of Small-N Astronaut Responses
 
 ## Overview
 
-LUNAR (Longitudinal Unification of Small-N Astronaut Responses) is a data harmonization and analytics project focused on integrating astronaut, astronaut-relevant, analog, and terrestrial biomedical datasets into a common framework for cross-cohort comparison.
+LUNAR (Longitudinal Unification of Small-N Astronaut Responses) is a biomedical data harmonization and analytical framework designed to compare astronaut, spaceflight analog, and terrestrial reference populations using standardized clinical chemistry biomarkers.
 
-A major challenge in space medicine is the limited sample size available within astronaut populations. Individual studies often contain only a small number of participants, making it difficult to distinguish mission-specific findings from broader physiological trends. LUNAR addresses this challenge by creating standardized, analysis-ready datasets that enable comparison across multiple independent cohorts.
+The current implementation integrates:
 
-The project is designed to support future investigations into physiological adaptation, recovery, resilience, and health risks associated with spaceflight and spaceflight-relevant environments.
+1. NHANES terrestrial reference population
+2. Inspiration4 commercial astronaut cohort
+3. UTMB Bed Rest Campaign 1 analog cohort
 
----
-
-## Mission
-
-The mission of LUNAR is to create a unified framework for comparing longitudinal physiological responses across:
-
-* Commercial astronaut cohorts
-* Government astronaut cohorts
-* Ground-based analog cohorts
-* Terrestrial reference populations
-
-By harmonizing data across these groups, LUNAR seeks to identify both common and cohort-specific physiological responses associated with spaceflight and related operational environments.
+The objective is to identify common physiological patterns across spaceflight and spaceflight analog environments while providing a statistically robust terrestrial reference population for comparison.
 
 ---
 
-## Current Cohorts
-
-### Inspiration4
-
-Commercial astronaut mission dataset.
-
-Current data domains include:
-
-* Comprehensive Metabolic Panel (CMP)
-* Immune biomarkers
-* Cardiovascular biomarkers
-* Multiplex cytokine panels
-* Demographics
-
-Purpose within LUNAR:
-
-* Commercial astronaut reference cohort
-* Longitudinal spaceflight response characterization
-
-Current status:
-
-* Integrated
-* Quality controlled
-* Analysis-ready
-
-Available outputs:
-
-* Inspiration4_Master_Long.csv
-* Inspiration4_Master_Wide.csv
-* Inspiration4_Data_Quality_Summary.xlsx
-
----
-
-### NHANES
-
-National Health and Nutrition Examination Survey (NHANES).
-
-Current data domains include:
-
-* Demographics
-* Anthropometrics
-* Blood pressure
-* Clinical chemistry
-* Hematology
-* Lipid profiles
-* Dietary intake
-* Supplement use
-* Exposure biomarkers
-
-Purpose within LUNAR:
-
-* Terrestrial reference population
-* Population-level baseline comparison cohort
-
-Current status:
-
-* Initial harmonization complete
-* Model-ready datasets generated
-
----
-
-### Bed Rest Cohorts
-
-Ground-based physiological analog studies designed to simulate selected effects of spaceflight and physiological deconditioning.
-
-Current efforts focus on harmonizing biomedical datasets derived from bed rest campaigns curated through the University of Texas Medical Branch (UTMB).
-
-Potential data domains include:
-
-* Clinical chemistry
-* Hematology
-* Immune biomarkers
-* Cardiovascular measures
-* Anthropometrics
-* Physiological monitoring
-* Nutrition-related variables
-
-Purpose within LUNAR:
-
-* Spaceflight analog comparisons
-* Physiological deconditioning analyses
-* Longitudinal adaptation and recovery studies
-* Evaluation of analog-to-spaceflight similarities and differences
-
-Current status:
-
-* Data acquisition and harmonization in progress
-* Variable mapping and cohort characterization underway
-
----
-
-## Repository Structure
+# Project Structure
 
 ```text
-LUNAR/
-│
-├── README.md
-│
-├── Inspiration4/
-│   ├── README.md
-│   ├── data/
-│   ├── outputs/
-│   └── scripts/
-│
-├── NHANES/
-│   ├── README.md
-│   ├── data/
-│   ├── outputs/
-│   └── scripts/
-│
-├── BedRest/
-│   ├── README.md
-│   ├── data/
-│   ├── outputs/
-│   └── scripts/
-│
-├── Harmonization/
-│
-└── Documentation/
+data/
+├── nhanes/
+├── inspiration4/
+└── bedrest_campaign1/
+
+scripts/
+├── nhanes/
+├── inspiration4/
+├── bedrest/
+└── cross_dataset/
+
+outputs/
+├── workbooks/
+├── figures/
+└── datasets/
+
+notebooks/
 ```
 
 ---
 
-## Harmonization Strategy
+# Datasets
 
-LUNAR seeks to create a common variable framework across all participating cohorts.
+## NHANES
 
-Target harmonized domains include:
+NHANES serves as the terrestrial reference population.
 
-| Domain             | Example Variables                    |
-| ------------------ | ------------------------------------ |
-| Demographics       | Age, Sex, BMI                        |
-| Anthropometrics    | Height, Weight                       |
-| Clinical Chemistry | Glucose, Albumin, Creatinine         |
-| Hematology         | CBC Measures                         |
-| Lipids             | HDL, LDL, Cholesterol, Triglycerides |
-| Inflammation       | Cytokines, CRP                       |
-| Nutrition          | Dietary Intake                       |
-| Supplements        | Vitamin and Mineral Use              |
-| Cardiovascular     | Blood Pressure, Biomarkers           |
+Characteristics:
 
-Future work will generate a common data dictionary enabling direct comparison across astronaut, analog, and terrestrial cohorts.
+* 73,170 observations
+* 72,624 unique participants
+* Multiple survey cycles
+* Cross-sectional design
+
+Primary output:
+
+```text
+nhanes_biopro_all_cycles_combined.csv
+```
 
 ---
 
-## Current Status
+## Inspiration4
 
-### Version 1.0
+Inspiration4 represents the first astronaut cohort integrated into LUNAR.
+
+Participants:
+
+* C001
+* C002
+* C003
+* C004
+
+Sampling schedule:
+
+* L-92
+* L-44
+* L-3
+* R+1
+* R+45
+* R+82
+* R+194
+
+Primary outputs:
+
+```text
+Inspiration4_Master_Long.csv
+Inspiration4_Master_Wide.csv
+```
+
+---
+
+## UTMB Bed Rest Campaign 1
+
+Bed Rest Campaign 1 serves as the primary spaceflight analog cohort.
+
+Participants:
+
+* C1G0001
+* C1G0002
+* C1G0003
+
+Primary phases:
+
+* PRE_TEST
+* IN_TEST
+* POST_TEST
+
+Primary output:
+
+```text
+Campaign1_Master_Long_REAL.xlsx
+```
+
+---
+
+# Harmonization Framework
+
+## Overlap Variable Set
+
+The harmonization framework identified 18 overlapping clinical chemistry biomarkers.
+
+Measured variables:
+
+* Albumin
+* Alkaline Phosphatase
+* ALT
+* AST
+* Total Bilirubin
+* BUN
+* Calcium
+* Carbon Dioxide
+* Chloride
+* Creatinine
+* CRP
+* Glucose
+* Potassium
+* Total Protein
+* Sodium
+
+Derived variables:
+
+* Globulin
+* Albumin/Globulin Ratio
+* BUN/Creatinine Ratio
+
+Total overlap variables:
+
+18
+
+---
+
+# Final Statistical Panel
+
+The overlap framework contains 18 biomarkers.
+
+However, the final statistical and multivariate analyses use a locked 17-variable panel.
+
+CRP was excluded from:
+
+* Z-score analyses
+* Repeated-measures analyses
+* Mahalanobis distance analyses
+* Bootstrap sensitivity analyses
+
+Final analytical panel:
+
+* Albumin
+* Albumin/Globulin Ratio
+* Alkaline Phosphatase
+* ALT
+* AST
+* Total Bilirubin
+* BUN
+* BUN/Creatinine Ratio
+* Calcium
+* Carbon Dioxide
+* Chloride
+* Creatinine
+* Globulin
+* Glucose
+* Potassium
+* Total Protein
+* Sodium
+
+---
+
+# Statistical Workflow
+
+## NHANES Normalization
+
+All astronaut and bed-rest observations are transformed into NHANES-referenced z-scores:
+
+z = (x − μNHANES) / σNHANES
+
+where:
+
+* x = observed value
+* μNHANES = NHANES mean
+* σNHANES = NHANES standard deviation
+
+---
+
+## Cross-Dataset Statistics
+
+Analyses include:
+
+* One-sample tests against NHANES reference
+* Welch comparisons between cohorts
+* Paired longitudinal tests
+* Repeated-measures ANOVA
+* Benjamini-Hochberg FDR correction
+
+Primary output:
+
+```text
+LUNAR_Final18_Statistical_Comparison_Workbook.xlsx
+```
+
+---
+
+# Multivariate Analysis
+
+## Primary Analysis
+
+Whole-reference Mahalanobis distance.
+
+Output:
+
+```text
+LUNAR_Mahalanobis_Full_NHANES_Reference.xlsx
+```
+
+This implementation uses the entire NHANES reference population to estimate the covariance structure and centroid.
+
+---
+
+## Sensitivity Analysis
+
+Bootstrap pseudo-reference cohorts.
+
+Output:
+
+```text
+mahalanobis_distance_summary.xlsx
+```
+
+The bootstrap framework evaluates the sensitivity of Mahalanobis distance estimates to sampling variation within the NHANES reference population.
+
+---
+
+# Final Outputs
+
+## Workbooks
+
+* LUNAR_NHANES_Data_Quality_Summary_v4.xlsx
+* LUNAR_NHANES_OVERLAP_Summary_v2.xlsx
+* Inspiration4_Data_Quality_Summary_v2_SubjectStats.xlsx
+* LUNAR_Inspiration4_OVERLAP_Summary_v1.xlsx
+* Inspiration4_Timepoint_Binning_Workbook_All3_Summaries.xlsx
+* Campaign1_Data_Quality_Summary_REAL.xlsx
+* LUNAR_BedRest_Campaign1_OVERLAP_Summary_v3.xlsx
+* BedRest_Timepoint_Binning_Workbook.xlsx
+* LUNAR_Final18_Statistical_Comparison_Workbook.xlsx
+* LUNAR_Mahalanobis_Full_NHANES_Reference.xlsx
+* mahalanobis_distance_summary.xlsx
+
+## Figures
+
+* Figure_01_Zscore_Heatmaps.png
+* Figure_02_FullReference_Mahalanobis_Trajectories.png
+* Figure_03_Bootstrap_Mahalanobis_KDE.png
+* Figure_04_Bootstrap_Mahalanobis_Violin.png
+
+---
+
+# Current Status
 
 Completed:
 
-* Inspiration4 data integration pipeline
-* Inspiration4 quality-control reporting pipeline
-* Initial NHANES harmonization effort
-* NHANES missingness and descriptive statistics reporting
+* NHANES harmonization
+* Inspiration4 harmonization
+* Bed Rest harmonization
+* Overlap variable framework
+* Derived variable generation
+* Data-quality reporting
+* Cross-dataset statistical analyses
+* NHANES-referenced z-score analyses
+* Whole-reference Mahalanobis analyses
+* Bootstrap sensitivity analyses
+* Publication-ready figures
 
-In Progress:
+Status:
 
-* Variable mapping across cohorts
-* Common data dictionary development
-* UTMB bed rest campaign integration
-
-Planned:
-
-* Cross-cohort comparison datasets
-* Principal Component Analysis (PCA)
-* UMAP and clustering analyses
-* Longitudinal trajectory modeling
-* Mixed-effects modeling
-* Predictive modeling
-* Biomarker harmonization
-
----
-
-## Recommended Starting Points
-
-### Inspiration4
-
-Recommended files:
-
-* Inspiration4_Master_Long.csv
-* Inspiration4_Master_Wide.csv
-* Inspiration4_Data_Quality_Summary.xlsx
-
-See:
-
-```text
-Inspiration4/README.md
-```
-
-for details.
-
----
-
-### NHANES
-
-Recommended files:
-
-* nhanes_biochemical_model_ready_keep_support_columns.csv
-* nhanes_model_ready_numeric_summary.csv
-* nhanes_model_ready_missingness_summary.csv
-
-See:
-
-```text
-NHANES/README.md
-```
-
-for details.
-
----
-
-### Bed Rest
-
-Current datasets are undergoing harmonization and variable mapping.
-
-Future outputs will include:
-
-* Harmonized longitudinal datasets
-* Missingness assessments
-* Descriptive statistics summaries
-* Cross-cohort variable mapping tables
-
-See:
-
-```text
-BedRest/README.md
-```
-
-for updates.
-
----
-
-## Long-Term Vision
-
-The long-term goal of LUNAR is to establish a unified framework for evaluating longitudinal physiological responses across astronaut, analog, and terrestrial populations.
-
-By integrating multiple small-N astronaut cohorts with large terrestrial reference populations and UTMB bed rest campaigns, LUNAR aims to improve interpretation of astronaut biomedical data and support future evidence-based space medicine research.
-
-Ultimately, LUNAR will enable researchers to determine whether observed physiological changes represent:
-
-* Normal population variation
-* Spaceflight-associated adaptation
-* Analog-associated adaptation
-* Unique astronaut physiological signatures
-
----
-
-## Contributors
-
-LUNAR is a collaborative effort focused on developing harmonized biomedical datasets and analytical tools for space medicine research.
-
----
-
-## Citation
-
-If using datasets, scripts, or derived products from this repository, please cite the original source datasets and associated publications where appropriate.
-
----
-
-## Disclaimer
-
-This repository contains derived datasets generated from publicly available and/or collaborator-provided source data. Users are responsible for verifying analyses, validating results, and complying with all applicable data-use agreements and citation requirements.
-
+Analytical framework complete.
