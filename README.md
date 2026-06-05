@@ -292,3 +292,35 @@ Completed:
 Status:
 
 Analytical framework complete.
+
+# AI Usage Statement
+
+This project utilized artificial intelligence (AI) tools as coding, workflow, documentation, and troubleshooting assistants during development.
+
+Primary AI tools used included:
+
+* ChatGPT (OpenAI; GPT-5.5 and related reasoning models)
+* Google Gemini within Google Colab
+
+AI tools were used to assist with:
+
+* Python script development and refinement
+* Jupyter notebook development
+* Data harmonization workflows
+* Statistical workflow implementation
+* Mahalanobis distance framework development
+* Bootstrap sensitivity analysis implementation
+* Figure generation workflows
+* GitHub repository organization
+* Git and Git LFS troubleshooting
+* README and documentation drafting
+* Code debugging and error resolution
+* Workflow planning and reproducibility checks
+* Summary and methodology drafting
+
+ChatGPT was used extensively throughout the project to support development of the LUNAR analytical pipeline, including generation and refinement of Python scripts, development of Jupyter notebooks, creation of data-processing workflows, troubleshooting code execution issues, organizing repository structure, generating documentation, and assisting with interpretation of analytical outputs. Google Gemini was used within Google Colab to support notebook-based development, debugging, and refinement of data-processing workflows.
+
+AI-generated code, documentation, and workflow suggestions were treated as draft support tools rather than authoritative sources. All dataset selection, variable harmonization decisions, overlap framework development, statistical methodology, code execution, file handling, quality-control review, interpretation of results, and final scientific conclusions were directed, reviewed, validated, and approved by the project team. Outputs generated with AI assistance were checked against source data, project requirements, and investigator judgment prior to inclusion in the repository.
+
+No AI system independently performed scientific interpretation, selected final analytical approaches without investigator review, or generated conclusions without human oversight.
+
