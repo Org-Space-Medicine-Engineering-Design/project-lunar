@@ -500,8 +500,8 @@ def main():
 
     plot_trajectories(
         long,
-        Path("lunar_full_reference_subject_trajectories.png"),
-        Path("lunar_full_reference_subject_trajectories.pdf")
+        Path("Figure_02_FullReference_Mahalanobis_Trajectories.png"),
+        Path("Figure_02_FullReference_Mahalanobis_Trajectories.pdf")
     )
 
     # Build workbook

@@ -369,7 +369,7 @@ def main():
              outdir / "mahalanobis_i4_density.png", "Inspiration4 vs bootstrapped NHANES reference")
     plot_kde(results, "Bed Rest", ["Pre-BR", "In-BR", "Post-BR"],
              outdir / "mahalanobis_br_density.png", "Bed Rest vs bootstrapped NHANES reference")
-    plot_violin(results, outdir / "mahalanobis_combined_violin.png")
+    plot_violin(results, outdir / "Figure_04_Bootstrap_Mahalanobis_Violin.png")
 
     print("Done.")
     print(f"NHANES complete-case rows used: {len(nhanes)}")

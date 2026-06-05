@@ -229,10 +229,10 @@ plt.tight_layout(rect=[0, 0.08, 0.83, 0.96])
 # -----------------------------
 # Save
 # -----------------------------
-fig.savefig("realdata_kde_no_phase_medians_no_phase_titles.png", dpi=300, bbox_inches="tight")
-fig.savefig("realdata_kde_no_phase_medians_no_phase_titles.pdf", bbox_inches="tight")
+fig.savefig("Figure_03_Bootstrap_Mahalanobis_KDE.png", dpi=300, bbox_inches="tight")
+# PDF output intentionally omitted for GitHub figure set
 plt.close(fig)
 
 print("Saved:")
-print("realdata_kde_no_phase_medians_no_phase_titles.png")
-print("realdata_kde_no_phase_medians_no_phase_titles.pdf")
+print("Figure_03_Bootstrap_Mahalanobis_KDE.png")
+
