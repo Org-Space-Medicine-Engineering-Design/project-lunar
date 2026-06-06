@@ -19,31 +19,27 @@ The objective of this demonstration is to show how longitudinal astronaut and an
 ## Repository Structure
 
 ```text
-LUNAR/
+project-lunar-main/
 │
 ├── README.md
-│
-├── code/
-│   ├── *.py
-│   └── *.ipynb
+├── requirements.txt
 │
 ├── data/
 │   ├── raw/
 │   │   ├── NHANES/
-│   │   │   ├── README.md
-│   │   │   └── ...
-│   │   │
 │   │   ├── Inspiration4/
-│   │   │   ├── README.md
-│   │   │   └── ...
-│   │   │
 │   │   └── BedRest/
-│   │       ├── README.md
-│   │       └── ...
 │   │
 │   └── processed/
 │
-└── outputs/
+├── scripts/
+│   └── cross_dataset/
+│
+├── notebooks/
+│
+├── docs/
+│
+└── output/
 ```
 
 ---
@@ -186,13 +182,13 @@ The demonstration requires the following Python packages:
 Install all dependencies using:
 
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 Alternatively, packages may be installed individually:
 
 ```bash
-pip install pandas numpy scipy scikit-learn openpyxl matplotlib jupyter
+python -m pip install pandas numpy scipy scikit-learn openpyxl matplotlib jupyter
 ```
 
 ---
@@ -213,9 +209,13 @@ cd project-lunar-main
 
 ### Step 3: Install Dependencies
 
+Install all required packages using:
+
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
+
+This step ensures that all required libraries are available, including NumPy, SciPy, scikit-learn, pandas, matplotlib, and openpyxl.
 
 ### Step 4: Run the Cross-Dataset Analysis
 
@@ -255,23 +255,17 @@ including summary workbooks, comparison tables, figures, and supporting analytic
 
 ## Verification and Reproducibility
 
-Successful execution should complete without errors and generate the expected output files within the `output/` directory.
-
-All analyses were developed using relative file paths and should execute without modification when the repository structure is preserved. Running the scripts described above will reproduce the demonstration results included in this submission.
-
-## Expected Outputs
-
-Successful execution will generate summary tables, figures, and Excel workbooks in the `outputs/` directory.
+Successful execution should complete without errors and generate output files within the `output/` directory.
 
 Representative outputs include:
 
 ```text
-outputs/
+output/
 
-├── Cohort_Summary.xlsx
-├── NHANES_Overlap_Summary.xlsx
-├── Inspiration4_Overlap_Summary.xlsx
-├── BedRest_Overlap_Summary.xlsx
+├── LUNAR_NHANES_Data_Quality_Summary.xlsx
+├── LUNAR_NHANES_OVERLAP_Summary.xlsx
+├── LUNAR_Inspiration4_OVERLAP_Summary.xlsx
+├── LUNAR_BedRest_OVERLAP_Summary.xlsx
 ├── Mahalanobis_Distance_Results.xlsx
 ├── Bootstrap_Sensitivity_Results.xlsx
 └── Figures/
@@ -279,13 +273,7 @@ outputs/
 
 Specific filenames may vary depending on the workflow executed.
 
----
-
-## Reproducibility Statement
-
-All analyses included in this submission are fully reproducible using the provided proxy datasets and code.
-
-Running the analysis workflows from start to finish using the instructions above will regenerate all reported summary tables, Excel workbooks, and figures without requiring modification of the source code.
+All analyses were developed using relative file paths and should execute without modification when the repository structure is preserved. Running the scripts described above will reproduce the demonstration results included in this submission.
 
 No proprietary software is required.
 
