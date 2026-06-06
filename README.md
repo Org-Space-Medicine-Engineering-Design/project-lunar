@@ -167,69 +167,97 @@ Random subsets of NHANES participants are repeatedly sampled to generate simulat
 
 ---
 
-## Software Requirements
+## Software Requirements and Installation
 
-Analyses were developed and tested using:
+Analyses were developed and tested using Python 3.11 or later.
 
-```text
-Python 3.11+
-```
+### Required Packages
 
-Primary packages include:
+The demonstration requires the following Python packages:
 
-```text
-pandas
-numpy
-scipy
-scikit-learn
-openpyxl
-matplotlib
-jupyter
-```
+* pandas
+* numpy
+* scipy
+* scikit-learn
+* openpyxl
+* matplotlib
+* jupyter
 
-Required packages can be installed using:
+Install all dependencies using:
 
 ```bash
 pip install -r requirements.txt
 ```
 
+Alternatively, packages may be installed individually:
+
+```bash
+pip install pandas numpy scipy scikit-learn openpyxl matplotlib jupyter
+```
+
 ---
 
-## Running the Demonstration
+## Reproducing the Demonstration
 
-### Step 1
+The following workflow reproduces the primary analyses and outputs included in this submission.
 
-Clone or extract the repository.
+### Step 1: Extract the Repository
 
-### Step 2
+Download or extract the repository contents to a local directory.
 
-Open a terminal and navigate to the repository root directory.
+### Step 2: Navigate to the Repository Root
 
-### Step 3
+```bash
+cd project-lunar-main
+```
 
-Install required packages.
+### Step 3: Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### Step 4
-
-Execute the analysis workflow.
-
-Example:
+### Step 4: Run the Cross-Dataset Analysis
 
 ```bash
-python lunar_pipeline.py
+python scripts/cross_dataset/run_cross_dataset_analysis.py
 ```
 
-Alternatively, open the provided Jupyter notebook and execute all cells from top to bottom.
+This script generates:
+
+* Cohort summary workbooks
+* Dataset overlap assessments
+* Harmonized comparison datasets
+
+### Step 5: Generate Figures and Visualizations
 
 ```bash
-jupyter notebook
+python scripts/cross_dataset/run_figure_generation.py
 ```
+
+This script generates:
+
+* Heatmaps
+* Cohort comparison figures
+* Additional demonstration visualizations
+
+### Step 6: Review Outputs
+
+Generated files will be written to:
+
+```text
+output/
+```
+
+including summary workbooks, comparison tables, figures, and supporting analytical outputs.
 
 ---
+
+## Verification and Reproducibility
+
+Successful execution should complete without errors and generate the expected output files within the `output/` directory.
+
+All analyses were developed using relative file paths and should execute without modification when the repository structure is preserved. Running the scripts described above will reproduce the demonstration results included in this submission.
 
 ## Expected Outputs
 
