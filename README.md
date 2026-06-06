@@ -1,326 +1,276 @@
 # LUNAR: Longitudinal Unification of Small-N Astronaut Responses
 
-## Overview
+## NASA Human Research Program Data Challenge – Component 2 Demonstration Using Proxy Data
 
-LUNAR (Longitudinal Unification of Small-N Astronaut Responses) is a biomedical data harmonization and analytical framework designed to compare astronaut, spaceflight analog, and terrestrial reference populations using standardized clinical chemistry biomarkers.
+### Overview
 
-The current implementation integrates:
+LUNAR (Longitudinal Unification of Small-N Astronaut Responses) is a data integration and analysis framework designed to compare small, longitudinal astronaut biomedical datasets against larger terrestrial reference populations. The framework addresses a common challenge in spaceflight human research: deriving meaningful biological context from limited astronaut sample sizes by leveraging harmonized comparison cohorts and multivariate analytical methods.
 
-1. NHANES terrestrial reference population
-2. Inspiration4 commercial astronaut cohort
-3. UTMB Bed Rest Campaign 1 analog cohort
+This demonstration applies the LUNAR methodology to publicly available proxy datasets representing:
 
-The objective is to identify common physiological patterns across spaceflight and spaceflight analog environments while providing a statistically robust terrestrial reference population for comparison.
+* A terrestrial reference population derived from the National Health and Nutrition Examination Survey (NHANES)
+* A commercial astronaut cohort from Inspiration4
+* A ground-based spaceflight analog cohort from a long-duration bed rest campaign
+
+The objective of this demonstration is to show how longitudinal astronaut and analog biomedical data can be standardized, harmonized, and compared within a unified analytical framework capable of supporting future deep-space human health monitoring applications.
 
 ---
 
-# Project Structure
+## Repository Structure
 
 ```text
-data/
-├── nhanes/
-├── inspiration4/
-└── bedrest_campaign1/
+LUNAR/
+│
+├── README.md
+│
+├── code/
+│   ├── *.py
+│   └── *.ipynb
+│
+├── data/
+│   ├── raw/
+│   │   ├── NHANES/
+│   │   │   ├── README.md
+│   │   │   └── ...
+│   │   │
+│   │   ├── Inspiration4/
+│   │   │   ├── README.md
+│   │   │   └── ...
+│   │   │
+│   │   └── BedRest/
+│   │       ├── README.md
+│   │       └── ...
+│   │
+│   └── processed/
+│
+└── outputs/
+```
 
-scripts/
-├── nhanes/
-├── inspiration4/
-├── bedrest/
-└── cross_dataset/
+---
 
+## Included Proxy Datasets
+
+### NHANES Reference Cohort
+
+The NHANES dataset serves as the terrestrial reference population and contains clinical laboratory measurements collected from a large, representative sample of U.S. adults.
+
+Purpose within LUNAR:
+
+* Establish population-level biomarker distributions
+* Define reference means and standard deviations
+* Support standardized deviation calculations
+* Provide a baseline for comparison against astronaut and analog cohorts
+
+Additional dataset documentation is available in:
+
+```text
+data/raw/NHANES/README.md
+```
+
+---
+
+### Inspiration4 Cohort
+
+The Inspiration4 dataset contains longitudinal biomedical measurements collected from commercial astronauts before and after orbital spaceflight.
+
+Purpose within LUNAR:
+
+* Demonstrate astronaut-specific application of the framework
+* Evaluate biomarker deviations relative to terrestrial norms
+* Assess whole-profile physiological changes across mission phases
+
+Additional dataset documentation is available in:
+
+```text
+data/raw/Inspiration4/README.md
+```
+
+---
+
+### Bed Rest Analog Cohort
+
+The bed rest dataset contains longitudinal biomedical measurements collected during a controlled ground-based spaceflight analog campaign.
+
+Purpose within LUNAR:
+
+* Demonstrate applicability to analog environments
+* Compare physiological adaptations with those observed in astronaut cohorts
+* Evaluate framework performance across independent longitudinal datasets
+
+Additional dataset documentation is available in:
+
+```text
+data/raw/BedRest/README.md
+```
+
+---
+
+## Methodological Overview
+
+### 1. Variable Harmonization
+
+Clinical laboratory variables common to the included datasets were identified through a structured overlap assessment.
+
+Variables were standardized to:
+
+* Common naming conventions
+* Consistent measurement units
+* Harmonized biomarker definitions
+
+Only biomarkers available across comparison cohorts were retained for downstream analyses.
+
+---
+
+### 2. Cohort Summary Generation
+
+For each harmonized biomarker, descriptive statistics were generated including:
+
+* Sample size (N)
+* Mean
+* Median
+* Standard deviation
+* Minimum
+* Maximum
+
+These summaries support data quality evaluation and provide an overview of each cohort.
+
+---
+
+### 3. Standardized Deviation Scoring
+
+Individual biomarker values were compared against NHANES-derived reference distributions.
+
+Standardized deviation scores were calculated to quantify departures from terrestrial reference values while enabling comparison across biomarkers measured on different scales and units.
+
+---
+
+### 4. Multivariate Distance Integration
+
+Individual biomarker deviations were integrated into a global physiological profile score.
+
+The LUNAR framework utilizes Mahalanobis distance as the primary multivariate distance metric because it:
+
+* Accounts for differences in biomarker scales and units
+* Incorporates covariance among biomarkers
+* Prevents over-weighting of correlated variables
+* Produces a whole-profile measure of physiological deviation
+
+Distances are calculated relative to the NHANES reference distribution.
+
+---
+
+### 5. Bootstrap Pseudo-Crew Sensitivity Analysis
+
+Given the small sample sizes typically available in astronaut research, a bootstrap pseudo-crew approach was implemented to evaluate methodological sensitivity and robustness.
+
+Random subsets of NHANES participants are repeatedly sampled to generate simulated crews of varying sizes. This process demonstrates how multivariate distance metrics behave under astronaut-relevant sample sizes and provides insight into expected variability associated with small-N cohorts.
+
+---
+
+## Software Requirements
+
+Analyses were developed and tested using:
+
+```text
+Python 3.11+
+```
+
+Primary packages include:
+
+```text
+pandas
+numpy
+scipy
+scikit-learn
+openpyxl
+matplotlib
+jupyter
+```
+
+Required packages can be installed using:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## Running the Demonstration
+
+### Step 1
+
+Clone or extract the repository.
+
+### Step 2
+
+Open a terminal and navigate to the repository root directory.
+
+### Step 3
+
+Install required packages.
+
+```bash
+pip install -r requirements.txt
+```
+
+### Step 4
+
+Execute the analysis workflow.
+
+Example:
+
+```bash
+python lunar_pipeline.py
+```
+
+Alternatively, open the provided Jupyter notebook and execute all cells from top to bottom.
+
+```bash
+jupyter notebook
+```
+
+---
+
+## Expected Outputs
+
+Successful execution will generate summary tables, figures, and Excel workbooks in the `outputs/` directory.
+
+Representative outputs include:
+
+```text
 outputs/
-├── workbooks/
-├── figures/
-└── datasets/
 
-notebooks/
+├── Cohort_Summary.xlsx
+├── NHANES_Overlap_Summary.xlsx
+├── Inspiration4_Overlap_Summary.xlsx
+├── BedRest_Overlap_Summary.xlsx
+├── Mahalanobis_Distance_Results.xlsx
+├── Bootstrap_Sensitivity_Results.xlsx
+└── Figures/
 ```
 
----
-
-# Datasets
-
-## NHANES
-
-NHANES serves as the terrestrial reference population.
-
-Characteristics:
-
-* 73,170 observations
-* 72,624 unique participants
-* Multiple survey cycles
-* Cross-sectional design
-
-Primary output:
-
-```text
-nhanes_biopro_all_cycles_combined.csv
-```
+Specific filenames may vary depending on the workflow executed.
 
 ---
 
-## Inspiration4
+## Reproducibility Statement
 
-Inspiration4 represents the first astronaut cohort integrated into LUNAR.
+All analyses included in this submission are fully reproducible using the provided proxy datasets and code.
 
-Participants:
+Running the analysis workflows from start to finish using the instructions above will regenerate all reported summary tables, Excel workbooks, and figures without requiring modification of the source code.
 
-* C001
-* C002
-* C003
-* C004
-
-Sampling schedule:
-
-* L-92
-* L-44
-* L-3
-* R+1
-* R+45
-* R+82
-* R+194
-
-Primary outputs:
-
-```text
-Inspiration4_Master_Long.csv
-Inspiration4_Master_Wide.csv
-```
+No proprietary software is required.
 
 ---
 
-## UTMB Bed Rest Campaign 1
+## AI Usage Statement
 
-Bed Rest Campaign 1 serves as the primary spaceflight analog cohort.
-
-Participants:
-
-* C1G0001
-* C1G0002
-* C1G0003
-
-Primary phases:
-
-* PRE_TEST
-* IN_TEST
-* POST_TEST
-
-Primary output:
-
-```text
-Campaign1_Master_Long_REAL.xlsx
-```
+ChatGPT (OpenAI GPT-5.5 Thinking) and Gemini within Google Colab were used as workflow, coding, troubleshooting, and documentation assistants during development of this demonstration. These tools were used to support code organization, debugging, README preparation, workflow planning, documentation formatting, and discussion of analytical approaches. All dataset selection, methodological decisions, code execution, quality control, data interpretation, and final submission materials were reviewed, validated, and directed by the LUNAR team. AI-generated content served only as draft support and was verified against source data, project requirements, and team guidance prior to inclusion.
 
 ---
 
-# Harmonization Framework
+## Team
 
-## Overlap Variable Set
+**LUNAR – Longitudinal Unification of Small-N Astronaut Responses**
 
-The harmonization framework identified 18 overlapping clinical chemistry biomarkers.
-
-Measured variables:
-
-* Albumin
-* Alkaline Phosphatase
-* ALT
-* AST
-* Total Bilirubin
-* BUN
-* Calcium
-* Carbon Dioxide
-* Chloride
-* Creatinine
-* CRP
-* Glucose
-* Potassium
-* Total Protein
-* Sodium
-
-Derived variables:
-
-* Globulin
-* Albumin/Globulin Ratio
-* BUN/Creatinine Ratio
-
-Total overlap variables:
-
-18
-
----
-
-# Final Statistical Panel
-
-The overlap framework contains 18 biomarkers.
-
-However, the final statistical and multivariate analyses use a locked 17-variable panel.
-
-CRP was excluded from:
-
-* Z-score analyses
-* Repeated-measures analyses
-* Mahalanobis distance analyses
-* Bootstrap sensitivity analyses
-
-Final analytical panel:
-
-* Albumin
-* Albumin/Globulin Ratio
-* Alkaline Phosphatase
-* ALT
-* AST
-* Total Bilirubin
-* BUN
-* BUN/Creatinine Ratio
-* Calcium
-* Carbon Dioxide
-* Chloride
-* Creatinine
-* Globulin
-* Glucose
-* Potassium
-* Total Protein
-* Sodium
-
----
-
-# Statistical Workflow
-
-## NHANES Normalization
-
-All astronaut and bed-rest observations are transformed into NHANES-referenced z-scores:
-
-z = (x − μNHANES) / σNHANES
-
-where:
-
-* x = observed value
-* μNHANES = NHANES mean
-* σNHANES = NHANES standard deviation
-
----
-
-## Cross-Dataset Statistics
-
-Analyses include:
-
-* One-sample tests against NHANES reference
-* Welch comparisons between cohorts
-* Paired longitudinal tests
-* Repeated-measures ANOVA
-* Benjamini-Hochberg FDR correction
-
-Primary output:
-
-```text
-LUNAR_Final18_Statistical_Comparison_Workbook.xlsx
-```
-
----
-
-# Multivariate Analysis
-
-## Primary Analysis
-
-Whole-reference Mahalanobis distance.
-
-Output:
-
-```text
-LUNAR_Mahalanobis_Full_NHANES_Reference.xlsx
-```
-
-This implementation uses the entire NHANES reference population to estimate the covariance structure and centroid.
-
----
-
-## Sensitivity Analysis
-
-Bootstrap pseudo-reference cohorts.
-
-Output:
-
-```text
-mahalanobis_distance_summary.xlsx
-```
-
-The bootstrap framework evaluates the sensitivity of Mahalanobis distance estimates to sampling variation within the NHANES reference population.
-
----
-
-# Final Outputs
-
-## Workbooks
-
-* LUNAR_NHANES_Data_Quality_Summary_v4.xlsx
-* LUNAR_NHANES_OVERLAP_Summary_v2.xlsx
-* Inspiration4_Data_Quality_Summary_v2_SubjectStats.xlsx
-* LUNAR_Inspiration4_OVERLAP_Summary_v1.xlsx
-* Inspiration4_Timepoint_Binning_Workbook_All3_Summaries.xlsx
-* Campaign1_Data_Quality_Summary_REAL.xlsx
-* LUNAR_BedRest_Campaign1_OVERLAP_Summary_v3.xlsx
-* BedRest_Timepoint_Binning_Workbook.xlsx
-* LUNAR_Final18_Statistical_Comparison_Workbook.xlsx
-* LUNAR_Mahalanobis_Full_NHANES_Reference.xlsx
-* mahalanobis_distance_summary.xlsx
-
-## Figures
-
-* Figure_01_Zscore_Heatmaps.png
-* Figure_02_FullReference_Mahalanobis_Trajectories.png
-* Figure_03_Bootstrap_Mahalanobis_KDE.png
-* Figure_04_Bootstrap_Mahalanobis_Violin.png
-
----
-
-# Current Status
-
-Completed:
-
-* NHANES harmonization
-* Inspiration4 harmonization
-* Bed Rest harmonization
-* Overlap variable framework
-* Derived variable generation
-* Data-quality reporting
-* Cross-dataset statistical analyses
-* NHANES-referenced z-score analyses
-* Whole-reference Mahalanobis analyses
-* Bootstrap sensitivity analyses
-* Publication-ready figures
-
-Status:
-
-Analytical framework complete.
-
-# AI Usage Statement
-
-This project utilized artificial intelligence (AI) tools as coding, workflow, documentation, and troubleshooting assistants during development.
-
-Primary AI tools used included:
-
-* ChatGPT (OpenAI; GPT-5.5 and related reasoning models)
-* Google Gemini within Google Colab
-
-AI tools were used to assist with:
-
-* Python script development and refinement
-* Jupyter notebook development
-* Data harmonization workflows
-* Statistical workflow implementation
-* Mahalanobis distance framework development
-* Bootstrap sensitivity analysis implementation
-* Figure generation workflows
-* GitHub repository organization
-* Git and Git LFS troubleshooting
-* README and documentation drafting
-* Code debugging and error resolution
-* Workflow planning and reproducibility checks
-* Summary and methodology drafting
-
-ChatGPT was used extensively throughout the project to support development of the LUNAR analytical pipeline, including generation and refinement of Python scripts, development of Jupyter notebooks, creation of data-processing workflows, troubleshooting code execution issues, organizing repository structure, generating documentation, and assisting with interpretation of analytical outputs. Google Gemini was used within Google Colab to support notebook-based development, debugging, and refinement of data-processing workflows.
-
-AI-generated code, documentation, and workflow suggestions were treated as draft support tools rather than authoritative sources. All dataset selection, variable harmonization decisions, overlap framework development, statistical methodology, code execution, file handling, quality-control review, interpretation of results, and final scientific conclusions were directed, reviewed, validated, and approved by the project team. Outputs generated with AI assistance were checked against source data, project requirements, and investigator judgment prior to inclusion in the repository.
-
-No AI system independently performed scientific interpretation, selected final analytical approaches without investigator review, or generated conclusions without human oversight.
-
+Developed as a demonstration framework for the NASA Human Research Program Data Challenge to explore scalable approaches for integrating astronaut, analog, and terrestrial biomedical datasets within a unified analytical environment.
