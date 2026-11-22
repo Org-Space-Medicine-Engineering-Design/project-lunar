@@ -1,6 +1,6 @@
 # LUNAR: Longitudinal Unification of Small-N Astronaut Responses
 
-## NASA Human Research Program Data Challenge – Component 2 Demonstration Using Proxy Data
+## NASA Human Research Program Data Challenge – Demonstration Using Proxy Data
 
 ### Overview
 
